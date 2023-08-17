@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4309c602-5ca8-4831-8926-93e80052e187" name="Changes" comment="" />
+    <list default="true" id="4309c602-5ca8-4831-8926-93e80052e187" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/game/data/stats/npcs/23500-23599.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/data/stats/npcs/23500-23599.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/game/log/accounting0.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/accounting0.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/login/log/java0.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/login/log/java0.log" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,7 +23,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="2T7O2YqSdD2prTKWmQAeBTHTU8P" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -99,7 +108,7 @@
       <workItem from="1692010726531" duration="5356000" />
       <workItem from="1692087617690" duration="16222000" />
       <workItem from="1692195845098" duration="13027000" />
-      <workItem from="1692260883491" duration="2741000" />
+      <workItem from="1692260883491" duration="3846000" />
     </task>
     <servers />
   </component>

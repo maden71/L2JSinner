@@ -1351,12 +1351,12 @@
 	<npc id="23543" level="115" type="Monster" name="Kerberos Nero">
 		<!-- Source: www.l2wiki.com (2015-04-08) -->
 		<race>ELEMENTAL</race>
-		<acquire exp="60536" sp="61" />
+		<acquire exp="101300441" sp="4" />
 		<mpReward value="3" type="PER" ticks="5" affects="PARTY" />
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
-			<vitals hp="946008" hpRegen="11.4" mp="24690" mpRegen="30" />
-			<attack physical="647205" magical="79194" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
-			<defence physical="3452" magical="1398" />
+			<vitals hp="212341" hpRegen="11.4" mp="25460" mpRegen="30" />
+			<attack physical="222055" magical="25895" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="9474" magical="3836" />
 			<speed>
 				<walk ground="60" />
 				<run ground="180" />
@@ -1408,15 +1408,15 @@
 			</drop>
 		</dropLists>
 	</npc>
-	<npc id="23544" level="103" type="Monster" name="Fury Sylph Barrena">
+	<npc id="23544" level="115" type="Monster" name="Fury Sylph Barrena">
 		<!-- Source: www.l2wiki.com (2015-04-08) -->
 		<race>ELEMENTAL</race>
-		<acquire exp="74076" sp="74" />
+		<acquire exp="101300441" sp="4" />
 		<mpReward value="3" type="PER" ticks="5" affects="PARTY" />
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
-			<vitals hp="1024526" hpRegen="11.4" mp="25074" mpRegen="30" />
-			<attack physical="757976" magical="90519" random="20" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
-			<defence physical="2829" magical="2129" />
+			<vitals hp="212341" hpRegen="11.4" mp="25460" mpRegen="30" />
+			<attack physical="222055" magical="25895" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="9474" magical="3836" />
 			<speed>
 				<walk ground="60" />
 				<run ground="180" />
@@ -1468,14 +1468,15 @@
 			</drop>
 		</dropLists>
 	</npc>
-	<npc id="23545" level="102" type="Monster" name="Furious Kiku">
+	<npc id="23545" level="116" type="Monster" name="Furious Kiku">
 		<!-- Source: www.l2wiki.com (2015-04-08) -->
 		<race>ELEMENTAL</race>
-		<acquire exp="7140" sp="7" />
+		<acquire exp="101300441" sp="4" />
+		<mpReward value="3" type="PER" ticks="5" affects="PARTY" />
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
-			<vitals hp="94599" hpRegen="11.4" mp="24690" mpRegen="30" />
-			<attack physical="80900" magical="7919" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
-			<defence physical="3452" magical="1398" />
+			<vitals hp="212341" hpRegen="11.4" mp="25460" mpRegen="30" />
+			<attack physical="222055" magical="25895" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="9474" magical="3836" />
 			<speed>
 				<walk ground="39" />
 				<run ground="180" />
@@ -1520,15 +1521,15 @@
 			</drop>
 		</dropLists>
 	</npc>
-	<npc id="23546" level="103" type="Monster" name="Fury Sylph Temptress">
+	<npc id="23546" level="115" type="Monster" name="Fury Sylph Temptress">
 		<!-- FIX ME NO INFO ABOUT THIS NPC -->
 		<race>ELEMENTAL</race>
-		<acquire exp="74076" sp="74" />
+		<acquire exp="101300441" sp="4" />
 		<mpReward value="3" type="PER" ticks="5" affects="PARTY" />
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
-			<vitals hp="1024526" hpRegen="11.4" mp="25074" mpRegen="30" />
-			<attack physical="757976" magical="90519" random="20" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
-			<defence physical="2829" magical="2129" />
+			<vitals hp="212341" hpRegen="11.4" mp="25460" mpRegen="30" />
+			<attack physical="222055" magical="25895" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="9474" magical="3836" />
 			<speed>
 				<walk ground="60" />
 				<run ground="180" />
@@ -1580,7 +1581,7 @@
 			</drop>
 		</dropLists>
 	</npc>
-	<npc id="23547" level="103" type="Monster" name="Fury Sylph Purka">
+	<npc id="23547" level="115" type="Monster" name="Fury Sylph Purka">
 		<!-- Source: www.l2wiki.com (2015-04-08) -->
 		<parameters>
 			<skill name="Skill01_ID" id="23667" level="1" />
@@ -1590,12 +1591,12 @@
 		</parameters>
 		<race>ELEMENTAL</race>
 		<sex>FEMALE</sex>
-		<acquire exp="74076" sp="74" />
+		<acquire exp="101300441" sp="4" />
 		<mpReward value="3" type="PER" ticks="5" affects="PARTY" />
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
-			<vitals hp="1024526" hpRegen="11.4" mp="25074" mpRegen="30" />
-			<attack physical="757976" magical="90519" random="20" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
-			<defence physical="2829" magical="2129" />
+			<vitals hp="212341" hpRegen="11.4" mp="25460" mpRegen="30" />
+			<attack physical="222055" magical="25895" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="9474" magical="3836" />
 			<speed>
 				<walk ground="60" />
 				<run ground="180" />
@@ -1647,14 +1648,15 @@
 			</drop>
 		</dropLists>
 	</npc>
-	<npc id="23548" level="102" type="Monster" name="Fury Kerberos Liger">
+	<npc id="23548" level="116" type="Monster" name="Fury Kerberos Liger">
 		<!-- Source: www.l2wiki.com (2015-04-08) -->
 		<race>ELEMENTAL</race>
-		<acquire exp="60536" sp="61" />
+		<acquire exp="101300441" sp="4" />
+		<mpReward value="3" type="PER" ticks="5" affects="PARTY" />
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
-			<vitals hp="946008" hpRegen="11.4" mp="24690" mpRegen="30" />
-			<attack physical="388323" magical="47516" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
-			<defence physical="2761" magical="1118" />
+			<vitals hp="212341" hpRegen="11.4" mp="25460" mpRegen="30" />
+			<attack physical="222055" magical="25895" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="9474" magical="3836" />
 			<speed>
 				<walk ground="60" />
 				<run ground="180" />
@@ -1696,14 +1698,15 @@
 			<height normal="28" />
 		</collision>
 	</npc>
-	<npc id="23549" level="102" type="Monster" name="Fury Kerberos Nero">
+	<npc id="23549" level="115" type="Monster" name="Fury Kerberos Nero">
 		<!-- Source: www.l2wiki.com -->
 		<race>ELEMENTAL</race>
-		<acquire exp="60536" sp="61" />
+		<acquire exp="101300441" sp="4" />
+		<mpReward value="3" type="PER" ticks="5" affects="PARTY" />
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
-			<vitals hp="946008" hpRegen="11.4" mp="24690" mpRegen="30" />
-			<attack physical="388323" magical="47516" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
-			<defence physical="2761" magical="1118" />
+			<vitals hp="212341" hpRegen="11.4" mp="25460" mpRegen="30" />
+			<attack physical="222055" magical="25895" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="9474" magical="3836" />
 			<speed>
 				<walk ground="60" />
 				<run ground="180" />
