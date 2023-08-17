@@ -192,7 +192,7 @@
 	</enchant>
 	
 	<!-- Blessed Scroll: Enchant Dragon Shirt -->
-	<enchant id="48498" maxEnchant="7" scrollGroupId="2">
+	<enchant id="48498" maxEnchant="7" scrollGroupId="2" bonusRate="50">
 		<item id="48491" /> <!-- Dragon Skin Shirt -->
 		<item id="48492" altScrollGroupId="3" /> <!-- Dragon Leather Shirt -->
 		<item id="48493" altScrollGroupId="4" /> <!-- Dragon Rind Leather Shirt -->

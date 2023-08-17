@@ -1230,15 +1230,15 @@
 			<height normal="47" />
 		</collision>
 	</npc>
-	<npc id="23541" level="102" type="Monster" name="Kerberos Liger">
+	<npc id="23541" level="115" type="Monster" name="Kerberos Liger">
 		<!-- Source: www.l2wiki.com (2015-04-08) -->
 		<race>ELEMENTAL</race>
-		<acquire exp="60536" sp="61" />
+		<acquire exp="76565330" sp="4131" />
 		<mpReward value="3" type="PER" ticks="5" affects="PARTY" />
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
-			<vitals hp="946008" hpRegen="11.4" mp="24690" mpRegen="30" />
-			<attack physical="647205" magical="79194" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
-			<defence physical="3452" magical="1398" />
+			<vitals hp="155463" hpRegen="11.4" mp="25460" mpRegen="30" />
+			<attack physical="70675" magical="6434" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="9474" magical="3836" />
 			<speed>
 				<walk ground="60" />
 				<run ground="180" />
@@ -1292,7 +1292,7 @@
 	<npc id="23542" level="115" type="Monster" name="Kerberos Fort">
 		<!-- Source: www.l2wiki.com (2015-04-08) -->
 		<race>ELEMENTAL</race>
-		<acquire exp="101300441" sp="4" />
+		<acquire exp="76565330" sp="4131" />
 		<mpReward value="3" type="PER" ticks="5" affects="PARTY" />
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
 			<vitals hp="155463" hpRegen="11.4" mp="25460" mpRegen="30" />
@@ -1341,7 +1341,7 @@
 		<dropLists>
 			<drop>
 				<item id="57" min="1503" max="2003" chance="70" /> <!-- Adena -->
-				<item id="30297" min="1" max="20" chance="50" />
+				<item id="30297" min="1" max="10" chance="50" />
 				<item id="80839" min="1" max="1" chance="10" />
 				<item id="48472" min="1" max="5" chance="2" />
 				<item id="48211" min="1" max="1" chance="6" />
@@ -1351,7 +1351,7 @@
 	<npc id="23543" level="115" type="Monster" name="Kerberos Nero">
 		<!-- Source: www.l2wiki.com (2015-04-08) -->
 		<race>ELEMENTAL</race>
-		<acquire exp="101300441" sp="4" />
+		<acquire exp="76565330" sp="4131" />
 		<mpReward value="3" type="PER" ticks="5" affects="PARTY" />
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
 			<vitals hp="155463" hpRegen="11.4" mp="25460" mpRegen="30" />
@@ -1401,7 +1401,7 @@
 		<dropLists>
 			<drop>
 				<item id="57" min="1503" max="2003" chance="70" /> <!-- Adena -->
-				<item id="30297" min="1" max="20" chance="50" />
+				<item id="30297" min="1" max="10" chance="50" />
 				<item id="80839" min="1" max="1" chance="10" />
 				<item id="48472" min="1" max="5" chance="2" />
 				<item id="48211" min="1" max="1" chance="6" />
@@ -1411,7 +1411,7 @@
 	<npc id="23544" level="115" type="Monster" name="Fury Sylph Barrena">
 		<!-- Source: www.l2wiki.com (2015-04-08) -->
 		<race>ELEMENTAL</race>
-		<acquire exp="101300441" sp="4" />
+		<acquire exp="76565330" sp="4131" />
 		<mpReward value="3" type="PER" ticks="5" affects="PARTY" />
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
 			<vitals hp="155463" hpRegen="11.4" mp="25460" mpRegen="30" />
@@ -1461,7 +1461,7 @@
 		<dropLists>
 			<drop>
 				<item id="57" min="1503" max="2003" chance="70" /> <!-- Adena -->
-				<item id="30297" min="1" max="20" chance="50" />
+				<item id="30297" min="1" max="10" chance="50" />
 				<item id="80839" min="1" max="1" chance="10" />
 				<item id="48472" min="1" max="5" chance="2" />
 				<item id="48211" min="1" max="1" chance="6" />
@@ -1471,7 +1471,7 @@
 	<npc id="23545" level="116" type="Monster" name="Furious Kiku">
 		<!-- Source: www.l2wiki.com (2015-04-08) -->
 		<race>ELEMENTAL</race>
-		<acquire exp="101300441" sp="4" />
+		<acquire exp="76565330" sp="4131" />
 		<mpReward value="3" type="PER" ticks="5" affects="PARTY" />
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
 			<vitals hp="155463" hpRegen="11.4" mp="25460" mpRegen="30" />
@@ -1518,7 +1518,7 @@
 		<dropLists>
 			<drop>
 				<item id="57" min="1503" max="2003" chance="70" /> <!-- Adena -->
-				<item id="30297" min="1" max="20" chance="50" />
+				<item id="30297" min="1" max="10" chance="50" />
 				<item id="80839" min="1" max="1" chance="10" />
 				<item id="48472" min="1" max="5" chance="2" />
 				<item id="48211" min="1" max="1" chance="6" />
@@ -1528,7 +1528,7 @@
 	<npc id="23546" level="115" type="Monster" name="Fury Sylph Temptress">
 		<!-- FIX ME NO INFO ABOUT THIS NPC -->
 		<race>ELEMENTAL</race>
-		<acquire exp="101300441" sp="4" />
+		<acquire exp="76565330" sp="4131" />
 		<mpReward value="3" type="PER" ticks="5" affects="PARTY" />
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
 			<vitals hp="155463" hpRegen="11.4" mp="25460" mpRegen="30" />
@@ -1578,7 +1578,7 @@
 		<dropLists>
 			<drop>
 				<item id="57" min="1503" max="2003" chance="70" /> <!-- Adena -->
-				<item id="30297" min="1" max="20" chance="50" />
+				<item id="30297" min="1" max="10" chance="50" />
 				<item id="80839" min="1" max="1" chance="10" />
 				<item id="48472" min="1" max="5" chance="2" />
 				<item id="48211" min="1" max="1" chance="6" />
@@ -1595,7 +1595,7 @@
 		</parameters>
 		<race>ELEMENTAL</race>
 		<sex>FEMALE</sex>
-		<acquire exp="101300441" sp="4" />
+		<acquire exp="76565330" sp="4131" />
 		<mpReward value="3" type="PER" ticks="5" affects="PARTY" />
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
 			<vitals hp="155463" hpRegen="11.4" mp="25460" mpRegen="30" />
@@ -1645,7 +1645,7 @@
 		<dropLists>
 			<drop>
 				<item id="57" min="1503" max="2003" chance="70" /> <!-- Adena -->
-				<item id="30297" min="1" max="20" chance="50" />
+				<item id="30297" min="1" max="10" chance="50" />
 				<item id="80839" min="1" max="1" chance="10" />
 				<item id="48472" min="1" max="5" chance="2" />
 				<item id="48211" min="1" max="1" chance="6" />
@@ -1655,7 +1655,7 @@
 	<npc id="23548" level="116" type="Monster" name="Fury Kerberos Liger">
 		<!-- Source: www.l2wiki.com (2015-04-08) -->
 		<race>ELEMENTAL</race>
-		<acquire exp="101300441" sp="4" />
+		<acquire exp="76565330" sp="4131" />
 		<mpReward value="3" type="PER" ticks="5" affects="PARTY" />
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
 			<vitals hp="155463" hpRegen="11.4" mp="25460" mpRegen="30" />
@@ -1700,7 +1700,7 @@
 		<dropLists>
 			<drop>
 				<item id="57" min="1503" max="2003" chance="70" /> <!-- Adena -->
-				<item id="30297" min="1" max="20" chance="50" />
+				<item id="30297" min="1" max="10" chance="50" />
 				<item id="80839" min="1" max="1" chance="10" />
 				<item id="48472" min="1" max="5" chance="2" />
 				<item id="48211" min="1" max="1" chance="6" />
@@ -1714,7 +1714,7 @@
 	<npc id="23549" level="115" type="Monster" name="Fury Kerberos Nero">
 		<!-- Source: www.l2wiki.com -->
 		<race>ELEMENTAL</race>
-		<acquire exp="101300441" sp="4" />
+		<acquire exp="76565330" sp="4131" />
 		<mpReward value="3" type="PER" ticks="5" affects="PARTY" />
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
 			<vitals hp="155463" hpRegen="11.4" mp="25460" mpRegen="30" />
@@ -1760,7 +1760,7 @@
 		<dropLists>
 			<drop>
 				<item id="57" min="1503" max="2003" chance="70" /> <!-- Adena -->
-				<item id="30297" min="1" max="20" chance="50" />
+				<item id="30297" min="1" max="10" chance="50" />
 				<item id="80839" min="1" max="1" chance="10" />
 				<item id="48472" min="1" max="5" chance="2" />
 				<item id="48211" min="1" max="1" chance="6" />
@@ -1771,15 +1771,15 @@
 			<height normal="28" />
 		</collision>
 	</npc>
-	<npc id="23550" level="102" type="Monster" name="Kerberos Liger" title="Night Spirit">
+	<npc id="23550" level="115" type="Monster" name="Kerberos Liger" title="Night Spirit">
 		<!-- Source: www.l2wiki.com (2015-04-08) -->
 		<race>ELEMENTAL</race>
-		<acquire exp="60536" sp="61" />
+		<acquire exp="76565330" sp="4131" />
 		<mpReward value="3" type="PER" ticks="5" affects="PARTY" />
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
-			<vitals hp="946008" hpRegen="11.4" mp="24690" mpRegen="30" />
-			<attack physical="647205" magical="79194" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
-			<defence physical="3452" magical="1398" />
+			<vitals hp="155463" hpRegen="11.4" mp="25460" mpRegen="30" />
+			<attack physical="70675" magical="6434" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="9474" magical="3836" />
 			<speed>
 				<walk ground="60" />
 				<run ground="180" />
@@ -1823,23 +1823,23 @@
 		</collision>
 		<dropLists>
 			<drop>
-				<item id="57" min="4441" max="10346" chance="70" /> <!-- Adena -->
-				<item id="81216" min="1" max="1" chance="0.742" /> <!-- Black Mithril -->
-				<item id="81217" min="1" max="1" chance="1.186" /> <!-- Oriharukon Ore -->
-				<item id="81218" min="1" max="1" chance="1.186" /> <!-- Dragon Scale -->
-				<item id="81219" min="1" max="1" chance="1.186" /> <!-- Angel's Feather -->
+				<item id="57" min="1503" max="2003" chance="70" /> <!-- Adena -->
+				<item id="30297" min="1" max="10" chance="50" />
+				<item id="80839" min="1" max="1" chance="10" />
+				<item id="48472" min="1" max="5" chance="2" />
+				<item id="48211" min="1" max="1" chance="6" />
 			</drop>
 		</dropLists>
 	</npc>
-	<npc id="23551" level="103" type="Monster" name="Kerberos Fort" title="Night Spirit">
+	<npc id="23551" level="115" type="Monster" name="Kerberos Fort" title="Night Spirit">
 		<!-- Source: www.l2wiki.com (2015-04-08) -->
 		<race>ELEMENTAL</race>
-		<acquire exp="74076" sp="74" />
+		<acquire exp="76565330" sp="4131" />
 		<mpReward value="3" type="PER" ticks="5" affects="PARTY" />
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
-			<vitals hp="1024526" hpRegen="11.4" mp="25074" mpRegen="30" />
-			<attack physical="757976" magical="90519" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
-			<defence physical="4043" magical="1637" />
+			<vitals hp="155463" hpRegen="11.4" mp="25460" mpRegen="30" />
+			<attack physical="70675" magical="6434" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="9474" magical="3836" />
 			<speed>
 				<walk ground="60" />
 				<run ground="180" />
@@ -1883,23 +1883,23 @@
 		</collision>
 		<dropLists>
 			<drop>
-				<item id="57" min="4527" max="10556" chance="70" /> <!-- Adena -->
-				<item id="81216" min="1" max="1" chance="0.756" /> <!-- Black Mithril -->
-				<item id="81217" min="1" max="1" chance="1.209" /> <!-- Oriharukon Ore -->
-				<item id="81218" min="1" max="1" chance="1.209" /> <!-- Dragon Scale -->
-				<item id="81219" min="1" max="1" chance="1.209" /> <!-- Angel's Feather -->
+				<item id="57" min="1503" max="2003" chance="70" /> <!-- Adena -->
+				<item id="30297" min="1" max="10" chance="50" />
+				<item id="80839" min="1" max="1" chance="10" />
+				<item id="48472" min="1" max="5" chance="2" />
+				<item id="48211" min="1" max="1" chance="6" />
 			</drop>
 		</dropLists>
 	</npc>
-	<npc id="23552" level="102" type="Monster" name="Kerberos Nero" title="Night Spirit">
+	<npc id="23552" level="115" type="Monster" name="Kerberos Nero" title="Night Spirit">
 		<!-- Source: www.l2wiki.com (2015-04-08) -->
 		<race>ELEMENTAL</race>
-		<acquire exp="60536" sp="61" />
+		<acquire exp="76565330" sp="4131" />
 		<mpReward value="3" type="PER" ticks="5" affects="PARTY" />
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
-			<vitals hp="946008" hpRegen="11.4" mp="24690" mpRegen="30" />
-			<attack physical="647205" magical="79194" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
-			<defence physical="3452" magical="1398" />
+			<vitals hp="155463" hpRegen="11.4" mp="25460" mpRegen="30" />
+			<attack physical="70675" magical="6434" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="9474" magical="3836" />
 			<speed>
 				<walk ground="60" />
 				<run ground="180" />
@@ -1939,29 +1939,29 @@
 				<clan>GARDEN_CLAN</clan>
 			</clanList>
 		</ai>
+		<dropLists>
+			<drop>
+				<item id="57" min="1503" max="2003" chance="70" /> <!-- Adena -->
+				<item id="30297" min="1" max="10" chance="50" />
+				<item id="80839" min="1" max="1" chance="10" />
+				<item id="48472" min="1" max="5" chance="2" />
+				<item id="48211" min="1" max="1" chance="6" />
+			</drop>
+		</dropLists>
 		<collision>
 			<radius normal="28" />
 			<height normal="28" />
 		</collision>
-		<dropLists>
-			<drop>
-				<item id="57" min="4441" max="10346" chance="70" /> <!-- Adena -->
-				<item id="81216" min="1" max="1" chance="0.742" /> <!-- Black Mithril -->
-				<item id="81217" min="1" max="1" chance="1.186" /> <!-- Oriharukon Ore -->
-				<item id="81218" min="1" max="1" chance="1.186" /> <!-- Dragon Scale -->
-				<item id="81219" min="1" max="1" chance="1.186" /> <!-- Angel's Feather -->
-			</drop>
-		</dropLists>
 	</npc>
-	<npc id="23553" level="103" type="Monster" name="Fury Sylph Barrena" title="Night Spirit">
+	<npc id="23553" level="115" type="Monster" name="Fury Sylph Barrena" title="Night Spirit">
 		<!-- Source: www.l2wiki.com (2015-04-08) -->
 		<race>ELEMENTAL</race>
-		<acquire exp="74076" sp="74" />
+		<acquire exp="76565330" sp="4131" />
 		<mpReward value="3" type="PER" ticks="5" affects="PARTY" />
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
-			<vitals hp="1024526" hpRegen="11.4" mp="25074" mpRegen="30" />
-			<attack physical="757976" magical="90519" random="20" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
-			<defence physical="2829" magical="2129" />
+			<vitals hp="155463" hpRegen="11.4" mp="25460" mpRegen="30" />
+			<attack physical="70675" magical="6434" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="9474" magical="3836" />
 			<speed>
 				<walk ground="60" />
 				<run ground="180" />
@@ -2006,22 +2006,23 @@
 		</collision>
 		<dropLists>
 			<drop>
-				<item id="57" min="4527" max="10556" chance="70" /> <!-- Adena -->
-				<item id="81216" min="1" max="1" chance="0.756" /> <!-- Black Mithril -->
-				<item id="81217" min="1" max="1" chance="1.209" /> <!-- Oriharukon Ore -->
-				<item id="81218" min="1" max="1" chance="1.209" /> <!-- Dragon Scale -->
-				<item id="81219" min="1" max="1" chance="1.209" /> <!-- Angel's Feather -->
+				<item id="57" min="1503" max="2003" chance="70" /> <!-- Adena -->
+				<item id="30297" min="1" max="10" chance="50" />
+				<item id="80839" min="1" max="1" chance="10" />
+				<item id="48472" min="1" max="5" chance="2" />
+				<item id="48211" min="1" max="1" chance="6" />
 			</drop>
 		</dropLists>
 	</npc>
-	<npc id="23554" level="102" type="Monster" name="Furious Kiku">
+	<npc id="23554" level="115" type="Monster" name="Furious Kiku">
 		<!-- Source: www.l2wiki.com (2015-04-08) -->
 		<race>ELEMENTAL</race>
-		<acquire exp="7140" sp="7" />
+		<acquire exp="76565330" sp="4131" />
+		<mpReward value="3" type="PER" ticks="5" affects="PARTY" />
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
-			<vitals hp="94599" hpRegen="11.4" mp="24690" mpRegen="30" />
-			<attack physical="80900" magical="7919" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
-			<defence physical="3452" magical="1398" />
+			<vitals hp="155463" hpRegen="11.4" mp="25460" mpRegen="30" />
+			<attack physical="70675" magical="6434" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="9474" magical="3836" />
 			<speed>
 				<walk ground="39" />
 				<run ground="180" />
@@ -2062,19 +2063,23 @@
 		</collision>
 		<dropLists>
 			<drop>
-				<item id="57" min="361" max="841" chance="70" /> <!-- Adena -->
+				<item id="57" min="1503" max="2003" chance="70" /> <!-- Adena -->
+				<item id="30297" min="1" max="10" chance="50" />
+				<item id="80839" min="1" max="1" chance="10" />
+				<item id="48472" min="1" max="5" chance="2" />
+				<item id="48211" min="1" max="1" chance="6" />
 			</drop>
 		</dropLists>
 	</npc>
-	<npc id="23555" level="103" type="Monster" name="Fury Sylph Temptress" title="Night Spirit">
+	<npc id="23555" level="115" type="Monster" name="Fury Sylph Temptress" title="Night Spirit">
 		<!-- FIX ME NO INFO ABOUT THIS NPC -->
 		<race>ELEMENTAL</race>
-		<acquire exp="74076" sp="74" />
+		<acquire exp="76565330" sp="4131" />
 		<mpReward value="3" type="PER" ticks="5" affects="PARTY" />
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
-			<vitals hp="1024526" hpRegen="11.4" mp="25074" mpRegen="30" />
-			<attack physical="757976" magical="90519" random="20" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
-			<defence physical="2829" magical="2129" />
+			<vitals hp="155463" hpRegen="11.4" mp="25460" mpRegen="30" />
+			<attack physical="70675" magical="6434" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="9474" magical="3836" />
 			<speed>
 				<walk ground="60" />
 				<run ground="180" />
@@ -2119,15 +2124,15 @@
 		</collision>
 		<dropLists>
 			<drop>
-				<item id="57" min="4527" max="10556" chance="70" /> <!-- Adena -->
-				<item id="81216" min="1" max="1" chance="0.756" /> <!-- Black Mithril -->
-				<item id="81217" min="1" max="1" chance="1.209" /> <!-- Oriharukon Ore -->
-				<item id="81218" min="1" max="1" chance="1.209" /> <!-- Dragon Scale -->
-				<item id="81219" min="1" max="1" chance="1.209" /> <!-- Angel's Feather -->
+				<item id="57" min="1503" max="2003" chance="70" /> <!-- Adena -->
+				<item id="30297" min="1" max="10" chance="50" />
+				<item id="80839" min="1" max="1" chance="10" />
+				<item id="48472" min="1" max="5" chance="2" />
+				<item id="48211" min="1" max="1" chance="6" />
 			</drop>
 		</dropLists>
 	</npc>
-	<npc id="23556" level="103" type="Monster" name="Fury Sylph Purka" title="Night Spirit">
+	<npc id="23556" level="115" type="Monster" name="Fury Sylph Purka" title="Night Spirit">
 		<!-- Source: www.l2wiki.com (2015-04-08) -->
 		<parameters>
 			<skill name="Skill01_ID" id="23667" level="1" />
@@ -2136,12 +2141,12 @@
 			<param name="Skill02_Probablity" value="100" />
 		</parameters>
 		<race>ELEMENTAL</race>
-		<acquire exp="74076" sp="74" />
+		<acquire exp="76565330" sp="4131" />
 		<mpReward value="3" type="PER" ticks="5" affects="PARTY" />
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
-			<vitals hp="1024526" hpRegen="11.4" mp="25074" mpRegen="30" />
-			<attack physical="757976" magical="90519" random="20" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
-			<defence physical="2829" magical="2129" />
+			<vitals hp="155463" hpRegen="11.4" mp="25460" mpRegen="30" />
+			<attack physical="70675" magical="6434" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="9474" magical="3836" />
 			<speed>
 				<walk ground="60" />
 				<run ground="180" />
@@ -2186,22 +2191,23 @@
 		</collision>
 		<dropLists>
 			<drop>
-				<item id="57" min="4527" max="10556" chance="70" /> <!-- Adena -->
-				<item id="81216" min="1" max="1" chance="0.756" /> <!-- Black Mithril -->
-				<item id="81217" min="1" max="1" chance="1.209" /> <!-- Oriharukon Ore -->
-				<item id="81218" min="1" max="1" chance="1.209" /> <!-- Dragon Scale -->
-				<item id="81219" min="1" max="1" chance="1.209" /> <!-- Angel's Feather -->
+				<item id="57" min="1503" max="2003" chance="70" /> <!-- Adena -->
+				<item id="30297" min="1" max="10" chance="50" />
+				<item id="80839" min="1" max="1" chance="10" />
+				<item id="48472" min="1" max="5" chance="2" />
+				<item id="48211" min="1" max="1" chance="6" />
 			</drop>
 		</dropLists>
 	</npc>
-	<npc id="23557" level="102" type="Monster" name="Fury Kerberos Liger">
+	<npc id="23557" level="115" type="Monster" name="Fury Kerberos Liger">
 		<!-- Source: www.l2wiki.com (2015-04-08) -->
 		<race>ELEMENTAL</race>
-		<acquire exp="60536" sp="61" />
+		<acquire exp="76565330" sp="4131" />
+		<mpReward value="3" type="PER" ticks="5" affects="PARTY" />
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
-			<vitals hp="946008" hpRegen="11.4" mp="24690" mpRegen="30" />
-			<attack physical="388323" magical="47516" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
-			<defence physical="2761" magical="1118" />
+			<vitals hp="155463" hpRegen="11.4" mp="25460" mpRegen="30" />
+			<attack physical="70675" magical="6434" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="9474" magical="3836" />
 			<speed>
 				<walk ground="60" />
 				<run ground="180" />
@@ -2239,19 +2245,29 @@
 				<clan>GARDEN_CLAN</clan>
 			</clanList>
 		</ai>
+		<dropLists>
+			<drop>
+				<item id="57" min="1503" max="2003" chance="70" /> <!-- Adena -->
+				<item id="30297" min="1" max="10" chance="50" />
+				<item id="80839" min="1" max="1" chance="10" />
+				<item id="48472" min="1" max="5" chance="2" />
+				<item id="48211" min="1" max="1" chance="6" />
+			</drop>
+		</dropLists>
 		<collision>
 			<radius normal="28" />
 			<height normal="28" />
 		</collision>
 	</npc>
-	<npc id="23558" level="102" type="Monster" name="Fury Kerberos Nero">
+	<npc id="23558" level="115" type="Monster" name="Fury Kerberos Nero">
 		<!-- Source: www.l2wiki.com -->
 		<race>ELEMENTAL</race>
-		<acquire exp="60536" sp="61" />
+		<acquire exp="76565330" sp="4131" />
+		<mpReward value="3" type="PER" ticks="5" affects="PARTY" />
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
-			<vitals hp="946008" hpRegen="11.4" mp="24690" mpRegen="30" />
-			<attack physical="388323" magical="47516" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
-			<defence physical="2761" magical="1118" />
+			<vitals hp="155463" hpRegen="11.4" mp="25460" mpRegen="30" />
+			<attack physical="70675" magical="6434" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="9474" magical="3836" />
 			<speed>
 				<walk ground="60" />
 				<run ground="180" />
@@ -2291,6 +2307,15 @@
 				<clan>GARDEN_CLAN</clan>
 			</clanList>
 		</ai>
+		<dropLists>
+			<drop>
+				<item id="57" min="1503" max="2003" chance="70" /> <!-- Adena -->
+				<item id="30297" min="1" max="10" chance="50" />
+				<item id="80839" min="1" max="1" chance="10" />
+				<item id="48472" min="1" max="5" chance="2" />
+				<item id="48211" min="1" max="1" chance="6" />
+			</drop>
+		</dropLists>
 		<collision>
 			<radius normal="28" />
 			<height normal="28" />

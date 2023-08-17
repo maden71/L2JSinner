@@ -701,7 +701,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="38445" />
-		<acquire exp="101300441" sp="4" />
+		<acquire exp="76565330" sp="4131" />
 		<mpReward value="3" type="PER" ticks="5" affects="PARTY" />
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
 			<vitals hp="155463" hpRegen="11.4" mp="25460" mpRegen="30" />
@@ -739,7 +739,7 @@
 		<dropLists>
 			<drop>
 				<item id="57" min="1503" max="2003" chance="70" /> <!-- Adena -->
-				<item id="30297" min="1" max="20" chance="50" />
+				<item id="30297" min="1" max="10" chance="50" />
 				<item id="80839" min="1" max="1" chance="10" />
 				<item id="48472" min="1" max="5" chance="2" />
 				<item id="48498" min="1" max="1" chance="6" />
@@ -750,7 +750,7 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="38425" />
-		<acquire exp="101300441" sp="4" />
+		<acquire exp="76565330" sp="4131" />
 		<mpReward value="3" type="PER" ticks="5" affects="PARTY" />
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
 			<vitals hp="155463" hpRegen="11.4" mp="25460" mpRegen="30" />
@@ -798,7 +798,7 @@
 	<npc id="24220" level="115" type="Monster" name="Valanga Orc Slaughterer">
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
-		<acquire exp="101300441" sp="4" />
+		<acquire exp="76565330" sp="4131" />
 		<mpReward value="3" type="PER" ticks="5" affects="PARTY" />
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
 			<vitals hp="155463" hpRegen="11.4" mp="25460" mpRegen="30" />
@@ -846,7 +846,7 @@
 	<npc id="24221" level="115" type="Monster" name="Valanga Orc Shaman">
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
-		<acquire exp="101300441" sp="4" />
+		<acquire exp="76565330" sp="4131" />
 		<mpReward value="3" type="PER" ticks="5" affects="PARTY" />
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
 			<vitals hp="155463" hpRegen="11.4" mp="25460" mpRegen="30" />

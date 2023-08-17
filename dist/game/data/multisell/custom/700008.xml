@@ -53,10 +53,10 @@
     </item>
     <item>
         <ingredient count="1111" id="57" /> <!-- Adena -->
-        <production count="1000000000" id="22890" />
+        <production count="1" id="22890" />
     </item>
     <item>
         <ingredient count="1111" id="57" /> <!-- Adena -->
-        <production count="1000000000" id="22892" />
+        <production count="1" id="22892" />
     </item>
 </list>

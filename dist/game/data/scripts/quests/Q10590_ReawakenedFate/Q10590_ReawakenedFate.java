@@ -74,7 +74,7 @@ public class Q10590_ReawakenedFate extends Quest
 		addKillId(MONSTERS);
 		registerQuestItems(VAMPIRE_ICHOR);
 		addCondMinLevel(MIN_LEVEL, "34513-16.html");
-		addCondCompletedQuest(Q10589_WhereFatesIntersect.class.getSimpleName(), "34513-16.html");
+		//addCondCompletedQuest(Q10589_WhereFatesIntersect.class.getSimpleName(), "34513-16.html");
 	}
 	
 	@Override

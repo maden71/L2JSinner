@@ -1,3 +1,7 @@
 14/08/2023 23:43:29>f [268511866]>Drop>Honeybee>(id: 22 name: Leather Shirt objId: 268512702 x: -82253 y: 246026 z: -14156)
 17/08/2023 17:16:12>f [268511866]>Drop>Valanga Orc Slaughterer>(id: 57 name: Adena objId: 268513005 x: 108495 y: -151821 z: -2215)
 17/08/2023 18:36:06>f [268511866]>Drop>no-target>(id: 29304 name: Seven Deadly Sins Agathion Charm Upgrade Stone objId: 268514062 x: 111149 y: 220300 z: -3679)
+18/08/2023 0:53:09>f [268511866]>Drop>no-target>(id: 60320 name: Forgotten Lord's Shining Crystal of Dyes objId: 268514694 x: 147035 y: 27095 z: -2207)
+18/08/2023 0:53:10>f [268511866]>Drop>no-target>(id: 60320 name: Forgotten Lord's Shining Crystal of Dyes objId: 268514693 x: 147035 y: 27095 z: -2207)
+18/08/2023 0:53:11>f [268511866]>Drop>no-target>(id: 60320 name: Forgotten Lord's Shining Crystal of Dyes objId: 268514696 x: 147035 y: 27095 z: -2207)
+18/08/2023 0:53:14>f [268511866]>Drop>no-target>(id: 60320 name: Forgotten Lord's Shining Crystal of Dyes objId: 268514695 x: 147035 y: 27095 z: -2207)
