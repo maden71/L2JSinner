@@ -1289,15 +1289,15 @@
 			</drop>
 		</dropLists>
 	</npc>
-	<npc id="23542" level="103" type="Monster" name="Kerberos Fort">
+	<npc id="23542" level="115" type="Monster" name="Kerberos Fort">
 		<!-- Source: www.l2wiki.com (2015-04-08) -->
 		<race>ELEMENTAL</race>
-		<acquire exp="74076" sp="74" />
+		<acquire exp="101300441" sp="4" />
 		<mpReward value="3" type="PER" ticks="5" affects="PARTY" />
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
-			<vitals hp="1024526" hpRegen="11.4" mp="25074" mpRegen="30" />
-			<attack physical="757976" magical="90519" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
-			<defence physical="4043" magical="1637" />
+			<vitals hp="212341" hpRegen="11.4" mp="25460" mpRegen="30" />
+			<attack physical="222055" magical="25895" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="9474" magical="3836" />
 			<speed>
 				<walk ground="60" />
 				<run ground="180" />
