@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
+	<spawn name="24_19">
+		<group>
+			<npc id="30846" x="147394" y="47023" z="-3410" heading="48132" respawnTime="60sec" /> <!-- Wilbert -->
+			<npc id="30846" x="151589" y="46383" z="-3410" heading="15920" respawnTime="60sec" /> <!-- Wilbert -->
+		</group>
+	</spawn>
+</list>

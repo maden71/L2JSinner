@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+    <npcs>
+        <npc>-1</npc> <!-- CB -->
+    </npcs>
+    <item>
+        <ingredient count="1111" id="57" /> <!-- Adena -->
+        <production count="1" id="60181" />
+    </item>
+    <item>
+        <ingredient count="1111" id="57" /> <!-- Adena -->
+        <production count="1" id="81747" />
+    </item>
+    <item>
+        <ingredient count="1111" id="57" /> <!-- Adena -->
+        <production count="1" id="81892" />
+    </item>
+    <item>
+        <ingredient count="1111" id="57" /> <!-- Adena -->
+        <production count="1" id="29379" />
+    </item>
+    <item>
+        <ingredient count="1111" id="57" /> <!-- Adena -->
+        <production count="1" id="81759" />
+    </item>
+    <item>
+        <ingredient count="1111" id="57" /> <!-- Adena -->
+        <production count="1" id="37729" />
+    </item>
+    <item>
+        <ingredient count="1111" id="57" /> <!-- Adena -->
+        <production count="1" id="37730" />
+    </item>
+    <item>
+        <ingredient count="1111" id="57" /> <!-- Adena -->
+        <production count="1" id="37731" />
+    </item>
+    <item>
+        <ingredient count="1111" id="57" /> <!-- Adena -->
+        <production count="1" id="48675" />
+    </item>
+    <item>
+        <ingredient count="1111" id="57" /> <!-- Adena -->
+        <production count="1" id="39738" />
+    </item>
+    <item>
+        <ingredient count="1111" id="57" /> <!-- Adena -->
+        <production count="1" id="81453" />
+    </item>
+    <item>
+        <ingredient count="1111" id="57" /> <!-- Adena -->
+        <production count="1000000000" id="57" />
+    </item>
+    <item>
+        <ingredient count="1111" id="57" /> <!-- Adena -->
+        <production count="1000000000" id="22890" />
+    </item>
+    <item>
+        <ingredient count="1111" id="57" /> <!-- Adena -->
+        <production count="1000000000" id="22892" />
+    </item>
+</list>

@@ -1,0 +1,1183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
+	<spawn>
+		<territories>
+			<territory name="rune12_2216_sml_01" minZ="-2429" maxZ="-1929">
+				<node x="77747" y="-58718" />
+				<node x="77937" y="-58524" />
+				<node x="77937" y="-58267" />
+				<node x="77745" y="-58075" />
+				<node x="77489" y="-58076" />
+				<node x="77297" y="-58270" />
+				<node x="77299" y="-58525" />
+				<node x="77490" y="-58719" />
+			</territory>
+		</territories>
+		<npc id="24570" count="2" respawnTime="20sec" chaseRange="1500" /> <!-- Dire Stakato Drone -->
+		<npc id="24571" count="2" respawnTime="20sec" chaseRange="1500" /> <!-- Dire Stakato Berserker -->
+		<npc id="24572" count="2" respawnTime="10sec" chaseRange="1500" /> <!-- Dire Stakato Shaman -->
+		<npc id="24573" count="2" respawnTime="10sec" chaseRange="1500" /> <!-- Dire Stakato Witch -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory name="rune12_2216_sml_02" minZ="-2432" maxZ="-1932">
+				<node x="77606" y="-61735" />
+				<node x="77899" y="-61648" />
+				<node x="77827" y="-61312" />
+				<node x="77576" y="-61259" />
+				<node x="77312" y="-61312" />
+				<node x="76979" y="-61398" />
+				<node x="77056" y="-61827" />
+				<node x="77308" y="-61743" />
+			</territory>
+		</territories>
+		<npc id="24570" count="2" respawnTime="20sec" chaseRange="1500" /> <!-- Dire Stakato Drone -->
+		<npc id="24571" count="2" respawnTime="20sec" chaseRange="1500" /> <!-- Dire Stakato Berserker -->
+		<npc id="24572" count="2" respawnTime="10sec" chaseRange="1500" /> <!-- Dire Stakato Shaman -->
+		<npc id="24573" count="2" respawnTime="10sec" chaseRange="1500" /> <!-- Dire Stakato Witch -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory name="rune12_2216_sml_03" minZ="-2429" maxZ="-1929">
+				<node x="81568" y="-63672" />
+				<node x="81758" y="-63478" />
+				<node x="81758" y="-63221" />
+				<node x="81566" y="-63029" />
+				<node x="81310" y="-63030" />
+				<node x="81117" y="-63224" />
+				<node x="81120" y="-63479" />
+				<node x="81311" y="-63673" />
+			</territory>
+		</territories>
+		<npc id="24570" count="2" respawnTime="20sec" chaseRange="1500" /> <!-- Dire Stakato Drone -->
+		<npc id="24571" count="2" respawnTime="20sec" chaseRange="1500" /> <!-- Dire Stakato Berserker -->
+		<npc id="24572" count="2" respawnTime="10sec" chaseRange="1500" /> <!-- Dire Stakato Shaman -->
+		<npc id="24573" count="2" respawnTime="10sec" chaseRange="1500" /> <!-- Dire Stakato Witch -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory name="rune12_2216_sml_04" minZ="-2443" maxZ="-1943">
+				<node x="85107" y="-63157" />
+				<node x="85297" y="-62963" />
+				<node x="85298" y="-62707" />
+				<node x="85105" y="-62514" />
+				<node x="84849" y="-62515" />
+				<node x="84657" y="-62709" />
+				<node x="84660" y="-62964" />
+				<node x="84850" y="-63158" />
+			</territory>
+		</territories>
+		<npc id="24570" count="2" respawnTime="20sec" chaseRange="1500" /> <!-- Dire Stakato Drone -->
+		<npc id="24571" count="2" respawnTime="20sec" chaseRange="1500" /> <!-- Dire Stakato Berserker -->
+		<npc id="24572" count="2" respawnTime="10sec" chaseRange="1500" /> <!-- Dire Stakato Shaman -->
+		<npc id="24573" count="2" respawnTime="10sec" chaseRange="1500" /> <!-- Dire Stakato Witch -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory name="rune12_2216_sml_05" minZ="-2443" maxZ="-1943">
+				<node x="85647" y="-59758" />
+				<node x="85837" y="-59565" />
+				<node x="85838" y="-59308" />
+				<node x="85645" y="-59115" />
+				<node x="85389" y="-59116" />
+				<node x="85197" y="-59310" />
+				<node x="85200" y="-59566" />
+				<node x="85390" y="-59760" />
+			</territory>
+		</territories>
+		<npc id="24570" count="2" respawnTime="20sec" chaseRange="1500" /> <!-- Dire Stakato Drone -->
+		<npc id="24571" count="2" respawnTime="20sec" chaseRange="1500" /> <!-- Dire Stakato Berserker -->
+		<npc id="24572" count="2" respawnTime="10sec" chaseRange="1500" /> <!-- Dire Stakato Shaman -->
+		<npc id="24573" count="2" respawnTime="10sec" chaseRange="1500" /> <!-- Dire Stakato Witch -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory name="rune12_2216_sml_06" minZ="-2739" maxZ="-2239">
+				<node x="94136" y="-55178" />
+				<node x="94327" y="-54984" />
+				<node x="94327" y="-54727" />
+				<node x="94135" y="-54535" />
+				<node x="93878" y="-54536" />
+				<node x="93686" y="-54730" />
+				<node x="93689" y="-54985" />
+				<node x="93879" y="-55179" />
+			</territory>
+		</territories>
+		<npc id="24570" count="2" respawnTime="20sec" chaseRange="1500" /> <!-- Dire Stakato Drone -->
+		<npc id="24571" count="2" respawnTime="20sec" chaseRange="1500" /> <!-- Dire Stakato Berserker -->
+		<npc id="24572" count="2" respawnTime="10sec" chaseRange="1500" /> <!-- Dire Stakato Shaman -->
+		<npc id="24573" count="2" respawnTime="10sec" chaseRange="1500" /> <!-- Dire Stakato Witch -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory name="rune12_2216_sml_07" minZ="-2739" maxZ="-2239">
+				<node x="94756" y="-52845" />
+				<node x="94946" y="-52651" />
+				<node x="94946" y="-52395" />
+				<node x="94754" y="-52202" />
+				<node x="94497" y="-52203" />
+				<node x="94305" y="-52397" />
+				<node x="94308" y="-52652" />
+				<node x="94499" y="-52847" />
+			</territory>
+		</territories>
+		<npc id="24570" count="2" respawnTime="20sec" chaseRange="1500" /> <!-- Dire Stakato Drone -->
+		<npc id="24571" count="2" respawnTime="20sec" chaseRange="1500" /> <!-- Dire Stakato Berserker -->
+		<npc id="24572" count="2" respawnTime="10sec" chaseRange="1500" /> <!-- Dire Stakato Shaman -->
+		<npc id="24573" count="2" respawnTime="10sec" chaseRange="1500" /> <!-- Dire Stakato Witch -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory name="rune12_2216_sml_08" minZ="-2739" maxZ="-2239">
+				<node x="89550" y="-52293" />
+				<node x="89740" y="-52100" />
+				<node x="89741" y="-51843" />
+				<node x="89548" y="-51651" />
+				<node x="89292" y="-51652" />
+				<node x="89100" y="-51846" />
+				<node x="89103" y="-52101" />
+				<node x="89293" y="-52295" />
+			</territory>
+		</territories>
+		<npc id="24570" count="2" respawnTime="20sec" chaseRange="1500" /> <!-- Dire Stakato Drone -->
+		<npc id="24571" count="2" respawnTime="20sec" chaseRange="1500" /> <!-- Dire Stakato Berserker -->
+		<npc id="24572" count="2" respawnTime="10sec" chaseRange="1500" /> <!-- Dire Stakato Shaman -->
+		<npc id="24573" count="2" respawnTime="10sec" chaseRange="1500" /> <!-- Dire Stakato Witch -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory name="rune12_2216_sml_09" minZ="-2502" maxZ="-2002">
+				<node x="83172" y="-50881" />
+				<node x="83362" y="-50687" />
+				<node x="83362" y="-50431" />
+				<node x="83170" y="-50238" />
+				<node x="82913" y="-50239" />
+				<node x="82721" y="-50433" />
+				<node x="82724" y="-50688" />
+				<node x="82915" y="-50883" />
+			</territory>
+		</territories>
+		<npc id="24570" count="2" respawnTime="20sec" chaseRange="1500" /> <!-- Dire Stakato Drone -->
+		<npc id="24571" count="2" respawnTime="20sec" chaseRange="1500" /> <!-- Dire Stakato Berserker -->
+		<npc id="24572" count="2" respawnTime="10sec" chaseRange="1500" /> <!-- Dire Stakato Shaman -->
+		<npc id="24573" count="2" respawnTime="10sec" chaseRange="1500" /> <!-- Dire Stakato Witch -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory name="rune12_2216_sml_10" minZ="-2443" maxZ="-1943">
+				<node x="78978" y="-51399" />
+				<node x="79168" y="-51206" />
+				<node x="79169" y="-50949" />
+				<node x="78976" y="-50756" />
+				<node x="78720" y="-50757" />
+				<node x="78528" y="-50951" />
+				<node x="78531" y="-51207" />
+				<node x="78721" y="-51401" />
+			</territory>
+		</territories>
+		<npc id="24570" count="2" respawnTime="20sec" chaseRange="1500" /> <!-- Dire Stakato Drone -->
+		<npc id="24571" count="2" respawnTime="20sec" chaseRange="1500" /> <!-- Dire Stakato Berserker -->
+		<npc id="24572" count="2" respawnTime="10sec" chaseRange="1500" /> <!-- Dire Stakato Shaman -->
+		<npc id="24573" count="2" respawnTime="10sec" chaseRange="1500" /> <!-- Dire Stakato Witch -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory name="rune12_2216_sml_11" minZ="-3246" maxZ="-2746">
+				<node x="73884" y="-51613" />
+				<node x="74074" y="-51420" />
+				<node x="74074" y="-51163" />
+				<node x="73882" y="-50970" />
+				<node x="73626" y="-50971" />
+				<node x="73434" y="-51165" />
+				<node x="73436" y="-51421" />
+				<node x="73627" y="-51615" />
+			</territory>
+		</territories>
+		<npc id="24570" count="2" respawnTime="20sec" chaseRange="1500" /> <!-- Dire Stakato Drone -->
+		<npc id="24571" count="2" respawnTime="20sec" chaseRange="1500" /> <!-- Dire Stakato Berserker -->
+		<npc id="24572" count="2" respawnTime="10sec" chaseRange="1500" /> <!-- Dire Stakato Shaman -->
+		<npc id="24573" count="2" respawnTime="10sec" chaseRange="1500" /> <!-- Dire Stakato Witch -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory name="rune12_2216_sml_12" minZ="-3287" maxZ="-2787">
+				<node x="75808" y="-54864" />
+				<node x="75998" y="-54670" />
+				<node x="75999" y="-54414" />
+				<node x="75806" y="-54221" />
+				<node x="75550" y="-54222" />
+				<node x="75358" y="-54416" />
+				<node x="75361" y="-54671" />
+				<node x="75551" y="-54866" />
+			</territory>
+		</territories>
+		<npc id="24570" count="2" respawnTime="20sec" chaseRange="1500" /> <!-- Dire Stakato Drone -->
+		<npc id="24571" count="2" respawnTime="20sec" chaseRange="1500" /> <!-- Dire Stakato Berserker -->
+		<npc id="24572" count="2" respawnTime="10sec" chaseRange="1500" /> <!-- Dire Stakato Shaman -->
+		<npc id="24573" count="2" respawnTime="10sec" chaseRange="1500" /> <!-- Dire Stakato Witch -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory name="rune12_2216_sml_13" minZ="-2454" maxZ="-1954">
+				<node x="85479" y="-55083" />
+				<node x="85669" y="-54890" />
+				<node x="85669" y="-54633" />
+				<node x="85477" y="-54440" />
+				<node x="85221" y="-54442" />
+				<node x="85029" y="-54635" />
+				<node x="85031" y="-54891" />
+				<node x="85222" y="-55085" />
+			</territory>
+		</territories>
+		<npc id="24570" count="2" respawnTime="20sec" chaseRange="1500" /> <!-- Dire Stakato Drone -->
+		<npc id="24571" count="2" respawnTime="20sec" chaseRange="1500" /> <!-- Dire Stakato Berserker -->
+		<npc id="24572" count="2" respawnTime="10sec" chaseRange="1500" /> <!-- Dire Stakato Shaman -->
+		<npc id="24573" count="2" respawnTime="10sec" chaseRange="1500" /> <!-- Dire Stakato Witch -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory name="rune12_2216_sml_14" minZ="-2429" maxZ="-1929">
+				<node x="76441" y="-60418" />
+				<node x="76631" y="-60224" />
+				<node x="76631" y="-59967" />
+				<node x="76439" y="-59775" />
+				<node x="76183" y="-59776" />
+				<node x="75991" y="-59970" />
+				<node x="75993" y="-60225" />
+				<node x="76184" y="-60419" />
+			</territory>
+		</territories>
+		<npc id="24570" count="2" respawnTime="20sec" chaseRange="1500" /> <!-- Dire Stakato Drone -->
+		<npc id="24571" count="2" respawnTime="20sec" chaseRange="1500" /> <!-- Dire Stakato Berserker -->
+		<npc id="24572" count="2" respawnTime="10sec" chaseRange="1500" /> <!-- Dire Stakato Shaman -->
+		<npc id="24573" count="2" respawnTime="10sec" chaseRange="1500" /> <!-- Dire Stakato Witch -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory name="rune12_2216_sml_15" minZ="-2429" maxZ="-1929">
+				<node x="84161" y="-61281" />
+				<node x="84351" y="-61087" />
+				<node x="84351" y="-60830" />
+				<node x="84159" y="-60638" />
+				<node x="83903" y="-60639" />
+				<node x="83711" y="-60833" />
+				<node x="83713" y="-61088" />
+				<node x="83904" y="-61282" />
+			</territory>
+		</territories>
+		<npc id="24570" count="2" respawnTime="20sec" chaseRange="1500" /> <!-- Dire Stakato Drone -->
+		<npc id="24571" count="2" respawnTime="20sec" chaseRange="1500" /> <!-- Dire Stakato Berserker -->
+		<npc id="24572" count="2" respawnTime="10sec" chaseRange="1500" /> <!-- Dire Stakato Shaman -->
+		<npc id="24573" count="2" respawnTime="10sec" chaseRange="1500" /> <!-- Dire Stakato Witch -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory name="rune12_2216_sml_16" minZ="-2429" maxZ="-1929">
+				<node x="84299" y="-58492" />
+				<node x="84489" y="-58298" />
+				<node x="84489" y="-58041" />
+				<node x="84297" y="-57849" />
+				<node x="84041" y="-57850" />
+				<node x="83849" y="-58044" />
+				<node x="83851" y="-58299" />
+				<node x="84042" y="-58493" />
+			</territory>
+		</territories>
+		<npc id="24570" count="2" respawnTime="20sec" chaseRange="1500" /> <!-- Dire Stakato Drone -->
+		<npc id="24571" count="2" respawnTime="20sec" chaseRange="1500" /> <!-- Dire Stakato Berserker -->
+		<npc id="24572" count="2" respawnTime="10sec" chaseRange="1500" /> <!-- Dire Stakato Shaman -->
+		<npc id="24573" count="2" respawnTime="10sec" chaseRange="1500" /> <!-- Dire Stakato Witch -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory name="rune12_2216_sml_17" minZ="-2429" maxZ="-1929">
+				<node x="88437" y="-57690" />
+				<node x="88627" y="-57496" />
+				<node x="88627" y="-57239" />
+				<node x="88435" y="-57047" />
+				<node x="88179" y="-57048" />
+				<node x="87987" y="-57242" />
+				<node x="87989" y="-57497" />
+				<node x="88180" y="-57691" />
+			</territory>
+		</territories>
+		<npc id="24570" count="2" respawnTime="20sec" chaseRange="1500" /> <!-- Dire Stakato Drone -->
+		<npc id="24571" count="2" respawnTime="20sec" chaseRange="1500" /> <!-- Dire Stakato Berserker -->
+		<npc id="24572" count="2" respawnTime="10sec" chaseRange="1500" /> <!-- Dire Stakato Shaman -->
+		<npc id="24573" count="2" respawnTime="10sec" chaseRange="1500" /> <!-- Dire Stakato Witch -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory name="rune12_2216_sml_18" minZ="-2739" maxZ="-2239">
+				<node x="91401" y="-51521" />
+				<node x="91591" y="-51328" />
+				<node x="91592" y="-51071" />
+				<node x="91399" y="-50879" />
+				<node x="91143" y="-50880" />
+				<node x="90951" y="-51074" />
+				<node x="90954" y="-51329" />
+				<node x="91144" y="-51523" />
+			</territory>
+		</territories>
+		<npc id="24570" count="2" respawnTime="20sec" chaseRange="1500" /> <!-- Dire Stakato Drone -->
+		<npc id="24571" count="2" respawnTime="20sec" chaseRange="1500" /> <!-- Dire Stakato Berserker -->
+		<npc id="24572" count="2" respawnTime="10sec" chaseRange="1500" /> <!-- Dire Stakato Shaman -->
+		<npc id="24573" count="2" respawnTime="10sec" chaseRange="1500" /> <!-- Dire Stakato Witch -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory name="rune12_2216_sml_19" minZ="-3361" maxZ="-2861">
+				<node x="83708" y="-45975" />
+				<node x="83898" y="-45781" />
+				<node x="83898" y="-45524" />
+				<node x="83706" y="-45332" />
+				<node x="83450" y="-45333" />
+				<node x="83258" y="-45527" />
+				<node x="83260" y="-45782" />
+				<node x="83451" y="-45976" />
+			</territory>
+		</territories>
+		<npc id="24570" count="2" respawnTime="20sec" chaseRange="1500" /> <!-- Dire Stakato Drone -->
+		<npc id="24571" count="2" respawnTime="20sec" chaseRange="1500" /> <!-- Dire Stakato Berserker -->
+		<npc id="24572" count="2" respawnTime="10sec" chaseRange="1500" /> <!-- Dire Stakato Shaman -->
+		<npc id="24573" count="2" respawnTime="10sec" chaseRange="1500" /> <!-- Dire Stakato Witch -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory name="rune12_2216_sml_20" minZ="-3361" maxZ="-2861">
+				<node x="79937" y="-45735" />
+				<node x="80127" y="-45541" />
+				<node x="80127" y="-45284" />
+				<node x="79935" y="-45092" />
+				<node x="79679" y="-45093" />
+				<node x="79487" y="-45287" />
+				<node x="79489" y="-45542" />
+				<node x="79680" y="-45736" />
+			</territory>
+		</territories>
+		<npc id="24570" count="2" respawnTime="20sec" chaseRange="1500" /> <!-- Dire Stakato Drone -->
+		<npc id="24571" count="2" respawnTime="20sec" chaseRange="1500" /> <!-- Dire Stakato Berserker -->
+		<npc id="24572" count="2" respawnTime="10sec" chaseRange="1500" /> <!-- Dire Stakato Shaman -->
+		<npc id="24573" count="2" respawnTime="10sec" chaseRange="1500" /> <!-- Dire Stakato Witch -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory name="rune12_2216_sml_21" minZ="-3361" maxZ="-2861">
+				<node x="75126" y="-46888" />
+				<node x="75316" y="-46694" />
+				<node x="75316" y="-46437" />
+				<node x="75124" y="-46245" />
+				<node x="74868" y="-46246" />
+				<node x="74676" y="-46440" />
+				<node x="74678" y="-46695" />
+				<node x="74869" y="-46889" />
+			</territory>
+		</territories>
+		<npc id="24570" count="2" respawnTime="20sec" chaseRange="1500" /> <!-- Dire Stakato Drone -->
+		<npc id="24571" count="2" respawnTime="20sec" chaseRange="1500" /> <!-- Dire Stakato Berserker -->
+		<npc id="24572" count="2" respawnTime="10sec" chaseRange="1500" /> <!-- Dire Stakato Shaman -->
+		<npc id="24573" count="2" respawnTime="10sec" chaseRange="1500" /> <!-- Dire Stakato Witch -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory name="rune12_2216_sml_22" minZ="-3361" maxZ="-2861">
+				<node x="71139" y="-41611" />
+				<node x="71329" y="-41417" />
+				<node x="71329" y="-41160" />
+				<node x="71137" y="-40968" />
+				<node x="70881" y="-40969" />
+				<node x="70689" y="-41163" />
+				<node x="70691" y="-41418" />
+				<node x="70882" y="-41612" />
+			</territory>
+		</territories>
+		<npc id="24570" count="2" respawnTime="20sec" chaseRange="1500" /> <!-- Dire Stakato Drone -->
+		<npc id="24571" count="2" respawnTime="20sec" chaseRange="1500" /> <!-- Dire Stakato Berserker -->
+		<npc id="24572" count="2" respawnTime="10sec" chaseRange="1500" /> <!-- Dire Stakato Shaman -->
+		<npc id="24573" count="2" respawnTime="10sec" chaseRange="1500" /> <!-- Dire Stakato Witch -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory name="rune12_2216_mid_01" minZ="-3361" maxZ="-2861">
+				<node x="73183" y="-42690" />
+				<node x="73373" y="-42496" />
+				<node x="73374" y="-42240" />
+				<node x="73181" y="-42047" />
+				<node x="72925" y="-42048" />
+				<node x="72733" y="-42242" />
+				<node x="72736" y="-42497" />
+				<node x="72926" y="-42691" />
+			</territory>
+		</territories>
+		<npc id="24570" count="2" respawnTime="20sec" chaseRange="1500" /> <!-- Dire Stakato Drone -->
+		<npc id="24571" count="2" respawnTime="20sec" chaseRange="1500" /> <!-- Dire Stakato Berserker -->
+		<npc id="24572" count="2" respawnTime="10sec" chaseRange="1500" /> <!-- Dire Stakato Shaman -->
+		<npc id="24573" count="2" respawnTime="10sec" chaseRange="1500" /> <!-- Dire Stakato Witch -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory name="rune12_2216_mid_02" minZ="-3361" maxZ="-2861">
+				<node x="73707" y="-42673" />
+				<node x="73897" y="-42480" />
+				<node x="73897" y="-42223" />
+				<node x="73705" y="-42030" />
+				<node x="73449" y="-42031" />
+				<node x="73257" y="-42225" />
+				<node x="73259" y="-42481" />
+				<node x="73450" y="-42675" />
+			</territory>
+		</territories>
+		<npc id="24570" count="2" respawnTime="20sec" chaseRange="1500" /> <!-- Dire Stakato Drone -->
+		<npc id="24571" count="2" respawnTime="20sec" chaseRange="1500" /> <!-- Dire Stakato Berserker -->
+		<npc id="24572" count="2" respawnTime="10sec" chaseRange="1500" /> <!-- Dire Stakato Shaman -->
+		<npc id="24573" count="2" respawnTime="10sec" chaseRange="1500" /> <!-- Dire Stakato Witch -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory name="rune12_2216_mid_03" minZ="-3361" maxZ="-2861">
+				<node x="79440" y="-42583" />
+				<node x="79630" y="-42390" />
+				<node x="79630" y="-42133" />
+				<node x="79438" y="-41940" />
+				<node x="79181" y="-41942" />
+				<node x="78989" y="-42136" />
+				<node x="78992" y="-42391" />
+				<node x="79182" y="-42585" />
+			</territory>
+		</territories>
+		<npc id="24570" count="2" respawnTime="20sec" chaseRange="1500" /> <!-- Dire Stakato Drone -->
+		<npc id="24571" count="2" respawnTime="20sec" chaseRange="1500" /> <!-- Dire Stakato Berserker -->
+		<npc id="24572" count="2" respawnTime="10sec" chaseRange="1500" /> <!-- Dire Stakato Shaman -->
+		<npc id="24573" count="2" respawnTime="10sec" chaseRange="1500" /> <!-- Dire Stakato Witch -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory name="rune12_2216_mid_04" minZ="-3361" maxZ="-2861">
+				<node x="79860" y="-42263" />
+				<node x="80050" y="-42070" />
+				<node x="80051" y="-41813" />
+				<node x="79858" y="-41620" />
+				<node x="79602" y="-41621" />
+				<node x="79410" y="-41815" />
+				<node x="79413" y="-42071" />
+				<node x="79603" y="-42265" />
+			</territory>
+		</territories>
+		<npc id="24570" count="2" respawnTime="20sec" chaseRange="1500" /> <!-- Dire Stakato Drone -->
+		<npc id="24571" count="2" respawnTime="20sec" chaseRange="1500" /> <!-- Dire Stakato Berserker -->
+		<npc id="24572" count="2" respawnTime="10sec" chaseRange="1500" /> <!-- Dire Stakato Shaman -->
+		<npc id="24573" count="2" respawnTime="10sec" chaseRange="1500" /> <!-- Dire Stakato Witch -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory name="rune12_2216_mid_05" minZ="-3361" maxZ="-2861">
+				<node x="82408" y="-42131" />
+				<node x="82598" y="-41938" />
+				<node x="82599" y="-41681" />
+				<node x="82406" y="-41488" />
+				<node x="82150" y="-41489" />
+				<node x="81958" y="-41683" />
+				<node x="81961" y="-41939" />
+				<node x="82151" y="-42133" />
+			</territory>
+		</territories>
+		<npc id="24570" count="2" respawnTime="20sec" chaseRange="1500" /> <!-- Dire Stakato Drone -->
+		<npc id="24571" count="2" respawnTime="20sec" chaseRange="1500" /> <!-- Dire Stakato Berserker -->
+		<npc id="24572" count="2" respawnTime="10sec" chaseRange="1500" /> <!-- Dire Stakato Shaman -->
+		<npc id="24573" count="2" respawnTime="10sec" chaseRange="1500" /> <!-- Dire Stakato Witch -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory name="rune12_2216_mid_06" minZ="-3361" maxZ="-2861">
+				<node x="82466" y="-41657" />
+				<node x="82656" y="-41463" />
+				<node x="82656" y="-41207" />
+				<node x="82464" y="-41014" />
+				<node x="82207" y="-41015" />
+				<node x="82015" y="-41209" />
+				<node x="82018" y="-41464" />
+				<node x="82208" y="-41659" />
+			</territory>
+		</territories>
+		<npc id="24570" count="2" respawnTime="20sec" chaseRange="1500" /> <!-- Dire Stakato Drone -->
+		<npc id="24571" count="2" respawnTime="20sec" chaseRange="1500" /> <!-- Dire Stakato Berserker -->
+		<npc id="24572" count="2" respawnTime="10sec" chaseRange="1500" /> <!-- Dire Stakato Shaman -->
+		<npc id="24573" count="2" respawnTime="10sec" chaseRange="1500" /> <!-- Dire Stakato Witch -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory name="rune12_2216_mid_07" minZ="-3361" maxZ="-2861">
+				<node x="81585" y="-44731" />
+				<node x="81775" y="-44538" />
+				<node x="81775" y="-44281" />
+				<node x="81583" y="-44088" />
+				<node x="81327" y="-44090" />
+				<node x="81135" y="-44283" />
+				<node x="81137" y="-44539" />
+				<node x="81328" y="-44733" />
+			</territory>
+		</territories>
+		<npc id="24570" count="2" respawnTime="20sec" chaseRange="1500" /> <!-- Dire Stakato Drone -->
+		<npc id="24571" count="2" respawnTime="20sec" chaseRange="1500" /> <!-- Dire Stakato Berserker -->
+		<npc id="24572" count="2" respawnTime="10sec" chaseRange="1500" /> <!-- Dire Stakato Shaman -->
+		<npc id="24573" count="2" respawnTime="10sec" chaseRange="1500" /> <!-- Dire Stakato Witch -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory name="rune12_2216_mid_08" minZ="-3361" maxZ="-2861">
+				<node x="81779" y="-45175" />
+				<node x="81969" y="-44981" />
+				<node x="81969" y="-44724" />
+				<node x="81777" y="-44532" />
+				<node x="81521" y="-44533" />
+				<node x="81329" y="-44727" />
+				<node x="81331" y="-44982" />
+				<node x="81522" y="-45176" />
+			</territory>
+		</territories>
+		<npc id="24570" count="2" respawnTime="20sec" chaseRange="1500" /> <!-- Dire Stakato Drone -->
+		<npc id="24571" count="2" respawnTime="20sec" chaseRange="1500" /> <!-- Dire Stakato Berserker -->
+		<npc id="24572" count="2" respawnTime="10sec" chaseRange="1500" /> <!-- Dire Stakato Shaman -->
+		<npc id="24573" count="2" respawnTime="10sec" chaseRange="1500" /> <!-- Dire Stakato Witch -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory name="rune12_2216_mid_09" minZ="-2717" maxZ="-2217">
+				<node x="92140" y="-53133" />
+				<node x="92330" y="-52939" />
+				<node x="92330" y="-52682" />
+				<node x="92138" y="-52490" />
+				<node x="91882" y="-52491" />
+				<node x="91690" y="-52685" />
+				<node x="91692" y="-52940" />
+				<node x="91883" y="-53134" />
+			</territory>
+		</territories>
+		<npc id="24570" count="2" respawnTime="20sec" chaseRange="1500" /> <!-- Dire Stakato Drone -->
+		<npc id="24571" count="2" respawnTime="20sec" chaseRange="1500" /> <!-- Dire Stakato Berserker -->
+		<npc id="24572" count="2" respawnTime="10sec" chaseRange="1500" /> <!-- Dire Stakato Shaman -->
+		<npc id="24573" count="2" respawnTime="10sec" chaseRange="1500" /> <!-- Dire Stakato Witch -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory name="rune12_2216_mid_10" minZ="-2717" maxZ="-2217">
+				<node x="92422" y="-53473" />
+				<node x="92612" y="-53279" />
+				<node x="92613" y="-53022" />
+				<node x="92420" y="-52830" />
+				<node x="92164" y="-52831" />
+				<node x="91972" y="-53025" />
+				<node x="91975" y="-53280" />
+				<node x="92165" y="-53474" />
+			</territory>
+		</territories>
+		<npc id="24570" count="2" respawnTime="20sec" chaseRange="1500" /> <!-- Dire Stakato Drone -->
+		<npc id="24571" count="2" respawnTime="20sec" chaseRange="1500" /> <!-- Dire Stakato Berserker -->
+		<npc id="24572" count="2" respawnTime="10sec" chaseRange="1500" /> <!-- Dire Stakato Shaman -->
+		<npc id="24573" count="2" respawnTime="10sec" chaseRange="1500" /> <!-- Dire Stakato Witch -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory name="rune12_2216_mid_11" minZ="-2439" maxZ="-1939">
+				<node x="88687" y="-60732" />
+				<node x="88877" y="-60539" />
+				<node x="88877" y="-60282" />
+				<node x="88685" y="-60089" />
+				<node x="88429" y="-60090" />
+				<node x="88237" y="-60284" />
+				<node x="88239" y="-60539" />
+				<node x="88430" y="-60734" />
+			</territory>
+		</territories>
+		<npc id="24570" count="2" respawnTime="20sec" chaseRange="1500" /> <!-- Dire Stakato Drone -->
+		<npc id="24571" count="2" respawnTime="20sec" chaseRange="1500" /> <!-- Dire Stakato Berserker -->
+		<npc id="24572" count="2" respawnTime="10sec" chaseRange="1500" /> <!-- Dire Stakato Shaman -->
+		<npc id="24573" count="2" respawnTime="10sec" chaseRange="1500" /> <!-- Dire Stakato Witch -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory name="rune12_2216_mid_12" minZ="-2439" maxZ="-1939">
+				<node x="89026" y="-60332" />
+				<node x="89216" y="-60138" />
+				<node x="89216" y="-59881" />
+				<node x="89024" y="-59689" />
+				<node x="88768" y="-59690" />
+				<node x="88576" y="-59884" />
+				<node x="88578" y="-60139" />
+				<node x="88769" y="-60333" />
+			</territory>
+		</territories>
+		<npc id="24570" count="2" respawnTime="20sec" chaseRange="1500" /> <!-- Dire Stakato Drone -->
+		<npc id="24571" count="2" respawnTime="20sec" chaseRange="1500" /> <!-- Dire Stakato Berserker -->
+		<npc id="24572" count="2" respawnTime="10sec" chaseRange="1500" /> <!-- Dire Stakato Shaman -->
+		<npc id="24573" count="2" respawnTime="10sec" chaseRange="1500" /> <!-- Dire Stakato Witch -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory name="rune12_2216_mid_13" minZ="-2439" maxZ="-1939">
+				<node x="81670" y="-60519" />
+				<node x="81860" y="-60326" />
+				<node x="81860" y="-60069" />
+				<node x="81668" y="-59876" />
+				<node x="81411" y="-59877" />
+				<node x="81219" y="-60071" />
+				<node x="81222" y="-60327" />
+				<node x="81413" y="-60521" />
+			</territory>
+		</territories>
+		<npc id="24570" count="2" respawnTime="20sec" chaseRange="1500" /> <!-- Dire Stakato Drone -->
+		<npc id="24571" count="2" respawnTime="20sec" chaseRange="1500" /> <!-- Dire Stakato Berserker -->
+		<npc id="24572" count="2" respawnTime="10sec" chaseRange="1500" /> <!-- Dire Stakato Shaman -->
+		<npc id="24573" count="2" respawnTime="10sec" chaseRange="1500" /> <!-- Dire Stakato Witch -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory name="rune12_2216_mid_14" minZ="-2439" maxZ="-1939">
+				<node x="81200" y="-60287" />
+				<node x="81390" y="-60094" />
+				<node x="81390" y="-59837" />
+				<node x="81198" y="-59645" />
+				<node x="80942" y="-59646" />
+				<node x="80749" y="-59840" />
+				<node x="80752" y="-60095" />
+				<node x="80943" y="-60289" />
+			</territory>
+		</territories>
+		<npc id="24570" count="2" respawnTime="20sec" chaseRange="1500" /> <!-- Dire Stakato Drone -->
+		<npc id="24571" count="2" respawnTime="20sec" chaseRange="1500" /> <!-- Dire Stakato Berserker -->
+		<npc id="24572" count="2" respawnTime="10sec" chaseRange="1500" /> <!-- Dire Stakato Shaman -->
+		<npc id="24573" count="2" respawnTime="10sec" chaseRange="1500" /> <!-- Dire Stakato Witch -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory name="rune12_2216_big_01" minZ="-3246" maxZ="-2746">
+				<node x="70882" y="-55719" />
+				<node x="71072" y="-55526" />
+				<node x="71072" y="-55269" />
+				<node x="70880" y="-55076" />
+				<node x="70624" y="-55077" />
+				<node x="70432" y="-55271" />
+				<node x="70434" y="-55526" />
+				<node x="70625" y="-55721" />
+			</territory>
+		</territories>
+		<npc id="24570" count="2" respawnTime="20sec" chaseRange="1500" /> <!-- Dire Stakato Drone -->
+		<npc id="24571" count="2" respawnTime="20sec" chaseRange="1500" /> <!-- Dire Stakato Berserker -->
+		<npc id="24572" count="2" respawnTime="10sec" chaseRange="1500" /> <!-- Dire Stakato Shaman -->
+		<npc id="24573" count="2" respawnTime="10sec" chaseRange="1500" /> <!-- Dire Stakato Witch -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory name="rune12_2216_big_02" minZ="-3246" maxZ="-2746">
+				<node x="71413" y="-55723" />
+				<node x="71603" y="-55530" />
+				<node x="71603" y="-55273" />
+				<node x="71411" y="-55080" />
+				<node x="71155" y="-55081" />
+				<node x="70963" y="-55275" />
+				<node x="70965" y="-55531" />
+				<node x="71156" y="-55725" />
+			</territory>
+		</territories>
+		<npc id="24570" count="2" respawnTime="20sec" chaseRange="1500" /> <!-- Dire Stakato Drone -->
+		<npc id="24571" count="2" respawnTime="20sec" chaseRange="1500" /> <!-- Dire Stakato Berserker -->
+		<npc id="24572" count="2" respawnTime="10sec" chaseRange="1500" /> <!-- Dire Stakato Shaman -->
+		<npc id="24573" count="2" respawnTime="10sec" chaseRange="1500" /> <!-- Dire Stakato Witch -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory name="rune12_2216_big_05" minZ="-3331" maxZ="-2831">
+				<node x="72249" y="-45372" />
+				<node x="72439" y="-45178" />
+				<node x="72439" y="-44922" />
+				<node x="72247" y="-44729" />
+				<node x="71990" y="-44730" />
+				<node x="71798" y="-44924" />
+				<node x="71801" y="-45179" />
+				<node x="71992" y="-45373" />
+			</territory>
+		</territories>
+		<npc id="24570" count="2" respawnTime="20sec" chaseRange="1500" /> <!-- Dire Stakato Drone -->
+		<npc id="24571" count="2" respawnTime="20sec" chaseRange="1500" /> <!-- Dire Stakato Berserker -->
+		<npc id="24572" count="2" respawnTime="10sec" chaseRange="1500" /> <!-- Dire Stakato Shaman -->
+		<npc id="24573" count="2" respawnTime="10sec" chaseRange="1500" /> <!-- Dire Stakato Witch -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory name="rune12_2216_big_06" minZ="-3331" maxZ="-2831">
+				<node x="72490" y="-45872" />
+				<node x="72680" y="-45679" />
+				<node x="72681" y="-45422" />
+				<node x="72488" y="-45230" />
+				<node x="72232" y="-45231" />
+				<node x="72040" y="-45425" />
+				<node x="72043" y="-45680" />
+				<node x="72233" y="-45874" />
+			</territory>
+		</territories>
+		<npc id="24570" count="2" respawnTime="20sec" chaseRange="1500" /> <!-- Dire Stakato Drone -->
+		<npc id="24571" count="2" respawnTime="20sec" chaseRange="1500" /> <!-- Dire Stakato Berserker -->
+		<npc id="24572" count="2" respawnTime="10sec" chaseRange="1500" /> <!-- Dire Stakato Shaman -->
+		<npc id="24573" count="2" respawnTime="10sec" chaseRange="1500" /> <!-- Dire Stakato Witch -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory name="rune12_2216_big_09" minZ="-3331" maxZ="-2831">
+				<node x="76533" y="-43664" />
+				<node x="76723" y="-43470" />
+				<node x="76724" y="-43214" />
+				<node x="76531" y="-43021" />
+				<node x="76275" y="-43022" />
+				<node x="76083" y="-43216" />
+				<node x="76086" y="-43471" />
+				<node x="76276" y="-43666" />
+			</territory>
+		</territories>
+		<npc id="24570" count="2" respawnTime="20sec" chaseRange="1500" /> <!-- Dire Stakato Drone -->
+		<npc id="24571" count="2" respawnTime="20sec" chaseRange="1500" /> <!-- Dire Stakato Berserker -->
+		<npc id="24572" count="2" respawnTime="10sec" chaseRange="1500" /> <!-- Dire Stakato Shaman -->
+		<npc id="24573" count="2" respawnTime="10sec" chaseRange="1500" /> <!-- Dire Stakato Witch -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory name="rune12_2216_big_10" minZ="-3331" maxZ="-2831">
+				<node x="75923" y="-43666" />
+				<node x="76113" y="-43473" />
+				<node x="76114" y="-43216" />
+				<node x="75921" y="-43023" />
+				<node x="75665" y="-43024" />
+				<node x="75473" y="-43218" />
+				<node x="75476" y="-43474" />
+				<node x="75666" y="-43668" />
+			</territory>
+		</territories>
+		<npc id="24570" count="2" respawnTime="20sec" chaseRange="1500" /> <!-- Dire Stakato Drone -->
+		<npc id="24571" count="2" respawnTime="20sec" chaseRange="1500" /> <!-- Dire Stakato Berserker -->
+		<npc id="24572" count="2" respawnTime="10sec" chaseRange="1500" /> <!-- Dire Stakato Shaman -->
+		<npc id="24573" count="2" respawnTime="10sec" chaseRange="1500" /> <!-- Dire Stakato Witch -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory name="rune12_2216_big_15" minZ="-2415" maxZ="-1915">
+				<node x="82373" y="-54914" />
+				<node x="82563" y="-54720" />
+				<node x="82563" y="-54464" />
+				<node x="82371" y="-54271" />
+				<node x="82115" y="-54272" />
+				<node x="81923" y="-54466" />
+				<node x="81925" y="-54721" />
+				<node x="82116" y="-54916" />
+			</territory>
+		</territories>
+		<npc id="24570" count="2" respawnTime="20sec" chaseRange="1500" /> <!-- Dire Stakato Drone -->
+		<npc id="24571" count="2" respawnTime="20sec" chaseRange="1500" /> <!-- Dire Stakato Berserker -->
+		<npc id="24572" count="2" respawnTime="10sec" chaseRange="1500" /> <!-- Dire Stakato Shaman -->
+		<npc id="24573" count="2" respawnTime="10sec" chaseRange="1500" /> <!-- Dire Stakato Witch -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory name="rune12_2216_big_16" minZ="-2415" maxZ="-1915">
+				<node x="82174" y="-54464" />
+				<node x="82364" y="-54270" />
+				<node x="82364" y="-54014" />
+				<node x="82172" y="-53821" />
+				<node x="81916" y="-53822" />
+				<node x="81724" y="-54016" />
+				<node x="81726" y="-54271" />
+				<node x="81917" y="-54465" />
+			</territory>
+		</territories>
+		<npc id="24570" count="2" respawnTime="20sec" chaseRange="1500" /> <!-- Dire Stakato Drone -->
+		<npc id="24571" count="2" respawnTime="20sec" chaseRange="1500" /> <!-- Dire Stakato Berserker -->
+		<npc id="24572" count="2" respawnTime="10sec" chaseRange="1500" /> <!-- Dire Stakato Shaman -->
+		<npc id="24573" count="2" respawnTime="10sec" chaseRange="1500" /> <!-- Dire Stakato Witch -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory name="rune12_2216_big_17" minZ="-2415" maxZ="-1915">
+				<node x="80147" y="-56452" />
+				<node x="80337" y="-56258" />
+				<node x="80337" y="-56002" />
+				<node x="80145" y="-55809" />
+				<node x="79889" y="-55810" />
+				<node x="79697" y="-56004" />
+				<node x="79699" y="-56259" />
+				<node x="79890" y="-56453" />
+			</territory>
+		</territories>
+		<npc id="24570" count="2" respawnTime="20sec" chaseRange="1500" /> <!-- Dire Stakato Drone -->
+		<npc id="24571" count="2" respawnTime="20sec" chaseRange="1500" /> <!-- Dire Stakato Berserker -->
+		<npc id="24572" count="2" respawnTime="10sec" chaseRange="1500" /> <!-- Dire Stakato Shaman -->
+		<npc id="24573" count="2" respawnTime="10sec" chaseRange="1500" /> <!-- Dire Stakato Witch -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory name="rune12_2216_big_18" minZ="-2415" maxZ="-1915">
+				<node x="80616" y="-56636" />
+				<node x="80806" y="-56442" />
+				<node x="80806" y="-56186" />
+				<node x="80614" y="-55993" />
+				<node x="80358" y="-55994" />
+				<node x="80166" y="-56188" />
+				<node x="80168" y="-56443" />
+				<node x="80359" y="-56637" />
+			</territory>
+		</territories>
+		<npc id="24570" count="2" respawnTime="20sec" chaseRange="1500" /> <!-- Dire Stakato Drone -->
+		<npc id="24571" count="2" respawnTime="20sec" chaseRange="1500" /> <!-- Dire Stakato Berserker -->
+		<npc id="24572" count="2" respawnTime="10sec" chaseRange="1500" /> <!-- Dire Stakato Shaman -->
+		<npc id="24573" count="2" respawnTime="10sec" chaseRange="1500" /> <!-- Dire Stakato Witch -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory name="rune12_2216_out_01" minZ="-3246" maxZ="-2746">
+				<node x="71204" y="-52062" />
+				<node x="71394" y="-51869" />
+				<node x="71394" y="-51612" />
+				<node x="71202" y="-51419" />
+				<node x="70946" y="-51420" />
+				<node x="70754" y="-51614" />
+				<node x="70756" y="-51870" />
+				<node x="70947" y="-52064" />
+			</territory>
+		</territories>
+		<npc id="24570" count="3" respawnTime="20sec" chaseRange="1500" /> <!-- Dire Stakato Drone -->
+		<npc id="24572" count="3" respawnTime="10sec" chaseRange="1500" /> <!-- Dire Stakato Shaman -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory name="rune12_2216_out_02" minZ="-3246" maxZ="-2746">
+				<node x="72483" y="-53428" />
+				<node x="72673" y="-53235" />
+				<node x="72673" y="-52978" />
+				<node x="72481" y="-52785" />
+				<node x="72225" y="-52786" />
+				<node x="72033" y="-52980" />
+				<node x="72035" y="-53236" />
+				<node x="72226" y="-53430" />
+			</territory>
+		</territories>
+		<npc id="24570" count="3" respawnTime="20sec" chaseRange="1500" /> <!-- Dire Stakato Drone -->
+		<npc id="24572" count="3" respawnTime="10sec" chaseRange="1500" /> <!-- Dire Stakato Shaman -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory name="rune12_2216_out_03" minZ="-2440" maxZ="-1940">
+				<node x="78929" y="-60301" />
+				<node x="79119" y="-60108" />
+				<node x="79119" y="-59851" />
+				<node x="78927" y="-59658" />
+				<node x="78671" y="-59659" />
+				<node x="78479" y="-59853" />
+				<node x="78481" y="-60109" />
+				<node x="78672" y="-60303" />
+			</territory>
+		</territories>
+		<npc id="24570" count="3" respawnTime="20sec" chaseRange="1500" /> <!-- Dire Stakato Drone -->
+		<npc id="24572" count="3" respawnTime="10sec" chaseRange="1500" /> <!-- Dire Stakato Shaman -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory name="rune12_2216_out_04" minZ="-2440" maxZ="-1940">
+				<node x="82123" y="-62242" />
+				<node x="82313" y="-62049" />
+				<node x="82313" y="-61792" />
+				<node x="82121" y="-61599" />
+				<node x="81865" y="-61600" />
+				<node x="81673" y="-61794" />
+				<node x="81675" y="-62050" />
+				<node x="81866" y="-62244" />
+			</territory>
+		</territories>
+		<npc id="24570" count="3" respawnTime="20sec" chaseRange="1500" /> <!-- Dire Stakato Drone -->
+		<npc id="24572" count="3" respawnTime="10sec" chaseRange="1500" /> <!-- Dire Stakato Shaman -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory name="rune12_2216_out_05" minZ="-2440" maxZ="-1940">
+				<node x="86121" y="-57915" />
+				<node x="86311" y="-57722" />
+				<node x="86311" y="-57465" />
+				<node x="86119" y="-57272" />
+				<node x="85863" y="-57273" />
+				<node x="85671" y="-57467" />
+				<node x="85673" y="-57723" />
+				<node x="85864" y="-57917" />
+			</territory>
+		</territories>
+		<npc id="24570" count="3" respawnTime="20sec" chaseRange="1500" /> <!-- Dire Stakato Drone -->
+		<npc id="24572" count="3" respawnTime="10sec" chaseRange="1500" /> <!-- Dire Stakato Shaman -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory name="rune12_2216_out_06" minZ="-2440" maxZ="-1940">
+				<node x="89958" y="-62046" />
+				<node x="90148" y="-61853" />
+				<node x="90148" y="-61596" />
+				<node x="89956" y="-61403" />
+				<node x="89700" y="-61404" />
+				<node x="89508" y="-61598" />
+				<node x="89510" y="-61854" />
+				<node x="89701" y="-62048" />
+			</territory>
+		</territories>
+		<npc id="24570" count="3" respawnTime="20sec" chaseRange="1500" /> <!-- Dire Stakato Drone -->
+		<npc id="24572" count="3" respawnTime="10sec" chaseRange="1500" /> <!-- Dire Stakato Shaman -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory name="rune12_2216_out_07" minZ="-2736" maxZ="-2236">
+				<node x="90140" y="-54352" />
+				<node x="90330" y="-54159" />
+				<node x="90330" y="-53902" />
+				<node x="90138" y="-53709" />
+				<node x="89882" y="-53710" />
+				<node x="89690" y="-53904" />
+				<node x="89692" y="-54160" />
+				<node x="89883" y="-54354" />
+			</territory>
+		</territories>
+		<npc id="24570" count="3" respawnTime="20sec" chaseRange="1500" /> <!-- Dire Stakato Drone -->
+		<npc id="24572" count="3" respawnTime="10sec" chaseRange="1500" /> <!-- Dire Stakato Shaman -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory name="rune12_2216_out_08" minZ="-2705" maxZ="-2205">
+				<node x="92683" y="-56045" />
+				<node x="92873" y="-55852" />
+				<node x="92873" y="-55595" />
+				<node x="92681" y="-55402" />
+				<node x="92425" y="-55403" />
+				<node x="92233" y="-55597" />
+				<node x="92235" y="-55853" />
+				<node x="92426" y="-56047" />
+			</territory>
+		</territories>
+		<npc id="24570" count="3" respawnTime="20sec" chaseRange="1500" /> <!-- Dire Stakato Drone -->
+		<npc id="24572" count="3" respawnTime="10sec" chaseRange="1500" /> <!-- Dire Stakato Shaman -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory name="rune12_2216_out_09" minZ="-2750" maxZ="-2250">
+				<node x="96012" y="-53727" />
+				<node x="96202" y="-53534" />
+				<node x="96202" y="-53277" />
+				<node x="96010" y="-53084" />
+				<node x="95754" y="-53085" />
+				<node x="95562" y="-53279" />
+				<node x="95564" y="-53535" />
+				<node x="95755" y="-53729" />
+			</territory>
+		</territories>
+		<npc id="24570" count="3" respawnTime="20sec" chaseRange="1500" /> <!-- Dire Stakato Drone -->
+		<npc id="24572" count="3" respawnTime="10sec" chaseRange="1500" /> <!-- Dire Stakato Shaman -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory name="rune12_2216_out_10" minZ="-2750" maxZ="-2250">
+				<node x="93282" y="-51573" />
+				<node x="93472" y="-51380" />
+				<node x="93472" y="-51123" />
+				<node x="93280" y="-50930" />
+				<node x="93024" y="-50931" />
+				<node x="92832" y="-51125" />
+				<node x="92834" y="-51381" />
+				<node x="93025" y="-51575" />
+			</territory>
+		</territories>
+		<npc id="24570" count="3" respawnTime="20sec" chaseRange="1500" /> <!-- Dire Stakato Drone -->
+		<npc id="24572" count="3" respawnTime="10sec" chaseRange="1500" /> <!-- Dire Stakato Shaman -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory name="rune12_2216_out_11" minZ="-3333" maxZ="-2833">
+				<node x="70688" y="-43454" />
+				<node x="70878" y="-43261" />
+				<node x="70878" y="-43004" />
+				<node x="70686" y="-42811" />
+				<node x="70430" y="-42812" />
+				<node x="70238" y="-43006" />
+				<node x="70240" y="-43262" />
+				<node x="70431" y="-43456" />
+			</territory>
+		</territories>
+		<npc id="24570" count="3" respawnTime="20sec" chaseRange="1500" /> <!-- Dire Stakato Drone -->
+		<npc id="24572" count="3" respawnTime="10sec" chaseRange="1500" /> <!-- Dire Stakato Shaman -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory name="rune12_2216_out_12" minZ="-3333" maxZ="-2833">
+				<node x="74411" y="-40685" />
+				<node x="74601" y="-40492" />
+				<node x="74601" y="-40235" />
+				<node x="74409" y="-40042" />
+				<node x="74153" y="-40043" />
+				<node x="73961" y="-40237" />
+				<node x="73963" y="-40493" />
+				<node x="74154" y="-40687" />
+			</territory>
+		</territories>
+		<npc id="24570" count="3" respawnTime="20sec" chaseRange="1500" /> <!-- Dire Stakato Drone -->
+		<npc id="24572" count="3" respawnTime="10sec" chaseRange="1500" /> <!-- Dire Stakato Shaman -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory name="rune12_2216_out_13" minZ="-3333" maxZ="-2833">
+				<node x="83421" y="-44199" />
+				<node x="83611" y="-44006" />
+				<node x="83611" y="-43749" />
+				<node x="83419" y="-43556" />
+				<node x="83163" y="-43557" />
+				<node x="82971" y="-43751" />
+				<node x="82973" y="-44007" />
+				<node x="83164" y="-44201" />
+			</territory>
+		</territories>
+		<npc id="24570" count="3" respawnTime="20sec" chaseRange="1500" /> <!-- Dire Stakato Drone -->
+		<npc id="24572" count="3" respawnTime="10sec" chaseRange="1500" /> <!-- Dire Stakato Shaman -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory name="rune12_2216_out_14" minZ="-3333" maxZ="-2833">
+				<node x="79555" y="-40295" />
+				<node x="79745" y="-40102" />
+				<node x="79745" y="-39845" />
+				<node x="79553" y="-39652" />
+				<node x="79297" y="-39653" />
+				<node x="79105" y="-39847" />
+				<node x="79107" y="-40103" />
+				<node x="79298" y="-40297" />
+			</territory>
+		</territories>
+		<npc id="24570" count="3" respawnTime="20sec" chaseRange="1500" /> <!-- Dire Stakato Drone -->
+		<npc id="24572" count="3" respawnTime="10sec" chaseRange="1500" /> <!-- Dire Stakato Shaman -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory name="rune12_2216_out_15" minZ="-3333" maxZ="-2833">
+				<node x="77294" y="-46771" />
+				<node x="77484" y="-46578" />
+				<node x="77484" y="-46321" />
+				<node x="77292" y="-46128" />
+				<node x="77036" y="-46129" />
+				<node x="76844" y="-46323" />
+				<node x="76846" y="-46579" />
+				<node x="77037" y="-46773" />
+			</territory>
+		</territories>
+		<npc id="24570" count="3" respawnTime="20sec" chaseRange="1500" /> <!-- Dire Stakato Drone -->
+		<npc id="24572" count="3" respawnTime="10sec" chaseRange="1500" /> <!-- Dire Stakato Shaman -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory name="rune12_2216_out_16" minZ="-3333" maxZ="-2833">
+				<node x="78371" y="-45107" />
+				<node x="78561" y="-44914" />
+				<node x="78561" y="-44657" />
+				<node x="78369" y="-44464" />
+				<node x="78113" y="-44465" />
+				<node x="77921" y="-44659" />
+				<node x="77923" y="-44915" />
+				<node x="78114" y="-45109" />
+			</territory>
+		</territories>
+		<npc id="24570" count="3" respawnTime="20sec" chaseRange="1500" /> <!-- Dire Stakato Drone -->
+		<npc id="24572" count="3" respawnTime="10sec" chaseRange="1500" /> <!-- Dire Stakato Shaman -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory name="rune12_2216_out_17" minZ="-3378" maxZ="-2878">
+				<node x="81874" y="-47352" />
+				<node x="82064" y="-47159" />
+				<node x="82064" y="-46902" />
+				<node x="81872" y="-46709" />
+				<node x="81616" y="-46710" />
+				<node x="81424" y="-46904" />
+				<node x="81426" y="-47160" />
+				<node x="81617" y="-47354" />
+			</territory>
+		</territories>
+		<npc id="24570" count="3" respawnTime="20sec" chaseRange="1500" /> <!-- Dire Stakato Drone -->
+		<npc id="24572" count="3" respawnTime="10sec" chaseRange="1500" /> <!-- Dire Stakato Shaman -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory name="rune12_2216_out_18" minZ="-2480" maxZ="-1980">
+				<node x="81508" y="-52237" />
+				<node x="81698" y="-52044" />
+				<node x="81698" y="-51787" />
+				<node x="81506" y="-51594" />
+				<node x="81250" y="-51595" />
+				<node x="81058" y="-51789" />
+				<node x="81060" y="-52045" />
+				<node x="81251" y="-52239" />
+			</territory>
+		</territories>
+		<npc id="24570" count="3" respawnTime="20sec" chaseRange="1500" /> <!-- Dire Stakato Drone -->
+		<npc id="24572" count="3" respawnTime="10sec" chaseRange="1500" /> <!-- Dire Stakato Shaman -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory name="rune12_2216_out_19" minZ="-2480" maxZ="-1980">
+				<node x="84405" y="-56499" />
+				<node x="84595" y="-56306" />
+				<node x="84595" y="-56049" />
+				<node x="84403" y="-55856" />
+				<node x="84147" y="-55857" />
+				<node x="83955" y="-56051" />
+				<node x="83957" y="-56307" />
+				<node x="84148" y="-56501" />
+			</territory>
+		</territories>
+		<npc id="24570" count="3" respawnTime="20sec" chaseRange="1500" /> <!-- Dire Stakato Drone -->
+		<npc id="24572" count="3" respawnTime="10sec" chaseRange="1500" /> <!-- Dire Stakato Shaman -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory name="rune12_2216_out_20" minZ="-3208" maxZ="-2708">
+				<node x="74731" y="-53288" />
+				<node x="74921" y="-53095" />
+				<node x="74921" y="-52838" />
+				<node x="74729" y="-52645" />
+				<node x="74473" y="-52646" />
+				<node x="74281" y="-52840" />
+				<node x="74283" y="-53096" />
+				<node x="74474" y="-53290" />
+			</territory>
+		</territories>
+		<npc id="24570" count="3" respawnTime="20sec" chaseRange="1500" /> <!-- Dire Stakato Drone -->
+		<npc id="24572" count="3" respawnTime="10sec" chaseRange="1500" /> <!-- Dire Stakato Shaman -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory name="rune12_2216_out_21" minZ="-2438" maxZ="-1938">
+				<node x="81685" y="-58517" />
+				<node x="81875" y="-58324" />
+				<node x="81875" y="-58067" />
+				<node x="81683" y="-57874" />
+				<node x="81427" y="-57875" />
+				<node x="81235" y="-58069" />
+				<node x="81237" y="-58325" />
+				<node x="81428" y="-58519" />
+			</territory>
+		</territories>
+		<npc id="24570" count="3" respawnTime="20sec" chaseRange="1500" /> <!-- Dire Stakato Drone -->
+		<npc id="24572" count="3" respawnTime="10sec" chaseRange="1500" /> <!-- Dire Stakato Shaman -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory name="rune12_2216_out_22" minZ="-3333" maxZ="-2833">
+				<node x="73225" y="-48582" />
+				<node x="73415" y="-48389" />
+				<node x="73415" y="-48132" />
+				<node x="73223" y="-47939" />
+				<node x="72967" y="-47940" />
+				<node x="72775" y="-48134" />
+				<node x="72777" y="-48390" />
+				<node x="72968" y="-48584" />
+			</territory>
+		</territories>
+		<npc id="24570" count="3" respawnTime="20sec" chaseRange="1500" /> <!-- Dire Stakato Drone -->
+		<npc id="24572" count="3" respawnTime="10sec" chaseRange="1500" /> <!-- Dire Stakato Shaman -->
+	</spawn>
+</list>

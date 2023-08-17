@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
+	<spawn name="24_18">
+		<group>
+			<npc id="30839" x="146056" y="27970" z="-2255" heading="16383" respawnTime="60sec" /> <!-- Holly -->
+			<npc id="30839" x="146902" y="28982" z="-2255" heading="33922" respawnTime="60sec" /> <!-- Holly -->
+		</group>
+	</spawn>
+</list>

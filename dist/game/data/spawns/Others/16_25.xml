@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
+	<spawn name="16_25">
+		<group>
+			<npc id="23452" x="-109797" y="248438" z="-2711" heading="55967" respawnTime="60sec" /> <!-- Honeybee -->
+			<npc id="23452" x="-109766" y="248369" z="-2711" heading="25290" respawnTime="60sec" /> <!-- Honeybee -->
+			<npc id="23452" x="-109398" y="248469" z="-2816" heading="47502" respawnTime="60sec" /> <!-- Honeybee -->
+			<npc id="23452" x="-109292" y="247819" z="-2924" heading="54054" respawnTime="60sec" /> <!-- Honeybee -->
+			<npc id="23452" x="-109337" y="247549" z="-2935" heading="47311" respawnTime="60sec" /> <!-- Honeybee -->
+			<npc id="23452" x="-108987" y="247747" z="-3030" heading="8361" respawnTime="60sec" /> <!-- Honeybee -->
+			<npc id="23452" x="-108713" y="247912" z="-3145" heading="5598" respawnTime="60sec" /> <!-- Honeybee -->
+			<npc id="23452" x="-108212" y="247860" z="-3199" heading="64461" respawnTime="60sec" /> <!-- Honeybee -->
+			<npc id="23452" x="-107709" y="247588" z="-3296" heading="59643" respawnTime="60sec" /> <!-- Honeybee -->
+			<npc id="23452" x="-107417" y="247416" z="-3339" heading="60030" respawnTime="60sec" /> <!-- Honeybee -->
+			<npc id="23452" x="-107302" y="247292" z="-3359" heading="51895" respawnTime="60sec" /> <!-- Honeybee -->
+			<npc id="23452" x="-107808" y="247338" z="-3308" heading="31660" respawnTime="60sec" /> <!-- Honeybee -->
+			<npc id="23452" x="-107916" y="247832" z="-3232" heading="20352" respawnTime="60sec" /> <!-- Honeybee -->
+			<npc id="23452" x="-108075" y="248147" z="-3226" heading="24010" respawnTime="60sec" /> <!-- Honeybee -->
+			<npc id="23452" x="-107959" y="248110" z="-3241" heading="62315" respawnTime="60sec" /> <!-- Honeybee -->
+			<npc id="23452" x="-107556" y="247800" z="-3313" heading="59150" respawnTime="60sec" /> <!-- Honeybee -->
+			<npc id="23452" x="-108605" y="248150" z="-3068" heading="27452" respawnTime="60sec" /> <!-- Honeybee -->
+			<npc id="23452" x="-108916" y="248201" z="-3014" heading="35687" respawnTime="60sec" /> <!-- Honeybee -->
+			<npc id="23452" x="-109114" y="248400" z="-2894" heading="24612" respawnTime="60sec" /> <!-- Honeybee -->
+			<npc id="23452" x="-109316" y="248738" z="-2846" heading="21240" respawnTime="60sec" /> <!-- Honeybee -->
+			<npc id="23452" x="-109506" y="248970" z="-2783" heading="24264" respawnTime="60sec" /> <!-- Honeybee -->
+			<npc id="23452" x="-109374" y="248952" z="-2845" heading="58464" respawnTime="60sec" /> <!-- Honeybee -->
+			<npc id="23452" x="-108933" y="248452" z="-2958" heading="56046" respawnTime="60sec" /> <!-- Honeybee -->
+			<npc id="23452" x="-108827" y="247787" z="-3098" heading="50162" respawnTime="60sec" /> <!-- Honeybee -->
+			<npc id="23452" x="-109131" y="247539" z="-3012" heading="39183" respawnTime="60sec" /> <!-- Honeybee -->
+			<npc id="20120" x="-108299" y="247249" z="-2872" heading="48500" respawnTime="60sec" /> <!-- Wolf -->
+			<npc id="20120" x="-108198" y="247629" z="-3211" heading="11583" respawnTime="60sec" /> <!-- Wolf -->
+			<npc id="20120" x="-108237" y="247891" z="-3202" heading="17925" respawnTime="60sec" /> <!-- Wolf -->
+			<npc id="20120" x="-108661" y="248402" z="-3132" heading="28611" respawnTime="60sec" /> <!-- Wolf -->
+			<npc id="20120" x="-108761" y="248378" z="-3060" heading="35894" respawnTime="60sec" /> <!-- Wolf -->
+			<npc id="20120" x="-108156" y="249238" z="-3114" heading="8681" respawnTime="60sec" /> <!-- Wolf -->
+			<npc id="20120" x="-108019" y="249433" z="-3102" heading="10067" respawnTime="60sec" /> <!-- Wolf -->
+			<npc id="20120" x="-107756" y="249540" z="-3116" heading="4520" respawnTime="60sec" /> <!-- Wolf -->
+			<npc id="20120" x="-108034" y="249765" z="-3078" heading="27983" respawnTime="60sec" /> <!-- Wolf -->
+			<npc id="20120" x="-108442" y="249812" z="-3043" heading="32365" respawnTime="60sec" /> <!-- Wolf -->
+			<npc id="20120" x="-108811" y="249973" z="-3009" heading="28381" respawnTime="60sec" /> <!-- Wolf -->
+			<npc id="20120" x="-109109" y="250050" z="-2972" heading="30265" respawnTime="60sec" /> <!-- Wolf -->
+			<npc id="20120" x="-108926" y="249789" z="-2995" heading="56637" respawnTime="60sec" /> <!-- Wolf -->
+			<npc id="20120" x="-108688" y="249674" z="-3009" heading="60948" respawnTime="60sec" /> <!-- Wolf -->
+			<npc id="20120" x="-108400" y="249403" z="-3066" heading="57931" respawnTime="60sec" /> <!-- Wolf -->
+			<npc id="20120" x="-108298" y="249276" z="-3098" heading="55995" respawnTime="60sec" /> <!-- Wolf -->
+			<npc id="20120" x="-109014" y="248984" z="-2953" heading="36082" respawnTime="60sec" /> <!-- Wolf -->
+			<npc id="20120" x="-109326" y="248861" z="-2861" heading="36835" respawnTime="60sec" /> <!-- Wolf -->
+			<npc id="20120" x="-109379" y="248538" z="-2817" heading="48634" respawnTime="60sec" /> <!-- Wolf -->
+			<npc id="20120" x="-109187" y="248081" z="-2911" heading="53747" respawnTime="60sec" /> <!-- Wolf -->
+			<npc id="20120" x="-108366" y="247795" z="-3178" heading="62368" respawnTime="60sec" /> <!-- Wolf -->
+			<npc id="20120" x="-107845" y="247683" z="-3261" heading="63498" respawnTime="60sec" /> <!-- Wolf -->
+			<npc id="20120" x="-107502" y="247606" z="-3335" heading="63298" respawnTime="60sec" /> <!-- Wolf -->
+			<npc id="20120" x="-107203" y="247533" z="-3354" heading="63101" respawnTime="60sec" /> <!-- Wolf -->
+			<npc id="20120" x="-113625" y="253606" z="-1496" heading="48740" respawnTime="60sec" /> <!-- Wolf -->
+			<npc id="20119" x="-108211" y="247575" z="-3220" heading="39912" respawnTime="60sec" /> <!-- Elder Fox -->
+			<npc id="20119" x="-108793" y="247557" z="-3153" heading="34768" respawnTime="60sec" /> <!-- Elder Fox -->
+			<npc id="20119" x="-109091" y="247548" z="-3031" heading="33568" respawnTime="60sec" /> <!-- Elder Fox -->
+			<npc id="20119" x="-109153" y="248808" z="-2893" heading="14555" respawnTime="60sec" /> <!-- Elder Fox -->
+			<npc id="20119" x="-109425" y="249188" z="-2876" heading="24236" respawnTime="60sec" /> <!-- Elder Fox -->
+			<npc id="20119" x="-109705" y="249498" z="-2845" heading="24694" respawnTime="60sec" /> <!-- Elder Fox -->
+			<npc id="20119" x="-109978" y="249827" z="-2852" heading="49615" respawnTime="60sec" /> <!-- Elder Fox -->
+			<npc id="20119" x="-109222" y="250028" z="-2958" heading="4142" respawnTime="60sec" /> <!-- Elder Fox -->
+			<npc id="20119" x="-108707" y="249949" z="-3020" heading="61658" respawnTime="60sec" /> <!-- Elder Fox -->
+			<npc id="20119" x="-108631" y="249739" z="-3017" heading="51340" respawnTime="60sec" /> <!-- Elder Fox -->
+			<npc id="20119" x="-108782" y="249741" z="-3002" heading="25453" respawnTime="60sec" /> <!-- Elder Fox -->
+			<npc id="20119" x="-108339" y="249872" z="-3049" heading="3602" respawnTime="60sec" /> <!-- Elder Fox -->
+			<npc id="33178" x="-117660" y="248925" z="-1943" heading="13536" respawnTime="60sec" /> <!-- Silvan -->
+			<npc id="20119" x="-119415" y="244181" z="-2140" heading="40040" respawnTime="60sec" /> <!-- Elder Fox -->
+			<npc id="20094" x="-119415" y="244181" z="-2140" heading="40040" respawnTime="60sec" /> <!-- Orc Sniper -->
+			<npc id="20094" x="-119290" y="244271" z="-2116" heading="6508" respawnTime="60sec" /> <!-- Orc Sniper -->
+			<npc id="20094" x="-121120" y="243533" z="-2211" heading="35833" respawnTime="60sec" /> <!-- Orc Sniper -->
+			<npc id="20094" x="-121328" y="243372" z="-2204" heading="39560" respawnTime="60sec" /> <!-- Orc Sniper -->
+			<npc id="20094" x="-121568" y="243220" z="-2188" heading="38596" respawnTime="60sec" /> <!-- Orc Sniper -->
+			<npc id="20094" x="-121267" y="243003" z="-2192" heading="2198" respawnTime="60sec" /> <!-- Orc Sniper -->
+			<npc id="20094" x="-121169" y="243133" z="-2212" heading="11277" respawnTime="60sec" /> <!-- Orc Sniper -->
+			<npc id="20094" x="-120868" y="243382" z="-2213" heading="7417" respawnTime="60sec" /> <!-- Orc Sniper -->
+			<npc id="20094" x="-120476" y="243676" z="-2223" heading="3376" respawnTime="60sec" /> <!-- Orc Sniper -->
+			<npc id="20094" x="-120002" y="243987" z="-2190" heading="5597" respawnTime="60sec" /> <!-- Orc Sniper -->
+			<npc id="20094" x="-119787" y="244122" z="-2174" heading="5888" respawnTime="60sec" /> <!-- Orc Sniper -->
+			<npc id="20093" x="-119014" y="244792" z="-2056" heading="11184" respawnTime="60sec" /> <!-- Orc Warrior -->
+			<npc id="20093" x="-118801" y="244968" z="-2029" heading="4062" respawnTime="60sec" /> <!-- Orc Warrior -->
+			<npc id="20093" x="-118640" y="245053" z="-2018" heading="5066" respawnTime="60sec" /> <!-- Orc Warrior -->
+			<npc id="20093" x="-118535" y="245027" z="-2016" heading="63004" respawnTime="60sec" /> <!-- Orc Warrior -->
+			<npc id="20093" x="-118421" y="244774" z="-2019" heading="51448" respawnTime="60sec" /> <!-- Orc Warrior -->
+			<npc id="20093" x="-118521" y="244731" z="-2026" heading="37003" respawnTime="60sec" /> <!-- Orc Warrior -->
+			<npc id="20093" x="-118605" y="244567" z="-2042" heading="44214" respawnTime="60sec" /> <!-- Orc Warrior -->
+			<npc id="20093" x="-118863" y="244486" z="-2071" heading="36185" respawnTime="60sec" /> <!-- Orc Warrior -->
+			<npc id="20093" x="-118864" y="244500" z="-2070" heading="11316" respawnTime="60sec" /> <!-- Orc Warrior -->
+			<npc id="20093" x="-119393" y="244465" z="-2111" heading="33688" respawnTime="60sec" /> <!-- Orc Warrior -->
+			<npc id="20093" x="-119624" y="244303" z="-2143" heading="39084" respawnTime="60sec" /> <!-- Orc Warrior -->
+			<npc id="20093" x="-119785" y="244026" z="-2185" heading="44928" respawnTime="60sec" /> <!-- Orc Warrior -->
+			<npc id="20093" x="-120898" y="243468" z="-2216" heading="38944" respawnTime="60sec" /> <!-- Orc Warrior -->
+			<npc id="20093" x="-120873" y="243585" z="-2216" heading="65260" respawnTime="60sec" /> <!-- Orc Warrior -->
+			<npc id="20093" x="-119382" y="244200" z="-2134" heading="6689" respawnTime="60sec" /> <!-- Orc Warrior -->
+			<npc id="20093" x="-119380" y="244044" z="-2139" heading="45309" respawnTime="60sec" /> <!-- Orc Warrior -->
+			<npc id="20093" x="-118557" y="244976" z="-2019" heading="8074" respawnTime="60sec" /> <!-- Orc Warrior -->
+			<npc id="20093" x="-117911" y="247416" z="-2255" heading="44427" respawnTime="60sec" /> <!-- Orc Warrior -->
+			<npc id="20093" x="-117607" y="247213" z="-2306" heading="61137" respawnTime="60sec" /> <!-- Orc Warrior -->
+			<npc id="20093" x="-117596" y="246832" z="-2329" heading="50333" respawnTime="60sec" /> <!-- Orc Warrior -->
+			<npc id="20093" x="-117538" y="246555" z="-2292" heading="51164" respawnTime="60sec" /> <!-- Orc Warrior -->
+			<npc id="20093" x="-117470" y="246172" z="-2212" heading="50920" respawnTime="60sec" /> <!-- Orc Warrior -->
+			<npc id="20093" x="-117582" y="245914" z="-2143" heading="44646" respawnTime="60sec" /> <!-- Orc Warrior -->
+			<npc id="20093" x="-117616" y="245669" z="-2081" heading="49076" respawnTime="60sec" /> <!-- Orc Warrior -->
+			<npc id="20093" x="-117497" y="245493" z="-2057" heading="54801" respawnTime="60sec" /> <!-- Orc Warrior -->
+			<npc id="20093" x="-118240" y="245245" z="-2002" heading="36405" respawnTime="60sec" /> <!-- Orc Warrior -->
+			<npc id="20093" x="-118572" y="245102" z="-2011" heading="37130" respawnTime="60sec" /> <!-- Orc Warrior -->
+			<npc id="20093" x="-113072" y="246097" z="-3679" heading="36959" respawnTime="60sec" /> <!-- Orc Warrior -->
+			<npc id="20094" x="-113190" y="245933" z="-3703" heading="42646" respawnTime="60sec" /> <!-- Orc Sniper -->
+			<npc id="20093" x="-113190" y="245933" z="-3703" heading="52321" respawnTime="60sec" /> <!-- Orc Warrior -->
+			<npc id="20094" x="-113087" y="245584" z="-3704" heading="52858" respawnTime="60sec" /> <!-- Orc Sniper -->
+			<npc id="20093" x="-113025" y="245416" z="-3705" heading="52858" respawnTime="60sec" /> <!-- Orc Warrior -->
+			<npc id="20094" x="-112977" y="245322" z="-3708" heading="16183" respawnTime="60sec" /> <!-- Orc Sniper -->
+			<npc id="20093" x="-113167" y="245869" z="-3705" heading="20150" respawnTime="60sec" /> <!-- Orc Warrior -->
+			<npc id="20094" x="-113216" y="246141" z="-3698" heading="17763" respawnTime="60sec" /> <!-- Orc Sniper -->
+			<npc id="20093" x="-113183" y="246373" z="-3693" heading="10040" respawnTime="60sec" /> <!-- Orc Warrior -->
+			<npc id="20094" x="-112951" y="246919" z="-3667" heading="17956" respawnTime="60sec" /> <!-- Orc Sniper -->
+			<npc id="20093" x="-112951" y="246919" z="-3667" heading="17956" respawnTime="60sec" /> <!-- Orc Warrior -->
+			<npc id="20093" x="-113138" y="247011" z="-3714" heading="26879" respawnTime="60sec" /> <!-- Orc Warrior -->
+			<npc id="20094" x="-113138" y="247011" z="-3714" heading="32912" respawnTime="60sec" /> <!-- Orc Sniper -->
+			<npc id="20093" x="-113492" y="247014" z="-3749" heading="32519" respawnTime="60sec" /> <!-- Orc Warrior -->
+			<npc id="20094" x="-113492" y="247014" z="-3749" heading="32519" respawnTime="60sec" /> <!-- Orc Sniper -->
+			<npc id="20093" x="-113648" y="246844" z="-3740" heading="52027" respawnTime="60sec" /> <!-- Orc Warrior -->
+			<npc id="20094" x="-113631" y="246782" z="-3734" heading="52027" respawnTime="60sec" /> <!-- Orc Sniper -->
+			<npc id="20093" x="-113804" y="246560" z="-3707" heading="42190" respawnTime="60sec" /> <!-- Orc Warrior -->
+			<npc id="20094" x="-113862" y="246487" z="-3708" heading="42190" respawnTime="60sec" /> <!-- Orc Sniper -->
+			<npc id="20093" x="-114271" y="246235" z="-3681" heading="42617" respawnTime="60sec" /> <!-- Orc Warrior -->
+			<npc id="20094" x="-114325" y="246160" z="-3671" heading="42617" respawnTime="60sec" /> <!-- Orc Sniper -->
+			<npc id="20093" x="-114456" y="246025" z="-3653" heading="41083" respawnTime="60sec" /> <!-- Orc Warrior -->
+			<npc id="20094" x="-114494" y="245988" z="-3648" heading="41083" respawnTime="60sec" /> <!-- Orc Sniper -->
+			<npc id="20093" x="-114676" y="245962" z="-3619" heading="34227" respawnTime="60sec" /> <!-- Orc Warrior -->
+			<npc id="20094" x="-114795" y="245980" z="-3593" heading="30181" respawnTime="60sec" /> <!-- Orc Sniper -->
+			<npc id="20093" x="-114795" y="245980" z="-3593" heading="30842" respawnTime="60sec" /> <!-- Orc Warrior -->
+			<npc id="20094" x="-114882" y="245996" z="-3566" heading="30842" respawnTime="60sec" /> <!-- Orc Sniper -->
+			<npc id="20093" x="-114882" y="245996" z="-3566" heading="31200" respawnTime="60sec" /> <!-- Orc Warrior -->
+			<npc id="20094" x="-115117" y="246219" z="-3464" heading="15583" respawnTime="60sec" /> <!-- Orc Sniper -->
+			<npc id="20093" x="-115109" y="246312" z="-3459" heading="15583" respawnTime="60sec" /> <!-- Orc Warrior -->
+			<npc id="20094" x="-115165" y="245921" z="-3476" heading="41647" respawnTime="60sec" /> <!-- Orc Sniper -->
+			<npc id="20093" x="-115222" y="245855" z="-3443" heading="41647" respawnTime="60sec" /> <!-- Orc Warrior -->
+			<npc id="20094" x="-115332" y="245641" z="-3380" heading="46106" respawnTime="60sec" /> <!-- Orc Sniper -->
+			<npc id="20093" x="-115332" y="245641" z="-3380" heading="46106" respawnTime="60sec" /> <!-- Orc Warrior -->
+			<npc id="20094" x="-114583" y="245716" z="-3629" heading="57183" respawnTime="60sec" /> <!-- Orc Sniper -->
+			<npc id="20093" x="-114583" y="245716" z="-3629" heading="57183" respawnTime="60sec" /> <!-- Orc Warrior -->
+			<npc id="20094" x="-114247" y="245584" z="-3663" heading="60773" respawnTime="60sec" /> <!-- Orc Sniper -->
+			<npc id="20093" x="-114247" y="245584" z="-3663" heading="60773" respawnTime="60sec" /> <!-- Orc Warrior -->
+			<npc id="20094" x="-113986" y="245494" z="-3685" heading="64838" respawnTime="60sec" /> <!-- Orc Sniper -->
+			<npc id="20093" x="-113986" y="245494" z="-3685" heading="64838" respawnTime="60sec" /> <!-- Orc Warrior -->
+			<npc id="20094" x="-113893" y="245488" z="-3694" heading="1905" respawnTime="60sec" /> <!-- Orc Sniper -->
+			<npc id="20093" x="-113518" y="245704" z="-3719" heading="9411" respawnTime="60sec" /> <!-- Orc Warrior -->
+			<npc id="20094" x="-113722" y="245719" z="-3713" heading="17946" respawnTime="60sec" /> <!-- Orc Sniper -->
+			<npc id="20093" x="-113560" y="245002" z="-3712" heading="49611" respawnTime="60sec" /> <!-- Orc Warrior -->
+			<npc id="20094" x="-113651" y="245008" z="-3694" heading="33298" respawnTime="60sec" /> <!-- Orc Sniper -->
+			<npc id="20093" x="-113294" y="245042" z="-3737" heading="64626" respawnTime="60sec" /> <!-- Orc Warrior -->
+			<npc id="20094" x="-113182" y="245033" z="-3735" heading="58357" respawnTime="60sec" /> <!-- Orc Sniper -->
+			<npc id="20093" x="-113100" y="245121" z="-3727" heading="15481" respawnTime="60sec" /> <!-- Orc Warrior -->
+			<npc id="20094" x="-113028" y="245316" z="-3716" heading="5576" respawnTime="60sec" /> <!-- Orc Sniper -->
+			<npc id="20093" x="-112789" y="245457" z="-3752" heading="5576" respawnTime="60sec" /> <!-- Orc Warrior -->
+			<npc id="20093" x="-112638" y="245580" z="-3732" heading="14263" respawnTime="60sec" /> <!-- Orc Warrior -->
+			<npc id="20093" x="-114098" y="245877" z="-3704" heading="24261" respawnTime="60sec" /> <!-- Orc Warrior -->
+			<npc id="20093" x="-115311" y="246308" z="-3399" heading="30587" respawnTime="60sec" /> <!-- Orc Warrior -->
+			<npc id="20094" x="-115311" y="246308" z="-3399" heading="30587" respawnTime="60sec" /> <!-- Orc Sniper -->
+			<npc id="20093" x="-115955" y="246590" z="-3191" heading="25031" respawnTime="60sec" /> <!-- Orc Warrior -->
+			<npc id="20094" x="-116020" y="246650" z="-3161" heading="25031" respawnTime="60sec" /> <!-- Orc Sniper -->
+			<npc id="20093" x="-116203" y="246851" z="-3061" heading="24279" respawnTime="60sec" /> <!-- Orc Warrior -->
+			<npc id="20094" x="-116203" y="246851" z="-3061" heading="24279" respawnTime="60sec" /> <!-- Orc Sniper -->
+			<npc id="20093" x="-116394" y="247023" z="-2963" heading="26881" respawnTime="60sec" /> <!-- Orc Warrior -->
+			<npc id="20094" x="-116394" y="247023" z="-2963" heading="26881" respawnTime="60sec" /> <!-- Orc Sniper -->
+			<npc id="20093" x="-116645" y="247036" z="-2883" heading="34652" respawnTime="60sec" /> <!-- Orc Warrior -->
+			<npc id="20094" x="-116734" y="247020" z="-2861" heading="34652" respawnTime="60sec" /> <!-- Orc Sniper -->
+			<npc id="20093" x="-116690" y="246563" z="-2877" heading="52192" respawnTime="60sec" /> <!-- Orc Warrior -->
+			<npc id="20094" x="-116663" y="246474" z="-2879" heading="52192" respawnTime="60sec" /> <!-- Orc Sniper -->
+			<npc id="20093" x="-116479" y="246045" z="-2857" heading="54249" respawnTime="60sec" /> <!-- Orc Warrior -->
+			<npc id="20094" x="-116435" y="245963" z="-2850" heading="54249" respawnTime="60sec" /> <!-- Orc Sniper -->
+			<npc id="20094" x="-116337" y="245806" z="-2828" heading="55679" respawnTime="60sec" /> <!-- Orc Sniper -->
+			<npc id="20093" x="-116283" y="245731" z="-2814" heading="55830" respawnTime="60sec" /> <!-- Orc Warrior -->
+			<npc id="20094" x="-116089" y="245425" z="-2735" heading="52426" respawnTime="60sec" /> <!-- Orc Sniper -->
+			<npc id="20093" x="-116089" y="245425" z="-2735" heading="52426" respawnTime="60sec" /> <!-- Orc Warrior -->
+			<npc id="20094" x="-116008" y="245175" z="-2638" heading="47769" respawnTime="60sec" /> <!-- Orc Sniper -->
+			<npc id="20093" x="-116019" y="245091" z="-2598" heading="47769" respawnTime="60sec" /> <!-- Orc Warrior -->
+			<npc id="20094" x="-116055" y="244839" z="-2480" heading="47342" respawnTime="60sec" /> <!-- Orc Sniper -->
+			<npc id="20093" x="-116071" y="244755" z="-2442" heading="47476" respawnTime="60sec" /> <!-- Orc Warrior -->
+			<npc id="20093" x="-116348" y="244329" z="-2314" heading="36556" respawnTime="60sec" /> <!-- Orc Warrior -->
+			<npc id="20094" x="-116348" y="244329" z="-2314" heading="36556" respawnTime="60sec" /> <!-- Orc Sniper -->
+			<npc id="20093" x="-116664" y="244657" z="-2225" heading="24575" respawnTime="60sec" /> <!-- Orc Warrior -->
+			<npc id="20094" x="-116664" y="244657" z="-2225" heading="24575" respawnTime="60sec" /> <!-- Orc Sniper -->
+			<npc id="20094" x="-116853" y="244846" z="-2144" heading="24575" respawnTime="60sec" /> <!-- Orc Sniper -->
+			<npc id="20093" x="-116980" y="244973" z="-2091" heading="19857" respawnTime="60sec" /> <!-- Orc Warrior -->
+			<npc id="20094" x="-117082" y="245180" z="-2037" heading="23142" respawnTime="60sec" /> <!-- Orc Sniper -->
+			<npc id="20093" x="-115945" y="246412" z="-3232" heading="60265" respawnTime="60sec" /> <!-- Orc Warrior -->
+			<npc id="20093" x="-116760" y="246263" z="-2901" heading="42886" respawnTime="60sec" /> <!-- Orc Warrior -->
+			<npc id="20093" x="-116495" y="246046" z="-2875" heading="53478" respawnTime="60sec" /> <!-- Orc Warrior -->
+			<npc id="20094" x="-116512" y="245901" z="-2846" heading="36832" respawnTime="60sec" /> <!-- Orc Sniper -->
+		</group>
+	</spawn>
+</list>

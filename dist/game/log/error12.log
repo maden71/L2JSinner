@@ -1,0 +1,54 @@
+Aug 17, 2023 1:44:59 AM org.l2jmobius.commons.util.IXmlReader parseFile
+WARNING: Could not parse file: GardenOfSpiritsMonsters.xml at line: 577, column: 63 :
+org.xml.sax.SAXParseException; systemId: file:/C:/Games/L2/l2masterclass3serv/serv/L2J_Mobius_10.3_MasterClass/dist/game/data/spawns/DarkElf/GardenOfSpiritsMonsters.xml; lineNumber: 577; columnNumber: 63; cvc-complex-type.2.4.a: Invalid content was found starting with element 'territory'. One of '{spawn}' is expected.
+	at java.xml/com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.createSAXParseException(ErrorHandlerWrapper.java:204)
+	at java.xml/com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.error(ErrorHandlerWrapper.java:135)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:396)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:327)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:284)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.xs.XMLSchemaValidator$XSIErrorReporter.reportError(XMLSchemaValidator.java:512)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.xs.XMLSchemaValidator.reportSchemaError(XMLSchemaValidator.java:3588)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.xs.XMLSchemaValidator.handleStartElement(XMLSchemaValidator.java:1972)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.xs.XMLSchemaValidator.startElement(XMLSchemaValidator.java:830)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLNSDocumentScannerImpl.scanStartElement(XMLNSDocumentScannerImpl.java:374)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl$FragmentContentDriver.next(XMLDocumentFragmentScannerImpl.java:2726)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:605)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLNSDocumentScannerImpl.next(XMLNSDocumentScannerImpl.java:112)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:542)
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:889)
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:825)
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:141)
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.DOMParser.parse(DOMParser.java:247)
+	at java.xml/com.sun.org.apache.xerces.internal.jaxp.DocumentBuilderImpl.parse(DocumentBuilderImpl.java:342)
+	at java.xml/javax.xml.parsers.DocumentBuilder.parse(DocumentBuilder.java:206)
+	at org.l2jmobius.commons.util.IXmlReader.parseFile(IXmlReader.java:102)
+	at org.l2jmobius.commons.util.IXmlReader.parseDirectory(IXmlReader.java:204)
+	at org.l2jmobius.commons.util.IXmlReader.parseDirectory(IXmlReader.java:200)
+	at org.l2jmobius.commons.util.IXmlReader.parseDatapackDirectory(IXmlReader.java:150)
+	at org.l2jmobius.gameserver.data.xml.SpawnData.load(SpawnData.java:70)
+	at org.l2jmobius.gameserver.data.xml.SpawnData.<init>(SpawnData.java:64)
+	at org.l2jmobius.gameserver.data.xml.SpawnData$SingletonHolder.<clinit>(SpawnData.java:435)
+	at org.l2jmobius.gameserver.data.xml.SpawnData.getInstance(SpawnData.java:430)
+	at org.l2jmobius.gameserver.GameServer.<init>(GameServer.java:341)
+	at org.l2jmobius.gameserver.GameServer.main(GameServer.java:530)
+
+Aug 17, 2023 1:45:08 AM org.l2jmobius.gameserver.GameServer <init>
+WARNING: GameServer: Failed to execute script list!
+java.lang.RuntimeException: 
+----------------
+File diagnostics
+----------------
+
+-----------------------
+Compilation diagnostics
+-----------------------
+	ERROR: C:\Games\L2\l2masterclass3serv\serv\L2J_Mobius_10.3_MasterClass\dist\game\data\scripts\custom\events\TeamVsTeam\TvT.java, Line 954, Column 55
+		code: compiler.err.icls.cant.have.static.decl
+		message: Illegal static declaration in inner class <anonymous custom.events.TeamVsTeam.TvT$1>
+  modifier 'static' is only allowed in constant variable declarations
+
+	at org.l2jmobius.gameserver.scripting.java.JavaExecutionContext.executeScripts(JavaExecutionContext.java:171)
+	at org.l2jmobius.gameserver.scripting.ScriptEngineManager.executeScriptList(ScriptEngineManager.java:181)
+	at org.l2jmobius.gameserver.GameServer.<init>(GameServer.java:395)
+	at org.l2jmobius.gameserver.GameServer.main(GameServer.java:530)
+

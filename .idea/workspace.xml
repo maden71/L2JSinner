@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4309c602-5ca8-4831-8926-93e80052e187" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2T7O2YqSdD2prTKWmQAeBTHTU8P" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;extract.method.default.visibility&quot;: &quot;private&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Games/L2/l2masterclass3serv/serv/L2J_Mobius_10.3_MasterClass/dist/login&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.gameserver">
+    <configuration name="gameserver" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="org.l2jmobius.gameserver.GameServer" />
+      <module name="L2J_Mobius_10.3_MasterClass" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dist/game" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="loginserver" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="org.l2jmobius.loginserver.LoginServer" />
+      <module name="L2J_Mobius_10.3_MasterClass" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dist/login" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.gameserver" />
+      <item itemvalue="Application.loginserver" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4309c602-5ca8-4831-8926-93e80052e187" name="Changes" comment="" />
+      <created>1690390450030</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1690390450030</updated>
+      <workItem from="1690390451067" duration="1439000" />
+      <workItem from="1690459891815" duration="5344000" />
+      <workItem from="1690535214597" duration="6160000" />
+      <workItem from="1690658564239" duration="828000" />
+      <workItem from="1690660216109" duration="8582000" />
+      <workItem from="1690727927908" duration="2538000" />
+      <workItem from="1690753980372" duration="719000" />
+      <workItem from="1690804385783" duration="6478000" />
+      <workItem from="1690881056126" duration="1206000" />
+      <workItem from="1690914900039" duration="377000" />
+      <workItem from="1690915602740" duration="2451000" />
+      <workItem from="1690980617579" duration="2404000" />
+      <workItem from="1690994584832" duration="4007000" />
+      <workItem from="1691075124784" duration="2556000" />
+      <workItem from="1691149727090" duration="15942000" />
+      <workItem from="1691226235669" duration="600000" />
+      <workItem from="1691237116202" duration="12772000" />
+      <workItem from="1691313613546" duration="23534000" />
+      <workItem from="1691396279086" duration="11586000" />
+      <workItem from="1691615790839" duration="9258000" />
+      <workItem from="1691677206727" duration="1817000" />
+      <workItem from="1691737762902" duration="4215000" />
+      <workItem from="1691755443722" duration="20032000" />
+      <workItem from="1691835884605" duration="30380000" />
+      <workItem from="1691921932467" duration="31377000" />
+      <workItem from="1692010726531" duration="5356000" />
+      <workItem from="1692087617690" duration="16222000" />
+      <workItem from="1692195845098" duration="13027000" />
+      <workItem from="1692260883491" duration="2741000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/dist/game/data/scripts/quests/Q10879_ExaltedGuideToPower/Q10879_ExaltedGuideToPower.java</url>
+          <line>410</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/dist/game/data/scripts/handlers/admincommandhandlers/AdminScan.java</url>
+          <line>161</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/dist/game/data/scripts/handlers/voicedcommandhandlers/Premium.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
+	<spawn name="17_23">
+		<group>
+			<npc id="20017" x="-74246" y="166763" z="-3528" heading="43809" respawnTime="60sec" /> <!-- Vuku Orc Warrior -->
+			<npc id="20017" x="-74389" y="166416" z="-3568" heading="37816" respawnTime="60sec" /> <!-- Vuku Orc Warrior -->
+			<npc id="20030" x="-74664" y="166293" z="-3545" heading="37154" respawnTime="60sec" /> <!-- Langk Lizardman -->
+			<npc id="20017" x="-74787" y="166196" z="-3546" heading="39733" respawnTime="60sec" /> <!-- Vuku Orc Warrior -->
+			<npc id="20017" x="-74966" y="166484" z="-3525" heading="20441" respawnTime="60sec" /> <!-- Vuku Orc Warrior -->
+			<npc id="20017" x="-75061" y="166631" z="-3497" heading="22368" respawnTime="60sec" /> <!-- Vuku Orc Warrior -->
+			<npc id="20017" x="-74980" y="166987" z="-3520" heading="13568" respawnTime="60sec" /> <!-- Vuku Orc Warrior -->
+			<npc id="20017" x="-74760" y="167139" z="-3549" heading="6366" respawnTime="60sec" /> <!-- Vuku Orc Warrior -->
+			<npc id="20017" x="-74565" y="167334" z="-3560" heading="8191" respawnTime="60sec" /> <!-- Vuku Orc Warrior -->
+			<npc id="20017" x="-74383" y="167446" z="-3560" heading="5753" respawnTime="60sec" /> <!-- Vuku Orc Warrior -->
+			<npc id="20017" x="-74279" y="167515" z="-3554" heading="6109" respawnTime="60sec" /> <!-- Vuku Orc Warrior -->
+			<npc id="20017" x="-74232" y="167660" z="-3551" heading="13187" respawnTime="60sec" /> <!-- Vuku Orc Warrior -->
+			<npc id="20017" x="-74004" y="167771" z="-3545" heading="4174" respawnTime="60sec" /> <!-- Vuku Orc Warrior -->
+			<npc id="20017" x="-73944" y="167971" z="-3539" heading="11836" respawnTime="60sec" /> <!-- Vuku Orc Warrior -->
+			<npc id="20017" x="-73951" y="168293" z="-3553" heading="14055" respawnTime="60sec" /> <!-- Vuku Orc Warrior -->
+			<npc id="20017" x="-73797" y="168512" z="-3566" heading="7527" respawnTime="60sec" /> <!-- Vuku Orc Warrior -->
+			<npc id="20017" x="-73657" y="168686" z="-3564" heading="9317" respawnTime="60sec" /> <!-- Vuku Orc Warrior -->
+			<npc id="20017" x="-73482" y="168909" z="-3562" heading="9443" respawnTime="60sec" /> <!-- Vuku Orc Warrior -->
+			<npc id="20017" x="-73356" y="169135" z="-3568" heading="10492" respawnTime="60sec" /> <!-- Vuku Orc Warrior -->
+			<npc id="20017" x="-73204" y="169264" z="-3571" heading="6809" respawnTime="60sec" /> <!-- Vuku Orc Warrior -->
+			<npc id="20017" x="-73071" y="169384" z="-3573" heading="7656" respawnTime="60sec" /> <!-- Vuku Orc Warrior -->
+			<npc id="20017" x="-72662" y="169855" z="-3571" heading="6855" respawnTime="60sec" /> <!-- Vuku Orc Warrior -->
+			<npc id="20017" x="-72489" y="169912" z="-3572" heading="3319" respawnTime="60sec" /> <!-- Vuku Orc Warrior -->
+			<npc id="20017" x="-72473" y="169939" z="-3572" heading="2697" respawnTime="60sec" /> <!-- Vuku Orc Warrior -->
+			<npc id="20017" x="-72473" y="169939" z="-3572" heading="62668" respawnTime="60sec" /> <!-- Vuku Orc Warrior -->
+			<npc id="20017" x="-71757" y="169855" z="-3565" heading="349" respawnTime="60sec" /> <!-- Vuku Orc Warrior -->
+			<npc id="20017" x="-71646" y="169836" z="-3565" heading="365" respawnTime="60sec" /> <!-- Vuku Orc Warrior -->
+			<npc id="20017" x="-71897" y="169381" z="-3530" heading="45588" respawnTime="60sec" /> <!-- Vuku Orc Warrior -->
+			<npc id="20017" x="-72273" y="169033" z="-3518" heading="41050" respawnTime="60sec" /> <!-- Vuku Orc Warrior -->
+			<npc id="20017" x="-72589" y="168818" z="-3531" heading="38774" respawnTime="60sec" /> <!-- Vuku Orc Warrior -->
+			<npc id="20017" x="-72822" y="168645" z="-3539" heading="39833" respawnTime="60sec" /> <!-- Vuku Orc Warrior -->
+			<npc id="20017" x="-73147" y="168414" z="-3539" heading="39232" respawnTime="60sec" /> <!-- Vuku Orc Warrior -->
+			<npc id="20017" x="-73461" y="167820" z="-3558" heading="45300" respawnTime="60sec" /> <!-- Vuku Orc Warrior -->
+			<npc id="20017" x="-73882" y="167385" z="-3554" heading="46487" respawnTime="60sec" /> <!-- Vuku Orc Warrior -->
+			<npc id="20017" x="-73906" y="167109" z="-3539" heading="48247" respawnTime="60sec" /> <!-- Vuku Orc Warrior -->
+			<npc id="20017" x="-73926" y="166663" z="-3554" heading="48055" respawnTime="60sec" /> <!-- Vuku Orc Warrior -->
+			<npc id="20017" x="-73538" y="166537" z="-3561" heading="64678" respawnTime="60sec" /> <!-- Vuku Orc Warrior -->
+			<npc id="20017" x="-73032" y="166848" z="-3562" heading="8191" respawnTime="60sec" /> <!-- Vuku Orc Warrior -->
+			<npc id="20017" x="-72824" y="167170" z="-3552" heading="10710" respawnTime="60sec" /> <!-- Vuku Orc Warrior -->
+			<npc id="20017" x="-72704" y="167484" z="-3527" heading="12406" respawnTime="60sec" /> <!-- Vuku Orc Warrior -->
+			<npc id="20030" x="-72763" y="167688" z="-3524" heading="19320" respawnTime="60sec" /> <!-- Langk Lizardman -->
+			<npc id="20030" x="-72778" y="167972" z="-3531" heading="16935" respawnTime="60sec" /> <!-- Langk Lizardman -->
+			<npc id="20030" x="-72788" y="168356" z="-3538" heading="16537" respawnTime="60sec" /> <!-- Langk Lizardman -->
+			<npc id="20030" x="-72858" y="168537" z="-3537" heading="20233" respawnTime="60sec" /> <!-- Langk Lizardman -->
+			<npc id="20030" x="-72867" y="168808" z="-3550" heading="14620" respawnTime="60sec" /> <!-- Langk Lizardman -->
+			<npc id="20030" x="-72854" y="168925" z="-3558" heading="15229" respawnTime="60sec" /> <!-- Langk Lizardman -->
+			<npc id="20030" x="-72827" y="169183" z="-3562" heading="15201" respawnTime="60sec" /> <!-- Langk Lizardman -->
+			<npc id="20030" x="-72709" y="169161" z="-3554" heading="63613" respawnTime="60sec" /> <!-- Langk Lizardman -->
+			<npc id="20030" x="-72554" y="168922" z="-3540" heading="54820" respawnTime="60sec" /> <!-- Langk Lizardman -->
+			<npc id="20030" x="-72450" y="168717" z="-3529" heading="53830" respawnTime="60sec" /> <!-- Langk Lizardman -->
+			<npc id="20030" x="-72270" y="168464" z="-3526" heading="55203" respawnTime="60sec" /> <!-- Langk Lizardman -->
+			<npc id="20030" x="-72273" y="168148" z="-3548" heading="47893" respawnTime="60sec" /> <!-- Langk Lizardman -->
+			<npc id="20030" x="-72447" y="167860" z="-3546" heading="43483" respawnTime="60sec" /> <!-- Langk Lizardman -->
+			<npc id="20030" x="-72577" y="167664" z="-3532" heading="42542" respawnTime="60sec" /> <!-- Langk Lizardman -->
+			<npc id="20030" x="-72836" y="167316" z="-3535" heading="36892" respawnTime="60sec" /> <!-- Langk Lizardman -->
+			<npc id="20030" x="-73021" y="167035" z="-3557" heading="43079" respawnTime="60sec" /> <!-- Langk Lizardman -->
+			<npc id="20030" x="-73068" y="166956" z="-3559" heading="43554" respawnTime="60sec" /> <!-- Langk Lizardman -->
+			<npc id="20030" x="-73350" y="167714" z="-3556" heading="16467" respawnTime="60sec" /> <!-- Langk Lizardman -->
+			<npc id="20030" x="-73359" y="168073" z="-3551" heading="16645" respawnTime="60sec" /> <!-- Langk Lizardman -->
+			<npc id="20030" x="-73304" y="168757" z="-3552" heading="16478" respawnTime="60sec" /> <!-- Langk Lizardman -->
+			<npc id="20030" x="-73077" y="169012" z="-3560" heading="8883" respawnTime="60sec" /> <!-- Langk Lizardman -->
+			<npc id="20030" x="-72817" y="169240" z="-3562" heading="7280" respawnTime="60sec" /> <!-- Langk Lizardman -->
+			<npc id="20030" x="-73038" y="169434" z="-3573" heading="31202" respawnTime="60sec" /> <!-- Langk Lizardman -->
+			<npc id="20030" x="-73214" y="169344" z="-3571" heading="37175" respawnTime="60sec" /> <!-- Langk Lizardman -->
+			<npc id="20030" x="-73218" y="169453" z="-3574" heading="16766" respawnTime="60sec" /> <!-- Langk Lizardman -->
+			<npc id="20030" x="-72696" y="169876" z="-3567" heading="5431" respawnTime="60sec" /> <!-- Langk Lizardman -->
+			<npc id="20030" x="-72342" y="170162" z="-3558" heading="6711" respawnTime="60sec" /> <!-- Langk Lizardman -->
+			<npc id="20030" x="-71996" y="170133" z="-3563" heading="62334" respawnTime="60sec" /> <!-- Langk Lizardman -->
+			<npc id="20030" x="-72272" y="169661" z="-3563" heading="39043" respawnTime="60sec" /> <!-- Langk Lizardman -->
+			<npc id="20030" x="-72136" y="169544" z="-3545" heading="57886" respawnTime="60sec" /> <!-- Langk Lizardman -->
+			<npc id="20030" x="-71562" y="169766" z="-3565" heading="4949" respawnTime="60sec" /> <!-- Langk Lizardman -->
+			<npc id="20030" x="-71466" y="169632" z="-3568" heading="55338" respawnTime="60sec" /> <!-- Langk Lizardman -->
+			<npc id="20017" x="-71398" y="169389" z="-3572" heading="52355" respawnTime="60sec" /> <!-- Vuku Orc Warrior -->
+			<npc id="20030" x="-71465" y="169269" z="-3571" heading="43840" respawnTime="60sec" /> <!-- Langk Lizardman -->
+			<npc id="20030" x="-71573" y="169174" z="-3566" heading="40292" respawnTime="60sec" /> <!-- Langk Lizardman -->
+			<npc id="20030" x="-71580" y="169327" z="-3563" heading="17984" respawnTime="60sec" /> <!-- Langk Lizardman -->
+			<npc id="20017" x="-71691" y="169064" z="-3555" heading="44968" respawnTime="60sec" /> <!-- Vuku Orc Warrior -->
+			<npc id="20017" x="-71714" y="169011" z="-3553" heading="44968" respawnTime="60sec" /> <!-- Vuku Orc Warrior -->
+			<npc id="20030" x="-71624" y="168956" z="-3560" heading="59814" respawnTime="60sec" /> <!-- Langk Lizardman -->
+			<npc id="20017" x="-71694" y="168841" z="-3556" heading="43448" respawnTime="60sec" /> <!-- Vuku Orc Warrior -->
+			<npc id="20030" x="-71770" y="168685" z="-3555" heading="44423" respawnTime="60sec" /> <!-- Langk Lizardman -->
+			<npc id="20030" x="-71927" y="168381" z="-3556" heading="43653" respawnTime="60sec" /> <!-- Langk Lizardman -->
+			<npc id="20017" x="-71984" y="168221" z="-3560" heading="46556" respawnTime="60sec" /> <!-- Vuku Orc Warrior -->
+			<npc id="20030" x="-72199" y="167920" z="-3564" heading="40571" respawnTime="60sec" /> <!-- Langk Lizardman -->
+			<npc id="20017" x="-72343" y="167831" z="-3552" heading="37676" respawnTime="60sec" /> <!-- Vuku Orc Warrior -->
+			<npc id="20030" x="-72666" y="167736" z="-3535" heading="34562" respawnTime="60sec" /> <!-- Langk Lizardman -->
+			<npc id="20017" x="-72885" y="167681" z="-3529" heading="37570" respawnTime="60sec" /> <!-- Vuku Orc Warrior -->
+			<npc id="20030" x="-72987" y="167631" z="-3529" heading="37570" respawnTime="60sec" /> <!-- Langk Lizardman -->
+			<npc id="20017" x="-73133" y="167560" z="-3532" heading="37190" respawnTime="60sec" /> <!-- Vuku Orc Warrior -->
+			<npc id="20030" x="-73341" y="167466" z="-3543" heading="37190" respawnTime="60sec" /> <!-- Langk Lizardman -->
+			<npc id="20017" x="-73421" y="167429" z="-3546" heading="37385" respawnTime="60sec" /> <!-- Vuku Orc Warrior -->
+			<npc id="20030" x="-73686" y="167377" z="-3548" heading="30819" respawnTime="60sec" /> <!-- Langk Lizardman -->
+			<npc id="20017" x="-73798" y="167398" z="-3551" heading="30819" respawnTime="60sec" /> <!-- Vuku Orc Warrior -->
+			<npc id="20030" x="-73866" y="167411" z="-3556" heading="30819" respawnTime="60sec" /> <!-- Langk Lizardman -->
+			<npc id="20017" x="-73866" y="167411" z="-3556" heading="30819" respawnTime="60sec" /> <!-- Vuku Orc Warrior -->
+			<npc id="20030" x="-74144" y="167352" z="-3556" heading="35021" respawnTime="60sec" /> <!-- Langk Lizardman -->
+			<npc id="20017" x="-74255" y="167328" z="-3557" heading="35021" respawnTime="60sec" /> <!-- Vuku Orc Warrior -->
+			<npc id="20030" x="-74405" y="167251" z="-3558" heading="38975" respawnTime="60sec" /> <!-- Langk Lizardman -->
+			<npc id="20017" x="-74452" y="167219" z="-3558" heading="38975" respawnTime="60sec" /> <!-- Vuku Orc Warrior -->
+			<npc id="20030" x="-74564" y="167093" z="-3558" heading="42784" respawnTime="60sec" /> <!-- Langk Lizardman -->
+			<npc id="20017" x="-74597" y="167046" z="-3557" heading="46741" respawnTime="60sec" /> <!-- Vuku Orc Warrior -->
+			<npc id="20030" x="-74610" y="166990" z="-3557" heading="46741" respawnTime="60sec" /> <!-- Langk Lizardman -->
+			<npc id="20017" x="-74636" y="166879" z="-3557" heading="46741" respawnTime="60sec" /> <!-- Vuku Orc Warrior -->
+			<npc id="20030" x="-74649" y="166824" z="-3557" heading="46774" respawnTime="60sec" /> <!-- Langk Lizardman -->
+			<npc id="20017" x="-74674" y="166712" z="-3554" heading="46774" respawnTime="60sec" /> <!-- Vuku Orc Warrior -->
+			<npc id="20030" x="-74687" y="166657" z="-3552" heading="46156" respawnTime="60sec" /> <!-- Langk Lizardman -->
+			<npc id="20030" x="-74465" y="166700" z="-3554" heading="1115" respawnTime="60sec" /> <!-- Langk Lizardman -->
+			<npc id="20017" x="-74352" y="166712" z="-3554" heading="1115" respawnTime="60sec" /> <!-- Vuku Orc Warrior -->
+			<npc id="20030" x="-74070" y="166672" z="-3554" heading="63911" respawnTime="60sec" /> <!-- Langk Lizardman -->
+			<npc id="20017" x="-74014" y="166663" z="-3554" heading="63911" respawnTime="60sec" /> <!-- Vuku Orc Warrior -->
+			<npc id="20030" x="-73958" y="166654" z="-3554" heading="63911" respawnTime="60sec" /> <!-- Langk Lizardman -->
+			<npc id="20017" x="-73901" y="166645" z="-3554" heading="63911" respawnTime="60sec" /> <!-- Vuku Orc Warrior -->
+			<npc id="20030" x="-73475" y="166947" z="-3547" heading="6550" respawnTime="60sec" /> <!-- Langk Lizardman -->
+			<npc id="20017" x="-73383" y="167014" z="-3545" heading="6550" respawnTime="60sec" /> <!-- Vuku Orc Warrior -->
+			<npc id="20030" x="-73199" y="167148" z="-3541" heading="5334" respawnTime="60sec" /> <!-- Langk Lizardman -->
+			<npc id="20017" x="-73049" y="167231" z="-3537" heading="5334" respawnTime="60sec" /> <!-- Vuku Orc Warrior -->
+			<npc id="20030" x="-72841" y="167323" z="-3535" heading="3275" respawnTime="60sec" /> <!-- Langk Lizardman -->
+			<npc id="20017" x="-72624" y="167393" z="-3543" heading="9567" respawnTime="60sec" /> <!-- Vuku Orc Warrior -->
+			<npc id="20017" x="-72362" y="167891" z="-3549" heading="12548" respawnTime="60sec" /> <!-- Vuku Orc Warrior -->
+			<npc id="20017" x="-72344" y="168115" z="-3540" heading="16589" respawnTime="60sec" /> <!-- Vuku Orc Warrior -->
+			<npc id="20017" x="-72331" y="168475" z="-3527" heading="15514" respawnTime="60sec" /> <!-- Vuku Orc Warrior -->
+			<npc id="20017" x="-72302" y="168758" z="-3523" heading="15090" respawnTime="60sec" /> <!-- Vuku Orc Warrior -->
+			<npc id="20017" x="-72290" y="168983" z="-3518" heading="18106" respawnTime="60sec" /> <!-- Vuku Orc Warrior -->
+			<npc id="20017" x="-72318" y="169151" z="-3516" heading="18106" respawnTime="60sec" /> <!-- Vuku Orc Warrior -->
+			<npc id="20017" x="-72093" y="169658" z="-3549" heading="6079" respawnTime="60sec" /> <!-- Vuku Orc Warrior -->
+			<npc id="20017" x="-71878" y="169839" z="-3559" heading="9160" respawnTime="60sec" /> <!-- Vuku Orc Warrior -->
+			<npc id="20017" x="-72582" y="169003" z="-3531" heading="43298" respawnTime="60sec" /> <!-- Vuku Orc Warrior -->
+			<npc id="20017" x="-72873" y="168583" z="-3536" heading="40810" respawnTime="60sec" /> <!-- Vuku Orc Warrior -->
+			<npc id="20017" x="-72996" y="168464" z="-3538" heading="30635" respawnTime="60sec" /> <!-- Vuku Orc Warrior -->
+			<npc id="20017" x="-73219" y="168510" z="-3541" heading="30635" respawnTime="60sec" /> <!-- Vuku Orc Warrior -->
+			<npc id="20030" x="-73458" y="168622" z="-3552" heading="26599" respawnTime="60sec" /> <!-- Langk Lizardman -->
+			<npc id="20017" x="-73425" y="168512" z="-3546" heading="52174" respawnTime="60sec" /> <!-- Vuku Orc Warrior -->
+			<npc id="20017" x="-73569" y="168028" z="-3543" heading="46064" respawnTime="60sec" /> <!-- Vuku Orc Warrior -->
+			<npc id="20030" x="-73603" y="167919" z="-3546" heading="46064" respawnTime="60sec" /> <!-- Langk Lizardman -->
+			<npc id="20030" x="-73683" y="167838" z="-3548" heading="41014" respawnTime="60sec" /> <!-- Langk Lizardman -->
+			<npc id="20030" x="-73773" y="167769" z="-3549" heading="37955" respawnTime="60sec" /> <!-- Langk Lizardman -->
+			<npc id="20030" x="-73873" y="167715" z="-3549" heading="34668" respawnTime="60sec" /> <!-- Langk Lizardman -->
+			<npc id="20030" x="-74097" y="167673" z="-3549" heading="39780" respawnTime="60sec" /> <!-- Langk Lizardman -->
+			<npc id="20017" x="-74508" y="167242" z="-3557" heading="38547" respawnTime="60sec" /> <!-- Vuku Orc Warrior -->
+			<npc id="20030" x="-74508" y="167242" z="-3557" heading="38547" respawnTime="60sec" /> <!-- Langk Lizardman -->
+			<npc id="20017" x="-74508" y="167242" z="-3557" heading="51282" respawnTime="60sec" /> <!-- Vuku Orc Warrior -->
+			<npc id="20017" x="-72174" y="169606" z="-3553" heading="45436" respawnTime="60sec" /> <!-- Vuku Orc Warrior -->
+			<npc id="20030" x="-72195" y="169551" z="-3548" heading="45436" respawnTime="60sec" /> <!-- Langk Lizardman -->
+			<npc id="20030" x="-74087" y="166686" z="-3550" heading="44582" respawnTime="60sec" /> <!-- Langk Lizardman -->
+			<npc id="20017" x="-74213" y="166431" z="-3560" heading="43515" respawnTime="60sec" /> <!-- Vuku Orc Warrior -->
+			<npc id="20030" x="-74301" y="166284" z="-3560" heading="43515" respawnTime="60sec" /> <!-- Langk Lizardman -->
+			<npc id="20017" x="-74366" y="166247" z="-3555" heading="36065" respawnTime="60sec" /> <!-- Vuku Orc Warrior -->
+			<npc id="20030" x="-75054" y="166535" z="-3503" heading="27853" respawnTime="60sec" /> <!-- Langk Lizardman -->
+			<npc id="20017" x="-75103" y="166560" z="-3491" heading="27853" respawnTime="60sec" /> <!-- Vuku Orc Warrior -->
+			<npc id="20030" x="-75167" y="166593" z="-3475" heading="24316" respawnTime="60sec" /> <!-- Langk Lizardman -->
+			<npc id="20017" x="-75271" y="166858" z="-3450" heading="11487" respawnTime="60sec" /> <!-- Vuku Orc Warrior -->
+			<npc id="20030" x="-75038" y="167158" z="-3489" heading="9248" respawnTime="60sec" /> <!-- Langk Lizardman -->
+			<npc id="20017" x="-74699" y="167550" z="-3550" heading="3577" respawnTime="60sec" /> <!-- Vuku Orc Warrior -->
+			<npc id="20030" x="-73657" y="167944" z="-3543" heading="7766" respawnTime="60sec" /> <!-- Langk Lizardman -->
+			<npc id="20017" x="-73388" y="168220" z="-3542" heading="2075" respawnTime="60sec" /> <!-- Vuku Orc Warrior -->
+			<npc id="20030" x="-72443" y="168642" z="-3528" heading="4355" respawnTime="60sec" /> <!-- Langk Lizardman -->
+			<npc id="33509" x="-74613" y="168565" z="-3498" heading="54153" respawnTime="60sec" /> <!-- Zenath -->
+			<npc id="23021" x="-70471" y="167599" z="-3463" heading="40333" respawnTime="60sec" /> <!-- Giant Poisonous Spider -->
+			<npc id="23094" x="-70423" y="167445" z="-3464" heading="52249" respawnTime="60sec" /> <!-- Poisonous Spider -->
+			<npc id="23021" x="-70390" y="167256" z="-3470" heading="50746" respawnTime="60sec" /> <!-- Giant Poisonous Spider -->
+			<npc id="23094" x="-70358" y="167044" z="-3482" heading="50657" respawnTime="60sec" /> <!-- Poisonous Spider -->
+			<npc id="23021" x="-70439" y="166856" z="-3495" heading="43087" respawnTime="60sec" /> <!-- Giant Poisonous Spider -->
+			<npc id="23094" x="-70518" y="166805" z="-3500" heading="34899" respawnTime="60sec" /> <!-- Poisonous Spider -->
+			<npc id="23021" x="-70659" y="166776" z="-3500" heading="34899" respawnTime="60sec" /> <!-- Giant Poisonous Spider -->
+			<npc id="23094" x="-70664" y="166936" z="-3491" heading="16756" respawnTime="60sec" /> <!-- Poisonous Spider -->
+			<npc id="23021" x="-70665" y="166944" z="-3491" heading="23287" respawnTime="60sec" /> <!-- Giant Poisonous Spider -->
+			<npc id="23094" x="-70732" y="167030" z="-3482" heading="19827" respawnTime="60sec" /> <!-- Poisonous Spider -->
+			<npc id="23021" x="-70836" y="167372" z="-3450" heading="18913" respawnTime="60sec" /> <!-- Giant Poisonous Spider -->
+			<npc id="23094" x="-70836" y="167372" z="-3450" heading="18913" respawnTime="60sec" /> <!-- Poisonous Spider -->
+			<npc id="23021" x="-70783" y="167718" z="-3446" heading="7563" respawnTime="60sec" /> <!-- Giant Poisonous Spider -->
+			<npc id="23094" x="-70661" y="167827" z="-3459" heading="7621" respawnTime="60sec" /> <!-- Poisonous Spider -->
+			<npc id="23021" x="-70530" y="167981" z="-3473" heading="13193" respawnTime="60sec" /> <!-- Giant Poisonous Spider -->
+			<npc id="23094" x="-70514" y="168032" z="-3476" heading="13193" respawnTime="60sec" /> <!-- Poisonous Spider -->
+			<npc id="23021" x="-70257" y="168200" z="-3476" heading="4135" respawnTime="60sec" /> <!-- Giant Poisonous Spider -->
+			<npc id="23094" x="-70191" y="168173" z="-3475" heading="56944" respawnTime="60sec" /> <!-- Poisonous Spider -->
+			<npc id="23021" x="-70149" y="167868" z="-3470" heading="39949" respawnTime="60sec" /> <!-- Giant Poisonous Spider -->
+			<npc id="23094" x="-70091" y="167778" z="-3475" heading="56820" respawnTime="60sec" /> <!-- Poisonous Spider -->
+			<npc id="23021" x="-70070" y="167528" z="-3486" heading="48599" respawnTime="60sec" /> <!-- Giant Poisonous Spider -->
+			<npc id="23094" x="-70086" y="167426" z="-3489" heading="46544" respawnTime="60sec" /> <!-- Poisonous Spider -->
+			<npc id="23021" x="-70089" y="167229" z="-3490" heading="49870" respawnTime="60sec" /> <!-- Giant Poisonous Spider -->
+			<npc id="23094" x="-69930" y="167200" z="-3497" heading="20223" respawnTime="60sec" /> <!-- Poisonous Spider -->
+			<npc id="23021" x="-69866" y="167519" z="-3498" heading="10613" respawnTime="60sec" /> <!-- Giant Poisonous Spider -->
+			<npc id="23094" x="-69810" y="167610" z="-3499" heading="13552" respawnTime="60sec" /> <!-- Poisonous Spider -->
+			<npc id="23021" x="-69756" y="167817" z="-3491" heading="14442" respawnTime="60sec" /> <!-- Giant Poisonous Spider -->
+			<npc id="23094" x="-69726" y="167975" z="-3482" heading="17362" respawnTime="60sec" /> <!-- Poisonous Spider -->
+			<npc id="23021" x="-69741" y="168134" z="-3464" heading="17362" respawnTime="60sec" /> <!-- Giant Poisonous Spider -->
+			<npc id="23094" x="-69715" y="168238" z="-3456" heading="13909" respawnTime="60sec" /> <!-- Poisonous Spider -->
+			<npc id="23021" x="-69671" y="168392" z="-3451" heading="13326" respawnTime="60sec" /> <!-- Giant Poisonous Spider -->
+			<npc id="23094" x="-69640" y="168495" z="-3450" heading="13326" respawnTime="60sec" /> <!-- Poisonous Spider -->
+			<npc id="23021" x="-69565" y="168656" z="-3461" heading="11652" respawnTime="60sec" /> <!-- Giant Poisonous Spider -->
+			<npc id="23094" x="-69518" y="168752" z="-3470" heading="11652" respawnTime="60sec" /> <!-- Poisonous Spider -->
+			<npc id="23021" x="-69423" y="168801" z="-3473" heading="5055" respawnTime="60sec" /> <!-- Giant Poisonous Spider -->
+			<npc id="23094" x="-69328" y="168851" z="-3478" heading="5055" respawnTime="60sec" /> <!-- Poisonous Spider -->
+			<npc id="23021" x="-69240" y="168887" z="-3481" heading="3183" respawnTime="60sec" /> <!-- Giant Poisonous Spider -->
+			<npc id="23094" x="-69189" y="168903" z="-3481" heading="3183" respawnTime="60sec" /> <!-- Poisonous Spider -->
+			<npc id="23021" x="-68937" y="168995" z="-3487" heading="4029" respawnTime="60sec" /> <!-- Giant Poisonous Spider -->
+			<npc id="23094" x="-68838" y="169036" z="-3492" heading="4029" respawnTime="60sec" /> <!-- Poisonous Spider -->
+			<npc id="23021" x="-68728" y="169102" z="-3494" heading="5959" respawnTime="60sec" /> <!-- Giant Poisonous Spider -->
+			<npc id="23094" x="-68638" y="169160" z="-3494" heading="5959" respawnTime="60sec" /> <!-- Poisonous Spider -->
+			<npc id="23021" x="-68937" y="169255" z="-3484" heading="26912" respawnTime="60sec" /> <!-- Giant Poisonous Spider -->
+			<npc id="23094" x="-69130" y="169352" z="-3481" heading="28957" respawnTime="60sec" /> <!-- Poisonous Spider -->
+			<npc id="23021" x="-69332" y="169418" z="-3482" heading="30934" respawnTime="60sec" /> <!-- Giant Poisonous Spider -->
+			<npc id="23094" x="-69494" y="169447" z="-3486" heading="38148" respawnTime="60sec" /> <!-- Poisonous Spider -->
+			<npc id="23021" x="-69737" y="169250" z="-3486" heading="43221" respawnTime="60sec" /> <!-- Giant Poisonous Spider -->
+			<npc id="23094" x="-69884" y="168966" z="-3487" heading="46023" respawnTime="60sec" /> <!-- Poisonous Spider -->
+			<npc id="23021" x="-70008" y="168745" z="-3475" heading="42556" respawnTime="60sec" /> <!-- Giant Poisonous Spider -->
+			<npc id="23094" x="-70232" y="168587" z="-3475" heading="36038" respawnTime="60sec" /> <!-- Poisonous Spider -->
+			<npc id="23021" x="-68849" y="169613" z="-3483" heading="5679" respawnTime="60sec" /> <!-- Giant Poisonous Spider -->
+			<npc id="23094" x="-68380" y="169420" z="-3496" heading="61766" respawnTime="60sec" /> <!-- Poisonous Spider -->
+			<npc id="23021" x="-68090" y="169483" z="-3503" heading="5741" respawnTime="60sec" /> <!-- Giant Poisonous Spider -->
+			<npc id="23094" x="-67906" y="169595" z="-3499" heading="15362" respawnTime="60sec" /> <!-- Poisonous Spider -->
+			<npc id="23021" x="-67890" y="169754" z="-3489" heading="22693" respawnTime="60sec" /> <!-- Giant Poisonous Spider -->
+			<npc id="23094" x="-68016" y="169926" z="-3489" heading="23249" respawnTime="60sec" /> <!-- Poisonous Spider -->
+			<npc id="23021" x="-68115" y="170054" z="-3489" heading="23249" respawnTime="60sec" /> <!-- Giant Poisonous Spider -->
+			<npc id="23094" x="-68350" y="170271" z="-3491" heading="25327" respawnTime="60sec" /> <!-- Poisonous Spider -->
+			<npc id="23021" x="-68408" y="170321" z="-3494" heading="25327" respawnTime="60sec" /> <!-- Giant Poisonous Spider -->
+			<npc id="23094" x="-68402" y="170481" z="-3490" heading="11706" respawnTime="60sec" /> <!-- Poisonous Spider -->
+			<npc id="23021" x="-68332" y="170626" z="-3487" heading="11706" respawnTime="60sec" /> <!-- Giant Poisonous Spider -->
+			<npc id="23094" x="-68274" y="170747" z="-3484" heading="11706" respawnTime="60sec" /> <!-- Poisonous Spider -->
+			<npc id="23021" x="-67938" y="170471" z="-3487" heading="54124" respawnTime="60sec" /> <!-- Giant Poisonous Spider -->
+			<npc id="23094" x="-67865" y="170328" z="-3494" heading="54124" respawnTime="60sec" /> <!-- Poisonous Spider -->
+			<npc id="23021" x="-67717" y="170197" z="-3495" heading="58862" respawnTime="60sec" /> <!-- Giant Poisonous Spider -->
+			<npc id="23094" x="-67632" y="170134" z="-3492" heading="58862" respawnTime="60sec" /> <!-- Poisonous Spider -->
+			<npc id="23021" x="-67327" y="170057" z="-3501" heading="867" respawnTime="60sec" /> <!-- Giant Poisonous Spider -->
+			<npc id="23094" x="-67166" y="170071" z="-3509" heading="867" respawnTime="60sec" /> <!-- Poisonous Spider -->
+			<npc id="23094" x="-67067" y="170248" z="-3501" heading="11406" respawnTime="60sec" /> <!-- Poisonous Spider -->
+			<npc id="23021" x="-67088" y="170514" z="-3496" heading="18238" respawnTime="60sec" /> <!-- Giant Poisonous Spider -->
+			<npc id="23094" x="-67117" y="170673" z="-3493" heading="18238" respawnTime="60sec" /> <!-- Poisonous Spider -->
+			<npc id="23094" x="-67275" y="170936" z="-3493" heading="22482" respawnTime="60sec" /> <!-- Poisonous Spider -->
+			<npc id="23094" x="-67385" y="171102" z="-3495" heading="22482" respawnTime="60sec" /> <!-- Poisonous Spider -->
+			<npc id="23021" x="-67404" y="171278" z="-3492" heading="6051" respawnTime="60sec" /> <!-- Giant Poisonous Spider -->
+			<npc id="23094" x="-67314" y="171337" z="-3491" heading="6051" respawnTime="60sec" /> <!-- Poisonous Spider -->
+			<npc id="23021" x="-67184" y="171495" z="-3490" heading="12442" respawnTime="60sec" /> <!-- Giant Poisonous Spider -->
+			<npc id="23021" x="-67123" y="171754" z="-3492" heading="21151" respawnTime="60sec" /> <!-- Giant Poisonous Spider -->
+			<npc id="23021" x="-67181" y="171903" z="-3495" heading="19944" respawnTime="60sec" /> <!-- Giant Poisonous Spider -->
+			<npc id="23094" x="-67235" y="172054" z="-3499" heading="19944" respawnTime="60sec" /> <!-- Poisonous Spider -->
+			<npc id="23021" x="-67374" y="172210" z="-3502" heading="25311" respawnTime="60sec" /> <!-- Giant Poisonous Spider -->
+			<npc id="23094" x="-67787" y="171766" z="-3487" heading="42224" respawnTime="60sec" /> <!-- Poisonous Spider -->
+			<npc id="23021" x="-67908" y="171627" z="-3487" heading="42224" respawnTime="60sec" /> <!-- Giant Poisonous Spider -->
+			<npc id="23021" x="-67908" y="171627" z="-3487" heading="48326" respawnTime="60sec" /> <!-- Giant Poisonous Spider -->
+			<npc id="23094" x="-67860" y="171300" z="-3483" heading="52787" respawnTime="60sec" /> <!-- Poisonous Spider -->
+			<npc id="23021" x="-67920" y="171154" z="-3488" heading="37348" respawnTime="60sec" /> <!-- Giant Poisonous Spider -->
+			<npc id="23021" x="-69081" y="169276" z="-3482" heading="41766" respawnTime="60sec" /> <!-- Giant Poisonous Spider -->
+			<npc id="23094" x="-68831" y="169467" z="-3478" heading="2210" respawnTime="60sec" /> <!-- Poisonous Spider -->
+			<npc id="23094" x="-68666" y="170041" z="-3500" heading="19252" respawnTime="60sec" /> <!-- Poisonous Spider -->
+			<npc id="23094" x="-68114" y="169514" z="-3501" heading="52738" respawnTime="60sec" /> <!-- Poisonous Spider -->
+			<npc id="23094" x="-68051" y="169681" z="-3492" heading="16243" respawnTime="60sec" /> <!-- Poisonous Spider -->
+			<npc id="23021" x="-68791" y="172733" z="-3604" heading="26445" respawnTime="60sec" /> <!-- Giant Poisonous Spider -->
+			<npc id="23094" x="-69036" y="172819" z="-3626" heading="28810" respawnTime="60sec" /> <!-- Poisonous Spider -->
+			<npc id="23021" x="-69316" y="172968" z="-3634" heading="25344" respawnTime="60sec" /> <!-- Giant Poisonous Spider -->
+			<npc id="23094" x="-69438" y="173073" z="-3637" heading="21792" respawnTime="60sec" /> <!-- Poisonous Spider -->
+			<npc id="23021" x="-69563" y="173308" z="-3646" heading="20315" respawnTime="60sec" /> <!-- Giant Poisonous Spider -->
+			<npc id="23094" x="-69593" y="173670" z="-3651" heading="14980" respawnTime="60sec" /> <!-- Poisonous Spider -->
+			<npc id="23021" x="-69514" y="173920" z="-3647" heading="10579" respawnTime="60sec" /> <!-- Giant Poisonous Spider -->
+			<npc id="23021" x="-69126" y="174186" z="-3610" heading="5559" respawnTime="60sec" /> <!-- Giant Poisonous Spider -->
+			<npc id="23094" x="-68929" y="174265" z="-3607" heading="2436" respawnTime="60sec" /> <!-- Poisonous Spider -->
+			<npc id="23021" x="-68720" y="174081" z="-3608" heading="52384" respawnTime="60sec" /> <!-- Giant Poisonous Spider -->
+			<npc id="23094" x="-68670" y="173873" z="-3608" heading="52147" respawnTime="60sec" /> <!-- Poisonous Spider -->
+			<npc id="23021" x="-68563" y="173458" z="-3621" heading="51160" respawnTime="60sec" /> <!-- Giant Poisonous Spider -->
+			<npc id="23094" x="-68625" y="173091" z="-3629" heading="46205" respawnTime="60sec" /> <!-- Poisonous Spider -->
+			<npc id="23021" x="-68242" y="173445" z="-3624" heading="13906" respawnTime="60sec" /> <!-- Giant Poisonous Spider -->
+			<npc id="23094" x="-68192" y="173596" z="-3621" heading="10688" respawnTime="60sec" /> <!-- Poisonous Spider -->
+			<npc id="23021" x="-68015" y="173864" z="-3621" heading="9613" respawnTime="60sec" /> <!-- Giant Poisonous Spider -->
+			<npc id="23021" x="-67895" y="174041" z="-3621" heading="12180" respawnTime="60sec" /> <!-- Giant Poisonous Spider -->
+			<npc id="23094" x="-67808" y="174303" z="-3622" heading="16741" respawnTime="60sec" /> <!-- Poisonous Spider -->
+			<npc id="23021" x="-67821" y="174623" z="-3643" heading="19474" respawnTime="60sec" /> <!-- Giant Poisonous Spider -->
+			<npc id="23094" x="-67883" y="174828" z="-3648" heading="18262" respawnTime="60sec" /> <!-- Poisonous Spider -->
+			<npc id="23021" x="-67911" y="174986" z="-3648" heading="18262" respawnTime="60sec" /> <!-- Giant Poisonous Spider -->
+			<npc id="23094" x="-67949" y="175134" z="-3648" heading="19975" respawnTime="60sec" /> <!-- Poisonous Spider -->
+			<npc id="23094" x="-68003" y="175957" z="-3654" heading="5360" respawnTime="60sec" /> <!-- Poisonous Spider -->
+			<npc id="23021" x="-68432" y="176539" z="-3671" heading="25306" respawnTime="60sec" /> <!-- Giant Poisonous Spider -->
+			<npc id="23094" x="-68811" y="176462" z="-3664" heading="43128" respawnTime="60sec" /> <!-- Poisonous Spider -->
+			<npc id="23021" x="-69047" y="176074" z="-3659" heading="42990" respawnTime="60sec" /> <!-- Giant Poisonous Spider -->
+			<npc id="23094" x="-69172" y="175839" z="-3660" heading="45638" respawnTime="60sec" /> <!-- Poisonous Spider -->
+			<npc id="23021" x="-69151" y="175543" z="-3647" heading="55828" respawnTime="60sec" /> <!-- Giant Poisonous Spider -->
+			<npc id="23094" x="-68976" y="175339" z="-3629" heading="57022" respawnTime="60sec" /> <!-- Poisonous Spider -->
+			<npc id="23021" x="-68828" y="175185" z="-3616" heading="57559" respawnTime="60sec" /> <!-- Giant Poisonous Spider -->
+			<npc id="23094" x="-68578" y="174926" z="-3605" heading="56167" respawnTime="60sec" /> <!-- Poisonous Spider -->
+			<npc id="23021" x="-68444" y="174758" z="-3613" heading="53307" respawnTime="60sec" /> <!-- Giant Poisonous Spider -->
+			<npc id="23021" x="-68360" y="174560" z="-3619" heading="53307" respawnTime="60sec" /> <!-- Giant Poisonous Spider -->
+			<npc id="23094" x="-68299" y="174298" z="-3621" heading="48331" respawnTime="60sec" /> <!-- Poisonous Spider -->
+			<npc id="23021" x="-68315" y="174083" z="-3619" heading="42210" respawnTime="60sec" /> <!-- Giant Poisonous Spider -->
+			<npc id="23021" x="-69125" y="173584" z="-3631" heading="41240" respawnTime="60sec" /> <!-- Giant Poisonous Spider -->
+		</group>
+	</spawn>
+</list>

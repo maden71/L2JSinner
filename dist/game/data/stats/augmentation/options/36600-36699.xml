@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../xsd/optionsData.xsd">
+	<option id="36600" name="option_id_36600">
+		<!-- Attribute Resistance +30 -->
+	</option>
+	<option id="36601" name="option_id_36601">
+		<!-- Attribute Resistance +40 -->
+	</option>
+	<option id="36602" name="option_id_36602">
+		<!-- Attribute Resistance +70 -->
+	</option>
+	<option id="36603" name="option_id_36603">
+		<!-- Basic Attack Power +1% -->
+	</option>
+	<option id="36604" name="option_id_36604">
+		<!-- Basic Attack Power +2% -->
+	</option>
+	<option id="36605" name="option_id_36605">
+		<!-- Basic Attack Power +3% -->
+	</option>
+	<option id="36606" name="option_id_36606">
+		<!-- Basic Attack Power +4% -->
+	</option>
+	<option id="36607" name="option_id_36607">
+		<!-- Basic Attack Power +5% -->
+	</option>
+	<option id="36608" name="option_id_36608">
+		<!-- P. Skill Power +1% -->
+	</option>
+	<option id="36609" name="option_id_36609">
+		<!-- P. Skill Power +2% -->
+	</option>
+	<option id="36610" name="option_id_36610">
+		<!-- P. Skill Power +3% -->
+	</option>
+	<option id="36611" name="option_id_36611">
+		<!-- P. Skill Power +4% -->
+	</option>
+	<option id="36612" name="option_id_36612">
+		<!-- P. Skill Power +5% -->
+	</option>
+	<option id="36613" name="option_id_36613">
+		<!-- M. Skill Power +1% -->
+	</option>
+	<option id="36614" name="option_id_36614">
+		<!-- M. Skill Power +2% -->
+	</option>
+	<option id="36615" name="option_id_36615">
+		<!-- M. Skill Power +3% -->
+	</option>
+	<option id="36616" name="option_id_36616">
+		<!-- M. Skill Power +4% -->
+	</option>
+	<option id="36617" name="option_id_36617">
+		<!-- M. Skill Power +5% -->
+	</option>
+	<option id="36618" name="option_id_36618">
+		<!-- P. Critical Damage +1% -->
+	</option>
+	<option id="36619" name="option_id_36619">
+		<!-- P. Critical Damage +2% -->
+	</option>
+	<option id="36620" name="option_id_36620">
+		<!-- P. Critical Damage +3% -->
+	</option>
+	<option id="36621" name="option_id_36621">
+		<!-- P. Critical Damage +4% -->
+	</option>
+	<option id="36622" name="option_id_36622">
+		<!-- P. Critical Damage +5% -->
+	</option>
+	<option id="36623" name="option_id_36623">
+		<!-- P. Skill Critical Damage +1% -->
+	</option>
+	<option id="36624" name="option_id_36624">
+		<!-- P. Skill Critical Damage +2% -->
+	</option>
+	<option id="36625" name="option_id_36625">
+		<!-- P. Skill Critical Damage +3% -->
+	</option>
+	<option id="36626" name="option_id_36626">
+		<!-- P. Skill Critical Damage +4% -->
+	</option>
+	<option id="36627" name="option_id_36627">
+		<!-- P. Skill Critical Damage +5% -->
+	</option>
+	<option id="36628" name="option_id_36628">
+		<!-- M. Skill Critical Damage +1% -->
+	</option>
+	<option id="36629" name="option_id_36629">
+		<!-- M. Skill Critical Damage +2% -->
+	</option>
+	<option id="36630" name="option_id_36630">
+		<!-- M. Skill Critical Damage +3% -->
+	</option>
+	<option id="36631" name="option_id_36631">
+		<!-- M. Skill Critical Damage +4% -->
+	</option>
+	<option id="36632" name="option_id_36632">
+		<!-- M. Skill Critical Damage +5% -->
+	</option>
+	<option id="36633" name="option_id_36633">
+		<!-- Vitality bonus +1% -->
+	</option>
+	<option id="36634" name="option_id_36634">
+		<!-- Vitality bonus +2% -->
+	</option>
+	<option id="36635" name="option_id_36635">
+		<!-- Vitality bonus +3% -->
+	</option>
+	<option id="36636" name="option_id_36636">
+		<!-- Vitality bonus +4% -->
+	</option>
+	<option id="36637" name="option_id_36637">
+		<!-- Vitality bonus +7% -->
+	</option>
+	<option id="36638" name="option_id_36638">
+		<!-- P. Atk./ M. Atk./ P. Def./ M. Def. +6%, acquired XP/ SP +6% -->
+	</option>
+</list>

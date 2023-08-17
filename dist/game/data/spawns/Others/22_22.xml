@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
+	<spawn name="22_22">
+		<group>
+			<npc id="70010" x="83306" y="148578" z="-3406" heading="50565" respawnTime="60sec" /> <!-- Manager -->
+			<npc id="70010" x="83303" y="148604" z="-3406" heading="56152" respawnTime="60sec" /> <!-- Manager -->
+			<npc id="30514" x="80465" y="144381" z="-3535" heading="64055" respawnTime="60sec" /> <!-- Vokian -->
+		</group>
+	</spawn>
+</list>

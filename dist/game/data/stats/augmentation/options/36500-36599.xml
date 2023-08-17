@@ -1,0 +1,350 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../xsd/optionsData.xsd">
+	<option id="36500" name="Artifact Book - M. Attack">
+		<!-- M. Atk. +4% -->
+		<passive_skill id="36326" level="4" /> <!-- Artifact Book - M. Attack -->
+	</option>
+	<option id="36501" name="Artifact Book - M. Attack">
+		<!-- M. Atk. +5% -->
+		<passive_skill id="36326" level="5" /> <!-- Artifact Book - M. Attack -->
+	</option>
+	<option id="36502" name="Artifact Book - P. Defence">
+		<!-- P. Def. +1% -->
+		<passive_skill id="36327" level="1" /> <!-- Artifact Book - P. Defence -->
+	</option>
+	<option id="36503" name="Artifact Book - P. Defence">
+		<!-- P. Def. +2% -->
+		<passive_skill id="36327" level="2" /> <!-- Artifact Book - P. Defence -->
+	</option>
+	<option id="36504" name="Artifact Book - P. Defence">
+		<!-- P. Def. +3% -->
+		<passive_skill id="36327" level="3" /> <!-- Artifact Book - P. Defence -->
+	</option>
+	<option id="36505" name="Artifact Book - P. Defence">
+		<!-- P. Def. +4% -->
+		<passive_skill id="36327" level="4" /> <!-- Artifact Book - P. Defence -->
+	</option>
+	<option id="36506" name="Artifact Book - P. Defence">
+		<!-- P. Def. +5% -->
+		<passive_skill id="36327" level="5" /> <!-- Artifact Book - P. Defence -->
+	</option>
+	<option id="36507" name="Artifact Book - M. Defence">
+		<!-- M. Def. +1% -->
+		<passive_skill id="36328" level="1" /> <!-- Artifact Book - M. Defence -->
+	</option>
+	<option id="36508" name="Artifact Book - M. Defence">
+		<!-- M. Def. +2% -->
+		<passive_skill id="36328" level="2" /> <!-- Artifact Book - M. Defence -->
+	</option>
+	<option id="36509" name="Artifact Book - M. Defence">
+		<!-- M. Def. +3% -->
+		<passive_skill id="36328" level="3" /> <!-- Artifact Book - M. Defence -->
+	</option>
+	<option id="36510" name="Artifact Book - M. Defence">
+		<!-- M. Def. +4% -->
+		<passive_skill id="36328" level="4" /> <!-- Artifact Book - M. Defence -->
+	</option>
+	<option id="36511" name="Artifact Book - M. Defence">
+		<!-- M. Def. +5% -->
+		<passive_skill id="36328" level="5" /> <!-- Artifact Book - M. Defence -->
+	</option>
+	<option id="36512" name="Artifact Book - P. Crit. Power">
+		<!-- Critical Damage for basic attacks +1% -->
+		<passive_skill id="36329" level="1" /> <!-- P. Crit. Power -->
+	</option>
+	<option id="36513" name="Artifact Book - P. Crit. Power">
+		<!-- Critical Damage for basic attacks +2% -->
+		<passive_skill id="36329" level="2" /> <!-- P. Crit. Power -->
+	</option>
+	<option id="36514" name="Artifact Book - P. Crit. Power">
+		<!-- Critical Damage for basic attacks +3% -->
+		<passive_skill id="36329" level="3" /> <!-- P. Crit. Power -->
+	</option>
+	<option id="36515" name="Artifact Book - P. Crit. Power">
+		<!-- Critical Damage for basic attacks +4% -->
+		<passive_skill id="36329" level="4" /> <!-- P. Crit. Power -->
+	</option>
+	<option id="36516" name="Artifact Book - P. Crit. Power">
+		<!-- Critical Damage for basic attacks +5% -->
+		<passive_skill id="36329" level="5" /> <!-- P. Crit. Power -->
+	</option>
+	<option id="36517" name="Artifact Book - P. Skill Crit. Power">
+		<!-- P. Skill Critical Damage +1% -->
+		<passive_skill id="36330" level="1" /> <!-- P. Skill Crit. Power -->
+	</option>
+	<option id="36518" name="Artifact Book - P. Skill Crit. Power">
+		<!-- P. Skill Critical Damage +2% -->
+		<passive_skill id="36330" level="2" /> <!-- P. Skill Crit. Power -->
+	</option>
+	<option id="36519" name="Artifact Book - P. Skill Crit. Power">
+		<!-- P. Skill Critical Damage +3% -->
+		<passive_skill id="36330" level="3" /> <!-- P. Skill Crit. Power -->
+	</option>
+	<option id="36520" name="Artifact Book - P. Skill Crit. Power">
+		<!-- P. Skill Critical Damage +4% -->
+		<passive_skill id="36330" level="4" /> <!-- P. Skill Crit. Power -->
+	</option>
+	<option id="36521" name="Artifact Book - P. Skill Crit. Power">
+		<!-- P. Skill Critical Damage +5% -->
+		<passive_skill id="36330" level="5" /> <!-- P. Skill Crit. Power -->
+	</option>
+	<option id="36522" name="Artifact Book - M. Skill Crit. Power">
+		<!-- M. Skill Critical Damage +1% -->
+		<passive_skill id="36331" level="1" /> <!-- M. Skill Crit. Power -->
+	</option>
+	<option id="36523" name="Artifact Book - M. Skill Crit. Power">
+		<!-- M. Skill Critical Damage +2% -->
+		<passive_skill id="36331" level="2" /> <!-- M. Skill Crit. Power -->
+	</option>
+	<option id="36524" name="Artifact Book - M. Skill Crit. Power">
+		<!-- M. Skill Critical Damage +3% -->
+		<passive_skill id="36331" level="3" /> <!-- M. Skill Crit. Power -->
+	</option>
+	<option id="36525" name="Artifact Book - M. Skill Crit. Power">
+		<!-- M. Skill Critical Damage +4% -->
+		<passive_skill id="36331" level="4" /> <!-- M. Skill Crit. Power -->
+	</option>
+	<option id="36526" name="Artifact Book - M. Skill Crit. Power">
+		<!-- M. Skill Critical Damage +5% -->
+		<passive_skill id="36331" level="5" /> <!-- M. Skill Crit. Power -->
+	</option>
+	<option id="36527" name="Artifact Book - P. Attack Power">
+		<!-- Basic Attack Power +1% -->
+		<passive_skill id="36332" level="1" /> <!-- P. Attack Power -->
+	</option>
+	<option id="36528" name="Artifact Book - P. Attack Power">
+		<!-- Basic Attack Power +2% -->
+		<passive_skill id="36332" level="2" /> <!-- P. Attack Power -->
+	</option>
+	<option id="36529" name="Artifact Book - P. Attack Power">
+		<!-- Basic Attack Power +3% -->
+		<passive_skill id="36332" level="3" /> <!-- P. Attack Power -->
+	</option>
+	<option id="36530" name="Artifact Book - P. Attack Power">
+		<!-- Basic Attack Power +4% -->
+		<passive_skill id="36332" level="4" /> <!-- P. Attack Power -->
+	</option>
+	<option id="36531" name="Artifact Book - P. Attack Power">
+		<!-- Basic Attack Power +5% -->
+		<passive_skill id="36332" level="5" /> <!-- P. Attack Power -->
+	</option>
+	<option id="36532" name="Artifact Book - P. Skill Power">
+		<!-- P. Skill Power +1% -->
+		<passive_skill id="36333" level="1" /> <!-- P. Skill Power -->
+	</option>
+	<option id="36533" name="Artifact Book - P. Skill Power">
+		<!-- P. Skill Power +2% -->
+		<passive_skill id="36333" level="2" /> <!-- P. Skill Power -->
+	</option>
+	<option id="36534" name="Artifact Book - P. Skill Power">
+		<!-- P. Skill Power +3% -->
+		<passive_skill id="36333" level="3" /> <!-- P. Skill Power -->
+	</option>
+	<option id="36535" name="Artifact Book - P. Skill Power">
+		<!-- P. Skill Power +4% -->
+		<passive_skill id="36333" level="4" /> <!-- P. Skill Power -->
+	</option>
+	<option id="36536" name="Artifact Book - P. Skill Power">
+		<!-- P. Skill Power +5% -->
+		<passive_skill id="36333" level="5" /> <!-- P. Skill Power -->
+	</option>
+	<option id="36537" name="Artifact Book - M. Skill Power">
+		<!-- M. Skill Power +1% -->
+		<passive_skill id="36334" level="1" /> <!-- M. Skill Power -->
+	</option>
+	<option id="36538" name="Artifact Book - M. Skill Power">
+		<!-- M. Skill Power +2% -->
+		<passive_skill id="36334" level="2" /> <!-- M. Skill Power -->
+	</option>
+	<option id="36539" name="Artifact Book - M. Skill Power">
+		<!-- M. Skill Power +3% -->
+		<passive_skill id="36334" level="3" /> <!-- M. Skill Power -->
+	</option>
+	<option id="36540" name="Artifact Book - M. Skill Power">
+		<!-- M. Skill Power +4% -->
+		<passive_skill id="36334" level="4" /> <!-- M. Skill Power -->
+	</option>
+	<option id="36541" name="Artifact Book - M. Skill Power">
+		<!-- M. Skill Power +5% -->
+		<passive_skill id="36334" level="5" /> <!-- M. Skill Power -->
+	</option>
+	<option id="36542" name="Artifact Book - Exp Sp Bonus">
+		<!-- Acquired XP/ SP +1% -->
+		<passive_skill id="36335" level="1" /> <!-- Artifact Book - EXP & SP Bonus -->
+	</option>
+	<option id="36543" name="Artifact Book - Exp Sp Bonus">
+		<!-- Acquired XP/ SP +2% -->
+		<passive_skill id="36335" level="2" /> <!-- Artifact Book - EXP & SP Bonus -->
+	</option>
+	<option id="36544" name="Artifact Book - Exp Sp Bonus">
+		<!-- Acquired XP/ SP +3% -->
+		<passive_skill id="36335" level="3" /> <!-- Artifact Book - EXP & SP Bonus -->
+	</option>
+	<option id="36545" name="Artifact Book - Exp Sp Bonus">
+		<!-- Acquired XP/ SP +4% -->
+		<passive_skill id="36335" level="4" /> <!-- Artifact Book - EXP & SP Bonus -->
+	</option>
+	<option id="36546" name="Artifact Book - Exp Sp Bonus">
+		<!-- Acquired XP/ SP +5% -->
+		<passive_skill id="36335" level="5" /> <!-- Artifact Book - EXP & SP Bonus -->
+	</option>
+	<option id="36547" name="option_id_36547">
+		<!-- Power of basic attacks and P./ M. skills, P. Def., M. Def. +10%, acquired XP/ SP +10% -->
+	</option>
+	<option id="36548" name="option_id_36548">
+		<!-- All Critical Damage, Power of basic attacks and P./ M. skills +5%, received damage -10% -->
+	</option>
+	<option id="36549" name="option_id_36549">
+		<!-- Power of basic attacks and P./ M. skills, P. Def., M. Def. +10%, acquired XP/ SP +10% -->
+	</option>
+	<option id="36550" name="option_id_36550">
+		<!-- P. Atk. +1% -->
+	</option>
+	<option id="36551" name="option_id_36551">
+		<!-- P. Atk. +2% -->
+	</option>
+	<option id="36552" name="option_id_36552">
+		<!-- P. Atk. +3% -->
+	</option>
+	<option id="36553" name="option_id_36553">
+		<!-- P. Atk. +4% -->
+	</option>
+	<option id="36554" name="option_id_36554">
+		<!-- P. Atk. +5% -->
+	</option>
+	<option id="36555" name="option_id_36555">
+		<!-- M. Atk. +1% -->
+	</option>
+	<option id="36556" name="option_id_36556">
+		<!-- M. Atk. +2% -->
+	</option>
+	<option id="36557" name="option_id_36557">
+		<!-- M. Atk. +3% -->
+	</option>
+	<option id="36558" name="option_id_36558">
+		<!-- M. Atk. +4% -->
+	</option>
+	<option id="36559" name="option_id_36559">
+		<!-- M. Atk. +5% -->
+	</option>
+	<option id="36560" name="option_id_36560">
+		<!-- P. Def. +1% -->
+	</option>
+	<option id="36561" name="option_id_36561">
+		<!-- P. Def. +2% -->
+	</option>
+	<option id="36562" name="option_id_36562">
+		<!-- P. Def. +3% -->
+	</option>
+	<option id="36563" name="option_id_36563">
+		<!-- P. Def. +4% -->
+	</option>
+	<option id="36564" name="option_id_36564">
+		<!-- P. Def. +5% -->
+	</option>
+	<option id="36565" name="option_id_36565">
+		<!-- M. Def. +1% -->
+	</option>
+	<option id="36566" name="option_id_36566">
+		<!-- M. Def. +2% -->
+	</option>
+	<option id="36567" name="option_id_36567">
+		<!-- M. Def. +3% -->
+	</option>
+	<option id="36568" name="option_id_36568">
+		<!-- M. Def. +4% -->
+	</option>
+	<option id="36569" name="option_id_36569">
+		<!-- M. Def. +5% -->
+	</option>
+	<option id="36570" name="option_id_36570">
+		<!-- Max HP +1% -->
+	</option>
+	<option id="36571" name="option_id_36571">
+		<!-- Max HP +2% -->
+	</option>
+	<option id="36572" name="option_id_36572">
+		<!-- Max HP +3% -->
+	</option>
+	<option id="36573" name="option_id_36573">
+		<!-- Max HP +4% -->
+	</option>
+	<option id="36574" name="option_id_36574">
+		<!-- Max HP +5% -->
+	</option>
+	<option id="36575" name="option_id_36575">
+		<!-- Max MP +1% -->
+	</option>
+	<option id="36576" name="option_id_36576">
+		<!-- Max MP +2% -->
+	</option>
+	<option id="36577" name="option_id_36577">
+		<!-- Max MP +3% -->
+	</option>
+	<option id="36578" name="option_id_36578">
+		<!-- Max MP +4% -->
+	</option>
+	<option id="36579" name="option_id_36579">
+		<!-- Max MP +5% -->
+	</option>
+	<option id="36580" name="option_id_36580">
+		<!-- Speed +3 -->
+	</option>
+	<option id="36581" name="option_id_36581">
+		<!-- Speed +4 -->
+	</option>
+	<option id="36582" name="option_id_36582">
+		<!-- Speed +5 -->
+	</option>
+	<option id="36583" name="option_id_36583">
+		<!-- Speed +6 -->
+	</option>
+	<option id="36584" name="option_id_36584">
+		<!-- Speed +7 -->
+	</option>
+	<option id="36585" name="option_id_36585">
+		<!-- CHA +1 -->
+	</option>
+	<option id="36586" name="option_id_36586">
+		<!-- CHA +2 -->
+	</option>
+	<option id="36587" name="option_id_36587">
+		<!-- CHA +3 -->
+	</option>
+	<option id="36588" name="option_id_36588">
+		<!-- Acquired XP/ SP +1% -->
+	</option>
+	<option id="36589" name="option_id_36589">
+		<!-- Acquired XP/ SP +2% -->
+	</option>
+	<option id="36590" name="option_id_36590">
+		<!-- Acquired XP/ SP +3% -->
+	</option>
+	<option id="36591" name="option_id_36591">
+		<!-- Acquired XP/ SP +4% -->
+	</option>
+	<option id="36592" name="option_id_36592">
+		<!-- Acquired XP/ SP +7% -->
+	</option>
+	<option id="36593" name="option_id_36593">
+		<!-- Attribute Attack +10 -->
+	</option>
+	<option id="36594" name="option_id_36594">
+		<!-- Attribute Attack +20 -->
+	</option>
+	<option id="36595" name="option_id_36595">
+		<!-- Attribute Attack +30 -->
+	</option>
+	<option id="36596" name="option_id_36596">
+		<!-- Attribute Attack +40 -->
+	</option>
+	<option id="36597" name="option_id_36597">
+		<!-- Attribute Attack +70 -->
+	</option>
+	<option id="36598" name="option_id_36598">
+		<!-- Attribute Resistance +10 -->
+	</option>
+	<option id="36599" name="option_id_36599">
+		<!-- Attribute Resistance +20 -->
+	</option>
+</list>

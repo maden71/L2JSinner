@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
+	<spawn name="20_23">
+		<group>
+			<npc id="20068" x="6985" y="184088" z="-2505" heading="36639" respawnTime="60sec" /> <!-- Monster Eye Destroyer -->
+			<npc id="20068" x="6852" y="184461" z="-2513" heading="18952" respawnTime="60sec" /> <!-- Monster Eye Destroyer -->
+			<npc id="20068" x="6927" y="184575" z="-2513" heading="6443" respawnTime="60sec" /> <!-- Monster Eye Destroyer -->
+			<npc id="20206" x="7042" y="184800" z="-2514" heading="13422" respawnTime="60sec" /> <!-- Cardiff Werewolf -->
+			<npc id="20206" x="7107" y="184776" z="-2514" heading="24438" respawnTime="60sec" /> <!-- Cardiff Werewolf -->
+			<npc id="20206" x="6609" y="185145" z="-2615" heading="28392" respawnTime="60sec" /> <!-- Cardiff Werewolf -->
+			<npc id="20068" x="6569" y="184870" z="-2605" heading="47778" respawnTime="60sec" /> <!-- Monster Eye Destroyer -->
+			<npc id="20068" x="6781" y="184182" z="-2515" heading="42914" respawnTime="60sec" /> <!-- Monster Eye Destroyer -->
+			<npc id="20206" x="7004" y="183658" z="-2542" heading="56010" respawnTime="60sec" /> <!-- Cardiff Werewolf -->
+			<npc id="20206" x="7348" y="183478" z="-2575" heading="60999" respawnTime="60sec" /> <!-- Cardiff Werewolf -->
+			<npc id="20206" x="7442" y="182990" z="-2668" heading="50435" respawnTime="60sec" /> <!-- Cardiff Werewolf -->
+			<npc id="20206" x="7436" y="182561" z="-2763" heading="48964" respawnTime="60sec" /> <!-- Cardiff Werewolf -->
+			<npc id="20206" x="7552" y="182249" z="-2836" heading="52566" respawnTime="60sec" /> <!-- Cardiff Werewolf -->
+			<npc id="20068" x="7242" y="182042" z="-2887" heading="37939" respawnTime="60sec" /> <!-- Monster Eye Destroyer -->
+			<npc id="20068" x="8095" y="182005" z="-2920" heading="1818" respawnTime="60sec" /> <!-- Monster Eye Destroyer -->
+			<npc id="20206" x="8716" y="182038" z="-2945" heading="65466" respawnTime="60sec" /> <!-- Cardiff Werewolf -->
+			<npc id="20068" x="9166" y="182285" z="-2909" heading="9881" respawnTime="60sec" /> <!-- Monster Eye Destroyer -->
+			<npc id="20206" x="9188" y="182439" z="-2873" heading="14903" respawnTime="60sec" /> <!-- Cardiff Werewolf -->
+			<npc id="20068" x="9349" y="182416" z="-2898" heading="61370" respawnTime="60sec" /> <!-- Monster Eye Destroyer -->
+			<npc id="20206" x="9275" y="182245" z="-2924" heading="44495" respawnTime="60sec" /> <!-- Cardiff Werewolf -->
+			<npc id="20068" x="9494" y="182449" z="-2894" heading="9276" respawnTime="60sec" /> <!-- Monster Eye Destroyer -->
+			<npc id="20206" x="9403" y="182641" z="-2854" heading="26043" respawnTime="60sec" /> <!-- Cardiff Werewolf -->
+			<npc id="20068" x="9489" y="182573" z="-2854" heading="17459" respawnTime="60sec" /> <!-- Monster Eye Destroyer -->
+			<npc id="20068" x="9489" y="182573" z="-2854" heading="21871" respawnTime="60sec" /> <!-- Monster Eye Destroyer -->
+			<npc id="20068" x="9468" y="182864" z="-2807" heading="6411" respawnTime="60sec" /> <!-- Monster Eye Destroyer -->
+			<npc id="20206" x="9648" y="183002" z="-2802" heading="6822" respawnTime="60sec" /> <!-- Cardiff Werewolf -->
+			<npc id="20206" x="9675" y="182897" z="-2824" heading="48319" respawnTime="60sec" /> <!-- Cardiff Werewolf -->
+			<npc id="20068" x="9535" y="182816" z="-2827" heading="37355" respawnTime="60sec" /> <!-- Monster Eye Destroyer -->
+			<npc id="20206" x="9677" y="183236" z="-2766" heading="13874" respawnTime="60sec" /> <!-- Cardiff Werewolf -->
+			<npc id="20206" x="9809" y="183233" z="-2771" heading="2555" respawnTime="60sec" /> <!-- Cardiff Werewolf -->
+			<npc id="20068" x="9906" y="183403" z="-2749" heading="11514" respawnTime="60sec" /> <!-- Monster Eye Destroyer -->
+			<npc id="20068" x="9938" y="183378" z="-2749" heading="20437" respawnTime="60sec" /> <!-- Monster Eye Destroyer -->
+			<npc id="20206" x="9945" y="183372" z="-2749" heading="20198" respawnTime="60sec" /> <!-- Cardiff Werewolf -->
+			<npc id="20119" x="9954" y="183439" z="-2749" heading="41407" respawnTime="60sec" /> <!-- Elder Fox -->
+			<npc id="20206" x="9502" y="183668" z="-2685" heading="21822" respawnTime="60sec" /> <!-- Cardiff Werewolf -->
+			<npc id="20068" x="9406" y="183922" z="-2656" heading="20460" respawnTime="60sec" /> <!-- Monster Eye Destroyer -->
+			<npc id="20068" x="9552" y="184132" z="-2644" heading="9672" respawnTime="60sec" /> <!-- Monster Eye Destroyer -->
+			<npc id="20206" x="9420" y="184324" z="-2632" heading="22549" respawnTime="60sec" /> <!-- Cardiff Werewolf -->
+			<npc id="20206" x="9154" y="184714" z="-2647" heading="29793" respawnTime="60sec" /> <!-- Cardiff Werewolf -->
+			<npc id="20068" x="8759" y="185078" z="-2572" heading="17371" respawnTime="60sec" /> <!-- Monster Eye Destroyer -->
+			<npc id="20206" x="8436" y="184495" z="-2610" heading="36289" respawnTime="60sec" /> <!-- Cardiff Werewolf -->
+			<npc id="20068" x="8363" y="184579" z="-2591" heading="15463" respawnTime="60sec" /> <!-- Monster Eye Destroyer -->
+			<npc id="20168" x="7096" y="183238" z="-2618" heading="34010" respawnTime="60sec" /> <!-- Silenos -->
+			<npc id="20168" x="6765" y="183547" z="-2567" heading="24982" respawnTime="60sec" /> <!-- Silenos -->
+			<npc id="20168" x="6712" y="183838" z="-2529" heading="17293" respawnTime="60sec" /> <!-- Silenos -->
+			<npc id="20168" x="7418" y="184294" z="-2500" heading="63477" respawnTime="60sec" /> <!-- Silenos -->
+			<npc id="20168" x="7414" y="184212" z="-2505" heading="48643" respawnTime="60sec" /> <!-- Silenos -->
+			<npc id="20168" x="7726" y="183784" z="-2554" heading="49415" respawnTime="60sec" /> <!-- Silenos -->
+			<npc id="20206" x="7790" y="183791" z="-2561" heading="1136" respawnTime="60sec" /> <!-- Cardiff Werewolf -->
+			<npc id="20168" x="8279" y="183567" z="-2644" heading="59616" respawnTime="60sec" /> <!-- Silenos -->
+			<npc id="20168" x="8194" y="183365" z="-2640" heading="42682" respawnTime="60sec" /> <!-- Silenos -->
+			<npc id="20168" x="8182" y="183156" z="-2650" heading="48877" respawnTime="60sec" /> <!-- Silenos -->
+			<npc id="20168" x="8182" y="183156" z="-2650" heading="48877" respawnTime="60sec" /> <!-- Silenos -->
+			<npc id="20168" x="8088" y="182951" z="-2683" heading="43298" respawnTime="60sec" /> <!-- Silenos -->
+			<npc id="20168" x="7931" y="182656" z="-2754" heading="44067" respawnTime="60sec" /> <!-- Silenos -->
+			<npc id="20168" x="7930" y="182653" z="-2756" heading="44067" respawnTime="60sec" /> <!-- Silenos -->
+			<npc id="20168" x="8641" y="182782" z="-2726" heading="2884" respawnTime="60sec" /> <!-- Silenos -->
+			<npc id="20168" x="8806" y="183142" z="-2721" heading="12435" respawnTime="60sec" /> <!-- Silenos -->
+			<npc id="20168" x="9010" y="183692" z="-2683" heading="12264" respawnTime="60sec" /> <!-- Silenos -->
+			<npc id="20168" x="8845" y="184140" z="-2633" heading="18435" respawnTime="60sec" /> <!-- Silenos -->
+			<npc id="20168" x="9562" y="182152" z="-2928" heading="52388" respawnTime="60sec" /> <!-- Silenos -->
+			<npc id="20168" x="9648" y="181885" z="-2961" heading="52125" respawnTime="60sec" /> <!-- Silenos -->
+			<npc id="20168" x="9835" y="181601" z="-2997" heading="55121" respawnTime="60sec" /> <!-- Silenos -->
+			<npc id="20168" x="10079" y="181335" z="-3048" heading="57534" respawnTime="60sec" /> <!-- Silenos -->
+			<npc id="20168" x="9982" y="181007" z="-3056" heading="46111" respawnTime="60sec" /> <!-- Silenos -->
+			<npc id="20168" x="9774" y="180861" z="-3027" heading="39382" respawnTime="60sec" /> <!-- Silenos -->
+			<npc id="20168" x="9808" y="180558" z="-3043" heading="50250" respawnTime="60sec" /> <!-- Silenos -->
+			<npc id="20168" x="9563" y="180318" z="-3028" heading="41236" respawnTime="60sec" /> <!-- Silenos -->
+			<npc id="20168" x="9753" y="180193" z="-3069" heading="62821" respawnTime="60sec" /> <!-- Silenos -->
+			<npc id="20168" x="9606" y="180828" z="-3006" heading="17676" respawnTime="60sec" /> <!-- Silenos -->
+			<npc id="20168" x="9456" y="181315" z="-3009" heading="20126" respawnTime="60sec" /> <!-- Silenos -->
+			<npc id="20168" x="8686" y="181140" z="-2983" heading="37545" respawnTime="60sec" /> <!-- Silenos -->
+			<npc id="20206" x="10733" y="178041" z="-3601" heading="37102" respawnTime="60sec" /> <!-- Cardiff Werewolf -->
+			<npc id="20206" x="9937" y="177874" z="-3369" heading="43037" respawnTime="60sec" /> <!-- Cardiff Werewolf -->
+			<npc id="20068" x="10111" y="177854" z="-3346" heading="55" respawnTime="60sec" /> <!-- Monster Eye Destroyer -->
+			<npc id="20068" x="10330" y="177872" z="-3335" heading="2406" respawnTime="60sec" /> <!-- Monster Eye Destroyer -->
+			<npc id="20068" x="10452" y="178310" z="-3333" heading="13183" respawnTime="60sec" /> <!-- Monster Eye Destroyer -->
+			<npc id="20068" x="10748" y="178685" z="-3306" heading="10221" respawnTime="60sec" /> <!-- Monster Eye Destroyer -->
+			<npc id="20068" x="10924" y="179150" z="-3313" heading="12979" respawnTime="60sec" /> <!-- Monster Eye Destroyer -->
+			<npc id="20068" x="10682" y="179822" z="-3276" heading="24359" respawnTime="60sec" /> <!-- Monster Eye Destroyer -->
+			<npc id="20068" x="10187" y="179957" z="-3199" heading="33285" respawnTime="60sec" /> <!-- Monster Eye Destroyer -->
+			<npc id="20068" x="9984" y="180307" z="-3100" heading="18353" respawnTime="60sec" /> <!-- Monster Eye Destroyer -->
+			<npc id="20068" x="9664" y="180812" z="-3013" heading="22769" respawnTime="60sec" /> <!-- Monster Eye Destroyer -->
+			<npc id="20068" x="9107" y="180882" z="-2975" heading="32460" respawnTime="60sec" /> <!-- Monster Eye Destroyer -->
+			<npc id="20068" x="8653" y="181051" z="-2978" heading="28973" respawnTime="60sec" /> <!-- Monster Eye Destroyer -->
+			<npc id="20068" x="8129" y="181388" z="-2952" heading="25132" respawnTime="60sec" /> <!-- Monster Eye Destroyer -->
+			<npc id="20068" x="7377" y="181506" z="-2983" heading="33462" respawnTime="60sec" /> <!-- Monster Eye Destroyer -->
+			<npc id="20068" x="8746" y="181515" z="-3006" heading="60564" respawnTime="60sec" /> <!-- Monster Eye Destroyer -->
+			<npc id="20068" x="9330" y="181850" z="-2983" heading="7065" respawnTime="60sec" /> <!-- Monster Eye Destroyer -->
+			<npc id="20068" x="9850" y="181513" z="-3013" heading="58464" respawnTime="60sec" /> <!-- Monster Eye Destroyer -->
+			<npc id="20068" x="10385" y="181111" z="-3123" heading="59521" respawnTime="60sec" /> <!-- Monster Eye Destroyer -->
+			<npc id="20068" x="10808" y="180841" z="-3221" heading="59686" respawnTime="60sec" /> <!-- Monster Eye Destroyer -->
+			<npc id="20068" x="11299" y="180574" z="-3313" heading="60788" respawnTime="60sec" /> <!-- Monster Eye Destroyer -->
+			<npc id="20068" x="11758" y="180259" z="-3394" heading="57770" respawnTime="60sec" /> <!-- Monster Eye Destroyer -->
+			<npc id="20068" x="11973" y="179822" z="-3410" heading="51119" respawnTime="60sec" /> <!-- Monster Eye Destroyer -->
+			<npc id="20206" x="11696" y="179177" z="-3369" heading="38901" respawnTime="60sec" /> <!-- Cardiff Werewolf -->
+			<npc id="20206" x="11173" y="179269" z="-3329" heading="29328" respawnTime="60sec" /> <!-- Cardiff Werewolf -->
+			<npc id="20206" x="10881" y="178988" z="-3299" heading="43350" respawnTime="60sec" /> <!-- Cardiff Werewolf -->
+			<npc id="20206" x="10419" y="178581" z="-3335" heading="40196" respawnTime="60sec" /> <!-- Cardiff Werewolf -->
+			<npc id="20206" x="10583" y="177889" z="-3342" heading="51751" respawnTime="60sec" /> <!-- Cardiff Werewolf -->
+			<npc id="20206" x="11149" y="178227" z="-3365" heading="7674" respawnTime="60sec" /> <!-- Cardiff Werewolf -->
+			<npc id="20206" x="11429" y="178653" z="-3353" heading="10810" respawnTime="60sec" /> <!-- Cardiff Werewolf -->
+			<npc id="20206" x="11384" y="179744" z="-3359" heading="17223" respawnTime="60sec" /> <!-- Cardiff Werewolf -->
+			<npc id="20206" x="10869" y="180233" z="-3306" heading="28599" respawnTime="60sec" /> <!-- Cardiff Werewolf -->
+			<npc id="20206" x="10316" y="180217" z="-3189" heading="33554" respawnTime="60sec" /> <!-- Cardiff Werewolf -->
+			<npc id="20206" x="9707" y="181210" z="-3022" heading="19772" respawnTime="60sec" /> <!-- Cardiff Werewolf -->
+			<npc id="20206" x="9254" y="181593" z="-3018" heading="27443" respawnTime="60sec" /> <!-- Cardiff Werewolf -->
+			<npc id="20206" x="8761" y="182011" z="-2943" heading="24393" respawnTime="60sec" /> <!-- Cardiff Werewolf -->
+			<npc id="20206" x="8570" y="182509" z="-2791" heading="17779" respawnTime="60sec" /> <!-- Cardiff Werewolf -->
+			<npc id="20206" x="8510" y="182886" z="-2706" heading="23317" respawnTime="60sec" /> <!-- Cardiff Werewolf -->
+			<npc id="20206" x="8096" y="183747" z="-2612" heading="18491" respawnTime="60sec" /> <!-- Cardiff Werewolf -->
+			<npc id="20206" x="7574" y="184064" z="-2525" heading="27965" respawnTime="60sec" /> <!-- Cardiff Werewolf -->
+			<npc id="20206" x="8138" y="184312" z="-2604" heading="4028" respawnTime="60sec" /> <!-- Cardiff Werewolf -->
+			<npc id="20206" x="8664" y="184462" z="-2623" heading="3935" respawnTime="60sec" /> <!-- Cardiff Werewolf -->
+			<npc id="20206" x="8952" y="184677" z="-2629" heading="8245" respawnTime="60sec" /> <!-- Cardiff Werewolf -->
+			<npc id="20068" x="7904" y="183975" z="-2567" heading="42125" respawnTime="60sec" /> <!-- Monster Eye Destroyer -->
+			<npc id="20068" x="7787" y="184103" z="-2543" heading="25499" respawnTime="60sec" /> <!-- Monster Eye Destroyer -->
+			<npc id="20068" x="7899" y="183551" z="-2588" heading="50703" respawnTime="60sec" /> <!-- Monster Eye Destroyer -->
+			<npc id="20068" x="8516" y="184079" z="-2634" heading="7865" respawnTime="60sec" /> <!-- Monster Eye Destroyer -->
+			<npc id="20068" x="9146" y="183446" z="-2714" heading="18741" respawnTime="60sec" /> <!-- Monster Eye Destroyer -->
+			<npc id="20206" x="7248" y="185629" z="-2503" heading="15554" respawnTime="60sec" /> <!-- Cardiff Werewolf -->
+			<npc id="20206" x="7496" y="186030" z="-2474" heading="7122" respawnTime="60sec" /> <!-- Cardiff Werewolf -->
+			<npc id="20068" x="7233" y="185871" z="-2499" heading="39374" respawnTime="60sec" /> <!-- Monster Eye Destroyer -->
+			<npc id="20068" x="7755" y="186026" z="-2467" heading="5674" respawnTime="60sec" /> <!-- Monster Eye Destroyer -->
+			<npc id="20168" x="7254" y="185809" z="-2498" heading="35263" respawnTime="60sec" /> <!-- Silenos -->
+			<npc id="20168" x="6929" y="185712" z="-2547" heading="35700" respawnTime="60sec" /> <!-- Silenos -->
+			<npc id="20206" x="6547" y="185486" z="-2593" heading="39891" respawnTime="60sec" /> <!-- Cardiff Werewolf -->
+			<npc id="20068" x="6261" y="185137" z="-2636" heading="42756" respawnTime="60sec" /> <!-- Monster Eye Destroyer -->
+			<npc id="20168" x="6333" y="185082" z="-2636" heading="43859" respawnTime="60sec" /> <!-- Silenos -->
+			<npc id="20206" x="6026" y="184631" z="-2621" heading="49218" respawnTime="60sec" /> <!-- Cardiff Werewolf -->
+			<npc id="20068" x="6035" y="184449" z="-2593" heading="51384" respawnTime="60sec" /> <!-- Monster Eye Destroyer -->
+			<npc id="20206" x="5899" y="184376" z="-2604" heading="34200" respawnTime="60sec" /> <!-- Cardiff Werewolf -->
+			<npc id="20168" x="5959" y="184534" z="-2615" heading="10914" respawnTime="60sec" /> <!-- Silenos -->
+			<npc id="20168" x="6842" y="184328" z="-2509" heading="1181" respawnTime="60sec" /> <!-- Silenos -->
+			<npc id="20206" x="6842" y="184328" z="-2509" heading="1181" respawnTime="60sec" /> <!-- Cardiff Werewolf -->
+			<npc id="20068" x="6842" y="184328" z="-2509" heading="1181" respawnTime="60sec" /> <!-- Monster Eye Destroyer -->
+			<npc id="20068" x="7529" y="183643" z="-2550" heading="27378" respawnTime="60sec" /> <!-- Monster Eye Destroyer -->
+			<npc id="33177" x="7762" y="185169" z="-2478" heading="45595" respawnTime="60sec" /> <!-- Kallesin -->
+		</group>
+	</spawn>
+</list>

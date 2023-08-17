@@ -1,0 +1,423 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="82400" name="Augmenting Stone Pack" type="EtcItem">
+		<!-- Double-click to obtain one of the following items: Mask Augmenting Stone, Augmenting Stone: Brooch, Augmenting Stone: Circlet, Augmenting Stone: Accessory, Augmenting Stone: Dragon Leather Shirt, Augmenting Stone: Kaliel's Bracelet, Augmenting Stone of Superior Seed Bracelet, Augmenting Stone: Artifact Book. -->
+		<set name="icon" val="icon.etc_box_of_adventure_3_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="SILVER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="82401" name="Pure Crystal" type="EtcItem">
+		<!-- A crystal that remained after soul purification and disappearance. It's worthless. -->
+		<set name="icon" val="icon.cursed_prison_soul" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="82402" name="Moonlight Petal" type="EtcItem">
+		<!-- A petal of mysterious flower, which has been growing in earth covered with sweet blood under moonlight. It slightly smells blood. -->
+		<set name="icon" val="icon.cursed_prison_petal" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="82403" name="Eigis' Energy Pouch" additionalName="Event" type="EtcItem">
+		<!-- A pouch full of Eigis' energy. Double-click to obtain Beora's Ancient Energy (10 pcs.). -->
+		<set name="icon" val="icon.etc_golden_spice_blessed_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="82404" name="Vitality Maintaining Rune" additionalName="1-day" type="EtcItem">
+		<!-- Available for 1 d. When in inventory, maintains the Vitality level. -->
+		<set name="icon" val="icon.ev_charge_run" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="1" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="time" val="1440" />
+	</item>
+	<item id="82405" name="Session Zone Supply Box" additionalName="Event" type="EtcItem">
+		<!-- Can be obtained for completing the clan mission 'Hunting in 3 Session Zones'. Double-click to obtain one of the following items: Enhanced Rune Stone, Tales of Aden, Freya's Scroll of Storm, Shining Nevit's Gold Hourglass, Adventurer's Fortune Scroll. -->
+		<set name="icon" val="icon.etc_treasure_box_i11" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="SILVER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="82406" name="+5 Fallen Angel's Earring Pack" additionalName="Event" type="EtcItem">
+		<!-- Double-click to obtain +5 Fallen Angel's Earring. -->
+		<set name="icon" val="icon.card_event_black_box" />
+		<set name="default_action" val="CAPSULE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="82407" name="+5 Fallen Angel's Ring Pack" additionalName="Event" type="EtcItem">
+		<!-- Double-click to obtain +5 Fallen Angel's Ring. -->
+		<set name="icon" val="icon.card_event_black_box" />
+		<set name="default_action" val="CAPSULE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="82408" name="Mysterious Supply Pack" additionalName="Event" type="EtcItem">
+		<!-- Double-click to obtain Emperor's Special Cocktail (500 pcs.), Freya's Ice Rose, Glowing Dragon's Attribute Potion (XP), Honey Dark Beer, Shining Nevit's Gold Hourglass (1000 pcs.). -->
+		<set name="icon" val="icon.etc_exchange_box_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="82409" name="Tales of Narcissus Pack" additionalName="Event" type="EtcItem">
+		<!-- A pack imbued with Narcissus' power. Double-click to obtain Tales of Dimensions (800 pcs.). -->
+		<set name="icon" val="icon.etc_exchange_box_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="82410" name="Noah's Gift" additionalName="Event" type="EtcItem">
+		<!-- A box full of gifts from Guardian of Aden Noah. Double-click to obtain Tales of Aden, Emperor's Special Cocktail (3 pcs.), Adventurer's Fortune Scroll, Freya's Ice Rose, Glowing Dragon's Attribute Potion (XP), Honey Dark Beer (6 pcs.). -->
+		<set name="icon" val="icon.etc_pi_gift_box_i04" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="82411" name="Sayha's Pack" additionalName="Lv. 1" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_green_box_01" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="82412" name="Enhanced Sayha's Pack" additionalName="Lv. 2" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_green_box_02" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="82413" name="Superior Sayha's Pack" additionalName="Lv. 3" type="EtcItem">
+		<!-- Double-click to obtain 1 rare item. -->
+		<set name="icon" val="icon.bm_green_box_03" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="82414" name="Beora's Energy Rune" additionalName="30-day" type="EtcItem">
+		<!-- When in inventory, Vitality bonus +30%. The effect doesn't work on boss monsters. -->
+		<set name="icon" val="icon.bm_package_vitality_rune_30d" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="time" val="43200" />
+	</item>
+	<item id="82415" name="Week Kit" type="EtcItem">
+		<!-- Double-click to obtain Tales of Dimensions (50 pcs.), Beora's Ancient Energy (300 pcs.), Freya's Ice Rose (100 pcs.), Glowing Dragon's Attribute Potion (XP) (100 pcs.), Honey Dark Beer (100 pcs.), Emperor's Special Cocktail (50 pcs.), Einhasad's Golden Coin (200 pcs.). -->
+		<set name="icon" val="icon.bm_week_package" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="82416" name="Month Kit" type="EtcItem">
+		<!-- Double-click to obtain Tales of Dimensions (200 pcs.), Beora's Ancient Energy (500 pcs.), Freya's Scroll of Storm (500 pcs.), Shining Nevit's Gold Hourglass (100 pcs.), Nevit's Cloak of Light (1 pc.), Beora's Energy Rune (1 pc.), Aether (2000 pcs.), Einhasad's Golden Coin (400 pcs.). -->
+		<set name="icon" val="icon.bm_month_package" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="82417" name="Beora's Pack" additionalName="Lv. 1" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_sheep_agathion_30d_box" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="82418" name="Beora's Shining Pack" additionalName="Lv. 2" type="EtcItem">
+		<!-- Double-click to obtain a useful item. -->
+		<set name="icon" val="icon.bm_nebit_present" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="82419" name="Death Knights' New Cloak" type="Armor">
+		<!-- Einhasad's Protection for Death Knights. -->
+		<set name="icon" val="icon.nobless_cloak_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="back" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="CLOTH" />
+		<set name="weight" val="220" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<stats>
+			<stat type="mDef">80</stat>
+			<stat type="pDef">100</stat>
+		</stats>
+	</item>
+	<item id="82420" name="Gran Kain's Scroll: Enchant Cloak" type="EtcItem">
+		<!-- To enchant Cloak of Light Dragon. Through Gran Kain's power, in case of failure, the item is not crystallized, and its enchant value remains the same. -->
+		<set name="icon" val="icon.bm_shilen_scrl_of_cloak" />
+		<set name="default_action" val="SKILL_REDUCE" />
+		<set name="etcitem_type" val="ENCHT_ATTR_ANCIENT_CRYSTAL_ENCHANT_AM" />
+		<set name="material" val="PAPER" />
+		<set name="is_sellable" val="false" />
+		<set name="is_stackable" val="true" />
+		<set name="handler" val="EnchantScrolls" />
+		<skills>
+			<skill id="39808" level="1" /> <!-- Gran Kain's Scroll: Enchant Cloak -->
+		</skills>
+	</item>
+	<item id="82421" name="Protection of Light" type="EtcItem">
+		<!-- Can be obtained if trying Cloak of Light Dragon on. -->
+		<set name="icon" val="icon.bm_star_agathion_mineral" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="82422" name="Sealed Cloak of Light Dragon" type="EtcItem">
+		<!-- Double-click to obtain Cloak of Light Dragon. -->
+		<set name="icon" val="icon.nobless_cloak_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="SILVER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="82423" name="Dry Ice" additionalName="Event" type="EtcItem">
+		<!-- Cooling dry ice that will help you survive Aden's heat. <How to use> Required for compounding Freya's Ice Doll Lv. 1-9. In case of failure Dry Ice disappears, but Freya's Ice Doll remains and its level stays the same. -->
+		<set name="icon" val="icon.ev_dryice" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="82424" name="Freya's Ice Doll Lv. 1" additionalName="Event" type="EtcItem">
+		<!-- An ice doll. Freya filled it with cool energy to help Aden adventurers survive in this heat. Can be enhanced through compounding and then exchanged for a reward. <Enhancing> Compounding with Dry Ice. -->
+		<set name="icon" val="icon.ev_icedoll_low" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="82425" name="Freya's Ice Doll Lv. 2" additionalName="Event" type="EtcItem">
+		<!-- An ice doll. Freya filled it with cool energy to help Aden adventurers survive in this heat. Can be exchanged for any reward through the event craft. <Enhancing> Compounding with Dry Ice. -->
+		<set name="icon" val="icon.ev_icedoll_low" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="82426" name="Freya's Ice Doll Lv. 3" additionalName="Event" type="EtcItem">
+		<!-- An ice doll. Freya filled it with cool energy to help Aden adventurers survive in this heat. Can be exchanged for any reward through the event craft. <Enhancing> Compounding with Dry Ice. -->
+		<set name="icon" val="icon.ev_icedoll_low" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="82427" name="Freya's Ice Doll Lv. 4" additionalName="Event" type="EtcItem">
+		<!-- An ice doll. Freya filled it with cool energy to help Aden adventurers survive in this heat. Can be exchanged for any reward through the event craft. <Enhancing> Compounding with Dry Ice. -->
+		<set name="icon" val="icon.ev_icedoll_low" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="82428" name="Freya's Ice Doll Lv. 5" additionalName="Event" type="EtcItem">
+		<!-- An ice doll. Freya filled it with cool energy to help Aden adventurers survive in this heat. Can be exchanged for any reward through the event craft. <Enhancing> Compounding with Dry Ice. -->
+		<set name="icon" val="icon.ev_icedoll_low" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="82429" name="Freya's Ice Doll Lv. 6" additionalName="Event" type="EtcItem">
+		<!-- An ice doll. Freya filled it with cool energy to help Aden adventurers survive in this heat. Can be exchanged for any reward through the event craft. <Enhancing> Compounding with Dry Ice. -->
+		<set name="icon" val="icon.ev_icedoll_low" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="82430" name="Freya's Ice Doll Lv. 7" additionalName="Event" type="EtcItem">
+		<!-- A glowing ice doll. Freya filled it with cool energy to help Aden adventurers survive in this heat. Can be exchanged for any reward through the event craft. <Enhancing> Compounding with Dry Ice. -->
+		<set name="icon" val="icon.ev_icedoll_high" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="82431" name="Freya's Ice Doll Lv. 8" additionalName="Event" type="EtcItem">
+		<!-- A glowing ice doll. Freya filled it with cool energy to help Aden adventurers survive in this heat. Can be exchanged for any reward through the event craft. <Enhancing> Compounding with Dry Ice. -->
+		<set name="icon" val="icon.ev_icedoll_high" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="82432" name="Freya's Ice Doll Lv. 9" additionalName="Event" type="EtcItem">
+		<!-- A glowing ice doll. Freya filled it with cool energy to help Aden adventurers survive in this heat. Can be exchanged for any reward through the event craft. <Enhancing> Compounding with Dry Ice. <Weekend limited craft> Crafting limited for a server, available every Saturday and Sunday from 22:00 till 23:00. -->
+		<set name="icon" val="icon.ev_icedoll_high" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="82433" name="Freya's Ice Doll Lv. 10" additionalName="Event" type="EtcItem">
+		<!-- A glowing ice doll. Freya filled it with cool energy to help Aden adventurers survive in this heat. Can be exchanged for any reward through the event craft. <Weekend limited craft> Crafting limited for a server, available every Saturday and Sunday from 22:00 till 23:00. -->
+		<set name="icon" val="icon.ev_icedoll_high" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="82434" name="Frozen Chest" additionalName="Event" type="EtcItem">
+		<!-- A chest frozen from Freya's cool energy. Double-click to obtain Freya's Ice Doll Lv. 1 (1 pc.) and Dry Ice (100 pcs.). -->
+		<set name="icon" val="icon.ev_icebox_01" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="SILVER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="82435" name="Freya's Ice Doll Pack" additionalName="Event" type="EtcItem">
+		<!-- Can be obtained by defeating the heat with the full-blown ice flower. Double-click to obtain Freya's Ice Doll Lv. 2-6. -->
+		<set name="icon" val="icon.ev_icebox_02" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="SILVER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="82436" name="Appearance Stone Pack" additionalName="Event" type="EtcItem">
+		<!-- Double-click to obtain 1 Appearance Stone. -->
+		<set name="icon" val="icon.event_high_oriental_park_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="SILVER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="82437" name="Shining Ice Box" additionalName="Event" type="EtcItem">
+		<!-- Contains supplies that can help Aden adventurers survive in this heat. Double-click to obtain Augmenting Stone Pack (1 pc.), Freya's Ice Rose (12 pcs.), Glowing Dragon's Attribute Potion (XP) (12 pcs.), Emperor's Special Cocktail (6 pcs.), Honey Dark Beer (12 pcs.), Tales of Aden (6 pcs.). -->
+		<set name="icon" val="icon.ev_2020_summer_box" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="SILVER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="82438" name="Dragon's Necklace Pack" additionalName="Event" type="EtcItem">
+		<!-- Double-click to obtain Dragon's Necklace. -->
+		<set name="icon" val="icon.event_orc_coinbox" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="SILVER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="82439" name="Dragon's Earring Pack" additionalName="Event" type="EtcItem">
+		<!-- Double-click to obtain Dragon's Earring. -->
+		<set name="icon" val="icon.event_orc_coinbox" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="SILVER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="82440" name="Dragon's Ring Pack" additionalName="Event" type="EtcItem">
+		<!-- Double-click to obtain Dragon's Ring. -->
+		<set name="icon" val="icon.event_orc_coinbox" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="SILVER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="82441" name="Freya's Charisma Potion" type="EtcItem">
+		<!-- For 30 min., CHA +5. Cannot be used with Einhasad's Charisma Potion or Freya's Luck Potion. Cooldown: 5 min. The effect remains after death. Cannot be used in the Olympiad. -->
+		<set name="icon" val="icon.bm_freya_charisma_potion1" />
+		<set name="default_action" val="SKILL_REDUCE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_sellable" val="false" />
+	</item>
+</list>

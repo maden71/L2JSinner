@@ -1,0 +1,812 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="60400" name="Adventurer's Coin" type="EtcItem">
+		<!-- Add to a collection to enable its hidden powers. -->
+		<set name="icon" val="icon.bm_nebit_coin" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="60401" name="Red Oath' Mark" additionalName="Event" type="EtcItem">
+		<!-- A mark for true heroes who have been in Lineage II from the very beginning. Can be added to a collection. -->
+		<set name="icon" val="icon.etc_jewel_red_i00" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="60402" name="Forgotten Spellbook Chest (Chapter 1)" type="EtcItem">
+		<!-- Double-click to obtain 100 Forgotten Spellbooks - Chapter 1. -->
+		<set name="icon" val="icon.bm_2018_special_box" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="60403" name="Dragons' Treasure Chest" type="EtcItem">
+		<!-- Double-click to obtain a useful item. -->
+		<set name="icon" val="icon.bm_dragon_present_4" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="60404" name="Dragons' Collection Coin" type="EtcItem">
+		<!-- A coin imbued with the dragons' power. Can be added to a collection. -->
+		<set name="icon" val="icon.bm_goblin_coin" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="60405" name="Festival Coin" type="EtcItem">
+		<!-- A coin received for participating in the festival. -->
+		<set name="icon" val="BranchIcon.Icon.g_bm_premium_coin_i00" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="60406" name="Ranking Festival Chest" type="EtcItem">
+		<!-- Double-click to obtain a useful item. -->
+		<set name="icon" val="icon.sayha2017_box_i02" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="60407" name="Magic Zaken Doll" additionalName="30-day" type="EtcItem">
+		<!-- When in inventory, applies the following effects: Vitality bonus +16% Acquired XP/ SP +11% PvE damage +10% Vitality sustention for characters of Lv. 1-110 Vitality sustention in the Conquest world for all characters -->
+		<set name="icon" val="icon.bm_zaken_doll_30d_01" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="time" val="43200" />
+	</item>
+	<item id="60408" name="Giran Supply Pack" type="EtcItem">
+		<!-- Double-click to obtain Lord's Casket and various items. -->
+		<set name="icon" val="icon.bm_gold_lure_box" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="60409" name="Giran Supply Kit Lv. 1" type="EtcItem">
+		<!-- Double-click to obtain Giran Supply Pack (100 pcs.), Collectors' Pennant (2 pcs.), Swift Growth Cookie (20 pcs.). -->
+		<set name="icon" val="icon.bm_circlet_upgrade_box" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="LEATHER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="60410" name="Giran Supply Kit Lv. 2" type="EtcItem">
+		<!-- Double-click to obtain Giran Supply Pack (150 pcs.), Collectors' Pennant (2 pcs.), Swift Growth Cookie (40 pcs.). -->
+		<set name="icon" val="icon.bm_circlet_upgrade_box" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="LEATHER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="60411" name="Giran Supply Kit Lv. 3" type="EtcItem">
+		<!-- Double-click to obtain Giran Supply Pack (150 pcs.), Collectors' Pennant (4 pcs.), Swift Growth Cookie (80 pcs.), Magic Zaken Doll (30-day). -->
+		<set name="icon" val="icon.bm_circlet_upgrade_box" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="LEATHER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="60412" name="Summer Festival Coin I" additionalName="Event" type="EtcItem">
+		<!-- A commemorative coin of the Summer Festival. Can be used for creating Artifact Crystal with a certain chance through the Event Craft. -->
+		<set name="icon" val="icon.etc_11th_token" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="1" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="60413" name="Summer Festival Coin II" additionalName="Event" type="EtcItem">
+		<!-- A commemorative coin of the Summer Festival. Can be used for creating Augmenting Stone: Artifact Book with a certain chance through the Event Craft. -->
+		<set name="icon" val="icon.etc_11th_token" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="1" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="60414" name="Summer Festival Coin III" additionalName="Event" type="EtcItem">
+		<!-- A commemorative coin of the Summer Festival. Can be used for creating Augmenting Stone: Kaliel's Bracelet with a certain chance through the Event Craft. -->
+		<set name="icon" val="icon.etc_11th_token" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="1" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="60415" name="Tencent Video's Souvenir Coin" additionalName="Event" type="EtcItem">
+		<!-- Can be added to a collection. -->
+		<set name="icon" val="BranchIcon.Icon.ev_item_tencent_video_cn" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="60416" name="QQ Participant's Souvenir Coin" additionalName="Event" type="EtcItem">
+		<!-- Can be added to a collection. -->
+		<set name="icon" val="BranchIcon.Icon.ev_item_qq_superuser_cn" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="60417" name="Long-time Participant's Souvenir Coin" additionalName="Event" type="EtcItem">
+		<!-- Can be added to a collection. -->
+		<set name="icon" val="BranchIcon.Icon.ev_item_tencent_happyuser_cn" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="60418" name="Dragon's Treasure Chest" type="EtcItem">
+		<!-- Double-click to obtain items from the Detailed Info section. -->
+		<set name="icon" val="icon.bm_dragon_present" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="60419" name="Dragon's Golden Key" type="EtcItem">
+		<!-- A key filled with dragon's breath. Can be exchanged for various items through the Game Assistant or used as a craft material. -->
+		<set name="icon" val="icon.bm_dragon_key" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="60420" name="Forgotten Lord's Pack with Crystals of Dyes" type="EtcItem">
+		<!-- Double-click to obtain Forgotten Lord's Crystal of Dyes (100 pcs.). -->
+		<set name="icon" val="icon.bm_pirate_battle_box" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="60421" name="Sunken Treasure Chest" type="EtcItem">
+		<!-- Double-click to obtain a useful item. -->
+		<set name="icon" val="icon.bm_special_pendant_abradant_box" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="60422" name="Ruby Lv. 4" additionalName="30-day" type="Armor">
+		<!-- Soulshot/ Beast Soulshot damage +12.5%. Effects of two identical jewels do not stack, the higher-level jewel takes precedence. -->
+		<set name="icon" val="icon.etc_bm_jewel_ruby_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="brooch_jewel" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="GOLD" />
+		<set name="weight" val="5" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="time" val="43200" />
+	</item>
+	<item id="60423" name="Sapphire Lv. 4" additionalName="30-day" type="Armor">
+		<!-- Spiritshot/ Blessed Spiritshot damage +12.5%. Effects of two identical jewels do not stack, the higher-level jewel takes precedence. -->
+		<set name="icon" val="icon.etc_bm_jewel_sapphire_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="brooch_jewel" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="GOLD" />
+		<set name="weight" val="5" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="time" val="43200" />
+	</item>
+	<item id="60424" name="Opal Lv. 4" additionalName="30-day" type="Armor">
+		<!-- Attribute Attack +70. Effects of two identical jewels do not stack, the higher-level jewel takes precedence. -->
+		<set name="icon" val="icon.etc_bm_jewel_opal_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="brooch_jewel" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="GOLD" />
+		<set name="weight" val="5" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="time" val="43200" />
+	</item>
+	<item id="60425" name="Diamond Lv. 4" additionalName="30-day" type="Armor">
+		<!-- P. Def. +1418, received Critical Damage from basic attacks -4%. Effects of two identical jewels do not stack, the higher-level jewel takes precedence. -->
+		<set name="icon" val="icon.etc_bm_jewel_diamond_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="brooch_jewel" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="GOLD" />
+		<set name="weight" val="5" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="time" val="43200" />
+	</item>
+	<item id="60426" name="Pearl Lv. 4" additionalName="30-day" type="Armor">
+		<!-- M. Def. +821, received M. Skill Critical Damage -4%. Effects of two identical jewels do not stack, the higher-level jewel takes precedence. -->
+		<set name="icon" val="icon.etc_bm_jewel_pearl_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="brooch_jewel" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="GOLD" />
+		<set name="weight" val="5" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="time" val="43200" />
+	</item>
+	<item id="60427" name="Vital Stone Lv. 4" additionalName="30-day" type="Armor">
+		<!-- Vitality bonus +25%, Vitality Consumption -7%. Enables the Vital Wind skill. Effects of two identical jewels do not stack, the higher-level jewel takes precedence. -->
+		<set name="icon" val="icon.etc_bm_jewel_vital" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="brooch_jewel" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="GOLD" />
+		<set name="weight" val="5" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="time" val="43200" />
+	</item>
+	<item id="60428" name="Jewel Support Pack" type="EtcItem">
+		<!-- Double-click to obtain Ruby Lv. 4, Sapphire Lv. 4, Diamond Lv. 4, Pearl Lv. 4, Opal Lv. 4, Vital Stone Lv. 4 for 30 d. -->
+		<set name="icon" val="icon.etc_bm_jewelbox_main_i01" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="60429" name="Water Dragon's Treasures" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_dragon_present_5" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="60430" name="Water Dragon's Shiny Treasure Kit" type="EtcItem">
+		<!-- Double-click to obtain Water Dragon's Treasures (100 pcs.), Dragon-engraved Golden Coin (1 pc.), Shining Nevit's Gold Hourglass (100 pcs.). -->
+		<set name="icon" val="icon.bm_circlet_upgrade_box" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="60431" name="Water Dragon's Shining Treasure Kit" type="EtcItem">
+		<!-- Double-click to obtain Water Dragon's Treasures (100 pcs.), Glowing Dragon's Attribute Potion (XP) (100 pcs.), Shining Nevit's Gold Hourglass (100 pcs.). -->
+		<set name="icon" val="icon.bm_nebit_box" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="60432" name="Dragon-engraved Golden Coin" type="EtcItem">
+		<!-- A coin engraved with a dragon. Merchants have no interest in it, though it seems to emanate some magic power. Try to add it to a collection. -->
+		<set name="icon" val="icon.bm_goblin_coin" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="60433" name="Summer Festival Coin IV" additionalName="Event" type="EtcItem">
+		<!-- A commemorative coin of the Summer Festival. Can be used for creating Forgotten Spellbook with a certain chance through the Event Craft. -->
+		<set name="icon" val="icon.etc_11th_token" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="1" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="60434" name="Summer Festival Coin V" additionalName="Event" type="EtcItem">
+		<!-- A commemorative coin of the Summer Festival. Can be used for creating Artifact Fragment with a certain chance through the Event Craft. -->
+		<set name="icon" val="icon.etc_11th_token" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="1" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="60435" name="Summer Festival Coin VI" additionalName="Event" type="EtcItem">
+		<!-- A commemorative coin of the Summer Festival. Can be used for creating Tersi's Soul Crystal Pack with a certain chance through the Event Craft. -->
+		<set name="icon" val="icon.etc_11th_token" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="1" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="60436" name="NCOIN" type="EtcItem">
+		<set name="icon" val="BranchIcon.icon.g_bm_ncoin_jp_i00" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="CRYSTAL" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="60437" name="NCOIN" type="EtcItem">
+		<set name="icon" val="BranchIcon.icon.g_bm_ncoin_global_i00" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="CRYSTAL" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="60438" name="Augmenting Stone: Brooch" type="EtcItem">
+		<!-- Increases stats of La Vie En Rose's Brooch Lv. 4. Double-click the item or speak to a blacksmith to augment what you need. -->
+		<set name="icon" val="Icon.bm_lavianrose_mineral_brooch" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="WOOD" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="60439" name="Augmenting Stone: Brooch" additionalName="Rare" type="EtcItem">
+		<!-- Increases stats of La Vie En Rose's Brooch Lv. 5 and higher. Double-click on the item or speak to a blacksmith to augment what you need. -->
+		<set name="icon" val="Icon.bm_lavianrose_mineral_brooch" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="60440" name="Augmenting Stone: Cloak - Ancient Kingdom" type="EtcItem">
+		<!-- High-grade Life Stone for the Ancient Kingdom's Cloak. Can augment all ancient kingdom cloaks when they have been enchanted to +10, and a random effect will be added when augmented. Double-click on the item or speak to a blacksmith to augment what you need. Once augmented, it cannot be canceled, but it can be augmented again. -->
+		<set name="icon" val="BranchIcon.icon.g_bm_cloak_mineral_normal" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="WOOD" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="60441" name="Augmenting Stone: Cloak - Elmoreden" type="EtcItem">
+		<!-- Required for augmenting Legendary Elmoreden Cloak enchanted to +15 or higher. Double-click on the item or speak to a blacksmith to augment what you need. When used, applies a random additional effect. Once augmented, it cannot be canceled, but it can be augmented again. -->
+		<set name="icon" val="BranchIcon.icon.g_bm_cloak_mineral_elmoreden" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="60442" name="Augmenting Stone: Cloak - Aden" type="EtcItem">
+		<!-- Required for augmenting Legendary Aden Cloak enchanted to +15 or higher. Double-click on the item or speak to a blacksmith to augment what you need. When used, applies a random additional effect. Once augmented, it cannot be canceled, but it can be augmented again. -->
+		<set name="icon" val="BranchIcon.icon.g_bm_cloak_mineral_aden" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="60443" name="Augmenting Stone: Cloak - Elmore" type="EtcItem">
+		<!-- Required for augmenting Legendary Elmore Cloak enchanted to +15 or higher. Double-click on the item or speak to a blacksmith to augment what you need. When used, applies a random additional effect. Once augmented, it cannot be canceled, but it can be augmented again. -->
+		<set name="icon" val="BranchIcon.icon.g_bm_cloak_mineral_elmore" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="60444" name="Augmenting Stone: Cloak - Ferios" type="EtcItem">
+		<!-- Required for augmenting Legendary Ferios Cloak enchanted to +15 or higher. Double-click on the item or speak to a blacksmith to augment what you need. When used, applies a random additional effect. Once augmented, it cannot be canceled, but it can be augmented again. -->
+		<set name="icon" val="BranchIcon.icon.g_bm_cloak_mineral_perios" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="60445" name="Autumn Festival's Mooncake" additionalName="Event" type="EtcItem">
+		<!-- For 30 min., acquired XP/ SP +50%, Vitality bonus +50%, P. Atk./ P. Def./ M. Atk./ M. Def., Critical Damage for basic attacks, P./ M. Skill Power +15%. The effect does not stack with that of Peeves' Purple/ Red Potion. -->
+		<set name="icon" val="br_L2Icon.etc_i.filled_moonlight_milk_mooncake_i00" />
+		<set name="default_action" val="SKILL_REDUCE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_depositable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="60446" name="Dragon's Golden Key" type="EtcItem">
+		<!-- A golden key that radiates dragon power. Take part in the World Ranking Festival to receive a Dragon's Treasure Chest. -->
+		<set name="icon" val="icon.bm_dragon_key" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="60447" name="Emperor's Rare Treasure Chest" type="EtcItem">
+		<!-- Double-click to obtain a useful item. -->
+		<set name="icon" val="BranchSys.icon.br_fire_box_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="60448" name="Holiday Festival Kit (30-day)" type="EtcItem">
+		<!-- Double-click to obtain the following items. -->
+		<set name="icon" val="BranchIcon.Icon.etc_vip_present_i04" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="60449" name="Pa'agrio's Treasure Chest" type="EtcItem">
+		<!-- Double-click to obtain Orc Tribe Coin Pack (1 pc.) and various other items. -->
+		<set name="icon" val="icon.bm_gold_lure_box" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="60450" name="Pa'agrio's Silver Treasure Chest" type="EtcItem">
+		<!-- Double-click to obtain Orc Tribe Coin (10 pcs.) and various other items. -->
+		<set name="icon" val="icon.bm_gold_lure_box" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="60451" name="Pa'aagrio's Golden Treasure Chest" type="EtcItem">
+		<!-- Double-click to obtain Orc Tribe Coin (20 pcs.) and various other items. -->
+		<set name="icon" val="icon.bm_gold_lure_box" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="60452" name="Pa'agrio's Treasure Kit Lv. 1" type="EtcItem">
+		<!-- Double-click to obtain Pa'agrio's Treasure Chest (100 pcs.), Divine Fire Essence (2 pcs.), Swift Growth Cookie (40 pcs.). -->
+		<set name="icon" val="icon.bm_circlet_upgrade_box" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="LEATHER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="60453" name="Pa'agrio's Treasure Kit Lv. 2" type="EtcItem">
+		<!-- Double-click to obtain Pa'agrio's Treasure Chest (100 pcs.), Divine Fire Essence (2 pcs.), Swift Growth Cookie (40 pcs.). -->
+		<set name="icon" val="icon.bm_circlet_upgrade_box" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="LEATHER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="60454" name="Pa'agrio's Treasure Kit Lv. 3" type="EtcItem">
+		<!-- Double-click to obtain Pa'agrio's Treasure Chest (150 pcs.), Chronicle Token Box (30-day) (1 pc.), Swift Growth Cookie (80 pcs.). -->
+		<set name="icon" val="icon.bm_circlet_upgrade_box" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="LEATHER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="60455" name="Divine Fire Essence" type="EtcItem">
+		<!-- This sphere contains a fraction of divine Pa'agrio's power. Add a number of them to the corresponding collection to increase your stats. -->
+		<set name="icon" val="icon.etc_ev_kalie_token" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="60456" name="Orc Tribe Coin" type="EtcItem">
+		<!-- A special currency used in far-away Orc settlements where no strangers are allowed. Fortunately, you can now use these strange coins to craft various items. -->
+		<set name="icon" val="icon.bm_gold_bar" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="60457" name="Orc Tribe Coin Pack" type="EtcItem">
+		<!-- Double-click to obtain 3 to 1000 Orc Tribe Coins. -->
+		<set name="icon" val="icon.ev_charge_box" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="60458" name="Royal Honey Dark Beer" type="EtcItem">
+		<!-- For 30 min. all basic stats +3, Vitality bonus +50%, P./ M. Def. +15%. The effect remains after death. Cooldown: 5 min. Cannot be used in the Olympiad. -->
+		<set name="icon" val="icon.bm_royal_black_beer" />
+		<set name="default_action" val="SKILL_REDUCE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="LIQUID" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="60459" name="Glowing Royal Dragon's Attribute Potion" additionalName="XP" type="EtcItem">
+		<!-- When used, Attribute Attack +100, Attribute Resistance +100, acquired XP/ SP +50% for 30 min. The effect remains after death. Cooldown: 5 min. Cannot be used in the Olympiad. -->
+		<set name="icon" val="icon.bm_dragon_posion_special" />
+		<set name="default_action" val="SKILL_REDUCE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="1" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="60460" name="Shining Royal Nevit's Gold Hourglass" type="EtcItem">
+		<!-- During hunting, for 30 min., acquired XP/ SP +120%, damage +5%, received damage -7%. Cannot stack with the Shining Nevit's Gold Hourglass, Fall of the Dragon, or Dandy's Home Run Ball. The effect is removed after entering the Olympiad or the Ceremony of Chaos. Cooldown: 10 sec. -->
+		<set name="icon" val="icon.bm_dragon_breath" />
+		<set name="default_action" val="SKILL_REDUCE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="LIQUID" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="60461" name="Aden Hero's Soul Crystal Box" type="EtcItem">
+		<!-- Double-click to obtain one of various items. -->
+		<set name="icon" val="icon.bm_pirate_battle_box" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="LEATHER" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="60462" name="Moonlight Treasure Chest" type="EtcItem">
+		<!-- Double-click to obtain a useful item. -->
+		<set name="icon" val="BranchIcon.icon.etc_g_bm_godspirit_box" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="60463" name="Low-grade Energy Kit" type="EtcItem">
+		<!-- Double-click to obtain Beora's Ancient Energy (10 pcs.). -->
+		<set name="icon" val="icon.etc_pi_gift_box_i01" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="60464" name="Mid-grade Energy Kit" type="EtcItem">
+		<!-- Double-click to obtain Beora's Ancient Energy (30 pcs.). -->
+		<set name="icon" val="icon.etc_pi_gift_box_i01" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="60465" name="High-grade Energy Kit" type="EtcItem">
+		<!-- Double-click to obtain Beora's Ancient Energy (60 pcs.). -->
+		<set name="icon" val="icon.etc_pi_gift_box_i01" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="60466" name="Superior Energy Kit" type="EtcItem">
+		<!-- Double-click to obtain Beora's Ancient Energy (100 pcs.). -->
+		<set name="icon" val="icon.etc_pi_gift_box_i01" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="60467" name="Mary Reed's Treasures" type="EtcItem">
+		<!-- Double-click to obtain items from the Detailed Info section. -->
+		<set name="icon" val="icon.bm_elmoaden_gold_box" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="60468" name="Mary Reed's Shining Treasure Chest" type="EtcItem">
+		<!-- Double-click to obtain Mary Reed's Treasures (150 pcs.), Mary Reed's Pistol (1 pc.), Swift Attack Cookie (20 pcs.), Swift Defense Cookie (20 pcs.). -->
+		<set name="icon" val="icon.bm_pirate_battle_box" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="LEATHER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="60469" name="Mary Reed's Pistol" type="EtcItem">
+		<!-- A pistol that once belonged to the dreadful pirate Mary Reed. Can be added to a collection. -->
+		<set name="icon" val="icon.shooter_none" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="60470" name="Dancing Cat's Gift Cube" additionalName="Event" type="EtcItem">
+		<!-- Double-click to obtain a gift from Dancing Cat. -->
+		<set name="icon" val="BranchSys.icon.br_ghost_magicalbox_i00" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="60471" name="Dancing Cat's Gift" additionalName="Event" type="EtcItem">
+		<!-- A box with supplies from Dancing Cat. Double-click to obtain items from the Detailed Info section. -->
+		<set name="icon" val="icon.ev_2018_xmas_box" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="60472" name="Vitality Sustaining Potion" type="EtcItem">
+		<set name="icon" val="icon.etc_recovery_set_i00" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+	</item>
+	<item id="60473" name="Dancing Cat's Hidden Treasure" additionalName="Event" type="EtcItem">
+		<!-- A treasure chest hidden by Dancing Cat. Double-click to obtain items from the Detailed Info section. -->
+		<set name="icon" val="icon.bm_gold_lure_box" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="SILVER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="60474" name="Crystal of Guard" type="EtcItem">
+		<!-- A crystal that grants protection. Can be added to a collection. -->
+		<set name="icon" val="icon.bm_ensoul_stone_PvE_empty" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="60475" name="Crystal of Power" type="EtcItem">
+		<!-- A crystal that grants strength. Can be added to a collection. -->
+		<set name="icon" val="icon.bm_ensoul_stone_PvP_empty" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="60476" name="Third Chapter Kit" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="Branchsys2.icon2.g_alegra_box" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="LEATHER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="60477" name="Hunting Support Kit" additionalName="Event" type="EtcItem">
+		<!-- Double-click to obtain items from the Detailed Info section. -->
+		<set name="icon" val="icon.bm_green_box_01" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="60478" name="Jewel Box" type="EtcItem">
+		<!-- Double-click to obtain a useful item. -->
+		<set name="icon" val="icon.bm_nebit_present" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="60479" name="Autumn Update Coin" type="EtcItem">
+		<!-- A reward for reaching Lv. 10 of the Tales of Hero during the Autumn Update festivities. Can be added to a collection. -->
+		<set name="icon" val="icon.etc_ancient_adena_i00" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="60480" name="Holiday Festival Kit (60-day)" type="EtcItem">
+		<!-- Double-click to obtain the following items. -->
+		<set name="icon" val="BranchIcon.Icon.etc_vip_present_i04" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="60481" name="Night Goblin's Coin Cube" type="EtcItem">
+		<!-- Double-click to obtain Night Goblin's Coin. Can be used once a day. -->
+		<set name="icon" val="BranchSys.icon.br_ghost_magicalbox_i00" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+</list>

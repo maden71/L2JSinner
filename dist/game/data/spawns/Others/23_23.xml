@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
+	<spawn name="23_23">
+		<group>
+			<npc id="22947" x="119058" y="185793" z="-3440" heading="41488" respawnTime="60sec" /> <!-- Garden Sentry -->
+			<npc id="22947" x="119058" y="185793" z="-3440" heading="41488" respawnTime="60sec" /> <!-- Garden Sentry -->
+			<npc id="22947" x="119058" y="185793" z="-3440" heading="41488" respawnTime="60sec" /> <!-- Garden Sentry -->
+			<npc id="22947" x="119058" y="185793" z="-3440" heading="41488" respawnTime="60sec" /> <!-- Garden Sentry -->
+			<npc id="22947" x="119058" y="185793" z="-3440" heading="41488" respawnTime="60sec" /> <!-- Garden Sentry -->
+			<npc id="22947" x="119174" y="185743" z="-3440" heading="35675" respawnTime="60sec" /> <!-- Garden Sentry -->
+		</group>
+	</spawn>
+</list>

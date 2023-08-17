@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
+	<spawn name="18_20">
+		<group>
+			<npc id="23547" x="-62077" y="78270" z="-3962" heading="1518" respawnTime="60sec" /> <!-- Fury Sylph Purka -->
+			<npc id="23546" x="-62077" y="78270" z="-3962" heading="1518" respawnTime="60sec" /> <!-- Fury Sylph Temptress -->
+			<npc id="23544" x="-62077" y="78270" z="-3962" heading="1518" respawnTime="60sec" /> <!-- Fury Sylph Barrena -->
+			<npc id="23548" x="-62077" y="78270" z="-3962" heading="1518" respawnTime="60sec" /> <!-- Fury Kerberos Liger -->
+			<npc id="23543" x="-61924" y="78162" z="-3979" heading="2675" respawnTime="60sec" /> <!-- Kerberos Nero -->
+			<npc id="23543" x="-61936" y="78372" z="-3961" heading="29734" respawnTime="60sec" /> <!-- Kerberos Nero -->
+			<npc id="23544" x="-62071" y="78412" z="-3945" heading="29734" respawnTime="60sec" /> <!-- Fury Sylph Barrena -->
+			<npc id="23547" x="-62093" y="78419" z="-3943" heading="29734" respawnTime="60sec" /> <!-- Fury Sylph Purka -->
+			<npc id="23547" x="-61814" y="78376" z="-3965" heading="1088" respawnTime="60sec" /> <!-- Fury Sylph Purka -->
+			<npc id="23546" x="-61814" y="78376" z="-3965" heading="1088" respawnTime="60sec" /> <!-- Fury Sylph Temptress -->
+			<npc id="23544" x="-61814" y="78376" z="-3965" heading="12746" respawnTime="60sec" /> <!-- Fury Sylph Barrena -->
+			<npc id="23547" x="-61798" y="78420" z="-3960" heading="12746" respawnTime="60sec" /> <!-- Fury Sylph Purka -->
+			<npc id="23548" x="-61874" y="78228" z="-3977" heading="27131" respawnTime="60sec" /> <!-- Fury Kerberos Liger -->
+			<npc id="23544" x="-61903" y="78246" z="-3975" heading="27131" respawnTime="60sec" /> <!-- Fury Sylph Barrena -->
+			<npc id="23543" x="-61903" y="78246" z="-3975" heading="27131" respawnTime="60sec" /> <!-- Kerberos Nero -->
+			<npc id="23547" x="-60121" y="77460" z="-3945" heading="12656" respawnTime="60sec" /> <!-- Fury Sylph Purka -->
+			<npc id="23546" x="-60096" y="77527" z="-3939" heading="12656" respawnTime="60sec" /> <!-- Fury Sylph Temptress -->
+			<npc id="23544" x="-60096" y="77527" z="-3939" heading="12656" respawnTime="60sec" /> <!-- Fury Sylph Barrena -->
+			<npc id="23547" x="-60059" y="77627" z="-3931" heading="12656" respawnTime="60sec" /> <!-- Fury Sylph Purka -->
+			<npc id="23546" x="-60059" y="77627" z="-3931" heading="12656" respawnTime="60sec" /> <!-- Fury Sylph Temptress -->
+			<npc id="23547" x="-60399" y="76764" z="-3969" heading="44519" respawnTime="60sec" /> <!-- Fury Sylph Purka -->
+			<npc id="23546" x="-60430" y="76700" z="-3971" heading="44519" respawnTime="60sec" /> <!-- Fury Sylph Temptress -->
+			<npc id="23544" x="-60460" y="76635" z="-3973" heading="44519" respawnTime="60sec" /> <!-- Fury Sylph Barrena -->
+			<npc id="23548" x="-60487" y="76581" z="-3977" heading="44519" respawnTime="60sec" /> <!-- Fury Kerberos Liger -->
+			<npc id="23547" x="-62115" y="77342" z="-3978" heading="43064" respawnTime="60sec" /> <!-- Fury Sylph Purka -->
+			<npc id="23546" x="-62115" y="77342" z="-3978" heading="43064" respawnTime="60sec" /> <!-- Fury Sylph Temptress -->
+			<npc id="23544" x="-62150" y="77289" z="-3977" heading="43064" respawnTime="60sec" /> <!-- Fury Sylph Barrena -->
+			<npc id="23547" x="-62183" y="77237" z="-3975" heading="43253" respawnTime="60sec" /> <!-- Fury Sylph Purka -->
+			<npc id="23548" x="-61660" y="76396" z="-3953" heading="50644" respawnTime="60sec" /> <!-- Fury Kerberos Liger -->
+			<npc id="23544" x="-61660" y="76396" z="-3953" heading="50644" respawnTime="60sec" /> <!-- Fury Sylph Barrena -->
+			<npc id="23547" x="-61639" y="76255" z="-3937" heading="50644" respawnTime="60sec" /> <!-- Fury Sylph Purka -->
+			<npc id="23546" x="-61629" y="76185" z="-3929" heading="50644" respawnTime="60sec" /> <!-- Fury Sylph Temptress -->
+			<npc id="23547" x="-61605" y="76368" z="-3963" heading="15334" respawnTime="60sec" /> <!-- Fury Sylph Purka -->
+			<npc id="23547" x="-59257" y="82117" z="-4486" heading="64923" respawnTime="60sec" /> <!-- Fury Sylph Purka -->
+			<npc id="23546" x="-59257" y="82117" z="-4486" heading="64923" respawnTime="60sec" /> <!-- Fury Sylph Temptress -->
+			<npc id="23544" x="-59186" y="82113" z="-4487" heading="64923" respawnTime="60sec" /> <!-- Fury Sylph Barrena -->
+			<npc id="23547" x="-59169" y="82112" z="-4488" heading="64923" respawnTime="60sec" /> <!-- Fury Sylph Purka -->
+			<npc id="23546" x="-59169" y="82112" z="-4488" heading="64923" respawnTime="60sec" /> <!-- Fury Sylph Temptress -->
+			<npc id="23547" x="-58475" y="82251" z="-4518" heading="2116" respawnTime="60sec" /> <!-- Fury Sylph Purka -->
+			<npc id="23544" x="-58335" y="82280" z="-4517" heading="2116" respawnTime="60sec" /> <!-- Fury Sylph Barrena -->
+			<npc id="23547" x="-58265" y="82294" z="-4516" heading="2116" respawnTime="60sec" /> <!-- Fury Sylph Purka -->
+			<npc id="23546" x="-58197" y="82309" z="-4516" heading="2116" respawnTime="60sec" /> <!-- Fury Sylph Temptress -->
+			<npc id="23547" x="-59081" y="84256" z="-4525" heading="17423" respawnTime="60sec" /> <!-- Fury Sylph Purka -->
+			<npc id="23546" x="-59081" y="84256" z="-4525" heading="17423" respawnTime="60sec" /> <!-- Fury Sylph Temptress -->
+			<npc id="23544" x="-59088" y="84327" z="-4522" heading="17423" respawnTime="60sec" /> <!-- Fury Sylph Barrena -->
+			<npc id="23547" x="-59102" y="84469" z="-4517" heading="17423" respawnTime="60sec" /> <!-- Fury Sylph Purka -->
+			<npc id="23546" x="-59109" y="84540" z="-4514" heading="17423" respawnTime="60sec" /> <!-- Fury Sylph Temptress -->
+			<npc id="23543" x="-59511" y="84049" z="-4515" heading="42387" respawnTime="60sec" /> <!-- Kerberos Nero -->
+			<npc id="23548" x="-59640" y="83878" z="-4516" heading="42387" respawnTime="60sec" /> <!-- Fury Kerberos Liger -->
+			<npc id="23543" x="-59691" y="83812" z="-4519" heading="42387" respawnTime="60sec" /> <!-- Kerberos Nero -->
+			<npc id="23548" x="-59638" y="83679" z="-4519" heading="53052" respawnTime="60sec" /> <!-- Fury Kerberos Liger -->
+			<npc id="23547" x="-59629" y="83654" z="-4519" heading="53052" respawnTime="60sec" /> <!-- Fury Sylph Purka -->
+			<npc id="23547" x="-59629" y="83654" z="-4519" heading="53052" respawnTime="60sec" /> <!-- Fury Sylph Purka -->
+			<npc id="23546" x="-59629" y="83654" z="-4519" heading="53052" respawnTime="60sec" /> <!-- Fury Sylph Temptress -->
+			<npc id="23547" x="-59090" y="84439" z="-4519" heading="14599" respawnTime="60sec" /> <!-- Fury Sylph Purka -->
+			<npc id="23546" x="-59090" y="84439" z="-4519" heading="14599" respawnTime="60sec" /> <!-- Fury Sylph Temptress -->
+			<npc id="23544" x="-59090" y="84439" z="-4519" heading="14599" respawnTime="60sec" /> <!-- Fury Sylph Barrena -->
+			<npc id="23547" x="-59090" y="84439" z="-4519" heading="14599" respawnTime="60sec" /> <!-- Fury Sylph Purka -->
+			<npc id="23548" x="-58965" y="84303" z="-4519" heading="45361" respawnTime="60sec" /> <!-- Fury Kerberos Liger -->
+			<npc id="23543" x="-58965" y="84303" z="-4519" heading="45361" respawnTime="60sec" /> <!-- Kerberos Nero -->
+			<npc id="23543" x="-58965" y="84303" z="-4519" heading="45361" respawnTime="60sec" /> <!-- Kerberos Nero -->
+			<npc id="23548" x="-58965" y="84303" z="-4519" heading="45361" respawnTime="60sec" /> <!-- Fury Kerberos Liger -->
+			<npc id="23543" x="-57966" y="84346" z="-4583" heading="22408" respawnTime="60sec" /> <!-- Kerberos Nero -->
+			<npc id="23548" x="-57966" y="84346" z="-4583" heading="22408" respawnTime="60sec" /> <!-- Fury Kerberos Liger -->
+			<npc id="23544" x="-57966" y="84346" z="-4583" heading="22408" respawnTime="60sec" /> <!-- Fury Sylph Barrena -->
+			<npc id="23543" x="-57966" y="84346" z="-4583" heading="22408" respawnTime="60sec" /> <!-- Kerberos Nero -->
+			<npc id="23544" x="-57965" y="84488" z="-4579" heading="25467" respawnTime="60sec" /> <!-- Fury Sylph Barrena -->
+			<npc id="23548" x="-58019" y="84533" z="-4578" heading="25467" respawnTime="60sec" /> <!-- Fury Kerberos Liger -->
+			<npc id="23547" x="-53148" y="83793" z="-4840" heading="29202" respawnTime="60sec" /> <!-- Fury Sylph Purka -->
+			<npc id="23546" x="-53148" y="83793" z="-4840" heading="29202" respawnTime="60sec" /> <!-- Fury Sylph Temptress -->
+			<npc id="23544" x="-53197" y="83811" z="-4839" heading="29202" respawnTime="60sec" /> <!-- Fury Sylph Barrena -->
+			<npc id="23547" x="-53197" y="83811" z="-4839" heading="29202" respawnTime="60sec" /> <!-- Fury Sylph Purka -->
+			<npc id="23543" x="-52884" y="83885" z="-4845" heading="2460" respawnTime="60sec" /> <!-- Kerberos Nero -->
+			<npc id="23544" x="-52817" y="83910" z="-4845" heading="3785" respawnTime="60sec" /> <!-- Fury Sylph Barrena -->
+			<npc id="23548" x="-52805" y="83915" z="-4845" heading="3785" respawnTime="60sec" /> <!-- Fury Kerberos Liger -->
+			<npc id="23547" x="-52546" y="83258" z="-4850" heading="1341" respawnTime="60sec" /> <!-- Fury Sylph Purka -->
+			<npc id="23546" x="-52546" y="83258" z="-4850" heading="1341" respawnTime="60sec" /> <!-- Fury Sylph Temptress -->
+			<npc id="23544" x="-52546" y="83258" z="-4850" heading="1341" respawnTime="60sec" /> <!-- Fury Sylph Barrena -->
+			<npc id="23547" x="-52546" y="83258" z="-4850" heading="1341" respawnTime="60sec" /> <!-- Fury Sylph Purka -->
+			<npc id="23548" x="-52724" y="83036" z="-4854" heading="41164" respawnTime="60sec" /> <!-- Fury Kerberos Liger -->
+			<npc id="23543" x="-52775" y="82984" z="-4857" heading="41164" respawnTime="60sec" /> <!-- Kerberos Nero -->
+			<npc id="23543" x="-52775" y="82984" z="-4857" heading="41164" respawnTime="60sec" /> <!-- Kerberos Nero -->
+			<npc id="23548" x="-53232" y="79877" z="-4854" heading="45823" respawnTime="60sec" /> <!-- Fury Kerberos Liger -->
+			<npc id="23543" x="-53232" y="79877" z="-4854" heading="45823" respawnTime="60sec" /> <!-- Kerberos Nero -->
+			<npc id="23544" x="-53232" y="79877" z="-4854" heading="45823" respawnTime="60sec" /> <!-- Fury Sylph Barrena -->
+			<npc id="23543" x="-53094" y="80871" z="-4912" heading="10900" respawnTime="60sec" /> <!-- Kerberos Nero -->
+			<npc id="23544" x="-53058" y="80932" z="-4920" heading="10900" respawnTime="60sec" /> <!-- Fury Sylph Barrena -->
+			<npc id="23548" x="-53036" y="80972" z="-4927" heading="10900" respawnTime="60sec" /> <!-- Fury Kerberos Liger -->
+			<npc id="23543" x="-53036" y="80972" z="-4927" heading="10900" respawnTime="60sec" /> <!-- Kerberos Nero -->
+			<npc id="23544" x="-53036" y="80972" z="-4927" heading="10900" respawnTime="60sec" /> <!-- Fury Sylph Barrena -->
+			<npc id="23548" x="-53036" y="80972" z="-4927" heading="10900" respawnTime="60sec" /> <!-- Fury Kerberos Liger -->
+			<npc id="23546" x="-53057" y="80904" z="-4922" heading="45901" respawnTime="60sec" /> <!-- Fury Sylph Temptress -->
+			<npc id="23547" x="-53084" y="80823" z="-4917" heading="45901" respawnTime="60sec" /> <!-- Fury Sylph Purka -->
+			<npc id="23543" x="-50776" y="79652" z="-4910" heading="57404" respawnTime="60sec" /> <!-- Kerberos Nero -->
+			<npc id="23544" x="-50726" y="79602" z="-4906" heading="57404" respawnTime="60sec" /> <!-- Fury Sylph Barrena -->
+			<npc id="23548" x="-50726" y="79602" z="-4906" heading="57404" respawnTime="60sec" /> <!-- Fury Kerberos Liger -->
+			<npc id="23547" x="-50675" y="79552" z="-4902" heading="57404" respawnTime="60sec" /> <!-- Fury Sylph Purka -->
+			<npc id="23543" x="-50624" y="81207" z="-4858" heading="35881" respawnTime="60sec" /> <!-- Kerberos Nero -->
+			<npc id="23547" x="-50624" y="81207" z="-4858" heading="35881" respawnTime="60sec" /> <!-- Fury Sylph Purka -->
+			<npc id="23544" x="-50624" y="81207" z="-4858" heading="35881" respawnTime="60sec" /> <!-- Fury Sylph Barrena -->
+			<npc id="23548" x="-50624" y="81207" z="-4858" heading="35881" respawnTime="60sec" /> <!-- Fury Kerberos Liger -->
+			<npc id="23547" x="-50624" y="81207" z="-4858" heading="35881" respawnTime="60sec" /> <!-- Fury Sylph Purka -->
+			<npc id="23548" x="-50624" y="81207" z="-4858" heading="35881" respawnTime="60sec" /> <!-- Fury Kerberos Liger -->
+			<npc id="23543" x="-50624" y="81207" z="-4858" heading="35881" respawnTime="60sec" /> <!-- Kerberos Nero -->
+			<npc id="23548" x="-50624" y="81207" z="-4858" heading="35881" respawnTime="60sec" /> <!-- Fury Kerberos Liger -->
+			<npc id="23543" x="-50624" y="81207" z="-4858" heading="35881" respawnTime="60sec" /> <!-- Kerberos Nero -->
+			<npc id="23544" x="-50624" y="81207" z="-4858" heading="35881" respawnTime="60sec" /> <!-- Fury Sylph Barrena -->
+			<npc id="23547" x="-51616" y="81405" z="-4844" heading="15380" respawnTime="60sec" /> <!-- Fury Sylph Purka -->
+			<npc id="23544" x="-51609" y="81475" z="-4840" heading="15380" respawnTime="60sec" /> <!-- Fury Sylph Barrena -->
+			<npc id="23548" x="-51605" y="81519" z="-4837" heading="15380" respawnTime="60sec" /> <!-- Fury Kerberos Liger -->
+			<npc id="23543" x="-51605" y="81519" z="-4837" heading="15380" respawnTime="60sec" /> <!-- Kerberos Nero -->
+			<npc id="23547" x="-51605" y="81519" z="-4837" heading="15380" respawnTime="60sec" /> <!-- Fury Sylph Purka -->
+			<npc id="23544" x="-51605" y="81519" z="-4837" heading="15380" respawnTime="60sec" /> <!-- Fury Sylph Barrena -->
+			<npc id="23548" x="-51605" y="81519" z="-4837" heading="15380" respawnTime="60sec" /> <!-- Fury Kerberos Liger -->
+			<npc id="23547" x="-51605" y="81519" z="-4837" heading="15380" respawnTime="60sec" /> <!-- Fury Sylph Purka -->
+			<npc id="23548" x="-51605" y="81519" z="-4837" heading="15380" respawnTime="60sec" /> <!-- Fury Kerberos Liger -->
+			<npc id="23547" x="-51369" y="81442" z="-4840" heading="53176" respawnTime="60sec" /> <!-- Fury Sylph Purka -->
+			<npc id="23547" x="-49276" y="79842" z="-4852" heading="57218" respawnTime="60sec" /> <!-- Fury Sylph Purka -->
+			<npc id="23544" x="-49227" y="79791" z="-4847" heading="57218" respawnTime="60sec" /> <!-- Fury Sylph Barrena -->
+			<npc id="23548" x="-49221" y="79785" z="-4846" heading="57218" respawnTime="60sec" /> <!-- Fury Kerberos Liger -->
+			<npc id="23547" x="-49221" y="79785" z="-4846" heading="57218" respawnTime="60sec" /> <!-- Fury Sylph Purka -->
+			<npc id="23543" x="-49221" y="79785" z="-4846" heading="57218" respawnTime="60sec" /> <!-- Kerberos Nero -->
+			<npc id="23548" x="-49221" y="79785" z="-4846" heading="57218" respawnTime="60sec" /> <!-- Fury Kerberos Liger -->
+			<npc id="23544" x="-49221" y="79785" z="-4846" heading="57218" respawnTime="60sec" /> <!-- Fury Sylph Barrena -->
+			<npc id="23546" x="-49221" y="79785" z="-4846" heading="57218" respawnTime="60sec" /> <!-- Fury Sylph Temptress -->
+			<npc id="23543" x="-49221" y="79785" z="-4846" heading="57218" respawnTime="60sec" /> <!-- Kerberos Nero -->
+			<npc id="23543" x="-48666" y="81329" z="-4958" heading="40385" respawnTime="60sec" /> <!-- Kerberos Nero -->
+			<npc id="23544" x="-48733" y="81269" z="-4958" heading="40385" respawnTime="60sec" /> <!-- Fury Sylph Barrena -->
+			<npc id="23548" x="-48733" y="81269" z="-4958" heading="40385" respawnTime="60sec" /> <!-- Fury Kerberos Liger -->
+			<npc id="23543" x="-48733" y="81269" z="-4958" heading="40385" respawnTime="60sec" /> <!-- Kerberos Nero -->
+			<npc id="23547" x="-48733" y="81269" z="-4958" heading="40385" respawnTime="60sec" /> <!-- Fury Sylph Purka -->
+			<npc id="23548" x="-48733" y="81269" z="-4958" heading="40385" respawnTime="60sec" /> <!-- Fury Kerberos Liger -->
+			<npc id="23547" x="-48733" y="81269" z="-4958" heading="40385" respawnTime="60sec" /> <!-- Fury Sylph Purka -->
+			<npc id="23546" x="-48733" y="81269" z="-4958" heading="40385" respawnTime="60sec" /> <!-- Fury Sylph Temptress -->
+			<npc id="23543" x="-48733" y="81269" z="-4958" heading="40385" respawnTime="60sec" /> <!-- Kerberos Nero -->
+			<npc id="23548" x="-48737" y="81238" z="-4958" heading="18698" respawnTime="60sec" /> <!-- Fury Kerberos Liger -->
+			<npc id="23547" x="-48737" y="81238" z="-4958" heading="18698" respawnTime="60sec" /> <!-- Fury Sylph Purka -->
+			<npc id="23546" x="-48737" y="81238" z="-4958" heading="18698" respawnTime="60sec" /> <!-- Fury Sylph Temptress -->
+			<npc id="23544" x="-48737" y="81238" z="-4958" heading="18698" respawnTime="60sec" /> <!-- Fury Sylph Barrena -->
+			<npc id="23548" x="-48737" y="81238" z="-4958" heading="18698" respawnTime="60sec" /> <!-- Fury Kerberos Liger -->
+			<npc id="23547" x="-48737" y="81238" z="-4958" heading="51394" respawnTime="60sec" /> <!-- Fury Sylph Purka -->
+			<npc id="23546" x="-48737" y="81238" z="-4958" heading="51394" respawnTime="60sec" /> <!-- Fury Sylph Temptress -->
+			<npc id="23544" x="-48737" y="81238" z="-4958" heading="51394" respawnTime="60sec" /> <!-- Fury Sylph Barrena -->
+			<npc id="23547" x="-49204" y="82238" z="-5010" heading="21592" respawnTime="60sec" /> <!-- Fury Sylph Purka -->
+			<npc id="23544" x="-49204" y="82238" z="-5010" heading="21592" respawnTime="60sec" /> <!-- Fury Sylph Barrena -->
+			<npc id="23543" x="-49204" y="82238" z="-5010" heading="21592" respawnTime="60sec" /> <!-- Kerberos Nero -->
+			<npc id="23543" x="-49204" y="82238" z="-5010" heading="21592" respawnTime="60sec" /> <!-- Kerberos Nero -->
+			<npc id="23548" x="-49204" y="82238" z="-5010" heading="21592" respawnTime="60sec" /> <!-- Fury Kerberos Liger -->
+			<npc id="23544" x="-49204" y="82238" z="-5010" heading="21592" respawnTime="60sec" /> <!-- Fury Sylph Barrena -->
+			<npc id="23543" x="-49204" y="82238" z="-5010" heading="21592" respawnTime="60sec" /> <!-- Kerberos Nero -->
+			<npc id="23543" x="-56876" y="75934" z="-4291" heading="48810" respawnTime="60sec" /> <!-- Kerberos Nero -->
+			<npc id="23548" x="-56876" y="75934" z="-4291" heading="48810" respawnTime="60sec" /> <!-- Fury Kerberos Liger -->
+			<npc id="23543" x="-56876" y="75934" z="-4291" heading="48810" respawnTime="60sec" /> <!-- Kerberos Nero -->
+			<npc id="23548" x="-56876" y="75934" z="-4291" heading="48810" respawnTime="60sec" /> <!-- Fury Kerberos Liger -->
+			<npc id="23546" x="-56876" y="75934" z="-4291" heading="48810" respawnTime="60sec" /> <!-- Fury Sylph Temptress -->
+			<npc id="23544" x="-56876" y="75934" z="-4291" heading="48810" respawnTime="60sec" /> <!-- Fury Sylph Barrena -->
+			<npc id="23548" x="-56876" y="75934" z="-4291" heading="48810" respawnTime="60sec" /> <!-- Fury Kerberos Liger -->
+			<npc id="23543" x="-56876" y="75934" z="-4291" heading="48810" respawnTime="60sec" /> <!-- Kerberos Nero -->
+			<npc id="23543" x="-56110" y="76158" z="-4317" heading="11547" respawnTime="60sec" /> <!-- Kerberos Nero -->
+			<npc id="23546" x="-56078" y="76221" z="-4320" heading="11547" respawnTime="60sec" /> <!-- Fury Sylph Temptress -->
+			<npc id="23544" x="-56078" y="76221" z="-4320" heading="3829" respawnTime="60sec" /> <!-- Fury Sylph Barrena -->
+			<npc id="23548" x="-56078" y="76221" z="-4320" heading="3829" respawnTime="60sec" /> <!-- Fury Kerberos Liger -->
+			<npc id="23543" x="-56078" y="76221" z="-4320" heading="3653" respawnTime="60sec" /> <!-- Kerberos Nero -->
+			<npc id="23543" x="-55943" y="76269" z="-4320" heading="3653" respawnTime="60sec" /> <!-- Kerberos Nero -->
+			<npc id="23546" x="-55876" y="76294" z="-4321" heading="3653" respawnTime="60sec" /> <!-- Fury Sylph Temptress -->
+			<npc id="23544" x="-55876" y="76294" z="-4321" heading="3653" respawnTime="60sec" /> <!-- Fury Sylph Barrena -->
+			<npc id="23548" x="-55859" y="76301" z="-4322" heading="60537" respawnTime="60sec" /> <!-- Fury Kerberos Liger -->
+			<npc id="23548" x="-48811" y="71028" z="-3403" heading="56255" respawnTime="60sec" /> <!-- Fury Kerberos Liger -->
+			<npc id="23548" x="-48682" y="70869" z="-3337" heading="56255" respawnTime="60sec" /> <!-- Fury Kerberos Liger -->
+		</group>
+	</spawn>
+</list>

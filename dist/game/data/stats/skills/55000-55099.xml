@@ -1,0 +1,218 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/skills.xsd">
+	<skill id="55031" toLevel="1" name="Movement Block">
+		<!-- You are under suspicion of using an illegal program. Your actions have been restricted. -->
+		<icon>icon.skill6038</icon>
+		<abnormalLevel>3</abnormalLevel>
+		<abnormalTime>86400</abnormalTime>
+		<abnormalVisualEffect>DORMANT_USER</abnormalVisualEffect>
+		<activateRate>200</activateRate>
+		<effectPoint>-100</effectPoint>
+		<isDebuff>true</isDebuff>
+		<lvlBonusRate>1</lvlBonusRate>
+		<magicLevel>1</magicLevel>
+		<operateType>A2</operateType>
+		<magicCriticalRate>-5</magicCriticalRate>
+		<hitCancelTime>0</hitCancelTime>
+		<targetType>TARGET</targetType>
+		<affectScope>SINGLE</affectScope>
+		<canBeDispelled>false</canBeDispelled>
+		<stayAfterDeath>true</stayAfterDeath>
+		<effects>
+			<effect name="Speed">
+				<amount>-70</amount>
+				<mode>PER</mode>
+			</effect>
+			<effect name="PhysicalAttackSpeed">
+				<amount>-70</amount>
+				<mode>PER</mode>
+			</effect>
+			<effect name="MagicalAttackSpeed">
+				<amount>-70</amount>
+				<mode>PER</mode>
+			</effect>
+			<effect name="BlockSkill">
+				<magicTypes>0;1;2;3;4;5;7;22;</magicTypes>
+			</effect>
+		</effects>
+	</skill>
+	<skill id="55032" toLevel="1" name="Fantasia Melody">
+		<!-- For $s1, party members' PvP damage +$s2, received PvP damage -$s3, Attribute Attack +$s4, Speed +$s5, HP/ MP Recovery Rate +$s6. Consumes $s7 Spirit Ore. -->
+		<icon>icon.partybuff_blessing_a1</icon>
+		<operateType>A2</operateType>
+		<hitTime>700</hitTime>
+		<coolTime>500</coolTime>
+		<reuseDelay>2000</reuseDelay>
+		<effectPoint>687</effectPoint>
+		<mpConsume>181</mpConsume>
+		<abnormalTime>
+			<value fromLevel="1" toLevel="1">14400</value>
+			<value fromLevel="1" toLevel="1" fromSubLevel="1001" toSubLevel="1020">{base + (subIndex * 90)}</value>
+		</abnormalTime>
+		<abnormalLevel>2</abnormalLevel>
+		<abnormalType>DITTY</abnormalType>
+		<itemConsumeId>3031</itemConsumeId> <!-- Spirit Ore -->
+		<itemConsumeCount>10</itemConsumeCount>
+		<isMagic>22</isMagic>
+		<castRange>900</castRange>
+		<effectRange>1100</effectRange>
+		<targetType>SELF</targetType>
+		<affectScope>PARTY</affectScope>
+		<affectRange>1000</affectRange>
+		<conditions>
+			<condition name="OpNotAffectedBySkill">
+				<skillId>39517</skillId> <!-- Fantasia Melody - Emperor's Special Cocktail -->
+			</condition>
+		</conditions>
+		<effects>
+			<effect name="AttackAttributeAdd">
+				<amount>10</amount>
+			</effect>
+			<effect name="Speed">
+				<amount>10</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="HpRegen">
+				<amount>10</amount>
+				<mode>PER</mode>
+			</effect>
+			<effect name="MpRegen">
+				<amount>10</amount>
+				<mode>PER</mode>
+			</effect>
+			<effect name="PvpPhysicalAttackDamageBonus">
+				<amount>10</amount>
+				<mode>PER</mode>
+			</effect>
+			<effect name="PvpMagicalSkillDamageBonus">
+				<amount>10</amount>
+				<mode>PER</mode>
+			</effect>
+			<effect name="PvpPhysicalSkillDamageBonus">
+				<amount>10</amount>
+				<mode>PER</mode>
+			</effect>
+			<effect name="PvpPhysicalAttackDefenceBonus">
+				<amount>10</amount>
+				<mode>PER</mode>
+			</effect>
+			<effect name="PvpMagicalSkillDefenceBonus">
+				<amount>10</amount>
+				<mode>PER</mode>
+			</effect>
+			<effect name="PvpPhysicalSkillDefenceBonus">
+				<amount>10</amount>
+				<mode>PER</mode>
+			</effect>
+		</effects>
+	</skill>
+	<skill id="55033" toLevel="3" name="Prophecy of Might">
+		<!-- For $s1, the targeted party member's Critical Rate for basic attacks, P./ M. Skill Critical Rate, Critical Damage for basic attacks and P./ M. Skill Critical Damage +$s2. Additionally, triggers the Spirit of Iss effect. P. Atk./ M. Atk./ P. Def./ M. Def. +$s3. Cannot be used with Chant of Bison/ Victories of Pa'agrio. Consumes $s4 Spirit Ore. <You are targeted automatically> -->
+		<icon>icon.skill19204</icon>
+		<abnormalType>SONG_WEAPON</abnormalType>
+		<castRange>400</castRange>
+		<itemConsumeCount>10</itemConsumeCount>
+		<itemConsumeId>3031</itemConsumeId> <!-- Spirit Ore -->
+		<operateType>A2</operateType>
+		<abnormalLevel>
+			<value level="1">1</value>
+			<value level="2">2</value>
+			<value level="3">3</value>
+		</abnormalLevel>
+		<targetType>MY_PARTY</targetType>
+		<affectScope>SINGLE</affectScope>
+		<affectObject>FRIEND</affectObject>
+		<mpConsume>
+			<value level="1">270</value>
+			<value level="2">313</value>
+			<value level="3">270</value>
+		</mpConsume>
+		<hitTime>5000</hitTime>
+		<coolTime>500</coolTime>
+		<effectPoint>712</effectPoint>
+		<reuseDelay>300000</reuseDelay>
+		<abnormalTime>
+			<value fromLevel="1" toLevel="3">14400</value>
+		</abnormalTime>
+		<effects>
+			<effect name="TriggerSkill">
+				<skillId>30848</skillId> <!-- Spirit of Iss -->
+				<skillLevel>
+					<value level="1">1</value>
+					<value level="2">2</value>
+					<value level="3">2</value>
+				</skillLevel>
+				<targetType>SELF</targetType>
+			</effect>
+			<effect name="CriticalRate">
+				<amount>25</amount>
+				<mode>PER</mode>
+			</effect>
+			<effect name="MagicCriticalRate">
+				<amount>25</amount>
+				<mode>PER</mode>
+			</effect>
+			<effect name="PhysicalSkillCriticalRate">
+				<amount>25</amount>
+				<mode>PER</mode>
+			</effect>
+			<effect name="CriticalDamage">
+				<amount>25</amount>
+				<mode>PER</mode>
+			</effect>
+			<effect name="MagicCriticalDamage">
+				<amount>25</amount>
+				<mode>PER</mode>
+			</effect>
+			<effect name="PhysicalSkillCriticalDamage">
+				<amount>25</amount>
+				<mode>PER</mode>
+			</effect>
+			<effect name="PveMagicalSkillDamageBonus">
+				<amount>
+					<value fromLevel="1" toLevel="2">0</value>
+					<value level="3">5</value>
+				</amount>
+				<type>ENEMY_ALL</type>
+				<mode>PER</mode>
+			</effect>
+			<effect name="PvePhysicalAttackDamageBonus">
+				<amount>
+					<value fromLevel="1" toLevel="2">0</value>
+					<value level="3">5</value>
+				</amount>
+				<type>ENEMY_ALL</type>
+				<mode>PER</mode>
+			</effect>
+			<effect name="PvePhysicalSkillDamageBonus">
+				<amount>
+					<value fromLevel="1" toLevel="2">0</value>
+					<value level="3">5</value>
+				</amount>
+				<type>ENEMY_ALL</type>
+				<mode>PER</mode>
+			</effect>
+			<effect name="PvpPhysicalAttackDamageBonus">
+				<amount>
+					<value fromLevel="1" toLevel="2">0</value>
+					<value level="3">5</value>
+				</amount>
+				<mode>PER</mode>
+			</effect>
+			<effect name="PvpMagicalSkillDamageBonus">
+				<amount>
+					<value fromLevel="1" toLevel="2">0</value>
+					<value level="3">5</value>
+				</amount>
+				<mode>PER</mode>
+			</effect>
+			<effect name="PvpPhysicalSkillDamageBonus">
+				<amount>
+					<value fromLevel="1" toLevel="2">0</value>
+					<value level="3">5</value>
+				</amount>
+				<mode>PER</mode>
+			</effect>
+		</effects>
+	</skill>
+</list>

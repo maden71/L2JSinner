@@ -1,0 +1,336 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../xsd/optionsData.xsd">
+	<option id="36400" name="option_id_36400">
+		<!-- Attribute Resistance +80 -->
+	</option>
+	<option id="36401" name="option_id_36401">
+		<!-- Attribute Resistance +90 -->
+	</option>
+	<option id="36402" name="option_id_36402">
+		<!-- Attribute Resistance +100 -->
+	</option>
+	<option id="36403" name="option_id_36403">
+		<!-- STR +1 -->
+	</option>
+	<option id="36404" name="option_id_36404">
+		<!-- DEX +1 -->
+	</option>
+	<option id="36405" name="option_id_36405">
+		<!-- CON +1 -->
+	</option>
+	<option id="36406" name="option_id_36406">
+		<!-- INT +1 -->
+	</option>
+	<option id="36407" name="option_id_36407">
+		<!-- WIT +1 -->
+	</option>
+	<option id="36408" name="option_id_36408">
+		<!-- MEN +1 -->
+	</option>
+	<option id="36409" name="option_id_36409">
+		<!-- LUC +1 -->
+	</option>
+	<option id="36410" name="option_id_36410">
+		<!-- CHA +1 -->
+	</option>
+	<option id="36411" name="option_id_36411">
+		<!-- Vitality bonus +1% -->
+	</option>
+	<option id="36412" name="option_id_36412">
+		<!-- Vitality bonus +2% -->
+	</option>
+	<option id="36413" name="option_id_36413">
+		<!-- Vitality bonus +3% -->
+	</option>
+	<option id="36414" name="option_id_36414">
+		<!-- Vitality bonus +4% -->
+	</option>
+	<option id="36415" name="option_id_36415">
+		<!-- Vitality bonus +5% -->
+	</option>
+	<option id="36416" name="option_id_36416">
+		<!-- When equipping Agathion Aquarius, M. Atk. +1%. -->
+	</option>
+	<option id="36417" name="option_id_36417">
+		<!-- When equipping Agathion Aquarius, M. Atk. +2%. -->
+	</option>
+	<option id="36418" name="option_id_36418">
+		<!-- When equipping Agathion Aquarius, M. Atk. +5%. -->
+	</option>
+	<option id="36419" name="option_id_36419">
+		<!-- When equipping Agathion Pisces, Casting Spd. +1%. -->
+	</option>
+	<option id="36420" name="option_id_36420">
+		<!-- When equipping Agathion Pisces, Casting Spd. +2%. -->
+	</option>
+	<option id="36421" name="option_id_36421">
+		<!-- When equipping Agathion Pisces, Casting Spd. +5%. -->
+	</option>
+	<option id="36422" name="option_id_36422">
+		<!-- When equipping Agathion Aries, P. Skill Critical Damage +1%. -->
+	</option>
+	<option id="36423" name="option_id_36423">
+		<!-- When equipping Agathion Aries, P. Skill Critical Damage +2%. -->
+	</option>
+	<option id="36424" name="option_id_36424">
+		<!-- When equipping Agathion Aries, P. Skill Critical Damage +5%. -->
+	</option>
+	<option id="36425" name="option_id_36425">
+		<!-- When equipping Agathion Taurus, P. Def. +1%. -->
+	</option>
+	<option id="36426" name="option_id_36426">
+		<!-- When equipping Agathion Taurus, P. Def. +2%. -->
+	</option>
+	<option id="36427" name="option_id_36427">
+		<!-- When equipping Agathion Taurus, P. Def. +5%. -->
+	</option>
+	<option id="36428" name="option_id_36428">
+		<!-- When equipping Agathion Gemini, M. Def. +1%. -->
+	</option>
+	<option id="36429" name="option_id_36429">
+		<!-- When equipping Agathion Gemini, M. Def. +2%. -->
+	</option>
+	<option id="36430" name="option_id_36430">
+		<!-- When equipping Agathion Gemini, M. Def. +5%. -->
+	</option>
+	<option id="36431" name="option_id_36431">
+		<!-- When equipping Agathion Cancer, P. Skill Critical Rate +1%. -->
+	</option>
+	<option id="36432" name="option_id_36432">
+		<!-- When equipping Agathion Cancer, P. Skill Critical Rate +2%. -->
+	</option>
+	<option id="36433" name="option_id_36433">
+		<!-- When equipping Agathion Cancer, P. Skill Critical Rate +5%. -->
+	</option>
+	<option id="36434" name="option_id_36434">
+		<!-- When equipping Agathion Leo, P. Atk. +1%. -->
+	</option>
+	<option id="36435" name="option_id_36435">
+		<!-- When equipping Agathion Leo, P. Atk. +2%. -->
+	</option>
+	<option id="36436" name="option_id_36436">
+		<!-- When equipping Agathion Leo, P. Atk. +5%. -->
+	</option>
+	<option id="36437" name="option_id_36437">
+		<!-- When equipping Agathion Virgo, Critical Rate for basic attacks +10. -->
+	</option>
+	<option id="36438" name="option_id_36438">
+		<!-- When equipping Agathion Virgo, Critical Rate for basic attacks +20. -->
+	</option>
+	<option id="36439" name="option_id_36439">
+		<!-- When equipping Agathion Virgo, Critical Rate for basic attacks +50. -->
+	</option>
+	<option id="36440" name="option_id_36440">
+		<!-- When equipping Agathion Libra, M. Skill Critical Damage +1%. -->
+	</option>
+	<option id="36441" name="option_id_36441">
+		<!-- When equipping Agathion Libra, M. Skill Critical Damage +2%. -->
+	</option>
+	<option id="36442" name="option_id_36442">
+		<!-- When equipping Agathion Libra, M. Skill Critical Damage +5%. -->
+	</option>
+	<option id="36443" name="option_id_36443">
+		<!-- When equipping Agathion Scorpio, Critical Damage for basic attacks +1%. -->
+	</option>
+	<option id="36444" name="option_id_36444">
+		<!-- When equipping Agathion Scorpio, Critical Damage for basic attacks +2%. -->
+	</option>
+	<option id="36445" name="option_id_36445">
+		<!-- When equipping Agathion Scorpio, Critical Damage for basic attacks +5%. -->
+	</option>
+	<option id="36446" name="option_id_36446">
+		<!-- When equipping Agathion Sagittarius, Atk. Spd. +1%. -->
+	</option>
+	<option id="36447" name="option_id_36447">
+		<!-- When equipping Agathion Sagittarius, Atk. Spd. +2%. -->
+	</option>
+	<option id="36448" name="option_id_36448">
+		<!-- When equipping Agathion Sagittarius, Atk. Spd. +5%. -->
+	</option>
+	<option id="36449" name="option_id_36449">
+		<!-- When equipping Agathion Capricorn, M. Critical Rate +10. -->
+	</option>
+	<option id="36450" name="option_id_36450">
+		<!-- When equipping Agathion Capricorn, M. Critical Rate +20. -->
+	</option>
+	<option id="36451" name="option_id_36451">
+		<!-- When equipping Agathion Capricorn, M. Critical Rate +50. -->
+	</option>
+	<option id="36452" name="option_id_36452">
+		<!-- Damage +5%, received damage -5% -->
+	</option>
+	<option id="36453" name="option_id_36453">
+		<!-- Power of basic attacks and P./ M. skills, P. Def., M. Def. +10%, acquired XP/ SP +5% -->
+	</option>
+	<option id="36454" name="option_id_36454">
+		<!-- Equip effect\nTalisman Energy Lv. 1: when equipped with Talisman of Longing/ Talisman of Insanity/ Heavenly Talisman, Attribute Attack +50, Resistance to All Weapons +3% -->
+	</option>
+	<option id="36455" name="option_id_36455">
+		<!-- HP/ MP/ CP +1%\n\nEquip effect\nTalisman Energy Lv. 1: when equipped with Talisman of Longing/ Talisman of Insanity/ Heavenly Talisman, Attribute Attack +50, Resistance to All Weapons +3% -->
+	</option>
+	<option id="36456" name="option_id_36456">
+		<!-- HP/ MP/ CP +2%\n\nEquip effect\nTalisman Energy Lv. 1: when equipped with Talisman of Longing/ Talisman of Insanity/ Heavenly Talisman, Attribute Attack +50, Resistance to All Weapons +3% -->
+	</option>
+	<option id="36457" name="option_id_36457">
+		<!-- HP/ MP/ CP +3%, Critical Rate for basic attacks and P./ M. Skill Critical Rate +1%\n\nEquip effect\nTalisman Energy Lv. 1: when equipped with Talisman of Longing/ Talisman of Insanity/ Heavenly Talisman, Attribute Attack +50, Resistance to All Weapons +3% -->
+	</option>
+	<option id="36458" name="option_id_36458">
+		<!-- HP/ MP/ CP +4%, Critical Rate for basic attacks and P./ M. Skill Critical Rate +2%\n\nEquip effect\nTalisman Energy Lv. 1: when equipped with Talisman of Longing/ Talisman of Insanity/ Heavenly Talisman, Attribute Attack +50, Resistance to All Weapons +3% -->
+	</option>
+	<option id="36459" name="option_id_36459">
+		<!-- HP/ MP/ CP +5%, Critical Rate for basic attacks and P./ M. Skill Critical Rate +3%\n\nEquip effect\nTalisman Energy Lv. 2: when equipped with Talisman of Longing/ Talisman of Insanity/ Heavenly Talisman, Attribute Attack +100, Resistance to All Weapons +3%, received M. damage -3% -->
+	</option>
+	<option id="36460" name="option_id_36460">
+		<!-- HP/ MP/ CP +6%, Critical Rate for basic attacks and P./ M. Skill Critical Rate +4%, received Critical Damage from basic attacks and P./ M. skills -2%\n\nEquip effect\nTalisman Energy Lv. 2: when equipped with Talisman of Longing/ Talisman of Insanity/ Heavenly Talisman, Attribute Attack +100, Resistance to All Weapons +3%, received M. damage -3% -->
+	</option>
+	<option id="36461" name="option_id_36461">
+		<!-- HP/ MP/ CP +7%, Critical Rate for basic attacks and P./ M. Skill Critical Rate +5%, received Critical Damage from basic attacks and P./ M. skills -3%\n\nEquip effect\nTalisman Energy Lv. 2: when equipped with Talisman of Longing/ Talisman of Insanity/ Heavenly Talisman, Attribute Attack +100, Resistance to All Weapons +3%, received M. damage -3% -->
+	</option>
+	<option id="36462" name="option_id_36462">
+		<!-- HP/ MP/ CP +8%, Critical Rate for basic attacks and P./ M. Skill Critical Rate +6%, received Critical Damage from basic attacks and P./ M. skills -4%\n\nEquip effect\nTalisman Energy Lv. 2: when equipped with Talisman of Longing/ Talisman of Insanity/ Heavenly Talisman, Attribute Attack +100, Resistance to All Weapons +3%, received M. damage -3% -->
+	</option>
+	<option id="36463" name="option_id_36463">
+		<!-- HP/ MP/ CP +9%, Critical Rate for basic attacks and P./ M. Skill Critical Rate +7%, received Critical Damage from basic attacks and P./ M. skills -5%, Critical Damage for basic attacks and P./ M. Skill Critical Damage +3%\n\nEquip effect\nTalisman Energy Lv. 2: when equipped with Talisman of Longing/ Talisman of Insanity/ Heavenly Talisman, Attribute Attack +100, Resistance to All Weapons +3%, received M. damage -3% -->
+	</option>
+	<option id="36464" name="option_id_36464">
+		<!-- HP/ MP/ CP +10%, Critical Rate for basic attacks and P./ M. Skill Critical Rate +7%, received Critical Damage from basic attacks and P./ M. skills -7%, Critical Damage for basic attacks and P./ M. Skill Critical Damage +5%\n\nEquip effect\nTalisman Energy Lv. 3: when equipped with Talisman of Longing/ Talisman of Insanity/ Heavenly Talisman, Attribute Attack +200, Resistance to All Weapons +7%, received M. damage -7% -->
+	</option>
+	<option id="36465" name="option_id_36465">
+		<!-- LUC +3, Attribute Attack/ Resistance +50, Vitality bonus +5% -->
+	</option>
+	<option id="36466" name="option_id_36466">
+		<!-- All Critical Damage, Power of basic attacks and P./ M. skills +5%, received damage -10% -->
+	</option>
+	<option id="36467" name="Artifact Book - Damage">
+		<!-- Damage +1% -->
+		<passive_skill id="36320" level="1" /> <!-- Artifact Book - Damage -->
+	</option>
+	<option id="36468" name="Artifact Book - Damage">
+		<!-- Damage +2% -->
+		<passive_skill id="36320" level="2" /> <!-- Artifact Book - Damage -->
+	</option>
+	<option id="36469" name="Artifact Book - Damage">
+		<!-- Damage +3% -->
+		<passive_skill id="36320" level="3" /> <!-- Artifact Book - Damage -->
+	</option>
+	<option id="36470" name="Artifact Book - Damage">
+		<!-- Damage +4% -->
+		<passive_skill id="36320" level="4" /> <!-- Artifact Book - Damage -->
+	</option>
+	<option id="36471" name="Artifact Book - Damage">
+		<!-- Damage +5% -->
+		<passive_skill id="36320" level="5" /> <!-- Artifact Book - Damage -->
+	</option>
+	<option id="36472" name="Artifact Book - Damage Shield">
+		<!-- Received damage -1% -->
+		<passive_skill id="36321" level="1" /> <!-- Artifact Book - Damage Shield -->
+	</option>
+	<option id="36473" name="Artifact Book - Damage Shield">
+		<!-- Received damage -2% -->
+		<passive_skill id="36321" level="2" /> <!-- Artifact Book - Damage Shield -->
+	</option>
+	<option id="36474" name="Artifact Book - Damage Shield">
+		<!-- Received damage -3% -->
+		<passive_skill id="36321" level="3" /> <!-- Artifact Book - Damage Shield -->
+	</option>
+	<option id="36475" name="Artifact Book - Damage Shield">
+		<!-- Received damage -4% -->
+		<passive_skill id="36321" level="4" /> <!-- Artifact Book - Damage Shield -->
+	</option>
+	<option id="36476" name="Artifact Book - Damage Shield">
+		<!-- Received damage -5% -->
+		<passive_skill id="36321" level="5" /> <!-- Artifact Book - Damage Shield -->
+	</option>
+	<option id="36477" name="Artifact Book - Exp Sp Bonus">
+		<!-- Acquired XP/ SP +1% -->
+		<passive_skill id="36322" level="1" /> <!-- Artifact Book - EXP & SP Bonus -->
+	</option>
+	<option id="36478" name="Artifact Book - Exp Sp Bonus">
+		<!-- Acquired XP/ SP +2% -->
+		<passive_skill id="36322" level="2" /> <!-- Artifact Book - EXP & SP Bonus -->
+	</option>
+	<option id="36479" name="Artifact Book - Exp Sp Bonus">
+		<!-- Acquired XP/ SP +3% -->
+		<passive_skill id="36322" level="3" /> <!-- Artifact Book - EXP & SP Bonus -->
+	</option>
+	<option id="36480" name="Artifact Book - Exp Sp Bonus">
+		<!-- Acquired XP/ SP +4% -->
+		<passive_skill id="36322" level="4" /> <!-- Artifact Book - EXP & SP Bonus -->
+	</option>
+	<option id="36481" name="Artifact Book - Exp Sp Bonus">
+		<!-- Acquired XP/ SP +5% -->
+		<passive_skill id="36322" level="5" /> <!-- Artifact Book - EXP & SP Bonus -->
+	</option>
+	<option id="36482" name="Artifact Book - Attribute Attack">
+		<!-- Attribute Attack +10 -->
+		<passive_skill id="36323" level="1" /> <!-- Artifact Book - Attribute Attack -->
+	</option>
+	<option id="36483" name="Artifact Book - Attribute Attack">
+		<!-- Attribute Attack +20 -->
+		<passive_skill id="36323" level="2" /> <!-- Artifact Book - Attribute Attack -->
+	</option>
+	<option id="36484" name="Artifact Book - Attribute Attack">
+		<!-- Attribute Attack +30 -->
+		<passive_skill id="36323" level="3" /> <!-- Artifact Book - Attribute Attack -->
+	</option>
+	<option id="36485" name="Artifact Book - Attribute Attack">
+		<!-- Attribute Attack +40 -->
+		<passive_skill id="36323" level="4" /> <!-- Artifact Book - Attribute Attack -->
+	</option>
+	<option id="36486" name="Artifact Book - Attribute Attack">
+		<!-- Attribute Attack +50 -->
+		<passive_skill id="36323" level="5" /> <!-- Artifact Book - Attribute Attack -->
+	</option>
+	<option id="36487" name="Artifact Book - Attribute Defence">
+		<!-- Attribute Resistance +10 -->
+		<passive_skill id="36324" level="1" /> <!-- Artifact Book - Attribute Defence -->
+	</option>
+	<option id="36488" name="Artifact Book - Attribute Defence">
+		<!-- Attribute Resistance +20 -->
+		<passive_skill id="36324" level="2" /> <!-- Artifact Book - Attribute Defence -->
+	</option>
+	<option id="36489" name="Artifact Book - Attribute Defence">
+		<!-- Attribute Resistance +30 -->
+		<passive_skill id="36324" level="3" /> <!-- Artifact Book - Attribute Defence -->
+	</option>
+	<option id="36490" name="Artifact Book - Attribute Defence">
+		<!-- Attribute Resistance +40 -->
+		<passive_skill id="36324" level="4" /> <!-- Artifact Book - Attribute Defence -->
+	</option>
+	<option id="36491" name="Artifact Book - Attribute Defence">
+		<!-- Attribute Resistance +50 -->
+		<passive_skill id="36324" level="5" /> <!-- Artifact Book - Attribute Defence -->
+	</option>
+	<option id="36492" name="Artifact Book - P. Attack">
+		<!-- P. Atk. +1% -->
+		<passive_skill id="36325" level="1" /> <!-- Artifact Book - P. Attack -->
+	</option>
+	<option id="36493" name="Artifact Book - P. Attack">
+		<!-- P. Atk. +2% -->
+		<passive_skill id="36325" level="2" /> <!-- Artifact Book - P. Attack -->
+	</option>
+	<option id="36494" name="Artifact Book - P. Attack">
+		<!-- P. Atk. +3% -->
+		<passive_skill id="36325" level="3" /> <!-- Artifact Book - P. Attack -->
+	</option>
+	<option id="36495" name="Artifact Book - P. Attack">
+		<!-- P. Atk. +4% -->
+		<passive_skill id="36325" level="4" /> <!-- Artifact Book - P. Attack -->
+	</option>
+	<option id="36496" name="Artifact Book - P. Attack">
+		<!-- P. Atk. +5% -->
+		<passive_skill id="36325" level="5" /> <!-- Artifact Book - P. Attack -->
+	</option>
+	<option id="36497" name="Artifact Book - M. Attack">
+		<!-- M. Atk. +1% -->
+		<passive_skill id="36326" level="1" /> <!-- Artifact Book - M. Attack -->
+	</option>
+	<option id="36498" name="Artifact Book - M. Attack">
+		<!-- M. Atk. +2% -->
+		<passive_skill id="36326" level="2" /> <!-- Artifact Book - M. Attack -->
+	</option>
+	<option id="36499" name="Artifact Book - M. Attack">
+		<!-- M. Atk. +3% -->
+		<passive_skill id="36326" level="3" /> <!-- Artifact Book - M. Attack -->
+	</option>
+</list>
