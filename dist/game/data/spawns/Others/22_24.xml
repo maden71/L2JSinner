@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
+	<spawn name="22_24">
+		<group>
+			<npc id="22143" x="84506" y="209191" z="-5439" heading="40738" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22143" x="84506" y="209191" z="-5439" heading="40738" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22168" x="84506" y="209191" z="-5439" heading="40738" respawnTime="60sec" /> <!-- Triol's Priest -->
+			<npc id="22155" x="84506" y="209191" z="-5439" heading="40738" respawnTime="60sec" /> <!-- Triol's High Priest -->
+			<npc id="22143" x="83431" y="210855" z="-5439" heading="26502" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22143" x="83431" y="210855" z="-5439" heading="26502" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22168" x="83431" y="210855" z="-5439" heading="26502" respawnTime="60sec" /> <!-- Triol's Priest -->
+			<npc id="22155" x="83431" y="210855" z="-5439" heading="26502" respawnTime="60sec" /> <!-- Triol's High Priest -->
+			<npc id="22155" x="83431" y="211615" z="-5439" heading="16563" respawnTime="60sec" /> <!-- Triol's High Priest -->
+			<npc id="22168" x="83431" y="211615" z="-5439" heading="16563" respawnTime="60sec" /> <!-- Triol's Priest -->
+			<npc id="22143" x="83431" y="211615" z="-5439" heading="16563" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22168" x="83431" y="211615" z="-5439" heading="16563" respawnTime="60sec" /> <!-- Triol's Priest -->
+			<npc id="22155" x="83431" y="213802" z="-5439" heading="16853" respawnTime="60sec" /> <!-- Triol's High Priest -->
+			<npc id="22168" x="83431" y="213802" z="-5439" heading="16853" respawnTime="60sec" /> <!-- Triol's Priest -->
+			<npc id="22143" x="83431" y="213802" z="-5439" heading="16853" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22143" x="83431" y="213802" z="-5439" heading="16853" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22143" x="83431" y="213802" z="-5439" heading="16853" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22168" x="83431" y="213802" z="-5439" heading="16853" respawnTime="60sec" /> <!-- Triol's Priest -->
+			<npc id="22155" x="86420" y="213817" z="-5439" heading="65432" respawnTime="60sec" /> <!-- Triol's High Priest -->
+			<npc id="22143" x="86420" y="213817" z="-5439" heading="65432" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22143" x="86420" y="213817" z="-5439" heading="65432" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22168" x="86420" y="213817" z="-5439" heading="65432" respawnTime="60sec" /> <!-- Triol's Priest -->
+			<npc id="22143" x="86420" y="213817" z="-5439" heading="65432" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22155" x="86420" y="213817" z="-5439" heading="65432" respawnTime="60sec" /> <!-- Triol's High Priest -->
+			<npc id="22155" x="85553" y="213845" z="-5439" heading="31935" respawnTime="60sec" /> <!-- Triol's High Priest -->
+			<npc id="22143" x="85553" y="213845" z="-5439" heading="31935" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22143" x="85553" y="213845" z="-5439" heading="31935" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22168" x="85553" y="213845" z="-5439" heading="31935" respawnTime="60sec" /> <!-- Triol's Priest -->
+			<npc id="22155" x="85553" y="213845" z="-5439" heading="31935" respawnTime="60sec" /> <!-- Triol's High Priest -->
+			<npc id="22155" x="85506" y="212613" z="-5439" heading="60503" respawnTime="60sec" /> <!-- Triol's High Priest -->
+			<npc id="22143" x="85506" y="212613" z="-5439" heading="60503" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22143" x="85506" y="212613" z="-5439" heading="60503" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22168" x="85506" y="212613" z="-5439" heading="60503" respawnTime="60sec" /> <!-- Triol's Priest -->
+			<npc id="22155" x="85528" y="211972" z="-5439" heading="52389" respawnTime="60sec" /> <!-- Triol's High Priest -->
+			<npc id="22168" x="85528" y="211972" z="-5439" heading="52389" respawnTime="60sec" /> <!-- Triol's Priest -->
+			<npc id="22143" x="85528" y="211972" z="-5439" heading="52389" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22143" x="85528" y="211972" z="-5439" heading="52389" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22155" x="85536" y="211497" z="-5439" heading="48342" respawnTime="60sec" /> <!-- Triol's High Priest -->
+			<npc id="22168" x="85521" y="211308" z="-5439" heading="48342" respawnTime="60sec" /> <!-- Triol's Priest -->
+			<npc id="22143" x="85517" y="211250" z="-5439" heading="48342" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22143" x="85517" y="211250" z="-5439" heading="48342" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22168" x="85517" y="211250" z="-5439" heading="48342" respawnTime="60sec" /> <!-- Triol's Priest -->
+			<npc id="22155" x="85517" y="211250" z="-5439" heading="48342" respawnTime="60sec" /> <!-- Triol's High Priest -->
+			<npc id="22155" x="85767" y="209197" z="-5439" heading="40467" respawnTime="60sec" /> <!-- Triol's High Priest -->
+			<npc id="22143" x="85767" y="209197" z="-5439" heading="40467" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22143" x="85767" y="209197" z="-5439" heading="40467" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22168" x="85767" y="209197" z="-5439" heading="40467" respawnTime="60sec" /> <!-- Triol's Priest -->
+			<npc id="22155" x="86502" y="209172" z="-5439" heading="64185" respawnTime="60sec" /> <!-- Triol's High Priest -->
+			<npc id="22143" x="86502" y="209172" z="-5439" heading="64185" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22143" x="86502" y="209172" z="-5439" heading="64185" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22168" x="86502" y="209172" z="-5439" heading="64185" respawnTime="60sec" /> <!-- Triol's Priest -->
+			<npc id="22155" x="88050" y="211096" z="-5439" heading="48539" respawnTime="60sec" /> <!-- Triol's High Priest -->
+			<npc id="22143" x="88050" y="211096" z="-5439" heading="48539" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22143" x="88050" y="211096" z="-5439" heading="48539" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22168" x="88050" y="211096" z="-5439" heading="48539" respawnTime="60sec" /> <!-- Triol's Priest -->
+			<npc id="22155" x="88063" y="211702" z="-5439" heading="11675" respawnTime="60sec" /> <!-- Triol's High Priest -->
+			<npc id="22168" x="88063" y="211702" z="-5439" heading="11675" respawnTime="60sec" /> <!-- Triol's Priest -->
+			<npc id="22143" x="88063" y="211702" z="-5439" heading="11675" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22143" x="88063" y="211702" z="-5439" heading="11675" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22143" x="88063" y="211702" z="-5439" heading="11675" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22143" x="88063" y="211072" z="-5439" heading="45891" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22143" x="88063" y="211072" z="-5439" heading="45891" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22168" x="88063" y="211072" z="-5439" heading="45891" respawnTime="60sec" /> <!-- Triol's Priest -->
+			<npc id="22155" x="88049" y="213833" z="-5439" heading="16159" respawnTime="60sec" /> <!-- Triol's High Priest -->
+			<npc id="22143" x="88049" y="213833" z="-5439" heading="16159" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22143" x="88049" y="213833" z="-5439" heading="16159" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22168" x="88049" y="213833" z="-5439" heading="16159" respawnTime="60sec" /> <!-- Triol's Priest -->
+			<npc id="22143" x="88049" y="213833" z="-5439" heading="16159" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22155" x="88049" y="213833" z="-5439" heading="16159" respawnTime="60sec" /> <!-- Triol's High Priest -->
+			<npc id="22143" x="88121" y="213871" z="-5439" heading="37510" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22143" x="88121" y="213871" z="-5439" heading="37510" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22168" x="88121" y="213871" z="-5439" heading="37510" respawnTime="60sec" /> <!-- Triol's Priest -->
+			<npc id="22143" x="88085" y="213907" z="-5439" heading="28544" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22143" x="88085" y="213907" z="-5439" heading="28544" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22143" x="88085" y="213907" z="-5439" heading="28544" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22155" x="89176" y="213826" z="-5439" heading="65163" respawnTime="60sec" /> <!-- Triol's High Priest -->
+			<npc id="22155" x="89092" y="213767" z="-5439" heading="39138" respawnTime="60sec" /> <!-- Triol's High Priest -->
+			<npc id="22155" x="89134" y="214914" z="-5439" heading="47612" respawnTime="60sec" /> <!-- Triol's High Priest -->
+			<npc id="22143" x="89159" y="215027" z="-5439" heading="46337" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22143" x="89159" y="215027" z="-5439" heading="46337" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22168" x="89159" y="215027" z="-5439" heading="46337" respawnTime="60sec" /> <!-- Triol's Priest -->
+			<npc id="22143" x="89159" y="215027" z="-5439" heading="46337" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22155" x="89466" y="216730" z="-5439" heading="16055" respawnTime="60sec" /> <!-- Triol's High Priest -->
+			<npc id="22143" x="89466" y="216730" z="-5439" heading="16055" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22143" x="89466" y="216730" z="-5439" heading="16055" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22143" x="89531" y="216750" z="-5439" heading="61840" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22143" x="89531" y="216750" z="-5439" heading="61840" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22155" x="89363" y="217527" z="-5439" heading="14569" respawnTime="60sec" /> <!-- Triol's High Priest -->
+			<npc id="22143" x="89363" y="217527" z="-5439" heading="14569" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22143" x="89363" y="217527" z="-5439" heading="14569" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22168" x="89363" y="217527" z="-5439" heading="14569" respawnTime="60sec" /> <!-- Triol's Priest -->
+			<npc id="22143" x="89363" y="217527" z="-5439" heading="14569" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22143" x="89363" y="217527" z="-5439" heading="14569" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22143" x="89363" y="217527" z="-5439" heading="14569" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22168" x="89363" y="217527" z="-5439" heading="14569" respawnTime="60sec" /> <!-- Triol's Priest -->
+			<npc id="22155" x="89665" y="217504" z="-5439" heading="16440" respawnTime="60sec" /> <!-- Triol's High Priest -->
+			<npc id="22155" x="89144" y="219453" z="-5439" heading="16199" respawnTime="60sec" /> <!-- Triol's High Priest -->
+			<npc id="22143" x="89144" y="219453" z="-5439" heading="16199" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22143" x="89144" y="219453" z="-5439" heading="16199" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22168" x="89144" y="219453" z="-5439" heading="16199" respawnTime="60sec" /> <!-- Triol's Priest -->
+			<npc id="22143" x="89144" y="219453" z="-5439" heading="16199" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22155" x="90331" y="219518" z="-5439" heading="65017" respawnTime="60sec" /> <!-- Triol's High Priest -->
+			<npc id="22143" x="90394" y="219515" z="-5439" heading="65017" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22143" x="90394" y="219515" z="-5439" heading="65017" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22168" x="90394" y="219515" z="-5439" heading="65017" respawnTime="60sec" /> <!-- Triol's Priest -->
+			<npc id="22143" x="90394" y="219515" z="-5439" heading="65017" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22155" x="91039" y="219523" z="-5439" respawnTime="60sec" /> <!-- Triol's High Priest -->
+			<npc id="22143" x="91205" y="219523" z="-5439" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22143" x="91205" y="219523" z="-5439" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22168" x="91205" y="219523" z="-5439" respawnTime="60sec" /> <!-- Triol's Priest -->
+			<npc id="22143" x="91205" y="219523" z="-5439" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22155" x="91344" y="218247" z="-5439" heading="31613" respawnTime="60sec" /> <!-- Triol's High Priest -->
+			<npc id="22143" x="91344" y="218247" z="-5439" heading="31613" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22143" x="91344" y="218247" z="-5439" heading="31613" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22168" x="91344" y="218247" z="-5439" heading="31613" respawnTime="60sec" /> <!-- Triol's Priest -->
+			<npc id="22143" x="91344" y="218247" z="-5439" heading="31613" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22143" x="91344" y="218247" z="-5439" heading="31613" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22143" x="91344" y="218247" z="-5439" heading="31613" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22155" x="92463" y="218230" z="-5439" heading="64381" respawnTime="60sec" /> <!-- Triol's High Priest -->
+			<npc id="22143" x="92463" y="218230" z="-5439" heading="64381" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22143" x="92463" y="218230" z="-5439" heading="64381" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22168" x="92463" y="218230" z="-5439" heading="64381" respawnTime="60sec" /> <!-- Triol's Priest -->
+			<npc id="22143" x="92463" y="218230" z="-5439" heading="64381" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22155" x="92970" y="218250" z="-5439" heading="30919" respawnTime="60sec" /> <!-- Triol's High Priest -->
+			<npc id="22155" x="93176" y="218254" z="-5439" heading="1317" respawnTime="60sec" /> <!-- Triol's High Priest -->
+			<npc id="22155" x="93758" y="218220" z="-5439" heading="62526" respawnTime="60sec" /> <!-- Triol's High Priest -->
+			<npc id="22143" x="93795" y="218210" z="-5439" heading="62526" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22143" x="93795" y="218210" z="-5439" heading="62526" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22168" x="93795" y="218210" z="-5439" heading="62526" respawnTime="60sec" /> <!-- Triol's Priest -->
+			<npc id="22155" x="93749" y="214918" z="-5439" heading="50662" respawnTime="60sec" /> <!-- Triol's High Priest -->
+			<npc id="22143" x="93749" y="214918" z="-5439" heading="50662" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22143" x="93749" y="214918" z="-5439" heading="50662" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22168" x="93749" y="214918" z="-5439" heading="50662" respawnTime="60sec" /> <!-- Triol's Priest -->
+			<npc id="22155" x="93743" y="213827" z="-5439" heading="49036" respawnTime="60sec" /> <!-- Triol's High Priest -->
+			<npc id="22168" x="93743" y="213827" z="-5439" heading="49036" respawnTime="60sec" /> <!-- Triol's Priest -->
+			<npc id="22143" x="93743" y="213827" z="-5439" heading="49036" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22143" x="93743" y="213827" z="-5439" heading="49036" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22168" x="93743" y="213827" z="-5439" heading="49036" respawnTime="60sec" /> <!-- Triol's Priest -->
+			<npc id="22155" x="92136" y="212756" z="-5439" heading="45876" respawnTime="60sec" /> <!-- Triol's High Priest -->
+			<npc id="22143" x="92136" y="212756" z="-5439" heading="45876" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22143" x="92136" y="212756" z="-5439" heading="45876" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22168" x="92136" y="212756" z="-5439" heading="45876" respawnTime="60sec" /> <!-- Triol's Priest -->
+			<npc id="22155" x="92161" y="213609" z="-5439" heading="14415" respawnTime="60sec" /> <!-- Triol's High Priest -->
+			<npc id="22143" x="92161" y="213609" z="-5439" heading="14415" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22143" x="92161" y="213609" z="-5439" heading="14415" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22155" x="89159" y="212004" z="-5439" heading="30748" respawnTime="60sec" /> <!-- Triol's High Priest -->
+			<npc id="22143" x="89159" y="212004" z="-5439" heading="30748" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22143" x="89159" y="212004" z="-5439" heading="30748" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22168" x="89159" y="212004" z="-5439" heading="30748" respawnTime="60sec" /> <!-- Triol's Priest -->
+			<npc id="22155" x="89744" y="212013" z="-5439" heading="62322" respawnTime="60sec" /> <!-- Triol's High Priest -->
+			<npc id="22155" x="90404" y="211991" z="-5439" heading="64329" respawnTime="60sec" /> <!-- Triol's High Priest -->
+			<npc id="22168" x="90491" y="211981" z="-5439" heading="64329" respawnTime="60sec" /> <!-- Triol's Priest -->
+			<npc id="22143" x="90491" y="211981" z="-5439" heading="64329" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22155" x="92629" y="211680" z="-5439" heading="64829" respawnTime="60sec" /> <!-- Triol's High Priest -->
+			<npc id="22143" x="92699" y="211676" z="-5439" heading="64829" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22143" x="92699" y="211676" z="-5439" heading="64829" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22168" x="92699" y="211676" z="-5439" heading="64829" respawnTime="60sec" /> <!-- Triol's Priest -->
+			<npc id="22155" x="93549" y="211680" z="-5439" heading="166" respawnTime="60sec" /> <!-- Triol's High Priest -->
+			<npc id="22143" x="93549" y="211680" z="-5439" heading="166" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22143" x="93549" y="211680" z="-5439" heading="166" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22168" x="93549" y="211680" z="-5439" heading="166" respawnTime="60sec" /> <!-- Triol's Priest -->
+			<npc id="22143" x="93549" y="211680" z="-5439" heading="166" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22155" x="93721" y="209231" z="-5439" heading="48866" respawnTime="60sec" /> <!-- Triol's High Priest -->
+			<npc id="22143" x="93721" y="209231" z="-5439" heading="48866" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22168" x="93721" y="209231" z="-5439" heading="48866" respawnTime="60sec" /> <!-- Triol's Priest -->
+			<npc id="22155" x="92493" y="210218" z="-5440" heading="48345" respawnTime="60sec" /> <!-- Triol's High Priest -->
+			<npc id="22155" x="92474" y="209969" z="-5439" heading="48345" respawnTime="60sec" /> <!-- Triol's High Priest -->
+			<npc id="22143" x="92474" y="209969" z="-5439" heading="48345" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22143" x="92474" y="209969" z="-5439" heading="48345" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22168" x="92474" y="209969" z="-5439" heading="48345" respawnTime="60sec" /> <!-- Triol's Priest -->
+			<npc id="22155" x="92497" y="209136" z="-5439" heading="48921" respawnTime="60sec" /> <!-- Triol's High Priest -->
+			<npc id="22168" x="92497" y="209136" z="-5439" heading="48921" respawnTime="60sec" /> <!-- Triol's Priest -->
+			<npc id="22143" x="92497" y="209136" z="-5439" heading="48921" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22155" x="90680" y="210649" z="-5439" heading="4554" respawnTime="60sec" /> <!-- Triol's High Priest -->
+			<npc id="22143" x="90680" y="210649" z="-5439" heading="4554" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22143" x="90680" y="210649" z="-5439" heading="4554" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22168" x="90680" y="210649" z="-5439" heading="4554" respawnTime="60sec" /> <!-- Triol's Priest -->
+			<npc id="22143" x="90680" y="210649" z="-5439" heading="4554" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22155" x="90046" y="210664" z="-5439" heading="33095" respawnTime="60sec" /> <!-- Triol's High Priest -->
+			<npc id="22155" x="89258" y="210670" z="-5439" heading="33419" respawnTime="60sec" /> <!-- Triol's High Priest -->
+			<npc id="22168" x="89258" y="210670" z="-5439" heading="33419" respawnTime="60sec" /> <!-- Triol's Priest -->
+			<npc id="22143" x="89258" y="210670" z="-5439" heading="33419" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22143" x="89258" y="210670" z="-5439" heading="33419" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22143" x="89258" y="210670" z="-5439" heading="33419" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22143" x="89258" y="210670" z="-5439" heading="33419" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22155" x="89149" y="209220" z="-5439" heading="33069" respawnTime="60sec" /> <!-- Triol's High Priest -->
+			<npc id="22143" x="89148" y="209220" z="-5439" heading="33069" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22143" x="89148" y="209220" z="-5439" heading="33069" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22168" x="89148" y="209220" z="-5439" heading="33069" respawnTime="60sec" /> <!-- Triol's Priest -->
+			<npc id="22155" x="88082" y="209217" z="-5439" heading="32347" respawnTime="60sec" /> <!-- Triol's High Priest -->
+			<npc id="22143" x="88082" y="209217" z="-5439" heading="32347" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22143" x="88082" y="209217" z="-5439" heading="32347" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22168" x="88082" y="209217" z="-5439" heading="32347" respawnTime="60sec" /> <!-- Triol's Priest -->
+			<npc id="22143" x="89135" y="219572" z="-5439" heading="16021" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22143" x="89135" y="219572" z="-5439" heading="16021" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22143" x="90458" y="219484" z="-5439" heading="41452" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22143" x="90401" y="219422" z="-5441" heading="41452" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22143" x="90494" y="219404" z="-5441" heading="63577" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22155" x="93720" y="219524" z="-5439" heading="65365" respawnTime="60sec" /> <!-- Triol's High Priest -->
+			<npc id="22168" x="93720" y="219524" z="-5439" heading="65365" respawnTime="60sec" /> <!-- Triol's Priest -->
+			<npc id="22143" x="93720" y="219524" z="-5439" heading="65365" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22143" x="93720" y="219524" z="-5439" heading="65365" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22143" x="93720" y="219524" z="-5439" heading="65365" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22155" x="93752" y="214953" z="-5439" heading="12789" respawnTime="60sec" /> <!-- Triol's High Priest -->
+			<npc id="22143" x="93752" y="214953" z="-5439" heading="12789" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22143" x="93752" y="214953" z="-5439" heading="12789" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22143" x="93752" y="214953" z="-5439" heading="12789" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22143" x="93748" y="214943" z="-5439" heading="45183" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22155" x="91853" y="216916" z="-5439" heading="47712" respawnTime="60sec" /> <!-- Triol's High Priest -->
+			<npc id="22143" x="91853" y="216916" z="-5439" heading="47712" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22143" x="91853" y="216916" z="-5439" heading="47712" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22143" x="91853" y="216916" z="-5439" heading="47712" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22143" x="91853" y="216916" z="-5439" heading="47712" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22155" x="91837" y="216073" z="-5439" heading="47933" respawnTime="60sec" /> <!-- Triol's High Priest -->
+			<npc id="22143" x="91837" y="216073" z="-5439" heading="47933" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22143" x="91837" y="216073" z="-5439" heading="47933" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22143" x="91837" y="216073" z="-5439" heading="47933" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22143" x="91837" y="216073" z="-5439" heading="47933" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22155" x="90579" y="214827" z="-5439" heading="49005" respawnTime="60sec" /> <!-- Triol's High Priest -->
+			<npc id="22143" x="90579" y="214827" z="-5439" heading="49005" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22143" x="90579" y="214827" z="-5439" heading="49005" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22143" x="90579" y="214827" z="-5439" heading="49005" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22143" x="90579" y="214827" z="-5439" heading="49005" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22155" x="90550" y="215461" z="-5439" heading="11351" respawnTime="60sec" /> <!-- Triol's High Priest -->
+			<npc id="22155" x="90570" y="216026" z="-5439" heading="15851" respawnTime="60sec" /> <!-- Triol's High Priest -->
+			<npc id="22143" x="90582" y="216248" z="-5439" heading="15851" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22143" x="90582" y="216248" z="-5439" heading="15851" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22143" x="90582" y="216248" z="-5439" heading="15851" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22143" x="90582" y="216248" z="-5439" heading="15851" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22143" x="90582" y="216248" z="-5439" heading="15851" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22155" x="90256" y="218350" z="-5439" heading="16699" respawnTime="60sec" /> <!-- Triol's High Priest -->
+			<npc id="22143" x="90256" y="218350" z="-5439" heading="16699" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22143" x="90256" y="218350" z="-5439" heading="16699" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22143" x="90256" y="218350" z="-5439" heading="16699" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22143" x="90256" y="218350" z="-5439" heading="16699" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22143" x="90256" y="218350" z="-5439" heading="16699" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22168" x="92768" y="211680" z="-5439" heading="65370" respawnTime="60sec" /> <!-- Triol's Priest -->
+			<npc id="22155" x="92768" y="211680" z="-5439" heading="65370" respawnTime="60sec" /> <!-- Triol's High Priest -->
+			<npc id="22143" x="92768" y="211680" z="-5439" heading="65370" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22143" x="92768" y="211680" z="-5439" heading="65370" respawnTime="60sec" /> <!-- Triol's Believer -->
+			<npc id="22143" x="92768" y="211680" z="-5439" heading="65370" respawnTime="60sec" /> <!-- Triol's Believer -->
+		</group>
+	</spawn>
+</list>
