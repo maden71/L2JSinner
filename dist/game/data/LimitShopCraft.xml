@@ -654,33 +654,25 @@
 	</product>
 	<product id="1184" category="3" announce="true">
 		<ingredient id="26418" count="1" /> <!-- Recipe: High-grade Talisman of Abundance Lv. 1 -->
-		<ingredient id="60091" count="1" /> <!-- Abundance Mark -->
 		<production id="26338" chance="25" id2="81215" count2="1" chance2="75" /> <!-- High-grade Talisman of Abundance Lv. 1 -->
 	</product>
 	<product id="1185" category="3" announce="true">
 		<ingredient id="26419" count="1" /> <!-- Recipe: High-grade Talisman of Abundance Lv. 2 -->
 		<ingredient id="26338" count="1" /> <!-- High-grade Talisman of Abundance Lv. 1 -->
-		<ingredient id="60091" count="1" /> <!-- Abundance Mark -->
+		<ingredient id="29304" count="1" />
 		<production id="26339" chance="25" id2="81215" count2="1" chance2="75" /> <!-- High-grade Talisman of Abundance Lv. 2 -->
 	</product>
 	<product id="1186" category="3" announce="true">
 		<ingredient id="26419" count="1" /> <!-- Recipe: High-grade Talisman of Abundance Lv. 3 -->
 		<ingredient id="26339" count="1" /> <!-- High-grade Talisman of Abundance Lv. 2 -->
-		<ingredient id="60091" count="1" /> <!-- Abundance Mark -->
+		<ingredient id="29304" count="1" />
 		<production id="26340" chance="25" id2="81215" count2="1" chance2="75" /> <!-- High-grade Talisman of Abundance Lv. 3 -->
 	</product>
 	<product id="1187" category="3" announce="true">
 		<ingredient id="26419" count="1" /> <!-- Recipe: High-grade Talisman of Abundance Lv. 4 -->
 		<ingredient id="26340" count="1" /> <!-- High-grade Talisman of Abundance Lv. 3 -->
-		<ingredient id="60091" count="1" /> <!-- Abundance Mark -->
+		<ingredient id="29304" count="1" />
 		<production id="26341" chance="25" id2="81215" count2="1" chance2="75" /> <!-- High-grade Talisman of Abundance Lv. 4 -->
-	</product>
-	<product id="1188" category="3">
-		<ingredient id="23837" count="1" /> <!-- Talisman - Hunter -->
-		<ingredient id="23838" count="1" /> <!-- Talisman - Slaughterer -->
-		<ingredient id="23839" count="1" /> <!-- Talisman - Conquerer -->
-		<ingredient id="23840" count="1" /> <!-- Talisman - Outlaw -->
-		<production id="60091" chance="100" /> <!-- Abundance Mark -->
 	</product>
 	<product id="1189" category="3">
 		<ingredient id="57" count="500000000" /> <!-- Adena -->

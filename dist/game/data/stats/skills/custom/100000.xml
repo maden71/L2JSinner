@@ -70,7 +70,7 @@
             </effect>
         </effects>
     </skill>
-    <skill id="60001" toLevel="1" name="Einhasad's Gift">
+    <skill id="60001" toLevel="1" name="Einhasad's Gift(90)">
         <icon>icon.event_july_seven_park_i00</icon>
         <itemConsumeId>60391</itemConsumeId>
         <itemConsumeCount>1</itemConsumeCount>
@@ -86,6 +86,27 @@
                 <items>
                     <item chance="100">
                         <item id="48472" count="90" /> <!-- einhasad coins -->
+                    </item>
+                </items>
+            </effect>
+        </effects>
+    </skill>
+    <skill id="60002" toLevel="1" name="Einhasad's Gift(400)">
+        <icon>icon.event_july_seven_park_i00</icon>
+        <itemConsumeId>60392</itemConsumeId>
+        <itemConsumeCount>1</itemConsumeCount>
+        <operateType>A1</operateType>
+        <magicCriticalRate>5</magicCriticalRate>
+        <hitCancelTime>0</hitCancelTime>
+        <magicLevel>1</magicLevel>
+        <isMagic>2</isMagic>
+        <targetType>SELF</targetType>
+        <affectScope>SINGLE</affectScope>
+        <effects>
+            <effect name="RestorationRandom">
+                <items>
+                    <item chance="100">
+                        <item id="48472" count="400" /> <!-- einhasad coins -->
                     </item>
                 </items>
             </effect>

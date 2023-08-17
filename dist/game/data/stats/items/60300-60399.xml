@@ -925,7 +925,6 @@
 		<set name="is_dropable" val="true" />
 		<set name="is_stackable" val="true" />
 		<set name="handler" val="ItemSkills" />
-
 		<skills>
 			<skill id="60001" level="1" /> <!-- Einhasad's Golden Coin -->
 		</skills>
@@ -936,7 +935,14 @@
 		<set name="default_action" val="PEEL" />
 		<set name="immediate_effect" val="true" />
 		<set name="material" val="FISH" />
-		<set name="is_sellable" val="false" />
+		<set name="is_sellable" val="true" />
+		<set name="is_tradable" val="true" />
+		<set name="is_dropable" val="true" />
+		<set name="is_stackable" val="true" />
+		<set name="handler" val="ItemSkills" />
+		<skills>
+			<skill id="60002" level="1" /> <!-- Einhasad's Golden Coin 400 -->
+		</skills>
 	</item>
 	<item id="60393" name="Season Pass Pack of Forgotten Spellbook" type="EtcItem">
 		<!-- Double-click to obtain a useful item. -->
