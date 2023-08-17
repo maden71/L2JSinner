@@ -1,301 +1,299 @@
-2023.08.17 02:04:23,178	INFO	1	org.l2jmobius.commons.util.IXmlReader	Network Config: ipconfig.xml exists using manual configuration...
-2023.08.17 02:04:23,293	INFO	1	org.l2jmobius.Config	Loaded 6 Filter Words.
-2023.08.17 02:04:23,309	INFO	1	org.l2jmobius.gameserver.GameServer	------------------------------------------------=[ Database ]
-2023.08.17 02:04:23,627	INFO	1	org.l2jmobius.commons.database.DatabaseFactory	Database: Initialized.
-2023.08.17 02:04:23,627	INFO	1	org.l2jmobius.gameserver.GameServer	----------------------------------------------=[ ThreadPool ]
-2023.08.17 02:04:23,629	INFO	1	org.l2jmobius.commons.threads.ThreadPool	ThreadPool: Initialized
-2023.08.17 02:04:23,635	INFO	1	org.l2jmobius.commons.threads.ThreadPool	...scheduled pool executor with 48 total threads.
-2023.08.17 02:04:23,635	INFO	1	org.l2jmobius.commons.threads.ThreadPool	...instant pool executor with 24 total threads.
-2023.08.17 02:04:23,637	INFO	1	org.l2jmobius.gameserver.GameServer	-----------------------------------------------=[ IdManager ]
-2023.08.17 02:04:23,639	INFO	1	org.l2jmobius.gameserver.instancemanager.IdManager	Updated characters online status.
-2023.08.17 02:04:23,660	INFO	1	org.l2jmobius.gameserver.instancemanager.IdManager	IdManager: Cleaned 0 elements from database in 0 seconds.
-2023.08.17 02:04:23,664	INFO	1	org.l2jmobius.gameserver.instancemanager.IdManager	IdManager: Cleaned 0 expired timestamps from database.
-2023.08.17 02:04:23,667	INFO	1	org.l2jmobius.gameserver.instancemanager.IdManager	IdManager: 102912 id's available.
-2023.08.17 02:04:23,667	INFO	1	org.l2jmobius.gameserver.GameServer	----------------------------------------=[ Scripting Engine ]
-2023.08.17 02:04:23,753	INFO	1	org.l2jmobius.gameserver.scripting.ScriptEngineManager	Loaded 827 files to exclude.
-2023.08.17 02:04:23,753	INFO	1	org.l2jmobius.gameserver.GameServer	---------------------------------------------------=[ World ]
-2023.08.17 02:04:23,788	INFO	1	org.l2jmobius.gameserver.model.World	World: (288 by 272) World Region Grid set up.
-2023.08.17 02:04:23,925	INFO	1	org.l2jmobius.gameserver.instancemanager.MapRegionManager	MapRegionManager: Loaded 61 map regions.
-2023.08.17 02:04:23,929	INFO	1	org.l2jmobius.gameserver.instancemanager.ZoneManager	ZoneManager 19 by 18 Zone Region Grid set up.
-2023.08.17 02:04:24,319	INFO	1	org.l2jmobius.gameserver.instancemanager.ZoneManager	ZoneManager: Loaded 34 zone classes and 2966 zones.
-2023.08.17 02:04:24,323	INFO	1	org.l2jmobius.gameserver.instancemanager.ZoneManager	ZoneManager: Last static id 210110.
-2023.08.17 02:04:24,586	INFO	1	org.l2jmobius.gameserver.data.xml.DoorData	DoorData: Loaded 1474 doors.
-2023.08.17 02:04:24,593	INFO	1	FenceData	FenceData: Loaded 1 fences.
-2023.08.17 02:04:24,600	INFO	1	org.l2jmobius.gameserver.instancemanager.GlobalVariablesManager	GlobalVariablesManager: Loaded 16 variables.
-2023.08.17 02:04:24,601	INFO	1	org.l2jmobius.gameserver.GameServer	----------------------------------------------------=[ Data ]
-2023.08.17 02:04:24,606	INFO	1	org.l2jmobius.gameserver.data.xml.ActionData	ActionData: Loaded 217 player actions.
-2023.08.17 02:04:24,629	INFO	1	org.l2jmobius.gameserver.data.xml.CategoryData	CategoryData: Loaded 216 categories.
-2023.08.17 02:04:24,633	INFO	1	org.l2jmobius.gameserver.data.xml.SecondaryAuthData	SecondaryAuthData: Loaded 328 forbidden passwords.
-2023.08.17 02:04:26,068	INFO	1	org.l2jmobius.gameserver.data.ItemTable	ItemTable: Highest item id used: 96959
-2023.08.17 02:04:26,077	INFO	1	org.l2jmobius.gameserver.data.ItemTable	ItemTable: Loaded 24456 Etc Items
-2023.08.17 02:04:26,078	INFO	1	org.l2jmobius.gameserver.data.ItemTable	ItemTable: Loaded 12781 Armor Items
-2023.08.17 02:04:26,078	INFO	1	org.l2jmobius.gameserver.data.ItemTable	ItemTable: Loaded 9113 Weapon Items
-2023.08.17 02:04:26,078	INFO	1	org.l2jmobius.gameserver.data.ItemTable	ItemTable: Loaded 46350 Items in total.
-2023.08.17 02:04:26,094	INFO	1	org.l2jmobius.gameserver.data.xml.CombinationItemsData	CombinationItemsData: Loaded 4434 combinations.
-2023.08.17 02:04:26,102	INFO	1	org.l2jmobius.gameserver.data.xml.SayuneData	SayuneData: Loaded 71 maps.
-2023.08.17 02:04:26,499	INFO	1	handlers.DailyMissionMasterHandler	DailyMissionMasterHandler: Loaded 21 handlers.
-2023.08.17 02:04:26,519	INFO	1	org.l2jmobius.gameserver.data.xml.DailyMissionData	DailyMissionData: Loaded 130 one day rewards.
-2023.08.17 02:04:26,519	INFO	1	org.l2jmobius.gameserver.GameServer	--------------------------------------------------=[ Skills ]
-2023.08.17 02:04:27,401	INFO	1	handlers.EffectMasterHandler	EffectMasterHandler: Loaded 391 effect handlers.
-2023.08.17 02:04:27,409	INFO	1	org.l2jmobius.gameserver.data.xml.EnchantSkillGroupsData	EnchantSkillGroupsData: Loaded 20 enchant routes, max enchant set to 20.
-2023.08.17 02:04:30,245	INFO	1	org.l2jmobius.gameserver.data.xml.SkillData	SkillData: Loaded 194735 Skills.
-2023.08.17 02:04:30,744	INFO	1	org.l2jmobius.gameserver.data.xml.SkillTreeData	SkillTreeData: Loaded 20512 Class skills for 150 class skill trees.
-2023.08.17 02:04:30,744	INFO	1	org.l2jmobius.gameserver.data.xml.SkillTreeData	SkillTreeData: Loaded 1 sub-class skills.
-2023.08.17 02:04:30,744	INFO	1	org.l2jmobius.gameserver.data.xml.SkillTreeData	SkillTreeData: Loaded 33 dual-class skills.
-2023.08.17 02:04:30,744	INFO	1	org.l2jmobius.gameserver.data.xml.SkillTreeData	SkillTreeData: Loaded 104 transfer skills for 3 transfer skill trees.
-2023.08.17 02:04:30,744	INFO	1	org.l2jmobius.gameserver.data.xml.SkillTreeData	SkillTreeData: Loaded 18 race skills for 7 race skill trees.
-2023.08.17 02:04:30,745	INFO	1	org.l2jmobius.gameserver.data.xml.SkillTreeData	SkillTreeData: Loaded 35 fishing skills, 8 Dwarven only fishing skills.
-2023.08.17 02:04:30,745	INFO	1	org.l2jmobius.gameserver.data.xml.SkillTreeData	SkillTreeData: Loaded 3 collect skills.
-2023.08.17 02:04:30,747	INFO	1	org.l2jmobius.gameserver.data.xml.SkillTreeData	SkillTreeData: Loaded 11 clan skills, 0 for clan and 11 residential.
-2023.08.17 02:04:30,747	INFO	1	org.l2jmobius.gameserver.data.xml.SkillTreeData	SkillTreeData: Loaded 0 sub-pledge skills.
-2023.08.17 02:04:30,748	INFO	1	org.l2jmobius.gameserver.data.xml.SkillTreeData	SkillTreeData: Loaded 32 transform skills.
-2023.08.17 02:04:30,748	INFO	1	org.l2jmobius.gameserver.data.xml.SkillTreeData	SkillTreeData: Loaded 24 noble skills.
-2023.08.17 02:04:30,748	INFO	1	org.l2jmobius.gameserver.data.xml.SkillTreeData	SkillTreeData: Loaded 4 hero skills.
-2023.08.17 02:04:30,748	INFO	1	org.l2jmobius.gameserver.data.xml.SkillTreeData	SkillTreeData: Loaded 61 game master skills.
-2023.08.17 02:04:30,748	INFO	1	org.l2jmobius.gameserver.data.xml.SkillTreeData	SkillTreeData: Loaded 61 game master aura skills.
-2023.08.17 02:04:30,748	INFO	1	org.l2jmobius.gameserver.data.xml.SkillTreeData	SkillTreeData: Loaded 123 ability skills.
-2023.08.17 02:04:30,748	INFO	1	org.l2jmobius.gameserver.data.xml.SkillTreeData	SkillTreeData: Loaded 113 alchemy skills.
-2023.08.17 02:04:30,748	INFO	1	org.l2jmobius.gameserver.data.xml.SkillTreeData	SkillTreeData: Loaded 37 class awaken save skills.
-2023.08.17 02:04:30,748	INFO	1	org.l2jmobius.gameserver.data.xml.SkillTreeData	SkillTreeData: Loaded 20 Revelation skills.
-2023.08.17 02:04:30,749	INFO	1	org.l2jmobius.gameserver.data.xml.SkillTreeData	SkillTreeData: Loaded 35 common skills.
-2023.08.17 02:04:30,760	INFO	1	org.l2jmobius.gameserver.data.xml.PetSkillData	PetSkillData: Loaded 1084 skills.
-2023.08.17 02:04:30,760	INFO	1	org.l2jmobius.gameserver.GameServer	---------------------------------------------------=[ Items ]
-2023.08.17 02:04:30,821	INFO	1	org.l2jmobius.gameserver.data.xml.EnchantItemGroupsData	EnchantItemGroupsData: Loaded 33 item group templates.
-2023.08.17 02:04:30,821	INFO	1	org.l2jmobius.gameserver.data.xml.EnchantItemGroupsData	EnchantItemGroupsData: Loaded 5 scroll group templates.
-2023.08.17 02:04:30,821	INFO	1	org.l2jmobius.gameserver.data.xml.EnchantItemGroupsData	EnchantItemGroupsData: Max weapon enchant is set to 30.
-2023.08.17 02:04:30,822	INFO	1	org.l2jmobius.gameserver.data.xml.EnchantItemGroupsData	EnchantItemGroupsData: Max armor enchant is set to 30.
-2023.08.17 02:04:30,822	INFO	1	org.l2jmobius.gameserver.data.xml.EnchantItemGroupsData	EnchantItemGroupsData: Max accessory enchant is set to 30.
-2023.08.17 02:04:30,834	INFO	1	org.l2jmobius.gameserver.data.xml.EnchantItemData	EnchantItemData: Loaded 288 enchant scrolls.
-2023.08.17 02:04:30,835	INFO	1	org.l2jmobius.gameserver.data.xml.EnchantItemData	EnchantItemData: Loaded 104 support items.
-2023.08.17 02:04:31,620	INFO	1	org.l2jmobius.gameserver.data.xml.OptionData	OptionData: Loaded 38459 options.
-2023.08.17 02:04:31,635	INFO	1	org.l2jmobius.gameserver.data.xml.EnchantItemOptionsData	EnchantItemOptionsData: Loaded 357 items and 4714 options.
-2023.08.17 02:04:31,640	INFO	1	org.l2jmobius.commons.util.IXmlReader	ElementalAttributeData: Loaded 139 elemental attribute items.
-2023.08.17 02:04:31,652	INFO	1	org.l2jmobius.gameserver.data.xml.ItemCrystallizationData	ItemCrystallizationData: Loaded 13 crystallization templates.
-2023.08.17 02:04:31,652	INFO	1	org.l2jmobius.gameserver.data.xml.ItemCrystallizationData	ItemCrystallizationData: Loaded 338 pre-defined crystallizable items.
-2023.08.17 02:04:31,663	INFO	1	org.l2jmobius.gameserver.data.xml.ItemCrystallizationData	ItemCrystallizationData: Generated 5989 crystallizable items from templates.
-2023.08.17 02:04:31,693	INFO	1	VariationData	VariationData: Loaded 38 variations.
-2023.08.17 02:04:31,693	INFO	1	VariationData	VariationData: Loaded 2492 fees.
-2023.08.17 02:04:31,713	INFO	1	org.l2jmobius.gameserver.data.xml.EnsoulData	EnsoulData: Loaded 128 fees.
-2023.08.17 02:04:31,713	INFO	1	org.l2jmobius.gameserver.data.xml.EnsoulData	EnsoulData: Loaded 1169 options.
-2023.08.17 02:04:31,713	INFO	1	org.l2jmobius.gameserver.data.xml.EnsoulData	EnsoulData: Loaded 125 stones.
-2023.08.17 02:04:31,717	INFO	1	org.l2jmobius.gameserver.data.xml.EnchantItemHPBonusData	EnchantItemHPBonusData: Loaded 12 enchant HP bonuses.
-2023.08.17 02:04:32,532	INFO	1	org.l2jmobius.gameserver.data.xml.BuyListData	BuyListData: Loaded 921 buyLists.
-2023.08.17 02:04:33,269	INFO	1	org.l2jmobius.gameserver.data.xml.MultisellData	MultisellData: Loaded 602 multisell lists.
-2023.08.17 02:04:33,303	INFO	1	org.l2jmobius.gameserver.data.xml.EquipmentUpgradeData	EquipmentUpgradeData: Loaded 6951 upgrade equipment data.
-2023.08.17 02:04:33,323	INFO	1	org.l2jmobius.gameserver.data.xml.AgathionData	AgathionData: Loaded 435 agathion data.
-2023.08.17 02:04:33,374	INFO	1	org.l2jmobius.gameserver.data.xml.RecipeData	RecipeData: Loaded 1780 recipes.
-2023.08.17 02:04:33,402	INFO	1	org.l2jmobius.gameserver.data.xml.ArmorSetData	ArmorSetData: Loaded 370 armor sets.
-2023.08.17 02:04:33,407	INFO	1	org.l2jmobius.gameserver.data.xml.FishingData	FishingData: Loaded 9 bait and 14 rod data.
-2023.08.17 02:04:33,441	INFO	1	org.l2jmobius.gameserver.data.xml.HennaData	HennaData: Loaded 549 henna data.
-2023.08.17 02:04:33,448	INFO	1	org.l2jmobius.gameserver.data.xml.PrimeShopData	PrimeShopData: Loaded 99 items.
-2023.08.17 02:04:33,452	INFO	1	org.l2jmobius.gameserver.data.xml.LimitShopData	LimitShopData: Loaded 64 items.
-2023.08.17 02:04:33,460	INFO	1	org.l2jmobius.gameserver.data.xml.LimitShopData	LimitShopCraftData: Loaded 132 items.
-2023.08.17 02:04:33,468	INFO	1	org.l2jmobius.gameserver.data.xml.CollectionData	CollectionData: Loaded 217 collections.
-2023.08.17 02:04:33,488	INFO	1	org.l2jmobius.gameserver.data.xml.AppearanceItemData	AppearanceItemData: Loaded 1282 stones.
-2023.08.17 02:04:33,494	INFO	1	org.l2jmobius.gameserver.data.xml.AlchemyData	AlchemyData: Loaded 114 alchemy craft skills.
-2023.08.17 02:04:33,506	INFO	1	org.l2jmobius.gameserver.instancemanager.PrivateStoreHistoryManager	PrivateStoreHistoryManager: Loaded 0 items history.
-2023.08.17 02:04:33,512	INFO	1	org.l2jmobius.commons.util.IXmlReader	LuckyGameData: Loaded 2 lucky game data.
-2023.08.17 02:04:33,514	INFO	1	org.l2jmobius.gameserver.data.xml.AttendanceRewardData	AttendanceRewardData: Disabled.
-2023.08.17 02:04:33,514	INFO	1	org.l2jmobius.gameserver.GameServer	----------------------------------------------=[ Characters ]
-2023.08.17 02:04:33,517	INFO	1	org.l2jmobius.gameserver.data.xml.ClassListData	ClassListData: Loaded 158 class data.
-2023.08.17 02:04:33,521	INFO	1	org.l2jmobius.gameserver.data.xml.InitialEquipmentData	InitialEquipmentData: Loaded 14 initial equipment data.
-2023.08.17 02:04:33,526	INFO	1	org.l2jmobius.gameserver.data.xml.InitialShortcutData	InitialShortcutData: Loaded 5 initial global shortcuts data.
-2023.08.17 02:04:33,526	INFO	1	org.l2jmobius.gameserver.data.xml.InitialShortcutData	InitialShortcutData: Loaded 5 initial shortcuts data.
-2023.08.17 02:04:33,526	INFO	1	org.l2jmobius.gameserver.data.xml.InitialShortcutData	InitialShortcutData: Loaded 0 macro presets.
-2023.08.17 02:04:33,530	INFO	1	org.l2jmobius.gameserver.data.xml.ExperienceData	ExperienceData: Loaded 131 levels.
-2023.08.17 02:04:33,530	INFO	1	org.l2jmobius.gameserver.data.xml.ExperienceData	ExperienceData: Max Player Level is 130.
-2023.08.17 02:04:33,530	INFO	1	org.l2jmobius.gameserver.data.xml.ExperienceData	ExperienceData: Max Pet Level is 130.
-2023.08.17 02:04:33,534	INFO	1	org.l2jmobius.gameserver.data.xml.KarmaData	KarmaData: Loaded 130 karma modifiers.
-2023.08.17 02:04:33,537	INFO	1	org.l2jmobius.gameserver.data.xml.HitConditionBonusData	HitConditionBonusData: Loaded hit condition bonuses.
-2023.08.17 02:04:33,872	INFO	1	org.l2jmobius.gameserver.data.xml.PlayerTemplateData	PlayerTemplateData: Loaded 150 character templates.
-2023.08.17 02:04:33,872	INFO	1	org.l2jmobius.gameserver.data.xml.PlayerTemplateData	PlayerTemplateData: Loaded 108000 level up gain records.
-2023.08.17 02:04:33,872	INFO	1	org.l2jmobius.gameserver.data.xml.PlayerTemplateData	PlayerTemplateData: Generated 1500 level up gain records.
-2023.08.17 02:04:33,875	INFO	1	org.l2jmobius.gameserver.data.sql.CharNameTable	CharNameTable: Loaded 10 char names.
-2023.08.17 02:04:33,879	INFO	1	org.l2jmobius.gameserver.data.xml.AdminData	AdminData: Loaded 10 access levels.
-2023.08.17 02:04:33,884	INFO	1	org.l2jmobius.gameserver.data.xml.AdminData	AdminData: Loaded 468 access commands.
-2023.08.17 02:04:34,189	INFO	1	org.l2jmobius.gameserver.data.xml.PetDataTable	PetDataTable: Loaded 56 pets.
-2023.08.17 02:04:34,224	INFO	1	org.l2jmobius.gameserver.data.xml.CubicData	CubicData: Loaded 25 cubics.
-2023.08.17 02:04:34,233	INFO	1	org.l2jmobius.gameserver.GameServer	---------------------------------------------------=[ Clans ]
-2023.08.17 02:04:34,241	INFO	1	org.l2jmobius.gameserver.communitybbs.Manager.ForumsBBSManager	ForumsBBSManager: Loaded 4 forums. Last forum id used: 4
-2023.08.17 02:04:34,256	INFO	1	org.l2jmobius.gameserver.data.sql.ClanTable	ClanTable: Restored 1 clans from the database.
-2023.08.17 02:04:34,261	INFO	1	org.l2jmobius.gameserver.data.xml.ResidenceFunctionsData	ResidenceFunctionsData: Loaded 8 functions.
-2023.08.17 02:04:34,387	INFO	1	org.l2jmobius.gameserver.data.xml.ClanHallData	ClanHallData: Succesfully loaded 57 clan halls.
-2023.08.17 02:04:34,389	INFO	1	org.l2jmobius.gameserver.instancemanager.ClanHallAuctionManager	ClanHallAuctionManager: Clan Hall Auction has started!
-2023.08.17 02:04:34,403	INFO	1	org.l2jmobius.gameserver.instancemanager.ClanEntryManager	ClanEntryManager: Loaded 0 clan entries.
-2023.08.17 02:04:34,403	INFO	1	org.l2jmobius.gameserver.instancemanager.ClanEntryManager	ClanEntryManager: Loaded 0 players in waiting list.
-2023.08.17 02:04:34,405	INFO	1	org.l2jmobius.gameserver.instancemanager.ClanEntryManager	ClanEntryManager: Loaded 0 player applications.
-2023.08.17 02:04:34,409	INFO	1	org.l2jmobius.gameserver.data.xml.ClanMasteryData	ClanMasteryData: Loaded 16 clan masteries.
-2023.08.17 02:04:34,417	INFO	1	org.l2jmobius.gameserver.data.xml.ClanShopData	ClanShopData: Loaded 13 clan shop products.
-2023.08.17 02:04:34,417	INFO	1	org.l2jmobius.gameserver.GameServer	-------------------------------------------------=[ Geodata ]
-2023.08.17 02:04:34,439	INFO	1	org.l2jmobius.gameserver.geoengine.GeoEngine	GeoEngine: Loaded 0 regions.
-2023.08.17 02:04:34,439	INFO	1	org.l2jmobius.gameserver.GameServer	----------------------------------------------------=[ NPCs ]
-2023.08.17 02:04:36,020	INFO	1	org.l2jmobius.gameserver.data.xml.NpcData	NpcData: Loaded 14789 NPCs.
-2023.08.17 02:04:36,033	INFO	1	org.l2jmobius.gameserver.data.xml.NpcData	NpcData: Loaded 22 custom NPCs.
-2023.08.17 02:04:36,035	INFO	1	org.l2jmobius.gameserver.data.xml.FakePlayerData	FakePlayerData: Disabled.
-2023.08.17 02:04:36,036	INFO	1	org.l2jmobius.gameserver.instancemanager.FakePlayerChatManager	FakePlayerChatManager: Disabled.
-2023.08.17 02:04:36,762	INFO	1	org.l2jmobius.gameserver.data.xml.SpawnData	SpawnData: Loaded 55916 spawns
-2023.08.17 02:04:36,777	INFO	1	org.l2jmobius.gameserver.instancemanager.WalkingManager	WalkingManager: Loaded 197 walking routes.
-2023.08.17 02:04:36,788	INFO	1	org.l2jmobius.gameserver.data.xml.StaticObjectData	StaticObjectData: Loaded 86 static object templates.
-2023.08.17 02:04:36,804	INFO	1	org.l2jmobius.gameserver.model.itemauction.ItemAuctionInstance	ItemAuctionInstance: Loaded 21 item(s) and registered 3 auction(s) for instance 34328
-2023.08.17 02:04:36,809	INFO	1	org.l2jmobius.gameserver.model.itemauction.ItemAuctionInstance	ItemAuctionInstance: Schedule next auction 4 on 17:00:00 19.08.23 for instance 34328
-2023.08.17 02:04:36,810	INFO	1	org.l2jmobius.gameserver.instancemanager.ItemAuctionManager	ItemAuctionManager: Loaded 1 instances.
-2023.08.17 02:04:36,835	INFO	1	org.l2jmobius.gameserver.instancemanager.CastleManager	CastleManager: Loaded 9 castles.
-2023.08.17 02:04:36,840	INFO	1	org.l2jmobius.gameserver.instancemanager.GrandBossManager	GrandBossManager: Fafurion(19740) status is 0
-2023.08.17 02:04:36,840	INFO	1	org.l2jmobius.gameserver.instancemanager.GrandBossManager	GrandBossManager: Kelbim(26124) status is 0
-2023.08.17 02:04:36,840	INFO	1	org.l2jmobius.gameserver.instancemanager.GrandBossManager	GrandBossManager: Core(29006) status is 0
-2023.08.17 02:04:36,840	INFO	1	org.l2jmobius.gameserver.instancemanager.GrandBossManager	GrandBossManager: Baium(29020) status is 0
-2023.08.17 02:04:36,840	INFO	1	org.l2jmobius.gameserver.instancemanager.GrandBossManager	GrandBossManager: Valakas(29028) status is 0
-2023.08.17 02:04:36,840	INFO	1	org.l2jmobius.gameserver.instancemanager.GrandBossManager	GrandBossManager: Antharas(29068) status is 0
-2023.08.17 02:04:36,841	INFO	1	org.l2jmobius.gameserver.instancemanager.GrandBossManager	GrandBossManager: Beleth(29118) status is 0
-2023.08.17 02:04:36,841	INFO	1	org.l2jmobius.gameserver.instancemanager.GrandBossManager	GrandBossManager: Earth Wyrm Trasken(29197) status is 0
-2023.08.17 02:04:36,841	INFO	1	org.l2jmobius.gameserver.instancemanager.GrandBossManager	GrandBossManager: Lindvior(29240) status is 0
-2023.08.17 02:04:36,841	INFO	1	org.l2jmobius.gameserver.instancemanager.GrandBossManager	GrandBossManager: Helios(29305) status is 0
-2023.08.17 02:04:36,841	INFO	1	org.l2jmobius.gameserver.instancemanager.GrandBossManager	GrandBossManager: Orfen(29325) status is 0
-2023.08.17 02:04:36,841	INFO	1	org.l2jmobius.gameserver.instancemanager.GrandBossManager	GrandBossManager: Lilith(29336) status is 0
-2023.08.17 02:04:36,841	INFO	1	org.l2jmobius.gameserver.instancemanager.GrandBossManager	GrandBossManager: Anakim(29348) status is 0
-2023.08.17 02:04:36,841	INFO	1	org.l2jmobius.gameserver.instancemanager.GrandBossManager	GrandBossManager: Queen Ant(29381) status is 0
-2023.08.17 02:04:36,841	INFO	1	org.l2jmobius.gameserver.instancemanager.GrandBossManager	GrandBossManager: Loaded 14 instances.
-2023.08.17 02:04:36,847	INFO	1	org.l2jmobius.commons.util.IXmlReader	HomunculusData: Loaded 30 templates.
-2023.08.17 02:04:36,851	INFO	1	org.l2jmobius.commons.util.IXmlReader	HomunculusSlotData: Loaded 9 templates.
-2023.08.17 02:04:36,855	INFO	1	org.l2jmobius.commons.util.IXmlReader	HomunculusCreationData: Loaded 2 templates.
-2023.08.17 02:04:36,855	INFO	1	org.l2jmobius.gameserver.GameServer	------------------------------------------------=[ Instance ]
-2023.08.17 02:04:36,860	INFO	1	org.l2jmobius.gameserver.instancemanager.InstanceManager	InstanceManager: Loaded 334 instance names.
-2023.08.17 02:04:37,161	INFO	1	org.l2jmobius.gameserver.instancemanager.InstanceManager	InstanceManager: Loaded 159 instance templates.
-2023.08.17 02:04:37,161	INFO	1	org.l2jmobius.gameserver.instancemanager.InstanceManager	InstanceManager: Loaded instance reenter times for 0 players.
-2023.08.17 02:04:37,162	INFO	1	org.l2jmobius.gameserver.GameServer	------------------------------------------------=[ Olympiad ]
-2023.08.17 02:04:37,168	INFO	1	org.l2jmobius.gameserver.model.olympiad.Olympiad	Olympiad System: Loading....
-2023.08.17 02:04:37,168	INFO	1	org.l2jmobius.gameserver.model.olympiad.Olympiad	Olympiad System: Currently in Olympiad Period
-2023.08.17 02:04:37,168	INFO	1	org.l2jmobius.gameserver.model.olympiad.Olympiad	Olympiad System: 8 days, 9 hours and 55 mins until period ends.
-2023.08.17 02:04:37,168	INFO	1	org.l2jmobius.gameserver.model.olympiad.Olympiad	Olympiad System: Next weekly change is in 6 days, 21 hours and 21 mins.
-2023.08.17 02:04:37,169	INFO	1	org.l2jmobius.gameserver.model.olympiad.Olympiad	Olympiad System: Loaded 0 Nobles
-2023.08.17 02:04:37,172	INFO	1	org.l2jmobius.gameserver.model.olympiad.Olympiad	Olympiad System: Competition Period Starts in 1 days, 17 hours and 56 mins.
-2023.08.17 02:04:37,172	INFO	1	org.l2jmobius.gameserver.model.olympiad.Olympiad	Olympiad System: Event starts/started: Fri Aug 18 20:00:37 EEST 2023
-2023.08.17 02:04:37,177	INFO	1	org.l2jmobius.gameserver.model.olympiad.Hero	Hero System: Loaded 0 Heroes.
-2023.08.17 02:04:37,177	INFO	1	org.l2jmobius.gameserver.model.olympiad.Hero	Hero System: Loaded 0 all time Heroes.
-2023.08.17 02:04:37,177	INFO	1	org.l2jmobius.gameserver.GameServer	---------------------------------------------------=[ Cache ]
-2023.08.17 02:04:37,178	INFO	1	org.l2jmobius.gameserver.cache.HtmCache	Html cache start...
-2023.08.17 02:04:38,336	INFO	1	org.l2jmobius.gameserver.cache.HtmCache	Cache[HTML]: 4.246 megabytes on 6397 files loaded.
-2023.08.17 02:04:38,338	INFO	1	org.l2jmobius.gameserver.data.sql.CrestTable	CrestTable: Loaded 0 Crests.
-2023.08.17 02:04:38,341	INFO	1	org.l2jmobius.gameserver.data.xml.TeleportListData	TeleportListData: Loaded 104 teleports.
-2023.08.17 02:04:38,709	INFO	1	org.l2jmobius.gameserver.data.xml.TeleporterData	TeleporterData: Loaded 168 npc teleporters.
-2023.08.17 02:04:38,713	INFO	1	org.l2jmobius.gameserver.data.xml.TimedHuntingZoneData	TimedHuntingZoneData: Loaded 10 timed hunting zones.
-2023.08.17 02:04:38,719	INFO	1	org.l2jmobius.gameserver.instancemanager.CursedWeaponsManager	CursedWeaponsManager: Loaded 2 cursed weapons.
-2023.08.17 02:04:39,055	INFO	1	org.l2jmobius.gameserver.data.xml.TransformData	TransformData: Loaded 180 transform templates.
-2023.08.17 02:04:39,064	INFO	1	org.l2jmobius.gameserver.data.BotReportTable	BotReportTable: Loaded 0 bot reports
-2023.08.17 02:04:39,074	INFO	1	org.l2jmobius.gameserver.instancemanager.SellBuffsManager	SellBuffsManager: Loaded 145 allowed buffs.
-2023.08.17 02:04:39,074	INFO	1	org.l2jmobius.gameserver.GameServer	-------------------------------------------------=[ Scripts ]
-2023.08.17 02:04:39,081	INFO	1	org.l2jmobius.gameserver.instancemanager.AirShipManager	AirShipManager: Loaded 0 private airships
-2023.08.17 02:04:39,091	INFO	1	org.l2jmobius.gameserver.data.xml.ShuttleData	ShuttleData: Loaded 3 shuttles.
-2023.08.17 02:04:39,092	INFO	1	org.l2jmobius.gameserver.GameServer	GameServer: Loading server scripts:
-2023.08.17 02:04:39,459	INFO	1	handlers.MasterHandler	Loading Handlers...
-2023.08.17 02:04:39,551	INFO	1	handlers.MasterHandler	ActionHandler: Loaded 10 handlers.
-2023.08.17 02:04:39,551	INFO	1	handlers.MasterHandler	ActionShiftHandler: Loaded 6 handlers.
-2023.08.17 02:04:39,551	INFO	1	handlers.MasterHandler	AdminCommandHandler: Loaded 461 handlers.
-2023.08.17 02:04:39,551	INFO	1	handlers.MasterHandler	BypassHandler: Loaded 30 handlers.
-2023.08.17 02:04:39,551	INFO	1	handlers.MasterHandler	ChatHandler: Loaded 14 handlers.
-2023.08.17 02:04:39,551	INFO	1	handlers.MasterHandler	CommunityBoardHandler: Loaded 24 handlers.
-2023.08.17 02:04:39,551	INFO	1	handlers.MasterHandler	ItemHandler: Loaded 34 handlers.
-2023.08.17 02:04:39,551	INFO	1	handlers.MasterHandler	PunishmentHandler: Loaded 3 handlers.
-2023.08.17 02:04:39,551	INFO	1	handlers.MasterHandler	UserCommandHandler: Loaded 16 handlers.
-2023.08.17 02:04:39,551	INFO	1	handlers.MasterHandler	VoicedCommandHandler: Loaded 12 handlers.
-2023.08.17 02:04:39,551	INFO	1	handlers.MasterHandler	TargetHandler: Loaded 21 handlers.
-2023.08.17 02:04:39,551	INFO	1	handlers.MasterHandler	AffectObjectHandler: Loaded 11 handlers.
-2023.08.17 02:04:39,551	INFO	1	handlers.MasterHandler	AffectScopeHandler: Loaded 19 handlers.
-2023.08.17 02:04:39,551	INFO	1	handlers.MasterHandler	PlayerActionHandler: Loaded 25 handlers.
-2023.08.17 02:04:39,551	INFO	1	handlers.MasterHandler	Handlers Loaded...
-2023.08.17 02:04:45,634	INFO	1	ai.areas.FantasyIsle.HandysBlockCheckerEvent	Handy's Block Checker Event is disabled
-2023.08.17 02:04:45,639	INFO	1	ai.areas.FantasyIsle.Parade	Fantasy Isle: Parade starting at 2023/08/17 05:20 and is scheduled each next 1 hours.
-2023.08.17 02:04:45,643	INFO	1	ai.areas.FantasyIsle.TalentShow	Fantasy Isle: MC show script starting at 17/08/2023 10:06:45 and is scheduled each next 4 hours.
-2023.08.17 02:04:45,840	INFO	1	org.l2jmobius.gameserver.instancemanager.GrandBossManager	GrandBossManager: Updated Anakim(29348) status to 0.
-2023.08.17 02:04:45,882	INFO	1	org.l2jmobius.gameserver.instancemanager.GrandBossManager	GrandBossManager: Updated Etis van Etina(29318) status to 0.
-2023.08.17 02:04:45,899	INFO	1	org.l2jmobius.gameserver.instancemanager.GrandBossManager	GrandBossManager: Updated Fafurion(19740) status to 0.
-2023.08.17 02:04:45,913	INFO	1	org.l2jmobius.gameserver.instancemanager.GrandBossManager	GrandBossManager: Updated Helios(29305) status to 0.
-2023.08.17 02:04:45,930	INFO	1	org.l2jmobius.gameserver.instancemanager.GrandBossManager	GrandBossManager: Updated Lilith(29336) status to 0.
-2023.08.17 02:04:45,942	INFO	1	org.l2jmobius.gameserver.instancemanager.GrandBossManager	GrandBossManager: Updated Lindvior(29240) status to 0.
-2023.08.17 02:04:45,976	INFO	1	ai.bosses.Tiat.Stage1	[Seed of Destruction] Loaded 51 spawn zones data.
-2023.08.17 02:04:46,028	INFO	1	ai.others.ClassMaster.ClassMaster	ClassMaster: Loaded 0 class change options.
-2023.08.17 02:04:46,134	INFO	1	ai.others.MentorGuide.MentorGuide	MentorGuide: Loaded 4 mentee coins
-2023.08.17 02:04:46,145	INFO	1	ai.others.NpcBuffers.NpcBuffersData	NpcBuffersData: Loaded 6 buffers data.
-2023.08.17 02:04:46,215	INFO	1	org.l2jmobius.gameserver.model.quest.Quest	Event Balthus Event has passed... Ignored 
-2023.08.17 02:04:46,219	INFO	1	org.l2jmobius.gameserver.model.quest.Quest	Event Birth of Draco has passed... Ignored 
-2023.08.17 02:04:46,223	INFO	1	org.l2jmobius.gameserver.model.quest.Quest	Event Chuseok Harvest Festival has passed... Ignored 
-2023.08.17 02:04:46,228	INFO	1	org.l2jmobius.gameserver.model.quest.Quest	Event Dragon Slayer has passed... Ignored 
-2023.08.17 02:04:46,231	INFO	1	org.l2jmobius.gameserver.model.quest.Quest	Event Dream Maker has passed... Ignored 
-2023.08.17 02:04:46,241	INFO	1	org.l2jmobius.gameserver.model.quest.Quest	Event Eve the Fortune Teller active till Tue Dec 18 00:00:00 EET 2029
-2023.08.17 02:04:46,245	INFO	1	org.l2jmobius.gameserver.model.quest.Quest	Event Freya Celebration has passed... Ignored 
-2023.08.17 02:04:46,249	INFO	1	org.l2jmobius.gameserver.model.quest.Quest	Event Gift of Vitality has passed... Ignored 
-2023.08.17 02:04:46,252	INFO	1	org.l2jmobius.gameserver.model.quest.Quest	Event Halloween has passed... Ignored 
-2023.08.17 02:04:46,255	INFO	1	org.l2jmobius.gameserver.model.quest.Quest	Event Heavy Medal has passed... Ignored 
-2023.08.17 02:04:46,258	INFO	1	org.l2jmobius.gameserver.model.quest.Quest	Event Hungry Horse has passed... Ignored 
-2023.08.17 02:04:46,261	INFO	1	org.l2jmobius.gameserver.model.quest.Quest	Event Hunt for Santa has passed... Ignored 
-2023.08.17 02:04:46,264	INFO	1	org.l2jmobius.gameserver.model.quest.Quest	Event Legend's Mark has passed... Ignored 
-2023.08.17 02:04:46,268	INFO	1	org.l2jmobius.gameserver.model.quest.Quest	Event Letter Collector has passed... Ignored 
-2023.08.17 02:04:46,271	INFO	1	org.l2jmobius.gameserver.model.quest.Quest	Event Lovers Jubilee has passed... Ignored 
-2023.08.17 02:04:46,274	INFO	1	org.l2jmobius.gameserver.model.quest.Quest	Event Love Your Gatekeeper has passed... Ignored 
-2023.08.17 02:04:46,277	INFO	1	org.l2jmobius.gameserver.model.quest.Quest	Event Master of Enchanting has passed... Ignored 
-2023.08.17 02:04:46,282	INFO	1	org.l2jmobius.gameserver.model.quest.Quest	Event Red Libra has passed... Ignored 
-2023.08.17 02:04:46,286	INFO	1	org.l2jmobius.gameserver.model.quest.Quest	Event Rudolphs Blessing has passed... Ignored 
-2023.08.17 02:04:46,291	INFO	1	org.l2jmobius.gameserver.model.quest.Quest	Event Saving Santa has passed... Ignored 
-2023.08.17 02:04:46,296	INFO	1	org.l2jmobius.gameserver.model.quest.Quest	Event Smash It Completely has passed... Ignored 
-2023.08.17 02:04:46,303	INFO	1	org.l2jmobius.gameserver.model.quest.Quest	Event Snowman Energy has passed... Ignored 
-2023.08.17 02:04:46,306	INFO	1	org.l2jmobius.gameserver.model.quest.Quest	Event The Power Of Love has passed... Ignored 
-2023.08.17 02:04:46,308	INFO	1	org.l2jmobius.gameserver.model.quest.Quest	Event Training with Dandy has passed... Ignored 
-2023.08.17 02:04:46,459	INFO	1	org.l2jmobius.gameserver.data.xml.SpawnData	SpawnData: Initializing spawns...
-2023.08.17 02:04:46,759	INFO	1	org.l2jmobius.gameserver.instancemanager.DBSpawnManager	DBSpawnManager: Loaded 33 instances.
-2023.08.17 02:04:46,759	INFO	1	org.l2jmobius.gameserver.instancemanager.DBSpawnManager	DBSpawnManager: Scheduled 0 instances.
-2023.08.17 02:04:54,899	INFO	1	org.l2jmobius.gameserver.data.xml.SpawnData	SpawnData: All spawns has been initialized!
-2023.08.17 02:04:54,899	INFO	1	org.l2jmobius.gameserver.GameServer	---------------------------------------------------=[ Siege ]
-2023.08.17 02:04:54,907	INFO	1	org.l2jmobius.gameserver.data.xml.SiegeScheduleData	SiegeScheduleData: Loaded 9 siege schedulers.
-2023.08.17 02:04:54,907	INFO	1	org.l2jmobius.gameserver.model.siege.Siege	Siege of Gludio: Sun Aug 20 16:00:00 EEST 2023
-2023.08.17 02:04:54,908	INFO	1	org.l2jmobius.gameserver.model.siege.Siege	Siege of Dion: Sun Aug 20 20:00:00 EEST 2023
-2023.08.17 02:04:54,909	INFO	1	org.l2jmobius.gameserver.model.siege.Siege	Siege of Giran: Sun Aug 20 16:00:00 EEST 2023
-2023.08.17 02:04:54,909	INFO	1	org.l2jmobius.gameserver.model.siege.Siege	Siege of Oren: Sun Aug 20 20:00:00 EEST 2023
-2023.08.17 02:04:54,909	INFO	1	org.l2jmobius.gameserver.model.siege.Siege	Siege of Aden: Sun Aug 20 16:00:00 EEST 2023
-2023.08.17 02:04:54,909	INFO	1	org.l2jmobius.gameserver.model.siege.Siege	Siege of Innadril: Sun Aug 20 20:00:00 EEST 2023
-2023.08.17 02:04:54,909	INFO	1	org.l2jmobius.gameserver.model.siege.Siege	Siege of Goddard: Sun Aug 20 16:00:00 EEST 2023
-2023.08.17 02:04:54,909	INFO	1	org.l2jmobius.gameserver.model.siege.Siege	Siege of Rune: Sun Aug 20 20:00:00 EEST 2023
-2023.08.17 02:04:54,910	INFO	1	org.l2jmobius.gameserver.model.siege.Siege	Siege of Schuttgart: Sun Aug 20 16:00:00 EEST 2023
-2023.08.17 02:04:54,971	INFO	1	org.l2jmobius.gameserver.instancemanager.FortManager	FortManager: Loaded 20 fortress.
-2023.08.17 02:04:55,025	INFO	1	org.l2jmobius.gameserver.instancemanager.CastleManorManager	CastleManorManager: Loaded 258 seeds.
-2023.08.17 02:04:55,028	INFO	1	org.l2jmobius.gameserver.instancemanager.CastleManorManager	CastleManorManager: Manor data loaded.
-2023.08.17 02:04:55,040	INFO	1	org.l2jmobius.gameserver.instancemanager.SiegeGuardManager	SiegeGuardManager: Loaded 0 siege guards tickets.
-2023.08.17 02:04:55,040	INFO	1	org.l2jmobius.gameserver.instancemanager.QuestManager	QuestManager: Loaded 63 quests.
-2023.08.17 02:04:55,040	INFO	1	org.l2jmobius.gameserver.instancemanager.QuestManager	QuestManager: Loaded 432 scripts.
-2023.08.17 02:04:55,049	INFO	1	org.l2jmobius.gameserver.taskmanager.TaskManager	TaskManager: Loaded 5 Tasks.
-2023.08.17 02:04:55,051	INFO	1	org.l2jmobius.gameserver.instancemanager.DailyTaskManager	DailyTaskManager: Next schedule at 17/08 06:30.
-2023.08.17 02:04:55,054	INFO	1	org.l2jmobius.gameserver.instancemanager.MailManager	MailManager: Loaded 0 messages.
-2023.08.17 02:04:55,058	INFO	1	org.l2jmobius.gameserver.instancemanager.PunishmentManager	PunishmentManager: Loaded 0 active and 0 expired punishments.
-2023.08.17 02:04:55,059	INFO	1	org.l2jmobius.gameserver.GameServer	IdManager: Free ObjectID's remaining: 1878969991
-2023.08.17 02:04:55,061	INFO	1	org.l2jmobius.gameserver.data.sql.OfflineTraderTable	OfflineTraderTable: Loading offline traders...
-2023.08.17 02:04:55,062	INFO	1	org.l2jmobius.gameserver.data.sql.OfflineTraderTable	OfflineTraderTable: Loaded 0 offline traders.
-2023.08.17 02:04:55,475	INFO	1	org.l2jmobius.gameserver.GameServer	GameServer: Started, using 1516 of 4064 MB total memory.
-2023.08.17 02:04:55,475	INFO	1	org.l2jmobius.gameserver.GameServer	GameServer: Maximum number of connected players is 2000.
-2023.08.17 02:04:55,475	INFO	1	org.l2jmobius.gameserver.GameServer	GameServer: Server loaded in 32 seconds.
-2023.08.17 02:04:55,482	INFO	106	org.l2jmobius.commons.network.NetServer	GameServer: Listening on port 7777 for incoming connections.
-2023.08.17 02:04:55,489	INFO	107	org.l2jmobius.gameserver.LoginServerThread	LoginServerThread: Connecting to login on 192.168.0.110:9014
-2023.08.17 02:04:55,528	INFO	107	org.l2jmobius.gameserver.LoginServerThread	LoginServerThread: Registered on login as Server 2: Sieghardt
-2023.08.17 02:05:07,509	WARNING	112	org.l2jmobius.gameserver.model.actor.Creature	Master access level set for character f! Just a warning to be careful ;)
-2023.08.17 02:34:55,070	INFO	73	org.l2jmobius.gameserver.instancemanager.GlobalVariablesManager	GlobalVariablesManager: Stored 16 variables.
-2023.08.17 02:48:39,326	WARNING	22	org.l2jmobius.gameserver.Shutdown	Server scheduled restart issued shutdown command. Shutdown in 1 seconds!
-2023.08.17 02:48:40,328	WARNING	133	org.l2jmobius.gameserver.Shutdown	GM shutdown countdown is over. shutting down NOW!
-2023.08.17 02:48:40,340	INFO	133	org.l2jmobius.gameserver.Shutdown	All players disconnected and saved(10ms).
-2023.08.17 02:48:40,341	INFO	133	org.l2jmobius.gameserver.Shutdown	Game Time Task Manager: Thread interruped(2ms).
-2023.08.17 02:48:40,341	INFO	133	org.l2jmobius.commons.threads.ThreadPool	ThreadPool: Shutting down.
-2023.08.17 02:48:40,344	INFO	133	org.l2jmobius.gameserver.Shutdown	Thread Pool Manager: Manager has been shut down(3ms).
-2023.08.17 02:48:40,344	INFO	133	org.l2jmobius.gameserver.Shutdown	Login Server Thread: Thread interruped(0ms).
-2023.08.17 02:48:40,344	INFO	133	org.l2jmobius.gameserver.Shutdown	GM shutdown received. Shutting down NOW!
-2023.08.17 02:48:40,355	INFO	133	org.l2jmobius.gameserver.Shutdown	RaidBossSpawnManager: All raidboss info saved(10ms).
-2023.08.17 02:48:40,356	INFO	133	org.l2jmobius.gameserver.Shutdown	GrandBossManager: All Grand Boss info saved(2ms).
-2023.08.17 02:48:40,357	INFO	133	org.l2jmobius.gameserver.Shutdown	Item Auction Manager: All tasks stopped(1ms).
-2023.08.17 02:48:40,357	INFO	133	org.l2jmobius.gameserver.Shutdown	Olympiad System: Data saved(0ms).
-2023.08.17 02:48:40,358	INFO	133	org.l2jmobius.gameserver.Shutdown	Hero System: Data saved(1ms).
-2023.08.17 02:48:40,358	INFO	133	org.l2jmobius.gameserver.Shutdown	Clan System: Data saved(0ms).
-2023.08.17 02:48:40,364	INFO	133	org.l2jmobius.gameserver.Shutdown	Cursed Weapons Manager: Data saved(6ms).
-2023.08.17 02:48:40,364	INFO	133	org.l2jmobius.gameserver.Shutdown	Castle Manor Manager: Data saved(0ms).
-2023.08.17 02:48:40,364	INFO	133	org.l2jmobius.gameserver.Shutdown	Quest Manager: Data saved(0ms).
-2023.08.17 02:48:40,375	INFO	133	org.l2jmobius.gameserver.instancemanager.GlobalVariablesManager	GlobalVariablesManager: Stored 16 variables.
-2023.08.17 02:48:40,375	INFO	133	org.l2jmobius.gameserver.Shutdown	Global Variables Manager: Variables saved(11ms).
-2023.08.17 02:48:40,376	INFO	133	org.l2jmobius.gameserver.Shutdown	Bot Report Table: Successfully saved reports to database!
-2023.08.17 02:48:43,840	WARNING	107	org.l2jmobius.gameserver.LoginServerThread	LoginServerThread: LoginServer not available, trying to reconnect...
-2023.08.17 02:48:45,395	INFO	133	org.l2jmobius.gameserver.Shutdown	Database Factory: Database connection has been shut down(11ms).
-2023.08.17 02:48:45,396	INFO	133	org.l2jmobius.gameserver.Shutdown	The server has been successfully shut down in 5seconds.
+2023.08.17 11:34:22,121	INFO	1	org.l2jmobius.commons.util.IXmlReader	Network Config: ipconfig.xml exists using manual configuration...
+2023.08.17 11:34:22,235	INFO	1	org.l2jmobius.Config	Loaded 6 Filter Words.
+2023.08.17 11:34:22,253	INFO	1	org.l2jmobius.gameserver.GameServer	------------------------------------------------=[ Database ]
+2023.08.17 11:34:22,536	INFO	1	org.l2jmobius.commons.database.DatabaseFactory	Database: Initialized.
+2023.08.17 11:34:22,536	INFO	1	org.l2jmobius.gameserver.GameServer	----------------------------------------------=[ ThreadPool ]
+2023.08.17 11:34:22,539	INFO	1	org.l2jmobius.commons.threads.ThreadPool	ThreadPool: Initialized
+2023.08.17 11:34:22,544	INFO	1	org.l2jmobius.commons.threads.ThreadPool	...scheduled pool executor with 48 total threads.
+2023.08.17 11:34:22,545	INFO	1	org.l2jmobius.commons.threads.ThreadPool	...instant pool executor with 24 total threads.
+2023.08.17 11:34:22,546	INFO	1	org.l2jmobius.gameserver.GameServer	-----------------------------------------------=[ IdManager ]
+2023.08.17 11:34:22,548	INFO	1	org.l2jmobius.gameserver.instancemanager.IdManager	Updated characters online status.
+2023.08.17 11:34:22,569	INFO	1	org.l2jmobius.gameserver.instancemanager.IdManager	IdManager: Cleaned 0 elements from database in 0 seconds.
+2023.08.17 11:34:22,572	INFO	1	org.l2jmobius.gameserver.instancemanager.IdManager	IdManager: Cleaned 0 expired timestamps from database.
+2023.08.17 11:34:22,575	INFO	1	org.l2jmobius.gameserver.instancemanager.IdManager	IdManager: 102912 id's available.
+2023.08.17 11:34:22,575	INFO	1	org.l2jmobius.gameserver.GameServer	----------------------------------------=[ Scripting Engine ]
+2023.08.17 11:34:22,684	INFO	1	org.l2jmobius.gameserver.scripting.ScriptEngineManager	Loaded 827 files to exclude.
+2023.08.17 11:34:22,684	INFO	1	org.l2jmobius.gameserver.GameServer	---------------------------------------------------=[ World ]
+2023.08.17 11:34:22,718	INFO	1	org.l2jmobius.gameserver.model.World	World: (288 by 272) World Region Grid set up.
+2023.08.17 11:34:22,850	INFO	1	org.l2jmobius.gameserver.instancemanager.MapRegionManager	MapRegionManager: Loaded 61 map regions.
+2023.08.17 11:34:22,854	INFO	1	org.l2jmobius.gameserver.instancemanager.ZoneManager	ZoneManager 19 by 18 Zone Region Grid set up.
+2023.08.17 11:34:23,221	INFO	1	org.l2jmobius.gameserver.instancemanager.ZoneManager	ZoneManager: Loaded 34 zone classes and 2966 zones.
+2023.08.17 11:34:23,224	INFO	1	org.l2jmobius.gameserver.instancemanager.ZoneManager	ZoneManager: Last static id 210110.
+2023.08.17 11:34:23,500	INFO	1	org.l2jmobius.gameserver.data.xml.DoorData	DoorData: Loaded 1474 doors.
+2023.08.17 11:34:23,507	INFO	1	FenceData	FenceData: Loaded 1 fences.
+2023.08.17 11:34:23,516	INFO	1	org.l2jmobius.gameserver.instancemanager.GlobalVariablesManager	GlobalVariablesManager: Loaded 16 variables.
+2023.08.17 11:34:23,517	INFO	1	org.l2jmobius.gameserver.GameServer	----------------------------------------------------=[ Data ]
+2023.08.17 11:34:23,524	INFO	1	org.l2jmobius.gameserver.data.xml.ActionData	ActionData: Loaded 217 player actions.
+2023.08.17 11:34:23,552	INFO	1	org.l2jmobius.gameserver.data.xml.CategoryData	CategoryData: Loaded 216 categories.
+2023.08.17 11:34:23,556	INFO	1	org.l2jmobius.gameserver.data.xml.SecondaryAuthData	SecondaryAuthData: Loaded 328 forbidden passwords.
+2023.08.17 11:34:25,704	INFO	1	org.l2jmobius.gameserver.data.ItemTable	ItemTable: Highest item id used: 96959
+2023.08.17 11:34:25,714	INFO	1	org.l2jmobius.gameserver.data.ItemTable	ItemTable: Loaded 24456 Etc Items
+2023.08.17 11:34:25,714	INFO	1	org.l2jmobius.gameserver.data.ItemTable	ItemTable: Loaded 12781 Armor Items
+2023.08.17 11:34:25,715	INFO	1	org.l2jmobius.gameserver.data.ItemTable	ItemTable: Loaded 9113 Weapon Items
+2023.08.17 11:34:25,715	INFO	1	org.l2jmobius.gameserver.data.ItemTable	ItemTable: Loaded 46350 Items in total.
+2023.08.17 11:34:25,741	INFO	1	org.l2jmobius.gameserver.data.xml.CombinationItemsData	CombinationItemsData: Loaded 4434 combinations.
+2023.08.17 11:34:25,750	INFO	1	org.l2jmobius.gameserver.data.xml.SayuneData	SayuneData: Loaded 71 maps.
+2023.08.17 11:34:26,152	INFO	1	handlers.DailyMissionMasterHandler	DailyMissionMasterHandler: Loaded 21 handlers.
+2023.08.17 11:34:26,171	INFO	1	org.l2jmobius.gameserver.data.xml.DailyMissionData	DailyMissionData: Loaded 130 one day rewards.
+2023.08.17 11:34:26,171	INFO	1	org.l2jmobius.gameserver.GameServer	--------------------------------------------------=[ Skills ]
+2023.08.17 11:34:27,014	INFO	1	handlers.EffectMasterHandler	EffectMasterHandler: Loaded 391 effect handlers.
+2023.08.17 11:34:27,021	INFO	1	org.l2jmobius.gameserver.data.xml.EnchantSkillGroupsData	EnchantSkillGroupsData: Loaded 20 enchant routes, max enchant set to 20.
+2023.08.17 11:34:30,108	INFO	1	org.l2jmobius.gameserver.data.xml.SkillData	SkillData: Loaded 194735 Skills.
+2023.08.17 11:34:30,729	INFO	1	org.l2jmobius.gameserver.data.xml.SkillTreeData	SkillTreeData: Loaded 20512 Class skills for 150 class skill trees.
+2023.08.17 11:34:30,729	INFO	1	org.l2jmobius.gameserver.data.xml.SkillTreeData	SkillTreeData: Loaded 1 sub-class skills.
+2023.08.17 11:34:30,729	INFO	1	org.l2jmobius.gameserver.data.xml.SkillTreeData	SkillTreeData: Loaded 33 dual-class skills.
+2023.08.17 11:34:30,730	INFO	1	org.l2jmobius.gameserver.data.xml.SkillTreeData	SkillTreeData: Loaded 104 transfer skills for 3 transfer skill trees.
+2023.08.17 11:34:30,730	INFO	1	org.l2jmobius.gameserver.data.xml.SkillTreeData	SkillTreeData: Loaded 18 race skills for 7 race skill trees.
+2023.08.17 11:34:30,730	INFO	1	org.l2jmobius.gameserver.data.xml.SkillTreeData	SkillTreeData: Loaded 35 fishing skills, 8 Dwarven only fishing skills.
+2023.08.17 11:34:30,730	INFO	1	org.l2jmobius.gameserver.data.xml.SkillTreeData	SkillTreeData: Loaded 3 collect skills.
+2023.08.17 11:34:30,734	INFO	1	org.l2jmobius.gameserver.data.xml.SkillTreeData	SkillTreeData: Loaded 11 clan skills, 0 for clan and 11 residential.
+2023.08.17 11:34:30,735	INFO	1	org.l2jmobius.gameserver.data.xml.SkillTreeData	SkillTreeData: Loaded 0 sub-pledge skills.
+2023.08.17 11:34:30,735	INFO	1	org.l2jmobius.gameserver.data.xml.SkillTreeData	SkillTreeData: Loaded 32 transform skills.
+2023.08.17 11:34:30,736	INFO	1	org.l2jmobius.gameserver.data.xml.SkillTreeData	SkillTreeData: Loaded 24 noble skills.
+2023.08.17 11:34:30,736	INFO	1	org.l2jmobius.gameserver.data.xml.SkillTreeData	SkillTreeData: Loaded 4 hero skills.
+2023.08.17 11:34:30,736	INFO	1	org.l2jmobius.gameserver.data.xml.SkillTreeData	SkillTreeData: Loaded 61 game master skills.
+2023.08.17 11:34:30,736	INFO	1	org.l2jmobius.gameserver.data.xml.SkillTreeData	SkillTreeData: Loaded 61 game master aura skills.
+2023.08.17 11:34:30,736	INFO	1	org.l2jmobius.gameserver.data.xml.SkillTreeData	SkillTreeData: Loaded 123 ability skills.
+2023.08.17 11:34:30,736	INFO	1	org.l2jmobius.gameserver.data.xml.SkillTreeData	SkillTreeData: Loaded 113 alchemy skills.
+2023.08.17 11:34:30,736	INFO	1	org.l2jmobius.gameserver.data.xml.SkillTreeData	SkillTreeData: Loaded 37 class awaken save skills.
+2023.08.17 11:34:30,736	INFO	1	org.l2jmobius.gameserver.data.xml.SkillTreeData	SkillTreeData: Loaded 20 Revelation skills.
+2023.08.17 11:34:30,736	INFO	1	org.l2jmobius.gameserver.data.xml.SkillTreeData	SkillTreeData: Loaded 35 common skills.
+2023.08.17 11:34:30,754	INFO	1	org.l2jmobius.gameserver.data.xml.PetSkillData	PetSkillData: Loaded 1084 skills.
+2023.08.17 11:34:30,754	INFO	1	org.l2jmobius.gameserver.GameServer	---------------------------------------------------=[ Items ]
+2023.08.17 11:34:30,860	INFO	1	org.l2jmobius.gameserver.data.xml.EnchantItemGroupsData	EnchantItemGroupsData: Loaded 33 item group templates.
+2023.08.17 11:34:30,861	INFO	1	org.l2jmobius.gameserver.data.xml.EnchantItemGroupsData	EnchantItemGroupsData: Loaded 5 scroll group templates.
+2023.08.17 11:34:30,861	INFO	1	org.l2jmobius.gameserver.data.xml.EnchantItemGroupsData	EnchantItemGroupsData: Max weapon enchant is set to 30.
+2023.08.17 11:34:30,862	INFO	1	org.l2jmobius.gameserver.data.xml.EnchantItemGroupsData	EnchantItemGroupsData: Max armor enchant is set to 30.
+2023.08.17 11:34:30,862	INFO	1	org.l2jmobius.gameserver.data.xml.EnchantItemGroupsData	EnchantItemGroupsData: Max accessory enchant is set to 30.
+2023.08.17 11:34:30,883	INFO	1	org.l2jmobius.gameserver.data.xml.EnchantItemData	EnchantItemData: Loaded 288 enchant scrolls.
+2023.08.17 11:34:30,884	INFO	1	org.l2jmobius.gameserver.data.xml.EnchantItemData	EnchantItemData: Loaded 104 support items.
+2023.08.17 11:34:31,999	INFO	1	org.l2jmobius.gameserver.data.xml.OptionData	OptionData: Loaded 38459 options.
+2023.08.17 11:34:32,012	INFO	1	org.l2jmobius.gameserver.data.xml.EnchantItemOptionsData	EnchantItemOptionsData: Loaded 357 items and 4714 options.
+2023.08.17 11:34:32,018	INFO	1	org.l2jmobius.commons.util.IXmlReader	ElementalAttributeData: Loaded 139 elemental attribute items.
+2023.08.17 11:34:32,030	INFO	1	org.l2jmobius.gameserver.data.xml.ItemCrystallizationData	ItemCrystallizationData: Loaded 13 crystallization templates.
+2023.08.17 11:34:32,030	INFO	1	org.l2jmobius.gameserver.data.xml.ItemCrystallizationData	ItemCrystallizationData: Loaded 338 pre-defined crystallizable items.
+2023.08.17 11:34:32,043	INFO	1	org.l2jmobius.gameserver.data.xml.ItemCrystallizationData	ItemCrystallizationData: Generated 5989 crystallizable items from templates.
+2023.08.17 11:34:32,076	INFO	1	VariationData	VariationData: Loaded 38 variations.
+2023.08.17 11:34:32,079	INFO	1	VariationData	VariationData: Loaded 2492 fees.
+2023.08.17 11:34:32,113	INFO	1	org.l2jmobius.gameserver.data.xml.EnsoulData	EnsoulData: Loaded 128 fees.
+2023.08.17 11:34:32,114	INFO	1	org.l2jmobius.gameserver.data.xml.EnsoulData	EnsoulData: Loaded 1169 options.
+2023.08.17 11:34:32,114	INFO	1	org.l2jmobius.gameserver.data.xml.EnsoulData	EnsoulData: Loaded 125 stones.
+2023.08.17 11:34:32,119	INFO	1	org.l2jmobius.gameserver.data.xml.EnchantItemHPBonusData	EnchantItemHPBonusData: Loaded 12 enchant HP bonuses.
+2023.08.17 11:34:32,935	INFO	1	org.l2jmobius.gameserver.data.xml.BuyListData	BuyListData: Loaded 921 buyLists.
+2023.08.17 11:34:33,621	INFO	1	org.l2jmobius.gameserver.data.xml.MultisellData	MultisellData: Loaded 602 multisell lists.
+2023.08.17 11:34:33,651	INFO	1	org.l2jmobius.gameserver.data.xml.EquipmentUpgradeData	EquipmentUpgradeData: Loaded 6951 upgrade equipment data.
+2023.08.17 11:34:33,672	INFO	1	org.l2jmobius.gameserver.data.xml.AgathionData	AgathionData: Loaded 435 agathion data.
+2023.08.17 11:34:33,723	INFO	1	org.l2jmobius.gameserver.data.xml.RecipeData	RecipeData: Loaded 1780 recipes.
+2023.08.17 11:34:33,754	INFO	1	org.l2jmobius.gameserver.data.xml.ArmorSetData	ArmorSetData: Loaded 370 armor sets.
+2023.08.17 11:34:33,760	INFO	1	org.l2jmobius.gameserver.data.xml.FishingData	FishingData: Loaded 9 bait and 14 rod data.
+2023.08.17 11:34:33,795	INFO	1	org.l2jmobius.gameserver.data.xml.HennaData	HennaData: Loaded 549 henna data.
+2023.08.17 11:34:33,803	INFO	1	org.l2jmobius.gameserver.data.xml.PrimeShopData	PrimeShopData: Loaded 99 items.
+2023.08.17 11:34:33,808	INFO	1	org.l2jmobius.gameserver.data.xml.LimitShopData	LimitShopData: Loaded 64 items.
+2023.08.17 11:34:33,813	INFO	1	org.l2jmobius.gameserver.data.xml.LimitShopData	LimitShopCraftData: Loaded 132 items.
+2023.08.17 11:34:33,824	INFO	1	org.l2jmobius.gameserver.data.xml.CollectionData	CollectionData: Loaded 217 collections.
+2023.08.17 11:34:33,850	INFO	1	org.l2jmobius.gameserver.data.xml.AppearanceItemData	AppearanceItemData: Loaded 1282 stones.
+2023.08.17 11:34:33,858	INFO	1	org.l2jmobius.gameserver.data.xml.AlchemyData	AlchemyData: Loaded 114 alchemy craft skills.
+2023.08.17 11:34:33,870	INFO	1	org.l2jmobius.gameserver.instancemanager.PrivateStoreHistoryManager	PrivateStoreHistoryManager: Loaded 0 items history.
+2023.08.17 11:34:33,877	INFO	1	org.l2jmobius.commons.util.IXmlReader	LuckyGameData: Loaded 2 lucky game data.
+2023.08.17 11:34:33,878	INFO	1	org.l2jmobius.gameserver.data.xml.AttendanceRewardData	AttendanceRewardData: Disabled.
+2023.08.17 11:34:33,879	INFO	1	org.l2jmobius.gameserver.GameServer	----------------------------------------------=[ Characters ]
+2023.08.17 11:34:33,883	INFO	1	org.l2jmobius.gameserver.data.xml.ClassListData	ClassListData: Loaded 158 class data.
+2023.08.17 11:34:33,886	INFO	1	org.l2jmobius.gameserver.data.xml.InitialEquipmentData	InitialEquipmentData: Loaded 14 initial equipment data.
+2023.08.17 11:34:33,891	INFO	1	org.l2jmobius.gameserver.data.xml.InitialShortcutData	InitialShortcutData: Loaded 5 initial global shortcuts data.
+2023.08.17 11:34:33,891	INFO	1	org.l2jmobius.gameserver.data.xml.InitialShortcutData	InitialShortcutData: Loaded 5 initial shortcuts data.
+2023.08.17 11:34:33,892	INFO	1	org.l2jmobius.gameserver.data.xml.InitialShortcutData	InitialShortcutData: Loaded 0 macro presets.
+2023.08.17 11:34:33,895	INFO	1	org.l2jmobius.gameserver.data.xml.ExperienceData	ExperienceData: Loaded 131 levels.
+2023.08.17 11:34:33,896	INFO	1	org.l2jmobius.gameserver.data.xml.ExperienceData	ExperienceData: Max Player Level is 130.
+2023.08.17 11:34:33,896	INFO	1	org.l2jmobius.gameserver.data.xml.ExperienceData	ExperienceData: Max Pet Level is 130.
+2023.08.17 11:34:33,903	INFO	1	org.l2jmobius.gameserver.data.xml.KarmaData	KarmaData: Loaded 130 karma modifiers.
+2023.08.17 11:34:33,906	INFO	1	org.l2jmobius.gameserver.data.xml.HitConditionBonusData	HitConditionBonusData: Loaded hit condition bonuses.
+2023.08.17 11:34:34,287	INFO	1	org.l2jmobius.gameserver.data.xml.PlayerTemplateData	PlayerTemplateData: Loaded 150 character templates.
+2023.08.17 11:34:34,288	INFO	1	org.l2jmobius.gameserver.data.xml.PlayerTemplateData	PlayerTemplateData: Loaded 108000 level up gain records.
+2023.08.17 11:34:34,288	INFO	1	org.l2jmobius.gameserver.data.xml.PlayerTemplateData	PlayerTemplateData: Generated 1500 level up gain records.
+2023.08.17 11:34:34,291	INFO	1	org.l2jmobius.gameserver.data.sql.CharNameTable	CharNameTable: Loaded 10 char names.
+2023.08.17 11:34:34,296	INFO	1	org.l2jmobius.gameserver.data.xml.AdminData	AdminData: Loaded 10 access levels.
+2023.08.17 11:34:34,300	INFO	1	org.l2jmobius.gameserver.data.xml.AdminData	AdminData: Loaded 468 access commands.
+2023.08.17 11:34:34,626	INFO	1	org.l2jmobius.gameserver.data.xml.PetDataTable	PetDataTable: Loaded 56 pets.
+2023.08.17 11:34:34,659	INFO	1	org.l2jmobius.gameserver.data.xml.CubicData	CubicData: Loaded 25 cubics.
+2023.08.17 11:34:34,669	INFO	1	org.l2jmobius.gameserver.GameServer	---------------------------------------------------=[ Clans ]
+2023.08.17 11:34:34,676	INFO	1	org.l2jmobius.gameserver.communitybbs.Manager.ForumsBBSManager	ForumsBBSManager: Loaded 4 forums. Last forum id used: 4
+2023.08.17 11:34:34,689	INFO	1	org.l2jmobius.gameserver.data.sql.ClanTable	ClanTable: Restored 1 clans from the database.
+2023.08.17 11:34:34,696	INFO	1	org.l2jmobius.gameserver.data.xml.ResidenceFunctionsData	ResidenceFunctionsData: Loaded 8 functions.
+2023.08.17 11:34:34,849	INFO	1	org.l2jmobius.gameserver.data.xml.ClanHallData	ClanHallData: Succesfully loaded 57 clan halls.
+2023.08.17 11:34:34,851	INFO	1	org.l2jmobius.gameserver.instancemanager.ClanHallAuctionManager	ClanHallAuctionManager: Clan Hall Auction has started!
+2023.08.17 11:34:34,869	INFO	1	org.l2jmobius.gameserver.instancemanager.ClanEntryManager	ClanEntryManager: Loaded 0 clan entries.
+2023.08.17 11:34:34,870	INFO	1	org.l2jmobius.gameserver.instancemanager.ClanEntryManager	ClanEntryManager: Loaded 0 players in waiting list.
+2023.08.17 11:34:34,870	INFO	1	org.l2jmobius.gameserver.instancemanager.ClanEntryManager	ClanEntryManager: Loaded 0 player applications.
+2023.08.17 11:34:34,876	INFO	1	org.l2jmobius.gameserver.data.xml.ClanMasteryData	ClanMasteryData: Loaded 16 clan masteries.
+2023.08.17 11:34:34,885	INFO	1	org.l2jmobius.gameserver.data.xml.ClanShopData	ClanShopData: Loaded 13 clan shop products.
+2023.08.17 11:34:34,885	INFO	1	org.l2jmobius.gameserver.GameServer	-------------------------------------------------=[ Geodata ]
+2023.08.17 11:34:34,921	INFO	1	org.l2jmobius.gameserver.geoengine.GeoEngine	GeoEngine: Loaded 0 regions.
+2023.08.17 11:34:34,921	INFO	1	org.l2jmobius.gameserver.GameServer	----------------------------------------------------=[ NPCs ]
+2023.08.17 11:34:36,516	INFO	1	org.l2jmobius.gameserver.data.xml.NpcData	NpcData: Loaded 14789 NPCs.
+2023.08.17 11:34:36,528	INFO	1	org.l2jmobius.gameserver.data.xml.NpcData	NpcData: Loaded 22 custom NPCs.
+2023.08.17 11:34:36,529	INFO	1	org.l2jmobius.gameserver.data.xml.FakePlayerData	FakePlayerData: Disabled.
+2023.08.17 11:34:36,530	INFO	1	org.l2jmobius.gameserver.instancemanager.FakePlayerChatManager	FakePlayerChatManager: Disabled.
+2023.08.17 11:34:37,219	INFO	1	org.l2jmobius.gameserver.data.xml.SpawnData	SpawnData: Loaded 55916 spawns
+2023.08.17 11:34:37,234	INFO	1	org.l2jmobius.gameserver.instancemanager.WalkingManager	WalkingManager: Loaded 197 walking routes.
+2023.08.17 11:34:37,245	INFO	1	org.l2jmobius.gameserver.data.xml.StaticObjectData	StaticObjectData: Loaded 86 static object templates.
+2023.08.17 11:34:37,259	INFO	1	org.l2jmobius.gameserver.model.itemauction.ItemAuctionInstance	ItemAuctionInstance: Loaded 21 item(s) and registered 3 auction(s) for instance 34328
+2023.08.17 11:34:37,264	INFO	1	org.l2jmobius.gameserver.model.itemauction.ItemAuctionInstance	ItemAuctionInstance: Schedule next auction 4 on 17:00:00 19.08.23 for instance 34328
+2023.08.17 11:34:37,265	INFO	1	org.l2jmobius.gameserver.instancemanager.ItemAuctionManager	ItemAuctionManager: Loaded 1 instances.
+2023.08.17 11:34:37,285	INFO	1	org.l2jmobius.gameserver.instancemanager.CastleManager	CastleManager: Loaded 9 castles.
+2023.08.17 11:34:37,290	INFO	1	org.l2jmobius.gameserver.instancemanager.GrandBossManager	GrandBossManager: Fafurion(19740) status is 0
+2023.08.17 11:34:37,290	INFO	1	org.l2jmobius.gameserver.instancemanager.GrandBossManager	GrandBossManager: Kelbim(26124) status is 0
+2023.08.17 11:34:37,290	INFO	1	org.l2jmobius.gameserver.instancemanager.GrandBossManager	GrandBossManager: Core(29006) status is 0
+2023.08.17 11:34:37,290	INFO	1	org.l2jmobius.gameserver.instancemanager.GrandBossManager	GrandBossManager: Baium(29020) status is 0
+2023.08.17 11:34:37,290	INFO	1	org.l2jmobius.gameserver.instancemanager.GrandBossManager	GrandBossManager: Valakas(29028) status is 0
+2023.08.17 11:34:37,290	INFO	1	org.l2jmobius.gameserver.instancemanager.GrandBossManager	GrandBossManager: Antharas(29068) status is 0
+2023.08.17 11:34:37,290	INFO	1	org.l2jmobius.gameserver.instancemanager.GrandBossManager	GrandBossManager: Beleth(29118) status is 0
+2023.08.17 11:34:37,290	INFO	1	org.l2jmobius.gameserver.instancemanager.GrandBossManager	GrandBossManager: Earth Wyrm Trasken(29197) status is 0
+2023.08.17 11:34:37,290	INFO	1	org.l2jmobius.gameserver.instancemanager.GrandBossManager	GrandBossManager: Lindvior(29240) status is 0
+2023.08.17 11:34:37,290	INFO	1	org.l2jmobius.gameserver.instancemanager.GrandBossManager	GrandBossManager: Helios(29305) status is 0
+2023.08.17 11:34:37,290	INFO	1	org.l2jmobius.gameserver.instancemanager.GrandBossManager	GrandBossManager: Orfen(29325) status is 0
+2023.08.17 11:34:37,290	INFO	1	org.l2jmobius.gameserver.instancemanager.GrandBossManager	GrandBossManager: Lilith(29336) status is 0
+2023.08.17 11:34:37,290	INFO	1	org.l2jmobius.gameserver.instancemanager.GrandBossManager	GrandBossManager: Anakim(29348) status is 0
+2023.08.17 11:34:37,290	INFO	1	org.l2jmobius.gameserver.instancemanager.GrandBossManager	GrandBossManager: Queen Ant(29381) status is 0
+2023.08.17 11:34:37,291	INFO	1	org.l2jmobius.gameserver.instancemanager.GrandBossManager	GrandBossManager: Loaded 14 instances.
+2023.08.17 11:34:37,296	INFO	1	org.l2jmobius.commons.util.IXmlReader	HomunculusData: Loaded 30 templates.
+2023.08.17 11:34:37,299	INFO	1	org.l2jmobius.commons.util.IXmlReader	HomunculusSlotData: Loaded 9 templates.
+2023.08.17 11:34:37,302	INFO	1	org.l2jmobius.commons.util.IXmlReader	HomunculusCreationData: Loaded 2 templates.
+2023.08.17 11:34:37,302	INFO	1	org.l2jmobius.gameserver.GameServer	------------------------------------------------=[ Instance ]
+2023.08.17 11:34:37,306	INFO	1	org.l2jmobius.gameserver.instancemanager.InstanceManager	InstanceManager: Loaded 334 instance names.
+2023.08.17 11:34:37,578	INFO	1	org.l2jmobius.gameserver.instancemanager.InstanceManager	InstanceManager: Loaded 159 instance templates.
+2023.08.17 11:34:37,579	INFO	1	org.l2jmobius.gameserver.instancemanager.InstanceManager	InstanceManager: Loaded instance reenter times for 0 players.
+2023.08.17 11:34:37,579	INFO	1	org.l2jmobius.gameserver.GameServer	------------------------------------------------=[ Olympiad ]
+2023.08.17 11:34:37,585	INFO	1	org.l2jmobius.gameserver.model.olympiad.Olympiad	Olympiad System: Loading....
+2023.08.17 11:34:37,585	INFO	1	org.l2jmobius.gameserver.model.olympiad.Olympiad	Olympiad System: Currently in Olympiad Period
+2023.08.17 11:34:37,585	INFO	1	org.l2jmobius.gameserver.model.olympiad.Olympiad	Olympiad System: 8 days, 0 hours and 25 mins until period ends.
+2023.08.17 11:34:37,586	INFO	1	org.l2jmobius.gameserver.model.olympiad.Olympiad	Olympiad System: Next weekly change is in 6 days, 12 hours and 12 mins.
+2023.08.17 11:34:37,586	INFO	1	org.l2jmobius.gameserver.model.olympiad.Olympiad	Olympiad System: Loaded 0 Nobles
+2023.08.17 11:34:37,589	INFO	1	org.l2jmobius.gameserver.model.olympiad.Olympiad	Olympiad System: Competition Period Starts in 1 days, 8 hours and 26 mins.
+2023.08.17 11:34:37,590	INFO	1	org.l2jmobius.gameserver.model.olympiad.Olympiad	Olympiad System: Event starts/started: Fri Aug 18 20:00:37 EEST 2023
+2023.08.17 11:34:37,593	INFO	1	org.l2jmobius.gameserver.model.olympiad.Hero	Hero System: Loaded 0 Heroes.
+2023.08.17 11:34:37,593	INFO	1	org.l2jmobius.gameserver.model.olympiad.Hero	Hero System: Loaded 0 all time Heroes.
+2023.08.17 11:34:37,593	INFO	1	org.l2jmobius.gameserver.GameServer	---------------------------------------------------=[ Cache ]
+2023.08.17 11:34:37,595	INFO	1	org.l2jmobius.gameserver.cache.HtmCache	Html cache start...
+2023.08.17 11:34:38,829	INFO	1	org.l2jmobius.gameserver.cache.HtmCache	Cache[HTML]: 4.246 megabytes on 6397 files loaded.
+2023.08.17 11:34:38,831	INFO	1	org.l2jmobius.gameserver.data.sql.CrestTable	CrestTable: Loaded 0 Crests.
+2023.08.17 11:34:38,834	INFO	1	org.l2jmobius.gameserver.data.xml.TeleportListData	TeleportListData: Loaded 104 teleports.
+2023.08.17 11:34:39,216	INFO	1	org.l2jmobius.gameserver.data.xml.TeleporterData	TeleporterData: Loaded 168 npc teleporters.
+2023.08.17 11:34:39,220	INFO	1	org.l2jmobius.gameserver.data.xml.TimedHuntingZoneData	TimedHuntingZoneData: Loaded 10 timed hunting zones.
+2023.08.17 11:34:39,229	INFO	1	org.l2jmobius.gameserver.instancemanager.CursedWeaponsManager	CursedWeaponsManager: Loaded 2 cursed weapons.
+2023.08.17 11:34:39,581	INFO	1	org.l2jmobius.gameserver.data.xml.TransformData	TransformData: Loaded 180 transform templates.
+2023.08.17 11:34:39,589	INFO	1	org.l2jmobius.gameserver.data.BotReportTable	BotReportTable: Loaded 0 bot reports
+2023.08.17 11:34:39,598	INFO	1	org.l2jmobius.gameserver.instancemanager.SellBuffsManager	SellBuffsManager: Loaded 145 allowed buffs.
+2023.08.17 11:34:39,598	INFO	1	org.l2jmobius.gameserver.GameServer	-------------------------------------------------=[ Scripts ]
+2023.08.17 11:34:39,605	INFO	1	org.l2jmobius.gameserver.instancemanager.AirShipManager	AirShipManager: Loaded 0 private airships
+2023.08.17 11:34:39,615	INFO	1	org.l2jmobius.gameserver.data.xml.ShuttleData	ShuttleData: Loaded 3 shuttles.
+2023.08.17 11:34:39,616	INFO	1	org.l2jmobius.gameserver.GameServer	GameServer: Loading server scripts:
+2023.08.17 11:34:39,985	INFO	1	handlers.MasterHandler	Loading Handlers...
+2023.08.17 11:34:40,083	INFO	1	handlers.MasterHandler	ActionHandler: Loaded 10 handlers.
+2023.08.17 11:34:40,084	INFO	1	handlers.MasterHandler	ActionShiftHandler: Loaded 6 handlers.
+2023.08.17 11:34:40,084	INFO	1	handlers.MasterHandler	AdminCommandHandler: Loaded 461 handlers.
+2023.08.17 11:34:40,084	INFO	1	handlers.MasterHandler	BypassHandler: Loaded 30 handlers.
+2023.08.17 11:34:40,084	INFO	1	handlers.MasterHandler	ChatHandler: Loaded 14 handlers.
+2023.08.17 11:34:40,084	INFO	1	handlers.MasterHandler	CommunityBoardHandler: Loaded 24 handlers.
+2023.08.17 11:34:40,084	INFO	1	handlers.MasterHandler	ItemHandler: Loaded 34 handlers.
+2023.08.17 11:34:40,084	INFO	1	handlers.MasterHandler	PunishmentHandler: Loaded 3 handlers.
+2023.08.17 11:34:40,084	INFO	1	handlers.MasterHandler	UserCommandHandler: Loaded 16 handlers.
+2023.08.17 11:34:40,084	INFO	1	handlers.MasterHandler	VoicedCommandHandler: Loaded 12 handlers.
+2023.08.17 11:34:40,084	INFO	1	handlers.MasterHandler	TargetHandler: Loaded 21 handlers.
+2023.08.17 11:34:40,084	INFO	1	handlers.MasterHandler	AffectObjectHandler: Loaded 11 handlers.
+2023.08.17 11:34:40,084	INFO	1	handlers.MasterHandler	AffectScopeHandler: Loaded 19 handlers.
+2023.08.17 11:34:40,084	INFO	1	handlers.MasterHandler	PlayerActionHandler: Loaded 25 handlers.
+2023.08.17 11:34:40,084	INFO	1	handlers.MasterHandler	Handlers Loaded...
+2023.08.17 11:34:46,065	INFO	1	ai.areas.FantasyIsle.HandysBlockCheckerEvent	Handy's Block Checker Event is disabled
+2023.08.17 11:34:46,070	INFO	1	ai.areas.FantasyIsle.Parade	Fantasy Isle: Parade starting at 2023/08/17 13:20 and is scheduled each next 1 hours.
+2023.08.17 11:34:46,074	INFO	1	ai.areas.FantasyIsle.TalentShow	Fantasy Isle: MC show script starting at 18/08/2023 10:36:46 and is scheduled each next 4 hours.
+2023.08.17 11:34:46,286	INFO	1	org.l2jmobius.gameserver.instancemanager.GrandBossManager	GrandBossManager: Updated Anakim(29348) status to 0.
+2023.08.17 11:34:46,329	INFO	1	org.l2jmobius.gameserver.instancemanager.GrandBossManager	GrandBossManager: Updated Etis van Etina(29318) status to 0.
+2023.08.17 11:34:46,350	INFO	1	org.l2jmobius.gameserver.instancemanager.GrandBossManager	GrandBossManager: Updated Fafurion(19740) status to 0.
+2023.08.17 11:34:46,363	INFO	1	org.l2jmobius.gameserver.instancemanager.GrandBossManager	GrandBossManager: Updated Helios(29305) status to 0.
+2023.08.17 11:34:46,376	INFO	1	org.l2jmobius.gameserver.instancemanager.GrandBossManager	GrandBossManager: Updated Lilith(29336) status to 0.
+2023.08.17 11:34:46,386	INFO	1	org.l2jmobius.gameserver.instancemanager.GrandBossManager	GrandBossManager: Updated Lindvior(29240) status to 0.
+2023.08.17 11:34:46,419	INFO	1	ai.bosses.Tiat.Stage1	[Seed of Destruction] Loaded 51 spawn zones data.
+2023.08.17 11:34:46,468	INFO	1	ai.others.ClassMaster.ClassMaster	ClassMaster: Loaded 0 class change options.
+2023.08.17 11:34:46,550	INFO	1	ai.others.MentorGuide.MentorGuide	MentorGuide: Loaded 4 mentee coins
+2023.08.17 11:34:46,563	INFO	1	ai.others.NpcBuffers.NpcBuffersData	NpcBuffersData: Loaded 6 buffers data.
+2023.08.17 11:34:46,632	INFO	1	org.l2jmobius.gameserver.model.quest.Quest	Event Balthus Event has passed... Ignored 
+2023.08.17 11:34:46,636	INFO	1	org.l2jmobius.gameserver.model.quest.Quest	Event Birth of Draco has passed... Ignored 
+2023.08.17 11:34:46,642	INFO	1	org.l2jmobius.gameserver.model.quest.Quest	Event Chuseok Harvest Festival has passed... Ignored 
+2023.08.17 11:34:46,646	INFO	1	org.l2jmobius.gameserver.model.quest.Quest	Event Dragon Slayer has passed... Ignored 
+2023.08.17 11:34:46,650	INFO	1	org.l2jmobius.gameserver.model.quest.Quest	Event Dream Maker has passed... Ignored 
+2023.08.17 11:34:46,659	INFO	1	org.l2jmobius.gameserver.model.quest.Quest	Event Eve the Fortune Teller active till Tue Dec 18 00:00:00 EET 2029
+2023.08.17 11:34:46,662	INFO	1	org.l2jmobius.gameserver.model.quest.Quest	Event Freya Celebration has passed... Ignored 
+2023.08.17 11:34:46,666	INFO	1	org.l2jmobius.gameserver.model.quest.Quest	Event Gift of Vitality has passed... Ignored 
+2023.08.17 11:34:46,669	INFO	1	org.l2jmobius.gameserver.model.quest.Quest	Event Halloween has passed... Ignored 
+2023.08.17 11:34:46,672	INFO	1	org.l2jmobius.gameserver.model.quest.Quest	Event Heavy Medal has passed... Ignored 
+2023.08.17 11:34:46,674	INFO	1	org.l2jmobius.gameserver.model.quest.Quest	Event Hungry Horse has passed... Ignored 
+2023.08.17 11:34:46,677	INFO	1	org.l2jmobius.gameserver.model.quest.Quest	Event Hunt for Santa has passed... Ignored 
+2023.08.17 11:34:46,680	INFO	1	org.l2jmobius.gameserver.model.quest.Quest	Event Legend's Mark has passed... Ignored 
+2023.08.17 11:34:46,684	INFO	1	org.l2jmobius.gameserver.model.quest.Quest	Event Letter Collector has passed... Ignored 
+2023.08.17 11:34:46,687	INFO	1	org.l2jmobius.gameserver.model.quest.Quest	Event Lovers Jubilee has passed... Ignored 
+2023.08.17 11:34:46,691	INFO	1	org.l2jmobius.gameserver.model.quest.Quest	Event Love Your Gatekeeper has passed... Ignored 
+2023.08.17 11:34:46,694	INFO	1	org.l2jmobius.gameserver.model.quest.Quest	Event Master of Enchanting has passed... Ignored 
+2023.08.17 11:34:46,699	INFO	1	org.l2jmobius.gameserver.model.quest.Quest	Event Red Libra has passed... Ignored 
+2023.08.17 11:34:46,702	INFO	1	org.l2jmobius.gameserver.model.quest.Quest	Event Rudolphs Blessing has passed... Ignored 
+2023.08.17 11:34:46,707	INFO	1	org.l2jmobius.gameserver.model.quest.Quest	Event Saving Santa has passed... Ignored 
+2023.08.17 11:34:46,711	INFO	1	org.l2jmobius.gameserver.model.quest.Quest	Event Smash It Completely has passed... Ignored 
+2023.08.17 11:34:46,718	INFO	1	org.l2jmobius.gameserver.model.quest.Quest	Event Snowman Energy has passed... Ignored 
+2023.08.17 11:34:46,721	INFO	1	org.l2jmobius.gameserver.model.quest.Quest	Event The Power Of Love has passed... Ignored 
+2023.08.17 11:34:46,725	INFO	1	org.l2jmobius.gameserver.model.quest.Quest	Event Training with Dandy has passed... Ignored 
+2023.08.17 11:34:46,872	INFO	1	org.l2jmobius.gameserver.data.xml.SpawnData	SpawnData: Initializing spawns...
+2023.08.17 11:34:47,066	INFO	1	org.l2jmobius.gameserver.instancemanager.DBSpawnManager	DBSpawnManager: Loaded 33 instances.
+2023.08.17 11:34:47,066	INFO	1	org.l2jmobius.gameserver.instancemanager.DBSpawnManager	DBSpawnManager: Scheduled 0 instances.
+2023.08.17 11:34:56,341	INFO	1	org.l2jmobius.gameserver.data.xml.SpawnData	SpawnData: All spawns has been initialized!
+2023.08.17 11:34:56,341	INFO	1	org.l2jmobius.gameserver.GameServer	---------------------------------------------------=[ Siege ]
+2023.08.17 11:34:56,356	INFO	1	org.l2jmobius.gameserver.data.xml.SiegeScheduleData	SiegeScheduleData: Loaded 9 siege schedulers.
+2023.08.17 11:34:56,356	INFO	1	org.l2jmobius.gameserver.model.siege.Siege	Siege of Gludio: Sun Aug 20 16:00:00 EEST 2023
+2023.08.17 11:34:56,359	INFO	1	org.l2jmobius.gameserver.model.siege.Siege	Siege of Dion: Sun Aug 20 20:00:00 EEST 2023
+2023.08.17 11:34:56,359	INFO	1	org.l2jmobius.gameserver.model.siege.Siege	Siege of Giran: Sun Aug 20 16:00:00 EEST 2023
+2023.08.17 11:34:56,360	INFO	1	org.l2jmobius.gameserver.model.siege.Siege	Siege of Oren: Sun Aug 20 20:00:00 EEST 2023
+2023.08.17 11:34:56,360	INFO	1	org.l2jmobius.gameserver.model.siege.Siege	Siege of Aden: Sun Aug 20 16:00:00 EEST 2023
+2023.08.17 11:34:56,361	INFO	1	org.l2jmobius.gameserver.model.siege.Siege	Siege of Innadril: Sun Aug 20 20:00:00 EEST 2023
+2023.08.17 11:34:56,361	INFO	1	org.l2jmobius.gameserver.model.siege.Siege	Siege of Goddard: Sun Aug 20 16:00:00 EEST 2023
+2023.08.17 11:34:56,361	INFO	1	org.l2jmobius.gameserver.model.siege.Siege	Siege of Rune: Sun Aug 20 20:00:00 EEST 2023
+2023.08.17 11:34:56,361	INFO	1	org.l2jmobius.gameserver.model.siege.Siege	Siege of Schuttgart: Sun Aug 20 16:00:00 EEST 2023
+2023.08.17 11:34:56,484	INFO	1	org.l2jmobius.gameserver.instancemanager.FortManager	FortManager: Loaded 20 fortress.
+2023.08.17 11:34:56,574	INFO	1	org.l2jmobius.gameserver.instancemanager.CastleManorManager	CastleManorManager: Loaded 258 seeds.
+2023.08.17 11:34:56,577	INFO	1	org.l2jmobius.gameserver.instancemanager.CastleManorManager	CastleManorManager: Manor data loaded.
+2023.08.17 11:34:56,594	INFO	1	org.l2jmobius.gameserver.instancemanager.SiegeGuardManager	SiegeGuardManager: Loaded 0 siege guards tickets.
+2023.08.17 11:34:56,594	INFO	1	org.l2jmobius.gameserver.instancemanager.QuestManager	QuestManager: Loaded 63 quests.
+2023.08.17 11:34:56,594	INFO	1	org.l2jmobius.gameserver.instancemanager.QuestManager	QuestManager: Loaded 432 scripts.
+2023.08.17 11:34:56,614	INFO	1	org.l2jmobius.gameserver.taskmanager.TaskManager	TaskManager: Loaded 5 Tasks.
+2023.08.17 11:34:56,617	INFO	1	org.l2jmobius.gameserver.instancemanager.DailyTaskManager	DailyTaskManager: Next schedule at 18/08 06:30.
+2023.08.17 11:34:56,622	INFO	1	org.l2jmobius.gameserver.instancemanager.MailManager	MailManager: Loaded 0 messages.
+2023.08.17 11:34:56,627	INFO	1	org.l2jmobius.gameserver.instancemanager.PunishmentManager	PunishmentManager: Loaded 0 active and 0 expired punishments.
+2023.08.17 11:34:56,630	INFO	1	org.l2jmobius.gameserver.GameServer	IdManager: Free ObjectID's remaining: 1878970000
+2023.08.17 11:34:56,634	INFO	1	org.l2jmobius.gameserver.data.sql.OfflineTraderTable	OfflineTraderTable: Loading offline traders...
+2023.08.17 11:34:56,635	INFO	1	org.l2jmobius.gameserver.data.sql.OfflineTraderTable	OfflineTraderTable: Loaded 0 offline traders.
+2023.08.17 11:34:57,096	INFO	1	org.l2jmobius.gameserver.GameServer	GameServer: Started, using 1516 of 4064 MB total memory.
+2023.08.17 11:34:57,097	INFO	1	org.l2jmobius.gameserver.GameServer	GameServer: Maximum number of connected players is 2000.
+2023.08.17 11:34:57,097	INFO	1	org.l2jmobius.gameserver.GameServer	GameServer: Server loaded in 35 seconds.
+2023.08.17 11:34:57,107	INFO	106	org.l2jmobius.commons.network.NetServer	GameServer: Listening on port 7777 for incoming connections.
+2023.08.17 11:34:57,117	INFO	107	org.l2jmobius.gameserver.LoginServerThread	LoginServerThread: Connecting to login on 192.168.0.110:9014
+2023.08.17 11:34:57,160	INFO	107	org.l2jmobius.gameserver.LoginServerThread	LoginServerThread: Registered on login as Server 2: Sieghardt
+2023.08.17 11:35:43,538	WARNING	112	org.l2jmobius.gameserver.model.actor.Creature	Master access level set for character f! Just a warning to be careful ;)
+2023.08.17 11:37:39,126	WARNING	22	org.l2jmobius.gameserver.Shutdown	Server scheduled restart issued shutdown command. Shutdown in 1 seconds!
+2023.08.17 11:37:40,136	WARNING	119	org.l2jmobius.gameserver.Shutdown	GM shutdown countdown is over. shutting down NOW!
+2023.08.17 11:37:40,158	INFO	119	org.l2jmobius.gameserver.Shutdown	All players disconnected and saved(21ms).
+2023.08.17 11:37:40,158	INFO	119	org.l2jmobius.gameserver.Shutdown	Game Time Task Manager: Thread interruped(1ms).
+2023.08.17 11:37:40,158	INFO	119	org.l2jmobius.commons.threads.ThreadPool	ThreadPool: Shutting down.
+2023.08.17 11:37:40,159	INFO	119	org.l2jmobius.gameserver.Shutdown	Thread Pool Manager: Manager has been shut down(1ms).
+2023.08.17 11:37:40,159	INFO	119	org.l2jmobius.gameserver.Shutdown	Login Server Thread: Thread interruped(0ms).
+2023.08.17 11:37:40,159	INFO	119	org.l2jmobius.gameserver.Shutdown	GM shutdown received. Shutting down NOW!
+2023.08.17 11:37:40,165	INFO	119	org.l2jmobius.gameserver.Shutdown	RaidBossSpawnManager: All raidboss info saved(5ms).
+2023.08.17 11:37:40,168	INFO	119	org.l2jmobius.gameserver.Shutdown	GrandBossManager: All Grand Boss info saved(2ms).
+2023.08.17 11:37:40,168	INFO	119	org.l2jmobius.gameserver.Shutdown	Item Auction Manager: All tasks stopped(1ms).
+2023.08.17 11:37:40,168	INFO	119	org.l2jmobius.gameserver.Shutdown	Olympiad System: Data saved(0ms).
+2023.08.17 11:37:40,169	INFO	119	org.l2jmobius.gameserver.Shutdown	Hero System: Data saved(1ms).
+2023.08.17 11:37:40,169	INFO	119	org.l2jmobius.gameserver.Shutdown	Clan System: Data saved(0ms).
+2023.08.17 11:37:40,169	INFO	119	org.l2jmobius.gameserver.Shutdown	Cursed Weapons Manager: Data saved(0ms).
+2023.08.17 11:37:40,170	INFO	119	org.l2jmobius.gameserver.Shutdown	Castle Manor Manager: Data saved(1ms).
+2023.08.17 11:37:40,170	INFO	119	org.l2jmobius.gameserver.Shutdown	Quest Manager: Data saved(0ms).
+2023.08.17 11:37:40,183	INFO	119	org.l2jmobius.gameserver.instancemanager.GlobalVariablesManager	GlobalVariablesManager: Stored 16 variables.
+2023.08.17 11:37:40,183	INFO	119	org.l2jmobius.gameserver.Shutdown	Global Variables Manager: Variables saved(13ms).
+2023.08.17 11:37:40,183	INFO	119	org.l2jmobius.gameserver.Shutdown	Bot Report Table: Successfully saved reports to database!
+2023.08.17 11:37:45,204	INFO	119	org.l2jmobius.gameserver.Shutdown	Database Factory: Database connection has been shut down(14ms).
+2023.08.17 11:37:45,204	INFO	119	org.l2jmobius.gameserver.Shutdown	The server has been successfully shut down in 5seconds.

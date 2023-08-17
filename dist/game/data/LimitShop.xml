@@ -26,11 +26,11 @@
 		<production id="80964" /> <!-- Energy of Protection -->
 	</product>
 	<product id="5" category="0" maxLevel="999">
-		<ingredient id="48472" count="315" /> <!-- Einhasad's Golden Coin -->
+		<ingredient id="48472" count="1" /> <!-- Einhasad's Golden Coin -->
 		<production id="80636" /> <!-- Artifact Crystal -->
 	</product>
 	<product id="6" category="0" maxLevel="999">
-		<ingredient id="48472" count="80" /> <!-- Einhasad's Golden Coin -->
+		<ingredient id="48472" count="5" /> <!-- Einhasad's Golden Coin -->
 		<production id="81134" /> <!-- Crystal of Dyes -->
 	</product>
 	<product id="7" category="0" maxLevel="999">
@@ -41,36 +41,8 @@
 		<ingredient id="48472" count="30" /> <!-- Einhasad's Golden Coin -->
 		<production id="28470" /> <!-- Ultimate Jewelry Box -->
 	</product>
-	<product id="141" category="0" minLevel="1" maxLevel="999">
-		<ingredient id="-100" count="2160" /> <!-- PC Cafe Coint -->
-		<production id="80749" /> <!-- PA Artifact - P. Atk. (Balance) -->
-	</product>
-	<product id="140" category="0" minLevel="1" maxLevel="999">
-		<ingredient id="-100" count="2160" />  <!-- PC Cafe Coint -->
-		<production id="80750" /> <!-- PA Artifact - M. Atk. (Balance) -->
-	</product>
-	<product id="139" category="0" minLevel="1" maxLevel="999">
-		<ingredient id="-100" count="2160" /> <!-- PC Cafe Coint -->
-		<production id="80751" /> <!-- PA Artifact - P. Def. (Balance) -->
-	</product>
-	<product id="138" category="0" minLevel="1" maxLevel="999">
-		<ingredient id="-100" count="2160" />  <!-- PC Cafe Coint -->
-		<production id="80752" /> <!-- PA Artifact - M. Def. (Balance) -->
-	</product>
 	
 	<!-- Cat 1 Enhancement -->
-	<product id="8" category="1" maxLevel="999">
-		<ingredient id="48472" count="600" /> <!-- Einhasad's Golden Coin -->
-		<production id="80839" /> <!-- Crystal of Dawn -->
-	</product>
-	<product id="9" category="1" maxLevel="999">
-		<ingredient id="48472" count="8" /> <!-- Einhasad's Golden Coin -->
-		<production id="47951" /> <!-- Crystal of Determination	-->
-	</product>
-	<product id="10" category="1" maxLevel="999">
-		<ingredient id="48472" count="14" /> <!-- Einhasad's Golden Coin -->
-		<production id="47952" /> <!-- Crystal of Protection -->
-	</product>
 	<product id="11" category="1" maxLevel="999">
 		<ingredient id="48472" count="15" /> <!-- Einhasad's Golden Coin -->
 		<production id="30297" /> <!-- Superior Giant's Codex -->
@@ -123,30 +95,6 @@
 		<ingredient id="48472" count="200" /> <!-- Einhasad's Golden Coin -->
 		<production id="80997" /> <!-- Jamoa's Camp's Time Stone -->
 	</product>
-	<product id="22" category="3" maxLevel="999">
-		<ingredient id="48472" count="425" /> <!-- Einhasad's Golden Coin -->
-		<production id="82141" /> <!-- Emperor's Special Cocktail 5-unit Pack -->
-	</product>
-	<product id="23" category="3" maxLevel="999">
-		<ingredient id="48472" count="40" /> <!-- Einhasad's Golden Coin -->
-		<production id="82142" /> <!-- Honey Dark Beer 2-unit Pack -->
-	</product>
-	<product id="25" category="3" maxLevel="999">
-		<ingredient id="48472" count="300" /> <!-- Einhasad's Golden Coin -->
-		<production id="48642" /> <!-- Shining Nevit's Gold Hourglass -->
-	</product>
-	<product id="26" category="3" maxLevel="999">
-		<ingredient id="48472" count="20" /> <!-- Einhasad's Golden Coin -->
-		<production id="82143" /> <!-- Glowing Dragon's Attribute Potion (XP) 2-unit Pack -->
-	</product>
-	<product id="27" category="3" maxLevel="999">
-		<ingredient id="48472" count="60" /> <!-- Einhasad's Golden Coin -->
-		<production id="82144" /> <!-- Freya's Ice Rose 2-unit Pack	-->
-	</product>
-	<product id="28" category="3" maxLevel="999">
-		<ingredient id="48472" count="80" /> <!-- Einhasad's Golden Coin -->
-		<production id="10649" /> <!-- Feather of Blessing -->
-	</product>
 	<product id="29" category="3" maxLevel="999">
 		<ingredient id="48472" count="40" /> <!-- Einhasad's Golden Coin -->
 		<production id="13015" accountBuyLimit="6" /> <!-- My Teleport Book Lv. 1 -->
@@ -163,38 +111,7 @@
 		<ingredient id="48472" count="40" /> <!-- Einhasad's Golden Coin -->
 		<production id="47428" /> <!-- Freya's Scroll of Storm -->
 	</product>
-	<product id="149" category="3" minLevel="1" maxLevel="999">
-		<ingredient id="-100" count="1" /> <!-- PC Cafe Coint -->
-		<production id="81053" accountDailyLimit="30" /> <!-- Vitality -->
-	</product>
-	<product id="148" category="3" minLevel="1" maxLevel="999">
-		<ingredient id="-100" count="800" /> <!-- PC Cafe Coint -->
-		<production id="80745" accountDailyLimit="18" /> <!-- PA Ice Rose -->
-	</product>
-	<product id="147" category="3" minLevel="1" maxLevel="999">
-		<ingredient id="-100" count="650" /> <!-- PC Cafe Coint -->
-		<production id="80746" accountDailyLimit="28" /> <!-- PA Scroll of Storm -->
-	</product>
-	<product id="146" category="3" minLevel="1" maxLevel="999">
-		<ingredient id="-100" count="1200" /> <!-- PC Cafe Coint -->
-		<production id="80852" accountDailyLimit="9" /> <!-- PA Shining Nevit's Gold Hourglass -->
-	</product>
-	<product id="145" category="3" minLevel="1" maxLevel="999">
-		<ingredient id="-100" count="850" /> <!-- PC Cafe Coint -->
-		<production id="80820" accountDailyLimit="9" /> <!-- PA Emperor's Special Cocktail -->
-	</product>
-	<product id="144" category="3" minLevel="1" maxLevel="999">
-		<ingredient id="-100" count="400" /> <!-- PC Cafe Coint -->
-		<production id="80748" accountDailyLimit="18" /> <!-- PA Glowing Dragon's Attribute Potion XP -->
-	</product>
-	<product id="143" category="3" minLevel="1" maxLevel="999">
-		<ingredient id="-100" count="400" /> <!-- PC Cafe Coint -->
-		<production id="80747" accountDailyLimit="18" /> <!-- PA Honey Dark Beer -->
-	</product>
-	<product id="142" category="3" minLevel="1" maxLevel="999">
-		<ingredient id="-100" count="3000" /> <!-- PC Cafe Coint -->
-		<production id="13300" accountDailyLimit="1" /> <!-- Feather of Blessing - Event -->
-	</product>
+
 	
 	<!-- Cat 4 Others -->
 	<product id="120" category="4" maxLevel="999">
@@ -218,52 +135,51 @@
 		<production id="81979" /> <!-- Conquest Name Change Coupon -->
 	</product>
 	<product id="36" category="4" maxLevel="999">
-		<ingredient id="48472" count="120" /> <!-- Einhasad's Golden Coin -->
+		<ingredient id="48472" count="80" /> <!-- Einhasad's Golden Coin -->
 		<production id="36308" /> <!-- Beauty Shop Ticket -->
 	</product>
-	
 	<product id="137" category="4" minLevel="1" maxLevel="999">
-		<ingredient id="-100" count="500" /> <!-- PC Cafe Coint -->
+		<ingredient id="48472" count="10" /> <!-- Einhasad's Golden Coin -->
 		<production id="48431" /> <!-- PA Talisman - STR/P. Atk. 4-hour -->
 	</product>
 	<product id="136" category="4" minLevel="1" maxLevel="999">
-		<ingredient id="-100" count="500" /> <!-- PC Cafe Coint -->
+		<ingredient id="48472" count="10" /> <!-- Einhasad's Golden Coin -->
 		<production id="48432" /> <!-- PA Talisman - INT/M. Atk. 4-hour -->
 	</product>
 	<product id="135" category="4" minLevel="1" maxLevel="999">
-		<ingredient id="-100" count="500" /> <!-- PC Cafe Coint -->
+		<ingredient id="48472" count="10" /> <!-- Einhasad's Golden Coin -->
 		<production id="48433" /> <!-- PA Talisman - DEX/Atk. Spd. 4-hour -->
 	</product>
 	<product id="134" category="4" minLevel="1" maxLevel="999">
-		<ingredient id="-100" count="500" /> <!-- PC Cafe Coint -->
+		<ingredient id="48472" count="10" /> <!-- Einhasad's Golden Coin -->
 		<production id="48434" /> <!-- PA Talisman - WIT/Casting Spd. 4-hour -->
 	</product>
 	<product id="133" category="4" minLevel="1" maxLevel="999">
-		<ingredient id="-100" count="500" /> <!-- PC Cafe Coint -->
+		<ingredient id="48472" count="10" /> <!-- Einhasad's Golden Coin -->
 		<production id="48435" /> <!-- PA Talisman - CON/HP 4-hour -->
 	</product>
 	<product id="132" category="4" minLevel="1" maxLevel="999">
-		<ingredient id="-100" count="500" /> <!-- PC Cafe Coint -->
+		<ingredient id="48472" count="10" /> <!-- Einhasad's Golden Coin -->
 		<production id="48436" /> <!-- PA Talisman - MEN/MP 4-hour -->
 	</product>
 	<product id="131" category="4" minLevel="1" maxLevel="999">
-		<ingredient id="-100" count="500" /> <!-- PC Cafe Coint -->
+		<ingredient id="48472" count="10" /> <!-- Einhasad's Golden Coin -->
 		<production id="48437" /> <!-- PA Talisman - Attribute Attack 4-hour -->
 	</product>
 	<product id="130" category="4" minLevel="1" maxLevel="999">
-		<ingredient id="-100" count="500" /> <!-- PC Cafe Coint -->
+		<ingredient id="48472" count="10" /> <!-- Einhasad's Golden Coin -->
 		<production id="48438" /> <!-- PA Talisman - Attribute Resistance 4-hour -->
 	</product>
 	<product id="129" category="4" minLevel="1" maxLevel="999">
-		<ingredient id="-100" count="30" /> <!-- PC Cafe Coint -->
+		<ingredient id="48472" count="1" /> <!-- Einhasad's Golden Coin -->
 		<production id="6406" /> <!-- Firecracker -->
 	</product>
 	<product id="128" category="4" minLevel="1" maxLevel="999">
-		<ingredient id="-100" count="60" /> <!-- PC Cafe Coint -->
+		<ingredient id="48472" count="3" /> <!-- Einhasad's Golden Coin -->
 		<production id="6407" /> <!-- Large Firecracker -->
 	</product>
 	<product id="127" category="4" minLevel="1" maxLevel="999">
-		<ingredient id="-100" count="1800" /> <!-- PC Cafe Coint -->
+		<ingredient id="48472" count="80" /> <!-- Einhasad's Golden Coin -->
 		<production id="81815" accountDailyLimit="1" /> <!-- Homunculus' Hourglass -->
 	</product>
 </list>

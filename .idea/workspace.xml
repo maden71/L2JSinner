@@ -4,11 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4309c602-5ca8-4831-8926-93e80052e187" name="Changes" comment="shop fixes">
+    <list default="true" id="4309c602-5ca8-4831-8926-93e80052e187" name="Changes" comment="New material Added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/game/data/stats/items/29300-29399.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/data/stats/items/29300-29399.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/game/log/GMAudit/f [268511866].txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/GMAudit/f [268511866].txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/game/log/error17.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/error17.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/game/data/LimitShop.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/data/LimitShop.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/game/data/multisell/1238.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/data/multisell/1238.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/game/data/stats/items/60300-60399.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/data/stats/items/60300-60399.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/game/data/stats/skills/custom/100000.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/data/stats/skills/custom/100000.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/game/log/accounting0.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/accounting0.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/game/log/error18.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/error18.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/game/log/error19.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/error19.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/game/log/java0.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/java0.log" afterDir="false" />
@@ -130,7 +132,7 @@
       <workItem from="1692010726531" duration="5356000" />
       <workItem from="1692087617690" duration="16222000" />
       <workItem from="1692195845098" duration="13027000" />
-      <workItem from="1692260883491" duration="18315000" />
+      <workItem from="1692260883491" duration="23689000" />
     </task>
     <task id="LOCAL-00001" summary="Garden of Spirit mob stat fix">
       <option name="closed" value="true" />
@@ -204,7 +206,15 @@
       <option name="project" value="LOCAL" />
       <updated>1692286025374</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="New material Added">
+      <option name="closed" value="true" />
+      <created>1692286631461</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1692286631461</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -215,7 +225,8 @@
     <MESSAGE value="added mobs to Saint's Necropolis" />
     <MESSAGE value="fixes" />
     <MESSAGE value="shop fixes" />
-    <option name="LAST_COMMIT_MESSAGE" value="shop fixes" />
+    <MESSAGE value="New material Added" />
+    <option name="LAST_COMMIT_MESSAGE" value="New material Added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

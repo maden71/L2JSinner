@@ -919,8 +919,16 @@
 		<set name="icon" val="BranchIcon.Icon.bm_coin_pack_90" />
 		<set name="default_action" val="PEEL" />
 		<set name="immediate_effect" val="true" />
-		<set name="material" val="FISH" />
-		<set name="is_sellable" val="false" />
+		<set name="material" val="PAPER" />
+		<set name="is_sellable" val="true" />
+		<set name="is_tradable" val="true" />
+		<set name="is_dropable" val="true" />
+		<set name="is_stackable" val="true" />
+		<set name="handler" val="ItemSkills" />
+
+		<skills>
+			<skill id="60001" level="1" /> <!-- Einhasad's Golden Coin -->
+		</skills>
 	</item>
 	<item id="60392" name="Kit: Einhasad's Golden Coin (400 pcs.)" type="EtcItem">
 		<!-- Double-click to obtain Einhasad's Golden Coin (400 pcs.). -->
