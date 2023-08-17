@@ -4,6 +4,7 @@
 		<group>
 			<npc id="30839" x="146056" y="27970" z="-2255" heading="16383" respawnTime="60sec" /> <!-- Holly -->
 			<npc id="30839" x="146902" y="28982" z="-2255" heading="33922" respawnTime="60sec" /> <!-- Holly -->
+			<npc id="31126" x="147433" y="27257" z="-2205" heading="48112" respawnTime="60sec" /> <!-- Blacksmith of Mammon -->
 		</group>
 	</spawn>
 </list>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
+	<spawn name="17_25">
+		<group>
+			<npc id="31126" x="-79682" y="247805" z="-3485" heading="33202" respawnTime="60sec" /> <!-- Blacksmith of Mammon -->
+		</group>
+	</spawn>
+</list>

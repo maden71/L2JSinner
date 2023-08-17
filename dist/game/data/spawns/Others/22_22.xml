@@ -5,6 +5,7 @@
 			<npc id="70010" x="83306" y="148578" z="-3406" heading="50565" respawnTime="60sec" /> <!-- Manager -->
 			<npc id="70010" x="83303" y="148604" z="-3406" heading="56152" respawnTime="60sec" /> <!-- Manager -->
 			<npc id="30514" x="80465" y="144381" z="-3535" heading="64055" respawnTime="60sec" /> <!-- Vokian -->
+			<npc id="31126" x="83312" y="147525" z="-3471" heading="16962" respawnTime="60sec" /> <!-- Blacksmith of Mammon -->
 		</group>
 	</spawn>
 </list>

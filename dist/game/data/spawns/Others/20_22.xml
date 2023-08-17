@@ -3,6 +3,7 @@
 	<spawn name="20_22">
 		<group>
 			<npc id="30514" x="20036" y="143304" z="-3049" heading="59066" respawnTime="60sec" /> <!-- Vokian -->
+			<npc id="31126" x="19647" y="143018" z="-3028" heading="15640" respawnTime="60sec" /> <!-- Blacksmith of Mammon -->
 		</group>
 	</spawn>
 </list>

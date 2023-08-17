@@ -140,6 +140,7 @@
 			<npc id="20068" x="6842" y="184328" z="-2509" heading="1181" respawnTime="60sec" /> <!-- Monster Eye Destroyer -->
 			<npc id="20068" x="7529" y="183643" z="-2550" heading="27378" respawnTime="60sec" /> <!-- Monster Eye Destroyer -->
 			<npc id="33177" x="7762" y="185169" z="-2478" heading="45595" respawnTime="60sec" /> <!-- Kallesin -->
+			<npc id="31126" x="17974" y="169947" z="-3497" heading="22517" respawnTime="60sec" /> <!-- Blacksmith of Mammon -->
 		</group>
 	</spawn>
 </list>

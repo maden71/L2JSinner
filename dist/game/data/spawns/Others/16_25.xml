@@ -189,6 +189,7 @@
 			<npc id="20093" x="-116760" y="246263" z="-2901" heading="42886" respawnTime="60sec" /> <!-- Orc Warrior -->
 			<npc id="20093" x="-116495" y="246046" z="-2875" heading="53478" respawnTime="60sec" /> <!-- Orc Warrior -->
 			<npc id="20094" x="-116512" y="245901" z="-2846" heading="36832" respawnTime="60sec" /> <!-- Orc Sniper -->
+			<npc id="31126" x="-113455" y="254014" z="-1500" heading="32470" respawnTime="60sec" /> <!-- Blacksmith of Mammon -->
 		</group>
 	</spawn>
 </list>
