@@ -1496,7 +1496,7 @@
 			</drop>
 		</dropLists>
 	</npc>
-	<npc id="22142" level="98" type="Monster" name="Triol's Layperson">
+	<npc id="22142" level="117" type="Monster" name="Triol's Layperson">
 		<parameters>
 			<param name="MoveAroundSocial" value="80" />
 			<param name="MoveAroundSocial1" value="80" />
@@ -1571,10 +1571,11 @@
 		<dropLists>
 			<drop>
 				<item id="57" min="333" max="776" chance="70" /> <!-- Adena -->
+				<item id="48472" min="1" max="1" chance="1" />
 			</drop>
 		</dropLists>
 	</npc>
-	<npc id="22143" level="98" type="Monster" name="Triol's Believer">
+	<npc id="22143" level="117" type="Monster" name="Triol's Believer">
 		<parameters>
 			<param name="MoveAroundSocial" value="80" />
 			<param name="MoveAroundSocial1" value="80" />
@@ -1651,6 +1652,7 @@
 		<dropLists>
 			<drop>
 				<item id="57" min="333" max="776" chance="70" /> <!-- Adena -->
+				<item id="48472" min="1" max="1" chance="1" />
 			</drop>
 		</dropLists>
 	</npc>
@@ -2428,7 +2430,7 @@
 			</drop>
 		</dropLists>
 	</npc>
-	<npc id="22155" level="99" type="Monster" name="Triol's High Priest">
+	<npc id="22155" level="117" type="Monster" name="Triol's High Priest">
 		<parameters>
 			<param name="MoveAroundSocial" value="80" />
 			<param name="MoveAroundSocial1" value="80" />
@@ -2501,7 +2503,7 @@
 			</drop>
 		</dropLists>
 	</npc>
-	<npc id="22156" level="99" type="Monster" name="Triol's Priest">
+	<npc id="22156" level="117" type="Monster" name="Triol's Priest">
 		<parameters>
 			<param name="MoveAroundSocial" value="80" />
 			<param name="MoveAroundSocial1" value="80" />
@@ -2563,7 +2565,7 @@
 			</drop>
 		</dropLists>
 	</npc>
-	<npc id="22157" level="99" type="Monster" name="Triol's Priest">
+	<npc id="22157" level="117" type="Monster" name="Triol's Priest">
 		<parameters>
 			<param name="MoveAroundSocial" value="80" />
 			<param name="MoveAroundSocial1" value="80" />
@@ -2625,7 +2627,7 @@
 			</drop>
 		</dropLists>
 	</npc>
-	<npc id="22158" level="99" type="Monster" name="Triol's Believer">
+	<npc id="22158" level="117" type="Monster" name="Triol's Believer">
 		<parameters>
 			<param name="MoveAroundSocial" value="80" />
 			<param name="MoveAroundSocial1" value="80" />
@@ -3298,7 +3300,7 @@
 			</drop>
 		</dropLists>
 	</npc>
-	<npc id="22168" level="99" type="Monster" name="Triol's Priest">
+	<npc id="22168" level="117" type="Monster" name="Triol's Priest">
 		<parameters>
 			<param name="MoveAroundSocial" value="80" />
 			<param name="MoveAroundSocial1" value="80" />

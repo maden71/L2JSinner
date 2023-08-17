@@ -1,1 +1,2 @@
 14/08/2023 23:43:29>f [268511866]>Drop>Honeybee>(id: 22 name: Leather Shirt objId: 268512702 x: -82253 y: 246026 z: -14156)
+17/08/2023 17:16:12>f [268511866]>Drop>Valanga Orc Slaughterer>(id: 57 name: Adena objId: 268513005 x: 108495 y: -151821 z: -2215)

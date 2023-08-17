@@ -193,7 +193,6 @@
 			<npc id="22168" x="89148" y="209220" z="-5439" heading="33069" respawnTime="60sec" /> <!-- Triol's Priest -->
 			<npc id="22155" x="88082" y="209217" z="-5439" heading="32347" respawnTime="60sec" /> <!-- Triol's High Priest -->
 			<npc id="22143" x="88082" y="209217" z="-5439" heading="32347" respawnTime="60sec" /> <!-- Triol's Believer -->
-			<npc id="22143" x="88082" y="209217" z="-5439" heading="32347" respawnTime="60sec" /> <!-- Triol's Believer -->
 			<npc id="22168" x="88082" y="209217" z="-5439" heading="32347" respawnTime="60sec" /> <!-- Triol's Priest -->
 			<npc id="22143" x="89135" y="219572" z="-5439" heading="16021" respawnTime="60sec" /> <!-- Triol's Believer -->
 			<npc id="22143" x="89135" y="219572" z="-5439" heading="16021" respawnTime="60sec" /> <!-- Triol's Believer -->

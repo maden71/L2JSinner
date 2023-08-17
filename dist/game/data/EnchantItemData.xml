@@ -6,7 +6,7 @@
 	</enchant>
 
 	<!-- Blessed Scroll: Enchant Brooch -->
-	<enchant id="81361" maxEnchant="10">
+	<enchant id="81361" maxEnchant="7">
 		<item id="81359" /> <!-- Enhanced La Vie En Rose's Brooch -->
 		<item id="81360" altScrollGroupId="1" /> <!-- Superior La Vie En Rose's Brooch -->
 		<item id="29546" /> <!-- Enhanced La Vie En Rose's Brooch -->
@@ -25,7 +25,7 @@
 	<enchant id="36978" maxEnchant="10" /> <!-- Scroll: Enchant Head Accessory -->
 
 	<!-- Knight's, Warrior's, Wizard's Circlets -->
-	<enchant id="48211" maxEnchant="10">
+	<enchant id="48211" maxEnchant="7" bonusRate="50">
 		<item id="48202" /> <!-- Warrior's Circlet -->
 		<item id="48205" /> <!-- Wizard's Circlet -->
 		<item id="48208" /> <!-- Knight's Circlet -->
@@ -54,7 +54,7 @@
 	</enchant>
 
 	<!-- Enchant Scroll: Blessed Bracelet -->
-	<enchant id="80838" maxEnchant="10">
+	<enchant id="80838" maxEnchant="7">
 		<item id="80835" /> <!-- Kaliel's Bracelet -->
 		<item id="80836" altScrollGroupId="1" /> <!-- Greater Kaliel's Bracelet -->
 		<item id="80837" altScrollGroupId="2" /> <!-- Superior Kaliel's Bracelet -->
@@ -66,7 +66,7 @@
 	</enchant>
 	
 	<!-- Scroll: Enchant Superior Seed Bracelet -->
-	<enchant id="81706" maxEnchant="10">
+	<enchant id="81706" maxEnchant="7">
 		<item id="48577" /> <!-- Superior Seed Bracelet Lv. 4 -->
 	</enchant>
 	
@@ -192,7 +192,7 @@
 	</enchant>
 	
 	<!-- Blessed Scroll: Enchant Dragon Shirt -->
-	<enchant id="48498" maxEnchant="10" scrollGroupId="2">
+	<enchant id="48498" maxEnchant="7" scrollGroupId="2">
 		<item id="48491" /> <!-- Dragon Skin Shirt -->
 		<item id="48492" altScrollGroupId="3" /> <!-- Dragon Leather Shirt -->
 		<item id="48493" altScrollGroupId="4" /> <!-- Dragon Rind Leather Shirt -->
@@ -204,7 +204,7 @@
 	</enchant>
 
 	<!-- Blessed Scroll: Enchant Artifact Book -->
-	<enchant id="81694" maxEnchant="10">
+	<enchant id="81694" maxEnchant="7">
 		<item id="48956" /> <!-- Artifact Book Lv. 3 -->
 		<item id="81695" altScrollGroupId="1" /> <!-- Improved Artifact Book Lv. 3 -->
 		<item id="81696" altScrollGroupId="2" /> <!-- Unique Artifact Book Lv. 3 -->
