@@ -12,9 +12,9 @@
 		</chances>
 		<items>
 			<item id="30297" count="1" type="NORMAL" /> <!-- Superior Giant's Codex -->
-			<item id="57" count="2380000" type="NORMAL" /> <!-- Adena -->
+			<item id="57" count="138000" type="NORMAL" /> <!-- Adena -->
 			<item id="30298" count="1" type="BLESSED" /> <!-- Superior Giant's Codex - Mastery -->
-			<item id="57" count="2380000" type="BLESSED" /> <!-- Adena -->
+			<item id="57" count="1380000" type="BLESSED" /> <!-- Adena -->
 			<item id="30299" count="1" type="CHANGE" /> <!-- Superior Giant's Codex - Discipline -->
 			<item id="57" count="2380000" type="CHANGE" /> <!-- Adena -->
 			<item id="37044" count="1" type="IMMORTAL" /> <!-- Immortal Scroll -->
@@ -31,12 +31,12 @@
 			<chance value="87" type="BLESSED" />
 		</chances>
 		<items>
-			<item id="30297" count="1" type="NORMAL" /> <!-- Superior Giant's Codex --> <!-- Retail count 0 -->
-			<item id="57" count="2540000" type="NORMAL" /> <!-- Adena -->
+			<item id="30297" count="1" type="NORMAL" /> <!-- Superior Giant's Codex -->
+			<item id="57" count="148000" type="NORMAL" /> <!-- Adena -->
 			<item id="30298" count="1" type="BLESSED" /> <!-- Superior Giant's Codex - Mastery -->
-			<item id="57" count="2540000" type="BLESSED" /> <!-- Adena -->
+			<item id="57" count="1480000" type="BLESSED" /> <!-- Adena -->
 			<item id="30299" count="1" type="CHANGE" /> <!-- Superior Giant's Codex - Discipline -->
-			<item id="57" count="2540000" type="CHANGE" /> <!-- Adena -->
+			<item id="57" count="2480000" type="CHANGE" /> <!-- Adena -->
 			<item id="37044" count="1" type="IMMORTAL" /> <!-- Immortal Scroll -->
 		</items>
 	</enchant>
@@ -51,12 +51,12 @@
 			<chance value="84" type="BLESSED" />
 		</chances>
 		<items>
-			<item id="30297" count="1" type="NORMAL" /> <!-- Superior Giant's Codex --> <!-- Retail count 0 -->
-			<item id="57" count="2720000" type="NORMAL" /> <!-- Adena -->
+			<item id="30297" count="1" type="NORMAL" /> <!-- Superior Giant's Codex -->
+			<item id="57" count="158000" type="NORMAL" /> <!-- Adena -->
 			<item id="30298" count="1" type="BLESSED" /> <!-- Superior Giant's Codex - Mastery -->
-			<item id="57" count="2720000" type="BLESSED" /> <!-- Adena -->
+			<item id="57" count="1580000" type="BLESSED" /> <!-- Adena -->
 			<item id="30299" count="1" type="CHANGE" /> <!-- Superior Giant's Codex - Discipline -->
-			<item id="57" count="2720000" type="CHANGE" /> <!-- Adena -->
+			<item id="57" count="2580000" type="CHANGE" /> <!-- Adena -->
 			<item id="37044" count="1" type="IMMORTAL" /> <!-- Immortal Scroll -->
 		</items>
 	</enchant>
@@ -71,12 +71,12 @@
 			<chance value="81" type="BLESSED" />
 		</chances>
 		<items>
-			<item id="30297" count="1" type="NORMAL" /> <!-- Superior Giant's Codex --> <!-- Retail count 0 -->
-			<item id="57" count="2890000" type="NORMAL" /> <!-- Adena -->
+			<item id="30297" count="1" type="NORMAL" /> <!-- Superior Giant's Codex -->
+			<item id="57" count="168000" type="NORMAL" /> <!-- Adena -->
 			<item id="30298" count="1" type="BLESSED" /> <!-- Superior Giant's Codex - Mastery -->
-			<item id="57" count="2890000" type="BLESSED" /> <!-- Adena -->
+			<item id="57" count="1680000" type="BLESSED" /> <!-- Adena -->
 			<item id="30299" count="1" type="CHANGE" /> <!-- Superior Giant's Codex - Discipline -->
-			<item id="57" count="2890000" type="CHANGE" /> <!-- Adena -->
+			<item id="57" count="2680000" type="CHANGE" /> <!-- Adena -->
 			<item id="37044" count="1" type="IMMORTAL" /> <!-- Immortal Scroll -->
 		</items>
 	</enchant>
@@ -91,12 +91,12 @@
 			<chance value="78" type="BLESSED" />
 		</chances>
 		<items>
-			<item id="30297" count="1" type="NORMAL" /> <!-- Superior Giant's Codex --> <!-- Retail count 0 -->
-			<item id="57" count="3030000" type="NORMAL" /> <!-- Adena -->
+			<item id="30297" count="1" type="NORMAL" /> <!-- Superior Giant's Codex -->
+			<item id="57" count="178000" type="NORMAL" /> <!-- Adena -->
 			<item id="30298" count="1" type="BLESSED" /> <!-- Superior Giant's Codex - Mastery -->
-			<item id="57" count="3030000" type="BLESSED" /> <!-- Adena -->
+			<item id="57" count="1780000" type="BLESSED" /> <!-- Adena -->
 			<item id="30299" count="1" type="CHANGE" /> <!-- Superior Giant's Codex - Discipline -->
-			<item id="57" count="3030000" type="CHANGE" /> <!-- Adena -->
+			<item id="57" count="2780000" type="CHANGE" /> <!-- Adena -->
 			<item id="37044" count="1" type="IMMORTAL" /> <!-- Immortal Scroll -->
 		</items>
 	</enchant>
@@ -111,12 +111,12 @@
 			<chance value="75" type="BLESSED" />
 		</chances>
 		<items>
-			<item id="30297" count="1" type="NORMAL" /> <!-- Superior Giant's Codex --> <!-- Retail count 0 -->
-			<item id="57" count="3290000" type="NORMAL" /> <!-- Adena -->
+			<item id="30297" count="1" type="NORMAL" /> <!-- Superior Giant's Codex -->
+			<item id="57" count="188000" type="NORMAL" /> <!-- Adena -->
 			<item id="30298" count="1" type="BLESSED" /> <!-- Superior Giant's Codex - Mastery -->
-			<item id="57" count="3290000" type="BLESSED" /> <!-- Adena -->
+			<item id="57" count="1880000" type="BLESSED" /> <!-- Adena -->
 			<item id="30299" count="1" type="CHANGE" /> <!-- Superior Giant's Codex - Discipline -->
-			<item id="57" count="3290000" type="CHANGE" /> <!-- Adena -->
+			<item id="57" count="2880000" type="CHANGE" /> <!-- Adena -->
 			<item id="37044" count="1" type="IMMORTAL" /> <!-- Immortal Scroll -->
 		</items>
 	</enchant>
@@ -131,12 +131,12 @@
 			<chance value="72" type="BLESSED" />
 		</chances>
 		<items>
-			<item id="30297" count="1" type="NORMAL" /> <!-- Superior Giant's Codex --> <!-- Retail count 0 -->
-			<item id="57" count="3670000" type="NORMAL" /> <!-- Adena -->
+			<item id="30297" count="1" type="NORMAL" /> <!-- Superior Giant's Codex -->
+			<item id="57" count="198000" type="NORMAL" /> <!-- Adena -->
 			<item id="30298" count="1" type="BLESSED" /> <!-- Superior Giant's Codex - Mastery -->
-			<item id="57" count="3670000" type="BLESSED" /> <!-- Adena -->
+			<item id="57" count="1980000" type="BLESSED" /> <!-- Adena -->
 			<item id="30299" count="1" type="CHANGE" /> <!-- Superior Giant's Codex - Discipline -->
-			<item id="57" count="3670000" type="CHANGE" /> <!-- Adena -->
+			<item id="57" count="2980000" type="CHANGE" /> <!-- Adena -->
 			<item id="37044" count="1" type="IMMORTAL" /> <!-- Immortal Scroll -->
 		</items>
 	</enchant>
@@ -151,12 +151,12 @@
 			<chance value="68" type="BLESSED" />
 		</chances>
 		<items>
-			<item id="30297" count="1" type="NORMAL" /> <!-- Superior Giant's Codex --> <!-- Retail count 0 -->
-			<item id="57" count="7470000" type="NORMAL" /> <!-- Adena -->
+			<item id="30297" count="1" type="NORMAL" /> <!-- Superior Giant's Codex -->
+			<item id="57" count="208000" type="NORMAL" /> <!-- Adena -->
 			<item id="30298" count="1" type="BLESSED" /> <!-- Superior Giant's Codex - Mastery -->
-			<item id="57" count="7470000" type="BLESSED" /> <!-- Adena -->
+			<item id="57" count="2080000" type="BLESSED" /> <!-- Adena -->
 			<item id="30299" count="1" type="CHANGE" /> <!-- Superior Giant's Codex - Discipline -->
-			<item id="57" count="7470000" type="CHANGE" /> <!-- Adena -->
+			<item id="57" count="3080000" type="CHANGE" /> <!-- Adena -->
 			<item id="37044" count="1" type="IMMORTAL" /> <!-- Immortal Scroll -->
 		</items>
 	</enchant>
@@ -171,12 +171,12 @@
 			<chance value="64" type="BLESSED" />
 		</chances>
 		<items>
-			<item id="30297" count="1" type="NORMAL" /> <!-- Superior Giant's Codex --> <!-- Retail count 0 -->
-			<item id="57" count="10400000" type="NORMAL" /> <!-- Adena -->
+			<item id="30297" count="1" type="NORMAL" /> <!-- Superior Giant's Codex -->
+			<item id="57" count="218000" type="NORMAL" /> <!-- Adena -->
 			<item id="30298" count="1" type="BLESSED" /> <!-- Superior Giant's Codex - Mastery -->
-			<item id="57" count="10400000" type="BLESSED" /> <!-- Adena -->
+			<item id="57" count="2180000" type="BLESSED" /> <!-- Adena -->
 			<item id="30299" count="1" type="CHANGE" /> <!-- Superior Giant's Codex - Discipline -->
-			<item id="57" count="10400000" type="CHANGE" /> <!-- Adena -->
+			<item id="57" count="3180000" type="CHANGE" /> <!-- Adena -->
 			<item id="37044" count="1" type="IMMORTAL" /> <!-- Immortal Scroll -->
 		</items>
 	</enchant>
@@ -192,9 +192,9 @@
 		</chances>
 		<items>
 			<item id="30297" count="1" type="NORMAL" /> <!-- Superior Giant's Codex --> <!-- Retail count 0 -->
-			<item id="57" count="20700000" type="NORMAL" /> <!-- Adena -->
+			<item id="57" count="2700000" type="NORMAL" /> <!-- Adena -->
 			<item id="30298" count="1" type="BLESSED" /> <!-- Superior Giant's Codex - Mastery -->
-			<item id="57" count="20700000" type="BLESSED" /> <!-- Adena -->
+			<item id="57" count="2200000" type="BLESSED" /> <!-- Adena -->
 			<item id="30299" count="1" type="CHANGE" /> <!-- Superior Giant's Codex - Discipline -->
 			<item id="57" count="20700000" type="CHANGE" /> <!-- Adena -->
 			<item id="37044" count="1" type="IMMORTAL" /> <!-- Immortal Scroll -->
@@ -212,9 +212,9 @@
 		</chances>
 		<items>
 			<item id="46150" count="1" type="NORMAL" /> <!-- Superior Giant's Codex --> <!-- Retail count 0 -->
-			<item id="57" count="8400000" type="NORMAL" /> <!-- Adena -->
+			<item id="57" count="840000" type="NORMAL" /> <!-- Adena -->
 			<item id="46151" count="1" type="BLESSED" /> <!-- Superior Giant's Codex - Mastery Chapter 1 -->
-			<item id="57" count="8400000" type="BLESSED" /> <!-- Adena -->
+			<item id="57" count="2400000" type="BLESSED" /> <!-- Adena -->
 			<item id="46152" count="1" type="CHANGE" /> <!-- Superior Giant's Codex - Discipline Chapter 1 -->
 			<item id="57" count="8400000" type="CHANGE" /> <!-- Adena -->
 			<item id="46153" count="1" type="IMMORTAL" /> <!-- Immortal Scroll Chapter 1 -->
@@ -234,7 +234,7 @@
 			<item id="46150" count="1" type="NORMAL" /> <!-- Superior Giant's Codex --> <!-- Retail count 0 -->
 			<item id="57" count="9400000" type="NORMAL" /> <!-- Adena -->
 			<item id="46151" count="1" type="BLESSED" /> <!-- Superior Giant's Codex - Mastery Chapter 1 -->
-			<item id="57" count="9400000" type="BLESSED" /> <!-- Adena -->
+			<item id="57" count="5400000" type="BLESSED" /> <!-- Adena -->
 			<item id="46152" count="1" type="CHANGE" /> <!-- Superior Giant's Codex - Discipline Chapter 1 -->
 			<item id="57" count="9400000" type="CHANGE" /> <!-- Adena -->
 			<item id="46153" count="1" type="IMMORTAL" /> <!-- Immortal Scroll Chapter 1 -->
@@ -252,9 +252,9 @@
 		</chances>
 		<items>
 			<item id="46150" count="1" type="NORMAL" /> <!-- Superior Giant's Codex --> <!-- Retail count 0 -->
-			<item id="57" count="26300000" type="NORMAL" /> <!-- Adena -->
+			<item id="57" count="2630000" type="NORMAL" /> <!-- Adena -->
 			<item id="46151" count="1" type="BLESSED" /> <!-- Superior Giant's Codex - Mastery Chapter 1 -->
-			<item id="57" count="26300000" type="BLESSED" /> <!-- Adena -->
+			<item id="57" count="6300000" type="BLESSED" /> <!-- Adena -->
 			<item id="46152" count="1" type="CHANGE" /> <!-- Superior Giant's Codex - Discipline Chapter 1 -->
 			<item id="57" count="26300000" type="CHANGE" /> <!-- Adena -->
 			<item id="46153" count="1" type="IMMORTAL" /> <!-- Immortal Scroll Chapter 1 -->
@@ -272,9 +272,9 @@
 		</chances>
 		<items>
 			<item id="46150" count="1" type="NORMAL" /> <!-- Superior Giant's Codex --> <!-- Retail count 0 -->
-			<item id="57" count="31700000" type="NORMAL" /> <!-- Adena -->
+			<item id="57" count="3170000" type="NORMAL" /> <!-- Adena -->
 			<item id="46151" count="1" type="BLESSED" /> <!-- Superior Giant's Codex - Mastery Chapter 1 -->
-			<item id="57" count="31700000" type="BLESSED" /> <!-- Adena -->
+			<item id="57" count="9700000" type="BLESSED" /> <!-- Adena -->
 			<item id="46152" count="1" type="CHANGE" /> <!-- Superior Giant's Codex - Discipline Chapter 1 -->
 			<item id="57" count="31700000" type="CHANGE" /> <!-- Adena -->
 			<item id="46153" count="1" type="IMMORTAL" /> <!-- Immortal Scroll Chapter 1 -->
@@ -292,9 +292,9 @@
 		</chances>
 		<items>
 			<item id="46150" count="1" type="NORMAL" /> <!-- Superior Giant's Codex --> <!-- Retail count 0 -->
-			<item id="57" count="47600000" type="NORMAL" /> <!-- Adena -->
+			<item id="57" count="4760000" type="NORMAL" /> <!-- Adena -->
 			<item id="46151" count="1" type="BLESSED" /> <!-- Superior Giant's Codex - Mastery Chapter 1 -->
-			<item id="57" count="47600000" type="BLESSED" /> <!-- Adena -->
+			<item id="57" count="9900000" type="BLESSED" /> <!-- Adena -->
 			<item id="46152" count="1" type="CHANGE" /> <!-- Superior Giant's Codex - Discipline Chapter 1 -->
 			<item id="57" count="47600000" type="CHANGE" /> <!-- Adena -->
 			<item id="46153" count="1" type="IMMORTAL" /> <!-- Immortal Scroll Chapter 1 -->
@@ -312,9 +312,9 @@
 		</chances>
 		<items>
 			<item id="46150" count="1" type="NORMAL" /> <!-- Superior Giant's Codex --> <!-- Retail count 0 -->
-			<item id="57" count="61800000" type="NORMAL" /> <!-- Adena -->
+			<item id="57" count="5180000" type="NORMAL" /> <!-- Adena -->
 			<item id="46151" count="1" type="BLESSED" /> <!-- Superior Giant's Codex - Mastery Chapter 1 -->
-			<item id="57" count="61800000" type="BLESSED" /> <!-- Adena -->
+			<item id="57" count="1000000" type="BLESSED" /> <!-- Adena -->
 			<item id="46152" count="1" type="CHANGE" /> <!-- Superior Giant's Codex - Discipline Chapter 1 -->
 			<item id="57" count="61800000" type="CHANGE" /> <!-- Adena -->
 			<item id="46153" count="1" type="IMMORTAL" /> <!-- Immortal Scroll Chapter 1 -->
@@ -332,9 +332,9 @@
 		</chances>
 		<items>
 			<item id="46150" count="1" type="NORMAL" /> <!-- Superior Giant's Codex --> <!-- Retail count 0 -->
-			<item id="57" count="200700000" type="NORMAL" /> <!-- Adena -->
+			<item id="57" count="20070000" type="NORMAL" /> <!-- Adena -->
 			<item id="46151" count="1" type="BLESSED" /> <!-- Superior Giant's Codex - Mastery Chapter 1 -->
-			<item id="57" count="200700000" type="BLESSED" /> <!-- Adena -->
+			<item id="57" count="20070000" type="BLESSED" /> <!-- Adena -->
 			<item id="46152" count="1" type="CHANGE" /> <!-- Superior Giant's Codex - Discipline Chapter 1 -->
 			<item id="57" count="200700000" type="CHANGE" /> <!-- Adena -->
 			<item id="46153" count="1" type="IMMORTAL" /> <!-- Immortal Scroll Chapter 1 -->
@@ -352,9 +352,9 @@
 		</chances>
 		<items>
 			<item id="46150" count="1" type="NORMAL" /> <!-- Superior Giant's Codex --> <!-- Retail count 0 -->
-			<item id="57" count="322200000" type="NORMAL" /> <!-- Adena -->
+			<item id="57" count="32220000" type="NORMAL" /> <!-- Adena -->
 			<item id="46151" count="1" type="BLESSED" /> <!-- Superior Giant's Codex - Mastery Chapter 1 -->
-			<item id="57" count="322200000" type="BLESSED" /> <!-- Adena -->
+			<item id="57" count="32220000" type="BLESSED" /> <!-- Adena -->
 			<item id="46152" count="1" type="CHANGE" /> <!-- Superior Giant's Codex - Discipline Chapter 1 -->
 			<item id="57" count="322200000" type="CHANGE" /> <!-- Adena -->
 			<item id="46153" count="1" type="IMMORTAL" /> <!-- Immortal Scroll Chapter 1 -->
@@ -372,9 +372,9 @@
 		</chances>
 		<items>
 			<item id="46150" count="1" type="NORMAL" /> <!-- Superior Giant's Codex --> <!-- Retail count 0 -->
-			<item id="57" count="386700000" type="NORMAL" /> <!-- Adena -->
+			<item id="57" count="38670000" type="NORMAL" /> <!-- Adena -->
 			<item id="46151" count="1" type="BLESSED" /> <!-- Superior Giant's Codex - Mastery Chapter 1 -->
-			<item id="57" count="386700000" type="BLESSED" /> <!-- Adena -->
+			<item id="57" count="38670000" type="BLESSED" /> <!-- Adena -->
 			<item id="46152" count="1" type="CHANGE" /> <!-- Superior Giant's Codex - Discipline Chapter 1 -->
 			<item id="57" count="386700000" type="CHANGE" /> <!-- Adena -->
 			<item id="46153" count="1" type="IMMORTAL" /> <!-- Immortal Scroll Chapter 1 -->
