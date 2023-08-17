@@ -288,3 +288,60 @@
 2023.08.17 17:14:35,197	INFO	22	org.l2jmobius.commons.util.IXmlReader	Network Config: ipconfig.xml exists using manual configuration...
 2023.08.17 17:14:35,204	INFO	22	org.l2jmobius.Config	Loaded 6 Filter Words.
 2023.08.17 17:16:12,125	WARNING	114	org.l2jmobius.gameserver.network.PacketLogger	Character (f) has dropped (108446530592)adena at (108512,-151843,-2237)
+2023.08.17 17:25:36,581	INFO	22	org.l2jmobius.gameserver.cache.HtmCache	Html cache start...
+2023.08.17 17:25:37,921	INFO	22	org.l2jmobius.gameserver.cache.HtmCache	Cache[HTML]: 4.284 megabytes on 6397 files loaded.
+2023.08.17 17:25:39,678	INFO	22	org.l2jmobius.gameserver.data.xml.MultisellData	MultisellData: Loaded 603 multisell lists.
+2023.08.17 17:34:28,516	INFO	22	org.l2jmobius.gameserver.cache.HtmCache	Html cache start...
+2023.08.17 17:34:29,807	INFO	22	org.l2jmobius.gameserver.cache.HtmCache	Cache[HTML]: 4.291 megabytes on 6397 files loaded.
+2023.08.17 17:34:32,916	INFO	22	org.l2jmobius.gameserver.data.xml.MultisellData	MultisellData: Loaded 603 multisell lists.
+2023.08.17 17:34:56,136	INFO	22	org.l2jmobius.gameserver.data.xml.MultisellData	MultisellData: Loaded 603 multisell lists.
+2023.08.17 17:35:02,147	INFO	32	org.l2jmobius.gameserver.instancemanager.GlobalVariablesManager	GlobalVariablesManager: Stored 16 variables.
+2023.08.17 17:40:43,402	INFO	22	org.l2jmobius.gameserver.data.xml.MultisellData	MultisellData: Loaded 603 multisell lists.
+2023.08.17 17:51:09,379	INFO	22	org.l2jmobius.gameserver.cache.HtmCache	Html cache start...
+2023.08.17 17:51:10,550	INFO	22	org.l2jmobius.gameserver.cache.HtmCache	Cache[HTML]: 4.299 megabytes on 6397 files loaded.
+2023.08.17 17:51:13,188	WARNING	112	org.l2jmobius.gameserver.network.PacketLogger	Exception processing bypass from Player:f[268511866]: _bbsmultisell;700010 Index 1 out of bounds for length 1
+2023.08.17 17:51:13,189	WARNING	112	org.l2jmobius.gameserver.network.PacketLogger	java.lang.ArrayIndexOutOfBoundsException: Index 1 out of bounds for length 1
+	at handlers.communityboard.HomeBoard.parseCommunityBoardCommand(HomeBoard.java:153)
+	at org.l2jmobius.gameserver.handler.CommunityBoardHandler.handleParseCommand(CommunityBoardHandler.java:121)
+	at org.l2jmobius.gameserver.network.clientpackets.RequestBypassToServer.run(RequestBypassToServer.java:147)
+	at org.l2jmobius.gameserver.network.PacketHandler.handle(PacketHandler.java:80)
+	at org.l2jmobius.gameserver.network.PacketHandler.handle(PacketHandler.java:29)
+	at org.l2jmobius.commons.network.ExecuteThread$ExecuteTask.run(ExecuteThread.java:130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+2023.08.17 17:51:37,356	INFO	22	org.l2jmobius.gameserver.cache.HtmCache	Html cache start...
+2023.08.17 17:51:38,557	INFO	22	org.l2jmobius.gameserver.cache.HtmCache	Cache[HTML]: 4.307 megabytes on 6397 files loaded.
+2023.08.17 17:56:10,799	INFO	22	org.l2jmobius.gameserver.cache.HtmCache	Html cache start...
+2023.08.17 17:56:11,955	INFO	22	org.l2jmobius.gameserver.cache.HtmCache	Cache[HTML]: 4.314 megabytes on 6397 files loaded.
+2023.08.17 17:56:14,103	INFO	22	org.l2jmobius.gameserver.data.xml.MultisellData	MultisellData: Loaded 603 multisell lists.
+2023.08.17 17:56:29,802	INFO	22	org.l2jmobius.gameserver.data.xml.MultisellData	MultisellData: Loaded 603 multisell lists.
+2023.08.17 18:05:02,159	INFO	47	org.l2jmobius.gameserver.instancemanager.GlobalVariablesManager	GlobalVariablesManager: Stored 16 variables.
+2023.08.17 18:05:28,123	INFO	22	org.l2jmobius.gameserver.data.xml.MultisellData	MultisellData: Loaded 603 multisell lists.
+2023.08.17 18:07:14,165	INFO	22	org.l2jmobius.gameserver.cache.HtmCache	Html cache start...
+2023.08.17 18:07:15,517	INFO	22	org.l2jmobius.gameserver.cache.HtmCache	Cache[HTML]: 4.321 megabytes on 6397 files loaded.
+2023.08.17 18:07:18,204	INFO	22	org.l2jmobius.gameserver.data.xml.MultisellData	MultisellData: Loaded 603 multisell lists.
+2023.08.17 18:24:10,997	WARNING	112	org.l2jmobius.gameserver.model.actor.Creature	Master access level set for character f! Just a warning to be careful ;)
+2023.08.17 18:26:45,246	WARNING	22	org.l2jmobius.gameserver.Shutdown	Server scheduled restart issued shutdown command. Shutdown in 1 seconds!
+2023.08.17 18:26:46,247	WARNING	191	org.l2jmobius.gameserver.Shutdown	GM shutdown countdown is over. shutting down NOW!
+2023.08.17 18:26:46,261	INFO	191	org.l2jmobius.gameserver.Shutdown	All players disconnected and saved(12ms).
+2023.08.17 18:26:46,262	INFO	191	org.l2jmobius.gameserver.Shutdown	Game Time Task Manager: Thread interruped(1ms).
+2023.08.17 18:26:46,262	INFO	191	org.l2jmobius.commons.threads.ThreadPool	ThreadPool: Shutting down.
+2023.08.17 18:26:46,262	INFO	191	org.l2jmobius.gameserver.Shutdown	Thread Pool Manager: Manager has been shut down(1ms).
+2023.08.17 18:26:46,263	INFO	191	org.l2jmobius.gameserver.Shutdown	Login Server Thread: Thread interruped(1ms).
+2023.08.17 18:26:46,263	INFO	191	org.l2jmobius.gameserver.Shutdown	GM shutdown received. Shutting down NOW!
+2023.08.17 18:26:46,271	INFO	191	org.l2jmobius.gameserver.Shutdown	RaidBossSpawnManager: All raidboss info saved(8ms).
+2023.08.17 18:26:46,273	INFO	191	org.l2jmobius.gameserver.Shutdown	GrandBossManager: All Grand Boss info saved(2ms).
+2023.08.17 18:26:46,273	INFO	191	org.l2jmobius.gameserver.Shutdown	Item Auction Manager: All tasks stopped(0ms).
+2023.08.17 18:26:46,274	INFO	191	org.l2jmobius.gameserver.Shutdown	Olympiad System: Data saved(1ms).
+2023.08.17 18:26:46,275	INFO	191	org.l2jmobius.gameserver.Shutdown	Hero System: Data saved(1ms).
+2023.08.17 18:26:46,275	INFO	191	org.l2jmobius.gameserver.Shutdown	Clan System: Data saved(0ms).
+2023.08.17 18:26:46,275	INFO	191	org.l2jmobius.gameserver.Shutdown	Cursed Weapons Manager: Data saved(0ms).
+2023.08.17 18:26:46,276	INFO	191	org.l2jmobius.gameserver.Shutdown	Castle Manor Manager: Data saved(1ms).
+2023.08.17 18:26:46,280	INFO	191	org.l2jmobius.gameserver.Shutdown	Quest Manager: Data saved(4ms).
+2023.08.17 18:26:46,292	INFO	191	org.l2jmobius.gameserver.instancemanager.GlobalVariablesManager	GlobalVariablesManager: Stored 16 variables.
+2023.08.17 18:26:46,292	INFO	191	org.l2jmobius.gameserver.Shutdown	Global Variables Manager: Variables saved(12ms).
+2023.08.17 18:26:46,292	INFO	191	org.l2jmobius.gameserver.Shutdown	Bot Report Table: Successfully saved reports to database!
+2023.08.17 18:26:51,307	INFO	191	org.l2jmobius.gameserver.Shutdown	Database Factory: Database connection has been shut down(13ms).
+2023.08.17 18:26:51,308	INFO	191	org.l2jmobius.gameserver.Shutdown	The server has been successfully shut down in 5seconds.

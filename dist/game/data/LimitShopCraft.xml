@@ -389,54 +389,6 @@
 		<ingredient id="17371" count="6" /> <!-- R-grade Crystal -->
 		<production id="46083" count="500" chance="100" /> <!-- Mysterious Blessed R-grade Spiritshot -->
 	</product>
-	<product id="1055" category="4">
-		<ingredient id="81215" count="553" /> <!-- Aether -->
-		<ingredient id="81216" count="277" /> <!-- Black Mithril -->
-		<ingredient id="81217" count="277" /> <!-- Oriharukon Ore -->
-		<ingredient id="81218" count="277" /> <!-- Dragon Scale -->
-		<ingredient id="81219" count="277" /> <!-- Angel's Feather -->
-		<production id="37770" chance="60" id2="81215" count2="55" chance2="40" /> <!-- Scroll of Blessing: R-grade Weapon -->
-	</product>
-	<product id="1056" category="4">
-		<ingredient id="81215" count="7417" /> <!-- Aether -->
-		<ingredient id="81216" count="3708" /> <!-- Black Mithril -->
-		<ingredient id="81217" count="3708" /> <!-- Oriharukon Ore -->
-		<ingredient id="81218" count="3708" /> <!-- Dragon Scale -->
-		<ingredient id="81219" count="3708" /> <!-- Angel's Feather -->
-		<production id="37771" chance="60" id2="81215" count2="741" chance2="40" /> <!-- Scroll of Blessing: R95-grade Weapon -->
-	</product>
-	<product id="1057" category="4">
-		<ingredient id="81215" count="10896" /> <!-- Aether -->
-		<ingredient id="81216" count="5448" /> <!-- Black Mithril -->
-		<ingredient id="81217" count="5448" /> <!-- Oriharukon Ore -->
-		<ingredient id="81218" count="5448" /> <!-- Dragon Scale -->
-		<ingredient id="81219" count="5448" /> <!-- Angel's Feather -->
-		<production id="37772" chance="60" id2="81215" count2="1089" chance2="40" /> <!-- Scroll of Blessing: R99-grade Weapon -->
-	</product>
-	<product id="1058" category="4">
-		<ingredient id="81215" count="144" /> <!-- Aether -->
-		<ingredient id="81216" count="72" /> <!-- Black Mithril -->
-		<ingredient id="81217" count="72" /> <!-- Oriharukon Ore -->
-		<ingredient id="81218" count="72" /> <!-- Dragon Scale -->
-		<ingredient id="81219" count="72" /> <!-- Angel's Feather -->
-		<production id="37779" chance="60" id2="81215" count2="14" chance2="40" /> <!-- Scroll of Blessing: R-grade Armor -->
-	</product>
-	<product id="1059" category="4">
-		<ingredient id="81215" count="2012" /> <!-- Aether -->
-		<ingredient id="81216" count="1006" /> <!-- Black Mithril -->
-		<ingredient id="81217" count="1006" /> <!-- Oriharukon Ore -->
-		<ingredient id="81218" count="1006" /> <!-- Dragon Scale -->
-		<ingredient id="81219" count="1006" /> <!-- Angel's Feather -->
-		<production id="37780" chance="60" id2="81215" count2="201" chance2="40" /> <!-- Scroll of Blessing: R95-grade Armor -->
-	</product>
-	<product id="1060" category="4">
-		<ingredient id="81215" count="2956" /> <!-- Aether -->
-		<ingredient id="81216" count="1478" /> <!-- Black Mithril -->
-		<ingredient id="81217" count="1478" /> <!-- Oriharukon Ore -->
-		<ingredient id="81218" count="1478" /> <!-- Dragon Scale -->
-		<ingredient id="81219" count="1478" /> <!-- Angel's Feather -->
-		<production id="37781" chance="60" id2="81215" count2="295" chance2="40" /> <!-- Scroll of Blessing: R99-grade Armor -->
-	</product>
 	<product id="1061" category="0">
 		<ingredient id="81215" count="11316" /> <!-- Aether -->
 		<ingredient id="81216" count="2021" /> <!-- Black Mithril -->
@@ -684,46 +636,6 @@
 		<ingredient id="48679" count="2" /> <!-- High-grade Skill Cooldown Talisman Pack -->
 		<ingredient id="19440" count="1000" /> <!-- R-grade Gemstone -->
 		<production id="81822" chance="50" id2="81215" count2="300" chance2="50" /> <!-- Cara's Talisman Pack -->
-	</product>
-	<product id="1127" category="3">
-		<ingredient id="80636" count="4" /> <!-- Artifact Crystal -->
-		<ingredient id="57" count="1000000" /> <!-- Adena -->
-		<production id="81745" chance="100" /> <!-- +1 Balance Artifact Pack (Event) -->
-	</product>
-	<product id="1128" category="3">
-		<ingredient id="80636" count="13" /> <!-- Artifact Crystal -->
-		<ingredient id="57" count="5000000" /> <!-- Adena -->
-		<production id="81746" chance="100" /> <!-- +3 Balance Artifact Pack (Event) -->
-	</product>
-	<product id="1129" category="3">
-		<ingredient id="80636" count="4" /> <!-- Artifact Crystal -->
-		<ingredient id="57" count="1000000" /> <!-- Adena -->
-		<production id="82158" chance="100" /> <!-- +1 Attack Artifact Pack (Event) -->
-	</product>
-	<product id="1130" category="3">
-		<ingredient id="80636" count="13" /> <!-- Artifact Crystal -->
-		<ingredient id="57" count="5000000" /> <!-- Adena -->
-		<production id="82159" chance="100" /> <!-- +3 Attack Artifact Pack (Event) -->
-	</product>
-	<product id="1131" category="3">
-		<ingredient id="80636" count="4" /> <!-- Artifact Crystal -->
-		<ingredient id="57" count="1000000" /> <!-- Adena -->
-		<production id="82160" chance="100" /> <!-- +1 Defense Artifact Pack (Event) -->
-	</product>
-	<product id="1132" category="3">
-		<ingredient id="80636" count="13" /> <!-- Artifact Crystal -->
-		<ingredient id="57" count="5000000" /> <!-- Adena -->
-		<production id="82161" chance="100" /> <!-- +3 Defense Artifact Pack (Event) -->
-	</product>
-	<product id="1133" category="3">
-		<ingredient id="80636" count="4" /> <!-- Artifact Crystal -->
-		<ingredient id="57" count="1000000" /> <!-- Adena -->
-		<production id="82162" chance="100" /> <!-- +1 Support Artifact Pack (Event) -->
-	</product>
-	<product id="1134" category="3">
-		<ingredient id="80636" count="13" /> <!-- Artifact Crystal -->
-		<ingredient id="57" count="5000000" /> <!-- Adena -->
-		<production id="82163" chance="100" /> <!-- +3 Support Artifact Pack (Event) -->
 	</product>
 	<product id="1181" category="4">
 		<ingredient id="48876" count="5" /> <!-- Forgotten Spellbook - Chapter 1 -->

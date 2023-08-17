@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+    <npcs>
+        <npc>-1</npc> <!-- CB -->
+    </npcs>
+         <!-- 1 lvl venir-->
+    <item>
+        <ingredient count="5000000" id="57" />
+        <production count="1" id="39634" />
+    </item>
+    <!-- 6 lvl venir-->
+    <item>
+        <ingredient count="1" id="39634" />
+        <production count="1" id="39639" />
+    </item>
+    <!-- 12 lvl venir-->
+    <item>
+        <ingredient count="1" id="39639" />
+        <production count="1" id="39645" />
+    </item>
+    <!-- 15 lvl venir-->
+    <item>
+        <ingredient count="1" id="39645" />
+        <production count="1" id="39648" />
+    </item>
+    <!-- 18 lvl venir-->
+    <item>
+        <ingredient count="1" id="39648" />
+        <production count="1" id="39651" />
+    </item>
+    <!-- 20 lvl venir-->
+    <item>
+        <ingredient count="1" id="39651" />
+        <production count="1" id="39653" />
+    </item>
+    <!-- 24 lvl venir-->
+    <item>
+        <ingredient count="1" id="39653" />
+        <production count="1" id="39657" />
+    </item>
+</list>
