@@ -41,7 +41,8 @@
 		<set name="is_sellable" val="false" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="29304" name="Seven Deadly Sins Agathion Charm Upgrade Stone" type="EtcItem">
+<!--	Seven Deadly Sins Agathion Charm Upgrade Stone-->
+	<item id="29304" name="Shiny Upgrade Stone" type="EtcItem">
 		<!-- Material needed to upgrade Noble Warrior's/ Wizard's/ Knight's Circlets to Radiant. Talk to Head Blacksmith Ferris of Aden to upgrade +5 Circlets into Noble Circlets. -->
 		<set name="icon" val="BranchIcon.icon.g_bm_7th_sins_upgrade_jp" />
 		<set name="etcitem_type" val="MATERIAL" />

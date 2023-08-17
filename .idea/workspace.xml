@@ -4,17 +4,33 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4309c602-5ca8-4831-8926-93e80052e187" name="Changes" comment="fixes">
-      <change afterPath="$PROJECT_DIR$/dist/game/data/multisell/custom/700010.xml" afterDir="false" />
+    <list default="true" id="4309c602-5ca8-4831-8926-93e80052e187" name="Changes" comment="shop fixes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/game/data/LimitShopCraft.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/data/LimitShopCraft.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/game/data/html/CommunityBoard/Custom/merchant/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/data/html/CommunityBoard/Custom/merchant/main.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/game/data/html/default/33715.htm" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/data/html/default/33715.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/game/data/multisell/2061.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/data/multisell/2061.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/game/data/multisell/861.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/data/multisell/861.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/game/data/multisell/863.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/data/multisell/863.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/game/data/multisell/870.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/data/multisell/870.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/game/data/stats/items/29300-29399.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/data/stats/items/29300-29399.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/game/log/GMAudit/f [268511866].txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/GMAudit/f [268511866].txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/game/log/error17.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/error17.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/game/log/error18.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/error18.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/game/log/error19.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/error19.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/game/log/java0.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/java0.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/game/log/java1.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/java1.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/game/log/java10.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/java10.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/game/log/java11.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/java11.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/game/log/java12.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/java12.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/game/log/java13.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/java13.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/game/log/java14.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/java14.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/game/log/java15.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/java15.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/game/log/java16.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/java16.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/game/log/java17.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/java17.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/game/log/java18.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/java18.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/game/log/java19.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/java19.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/game/log/java2.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/java2.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/game/log/java3.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/java3.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/game/log/java4.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/java4.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/game/log/java5.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/java5.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/game/log/java6.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/java6.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/game/log/java7.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/java7.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/game/log/java8.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/java8.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/game/log/java9.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/java9.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,7 +130,7 @@
       <workItem from="1692010726531" duration="5356000" />
       <workItem from="1692087617690" duration="16222000" />
       <workItem from="1692195845098" duration="13027000" />
-      <workItem from="1692260883491" duration="17687000" />
+      <workItem from="1692260883491" duration="18315000" />
     </task>
     <task id="LOCAL-00001" summary="Garden of Spirit mob stat fix">
       <option name="closed" value="true" />
@@ -180,7 +196,15 @@
       <option name="project" value="LOCAL" />
       <updated>1692282094877</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="shop fixes">
+      <option name="closed" value="true" />
+      <created>1692286025374</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1692286025374</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -190,7 +214,8 @@
     <MESSAGE value="Garden of Spirit mob stat fix" />
     <MESSAGE value="added mobs to Saint's Necropolis" />
     <MESSAGE value="fixes" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixes" />
+    <MESSAGE value="shop fixes" />
+    <option name="LAST_COMMIT_MESSAGE" value="shop fixes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
