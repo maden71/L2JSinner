@@ -59,6 +59,7 @@ import org.l2jmobius.gameserver.model.zone.ZoneType;
 import org.l2jmobius.gameserver.network.serverpackets.ExPVPMatchCCRecord;
 import org.l2jmobius.gameserver.network.serverpackets.ExShowScreenMessage;
 import org.l2jmobius.gameserver.network.serverpackets.MagicSkillUse;
+import org.l2jmobius.gameserver.network.serverpackets.NpcHtmlMessage;
 import org.l2jmobius.gameserver.util.Broadcast;
 import org.l2jmobius.gameserver.util.Util;
 
@@ -205,6 +206,7 @@ public class TvT  extends Event
 		addEnterZoneId(BLUE_PEACE_ZONE.getId(), RED_PEACE_ZONE.getId());
 
 
+
 		 //Daily task to start event at 20:00.
 		 final Calendar calendar = Calendar.getInstance();
 		for(int hour = 1; hour <= 24; hour++ ) {
@@ -228,6 +230,7 @@ public class TvT  extends Event
 	@Override
 	public String onAdvEvent(String event, Npc npc, Player player)
 	{
+		
 		if (!EVENT_ACTIVE)
 		{
 			return null;

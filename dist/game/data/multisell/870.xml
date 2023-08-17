@@ -11,4 +11,25 @@
 		<ingredient id="57" count="18430000" /> <!-- Adena -->
 		<production id="26291" count="1" /> <!-- Kaliel's Energy Longing -->
 	</item>
+	<item>
+		<ingredient id="57" count="37000000" /> <!-- Adena -->
+		<production id="60091" count="1" /> <!-- abundance mark -->
+	</item>
+	<item>
+		<ingredient id="57" count="5200000" /> <!-- Adena -->
+		<production id="26418" count="1" /> <!-- abundance recipe 1 -->
+	</item>
+	<item>
+		<ingredient id="57" count="7400000" /> <!-- Adena -->
+		<production id="26419" count="1" /> <!-- abundance recipe 2 -->
+	</item>
+	<item>
+		<ingredient id="57" count="8500000" /> <!-- Adena -->
+		<production id="26420" count="1" /> <!-- abundance recipe 3 -->
+	</item>
+	<item>
+		<ingredient id="57" count="10000000" /> <!-- Adena -->
+		<production id="26421" count="1" /> <!-- abundance recipe 4 -->
+	</item>
+
 </list>

@@ -4,11 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4309c602-5ca8-4831-8926-93e80052e187" name="Changes" comment="limit shop change and item fix">
+    <list default="true" id="4309c602-5ca8-4831-8926-93e80052e187" name="Changes" comment="limit,craft shop change and item fix">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/game/data/LimitShopCraft.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/data/LimitShopCraft.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/game/data/stats/items/60300-60399.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/data/stats/items/60300-60399.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/game/data/stats/skills/custom/100000.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/data/stats/skills/custom/100000.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/game/data/html/default/33715.htm" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/data/html/default/33715.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/game/data/multisell/870.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/data/multisell/870.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/game/data/scripts/custom/events/TeamVsTeam/TvT.java" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/data/scripts/custom/events/TeamVsTeam/TvT.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/game/data/spawns/Others/23_13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/data/spawns/Others/23_13.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/game/data/stats/npcs/24200-24299.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/data/stats/npcs/24200-24299.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/game/log/accounting0.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/accounting0.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/game/log/java0.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/java0.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/game/log/java1.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/java1.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/game/log/java10.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/java10.log" afterDir="false" />
@@ -65,6 +69,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "SDKs",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2",
@@ -129,7 +134,7 @@
       <workItem from="1692010726531" duration="5356000" />
       <workItem from="1692087617690" duration="16222000" />
       <workItem from="1692195845098" duration="13027000" />
-      <workItem from="1692260883491" duration="24775000" />
+      <workItem from="1692260883491" duration="28196000" />
     </task>
     <task id="LOCAL-00001" summary="Garden of Spirit mob stat fix">
       <option name="closed" value="true" />
@@ -219,7 +224,23 @@
       <option name="project" value="LOCAL" />
       <updated>1692296875883</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="limit,craft shop change and item fix">
+      <option name="closed" value="true" />
+      <created>1692298066085</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1692298066085</updated>
+    </task>
+    <task id="LOCAL-00013" summary="limit,craft shop change and item fix">
+      <option name="closed" value="true" />
+      <created>1692298074499</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1692298074499</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -232,7 +253,8 @@
     <MESSAGE value="shop fixes" />
     <MESSAGE value="New material Added" />
     <MESSAGE value="limit shop change and item fix" />
-    <option name="LAST_COMMIT_MESSAGE" value="limit shop change and item fix" />
+    <MESSAGE value="limit,craft shop change and item fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="limit,craft shop change and item fix" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

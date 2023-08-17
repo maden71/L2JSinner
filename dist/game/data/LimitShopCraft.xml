@@ -654,25 +654,26 @@
 	</product>
 	<product id="1184" category="3" announce="true">
 		<ingredient id="26418" count="1" /> <!-- Recipe: High-grade Talisman of Abundance Lv. 1 -->
-		<production id="26338" chance="25" id2="81215" count2="1" chance2="75" /> <!-- High-grade Talisman of Abundance Lv. 1 -->
+		<ingredient id="60091" count="1" /> <!-- mark -->
+		<production id="26338" chance="100"/> <!-- High-grade Talisman of Abundance Lv. 1 -->
 	</product>
 	<product id="1185" category="3" announce="true">
 		<ingredient id="26419" count="1" /> <!-- Recipe: High-grade Talisman of Abundance Lv. 2 -->
 		<ingredient id="26338" count="1" /> <!-- High-grade Talisman of Abundance Lv. 1 -->
 		<ingredient id="29304" count="1" />
-		<production id="26339" chance="25" id2="81215" count2="1" chance2="75" /> <!-- High-grade Talisman of Abundance Lv. 2 -->
+		<production id="26339" chance="90" id2="81215" count2="1" chance2="10" /> <!-- High-grade Talisman of Abundance Lv. 2 -->
 	</product>
 	<product id="1186" category="3" announce="true">
 		<ingredient id="26419" count="1" /> <!-- Recipe: High-grade Talisman of Abundance Lv. 3 -->
 		<ingredient id="26339" count="1" /> <!-- High-grade Talisman of Abundance Lv. 2 -->
 		<ingredient id="29304" count="1" />
-		<production id="26340" chance="25" id2="81215" count2="1" chance2="75" /> <!-- High-grade Talisman of Abundance Lv. 3 -->
+		<production id="26340" chance="80" id2="81215" count2="1" chance2="20" /> <!-- High-grade Talisman of Abundance Lv. 3 -->
 	</product>
 	<product id="1187" category="3" announce="true">
 		<ingredient id="26419" count="1" /> <!-- Recipe: High-grade Talisman of Abundance Lv. 4 -->
 		<ingredient id="26340" count="1" /> <!-- High-grade Talisman of Abundance Lv. 3 -->
 		<ingredient id="29304" count="1" />
-		<production id="26341" chance="25" id2="81215" count2="1" chance2="75" /> <!-- High-grade Talisman of Abundance Lv. 4 -->
+		<production id="26341" chance="70" id2="81215" count2="1" chance2="30" /> <!-- High-grade Talisman of Abundance Lv. 4 -->
 	</product>
 	<product id="1189" category="3">
 		<ingredient id="57" count="500000000" /> <!-- Adena -->

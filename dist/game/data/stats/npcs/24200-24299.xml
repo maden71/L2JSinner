@@ -704,7 +704,7 @@
 		<acquire exp="101300441" sp="4" />
 		<mpReward value="3" type="PER" ticks="5" affects="PARTY" />
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
-			<vitals hp="212341" hpRegen="11.4" mp="25460" mpRegen="30" />
+			<vitals hp="155463" hpRegen="11.4" mp="25460" mpRegen="30" />
 			<attack physical="222055" magical="25895" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
 			<defence physical="9474" magical="3836" />
 			<speed>
@@ -740,8 +740,9 @@
 			<drop>
 				<item id="57" min="286" max="665" chance="70" /> <!-- Adena -->
 				<item id="30297" min="1" max="20" chance="50" />
-				<item id="80839" min="1" max="1" chance="15" />
-				<item id="48472" min="1" max="1" chance="1" />
+				<item id="80839" min="1" max="1" chance="10" />
+				<item id="48472" min="1" max="5" chance="1" />
+				<item id="48498" min="1" max="1" chance="5" />
 			</drop>
 		</dropLists>
 	</npc>
@@ -752,7 +753,7 @@
 		<acquire exp="101300441" sp="4" />
 		<mpReward value="3" type="PER" ticks="5" affects="PARTY" />
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
-			<vitals hp="214242" hpRegen="11.4" mp="25460" mpRegen="30" />
+			<vitals hp="155463" hpRegen="11.4" mp="25460" mpRegen="30" />
 			<attack physical="222055" magical="25895" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
 			<defence physical="9474" magical="3836" />
 			<speed>
@@ -787,6 +788,10 @@
 		<dropLists>
 			<drop>
 				<item id="57" min="286" max="665" chance="70" /> <!-- Adena -->
+				<item id="30297" min="1" max="20" chance="50" />
+				<item id="80839" min="1" max="1" chance="10" />
+				<item id="48472" min="1" max="5" chance="1" />
+				<item id="48498" min="1" max="1" chance="5" />
 			</drop>
 		</dropLists>
 	</npc>
@@ -796,7 +801,7 @@
 		<acquire exp="101300441" sp="4" />
 		<mpReward value="3" type="PER" ticks="5" affects="PARTY" />
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
-			<vitals hp="242452" hpRegen="11.4" mp="25460" mpRegen="30" />
+			<vitals hp="155463" hpRegen="11.4" mp="25460" mpRegen="30" />
 			<attack physical="222055" magical="25895" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
 			<defence physical="9474" magical="3836" />
 			<speed>
@@ -831,6 +836,10 @@
 		<dropLists>
 			<drop>
 				<item id="57" min="286" max="665" chance="70" /> <!-- Adena -->
+				<item id="30297" min="1" max="20" chance="50" />
+				<item id="80839" min="1" max="1" chance="10" />
+				<item id="48472" min="1" max="5" chance="1" />
+				<item id="48498" min="1" max="1" chance="5" />
 			</drop>
 		</dropLists>
 	</npc>
@@ -840,7 +849,7 @@
 		<acquire exp="101300441" sp="4" />
 		<mpReward value="3" type="PER" ticks="5" affects="PARTY" />
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
-			<vitals hp="212342" hpRegen="11.4" mp="25460" mpRegen="30" />
+			<vitals hp="155463" hpRegen="11.4" mp="25460" mpRegen="30" />
 			<attack physical="222055" magical="25895" random="20" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
 			<defence physical="6630" magical="4988" />
 			<speed>
@@ -875,6 +884,10 @@
 		<dropLists>
 			<drop>
 				<item id="57" min="286" max="665" chance="70" /> <!-- Adena -->
+				<item id="30297" min="1" max="20" chance="50" />
+				<item id="80839" min="1" max="1" chance="10" />
+				<item id="48472" min="1" max="5" chance="1" />
+				<item id="48498" min="1" max="1" chance="5" />
 			</drop>
 		</dropLists>
 	</npc>
