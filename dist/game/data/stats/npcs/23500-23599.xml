@@ -1296,7 +1296,7 @@
 		<mpReward value="3" type="PER" ticks="5" affects="PARTY" />
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
 			<vitals hp="212341" hpRegen="11.4" mp="25460" mpRegen="30" />
-			<attack physical="222055" magical="25895" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<attack physical="70675" magical="6434" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
 			<defence physical="9474" magical="3836" />
 			<speed>
 				<walk ground="60" />
@@ -1355,7 +1355,7 @@
 		<mpReward value="3" type="PER" ticks="5" affects="PARTY" />
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
 			<vitals hp="212341" hpRegen="11.4" mp="25460" mpRegen="30" />
-			<attack physical="222055" magical="25895" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<attack physical="70675" magical="6434" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
 			<defence physical="9474" magical="3836" />
 			<speed>
 				<walk ground="60" />
@@ -1415,7 +1415,7 @@
 		<mpReward value="3" type="PER" ticks="5" affects="PARTY" />
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
 			<vitals hp="212341" hpRegen="11.4" mp="25460" mpRegen="30" />
-			<attack physical="222055" magical="25895" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<attack physical="70675" magical="6434" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
 			<defence physical="9474" magical="3836" />
 			<speed>
 				<walk ground="60" />
@@ -1475,7 +1475,7 @@
 		<mpReward value="3" type="PER" ticks="5" affects="PARTY" />
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
 			<vitals hp="212341" hpRegen="11.4" mp="25460" mpRegen="30" />
-			<attack physical="222055" magical="25895" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<attack physical="70675" magical="6434" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
 			<defence physical="9474" magical="3836" />
 			<speed>
 				<walk ground="39" />
@@ -1528,7 +1528,7 @@
 		<mpReward value="3" type="PER" ticks="5" affects="PARTY" />
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
 			<vitals hp="212341" hpRegen="11.4" mp="25460" mpRegen="30" />
-			<attack physical="222055" magical="25895" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<attack physical="70675" magical="6434" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
 			<defence physical="9474" magical="3836" />
 			<speed>
 				<walk ground="60" />
@@ -1595,7 +1595,7 @@
 		<mpReward value="3" type="PER" ticks="5" affects="PARTY" />
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
 			<vitals hp="212341" hpRegen="11.4" mp="25460" mpRegen="30" />
-			<attack physical="222055" magical="25895" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<attack physical="70675" magical="6434" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
 			<defence physical="9474" magical="3836" />
 			<speed>
 				<walk ground="60" />
@@ -1655,7 +1655,7 @@
 		<mpReward value="3" type="PER" ticks="5" affects="PARTY" />
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
 			<vitals hp="212341" hpRegen="11.4" mp="25460" mpRegen="30" />
-			<attack physical="222055" magical="25895" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<attack physical="70675" magical="6434" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
 			<defence physical="9474" magical="3836" />
 			<speed>
 				<walk ground="60" />
@@ -1705,7 +1705,7 @@
 		<mpReward value="3" type="PER" ticks="5" affects="PARTY" />
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
 			<vitals hp="212341" hpRegen="11.4" mp="25460" mpRegen="30" />
-			<attack physical="222055" magical="25895" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<attack physical="70675" magical="6434" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
 			<defence physical="9474" magical="3836" />
 			<speed>
 				<walk ground="60" />
