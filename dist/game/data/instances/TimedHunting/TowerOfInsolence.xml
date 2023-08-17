@@ -3820,7 +3820,6 @@
 			<npc id="24908" x="-151636" y="47561" z="-9520" heading="466" respawnTime="60sec" /> <!-- Sealed Watcher -->
 			<npc id="24909" x="-151514" y="47587" z="-9520" heading="2190" respawnTime="60sec" /> <!-- Sealed Pilgrim -->
 			<npc id="24910" x="-151502" y="47647" z="-9520" heading="14325" respawnTime="60sec" /> <!-- Sealed Guardian -->
-			<npc id="24911" x="-151548" y="47716" z="-9520" heading="22517" respawnTime="60sec" /> <!-- Sealed Herald -->
 			<npc id="24912" x="-151629" y="47650" z="-9520" heading="39899" respawnTime="60sec" /> <!-- Sealed Judge -->
 			<npc id="24908" x="-151883" y="49616" z="-9520" heading="46132" respawnTime="60sec" /> <!-- Sealed Watcher -->
 			<npc id="24909" x="-151780" y="49584" z="-9520" heading="62394" respawnTime="60sec" /> <!-- Sealed Pilgrim -->
@@ -3929,7 +3928,6 @@
 			<npc id="24912" x="-150738" y="50638" z="-9520" heading="6108" respawnTime="60sec" /> <!-- Sealed Judge -->
 			<npc id="24908" x="-149135" y="50771" z="-9520" heading="64549" respawnTime="60sec" /> <!-- Sealed Watcher -->
 			<npc id="24909" x="-149034" y="50830" z="-9520" heading="5514" respawnTime="60sec" /> <!-- Sealed Pilgrim -->
-			<npc id="24910" x="-149018" y="50911" z="-9520" heading="14349" respawnTime="60sec" /> <!-- Sealed Guardian -->
 			<npc id="24911" x="-149088" y="50968" z="-9520" heading="25639" respawnTime="60sec" /> <!-- Sealed Herald -->
 			<npc id="24912" x="-149141" y="50877" z="-9520" heading="43651" respawnTime="60sec" /> <!-- Sealed Judge -->
 			<npc id="24908" x="-148711" y="51314" z="-9520" heading="45961" respawnTime="60sec" /> <!-- Sealed Watcher -->

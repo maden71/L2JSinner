@@ -1,4 +1,4 @@
-Aug 16, 2023 5:30:19 PM org.l2jmobius.commons.util.IXmlReader parseFile
+Aug 16, 2023 6:01:43 PM org.l2jmobius.commons.util.IXmlReader parseFile
 WARNING: Could not parse file: GardenOfSpiritsMonsters.xml at line: 577, column: 63 :
 org.xml.sax.SAXParseException; systemId: file:/C:/Games/L2/l2masterclass3serv/serv/L2J_Mobius_10.3_MasterClass/dist/game/data/spawns/DarkElf/GardenOfSpiritsMonsters.xml; lineNumber: 577; columnNumber: 63; cvc-complex-type.2.4.a: Invalid content was found starting with element 'territory'. One of '{spawn}' is expected.
 	at java.xml/com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.createSAXParseException(ErrorHandlerWrapper.java:204)

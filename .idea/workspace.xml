@@ -6,15 +6,17 @@
   <component name="ChangeListManager">
     <list default="true" id="4309c602-5ca8-4831-8926-93e80052e187" name="Changes" comment="Garden of Spirit mob stat fix">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/game/data/stats/npcs/23500-23599.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/data/stats/npcs/23500-23599.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/game/log/chat0.log.lck" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/game/log/error11.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/error11.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/game/log/error12.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/error12.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/game/config/Custom/CommunityBoard.ini" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/config/Custom/CommunityBoard.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/game/data/html/CommunityBoard/Custom/gatekeeper/farmzones.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/data/html/CommunityBoard/Custom/gatekeeper/farmzones.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/game/data/instances/TimedHunting/TowerOfInsolence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/data/instances/TimedHunting/TowerOfInsolence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/game/log/accounting0.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/accounting0.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/game/log/error13.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/error13.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/game/log/error14.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/error14.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/game/log/error15.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/error15.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/game/log/error16.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/error16.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/game/log/error17.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/error17.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/game/log/error18.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/error18.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/game/log/error19.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/error19.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/game/log/java0.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/java0.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/game/log/java1.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/java1.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/game/log/java10.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/java10.log" afterDir="false" />
@@ -134,7 +136,7 @@
       <workItem from="1692010726531" duration="5356000" />
       <workItem from="1692087617690" duration="16222000" />
       <workItem from="1692195845098" duration="13027000" />
-      <workItem from="1692260883491" duration="4184000" />
+      <workItem from="1692260883491" duration="7156000" />
     </task>
     <task id="LOCAL-00001" summary="Garden of Spirit mob stat fix">
       <option name="closed" value="true" />
@@ -152,7 +154,23 @@
       <option name="project" value="LOCAL" />
       <updated>1692266797347</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Garden of Spirit mob stat fix">
+      <option name="closed" value="true" />
+      <created>1692266985077</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1692266985077</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Garden of Spirit mob stat fix">
+      <option name="closed" value="true" />
+      <created>1692267269235</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1692267269235</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
