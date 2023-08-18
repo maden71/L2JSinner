@@ -2995,7 +2995,7 @@
 	<item id="30297" name="Superior Giant's Codex" type="EtcItem">
 		<!-- Superior Giant's Codex. Required for enchanting skills from +1 to +10 after the Awakening. -->
 		<set name="icon" val="icon.codex_of_incuse" />
-		<set name="weight" val="10" />
+		<set name="weight" val="0" />
 		<set name="is_stackable" val="true" />
 		<set name="is_sellable" val="false" />
 		<set name="immediate_effect" val="true" />

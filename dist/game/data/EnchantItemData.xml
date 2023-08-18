@@ -25,7 +25,7 @@
 	<enchant id="36978" maxEnchant="10" /> <!-- Scroll: Enchant Head Accessory -->
 
 	<!-- Knight's, Warrior's, Wizard's Circlets -->
-	<enchant id="48211" maxEnchant="7" bonusRate="50">
+	<enchant id="48211" maxEnchant="7" bonusRate="40">
 		<item id="48202" /> <!-- Warrior's Circlet -->
 		<item id="48205" /> <!-- Wizard's Circlet -->
 		<item id="48208" /> <!-- Knight's Circlet -->
@@ -192,7 +192,7 @@
 	</enchant>
 	
 	<!-- Blessed Scroll: Enchant Dragon Shirt -->
-	<enchant id="48498" maxEnchant="7" scrollGroupId="2" bonusRate="50">
+	<enchant id="48498" maxEnchant="7" scrollGroupId="2" bonusRate="40">
 		<item id="48491" /> <!-- Dragon Skin Shirt -->
 		<item id="48492" altScrollGroupId="3" /> <!-- Dragon Leather Shirt -->
 		<item id="48493" altScrollGroupId="4" /> <!-- Dragon Rind Leather Shirt -->

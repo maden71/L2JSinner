@@ -250,100 +250,60 @@
 		<production id="47807" chance="60" id2="81215" count2="35" chance2="40" /> <!-- Sayha's Talisman Lv. 1 -->
 	</product>
 	<product id="1036" category="3">
-		<ingredient id="81215" count="210" /> <!-- Aether -->
-		<ingredient id="81216" count="105" /> <!-- Black Mithril -->
-		<ingredient id="81217" count="105" /> <!-- Oriharukon Ore -->
-		<ingredient id="81218" count="105" /> <!-- Dragon Scale -->
-		<ingredient id="81219" count="105" /> <!-- Angel's Feather -->
-		<production id="38855" chance="60" id2="81215" count2="21" chance2="40" /> <!-- Ruby lv. 1 -->
+		<ingredient id="57" count="50800000" /> <!-- adena -->
+		<production id="47688" chance="100" /> <!-- greater Ruby lv. 1 -->
+	</product>
+	<product id="1333" category="3">
+		<ingredient id="57" count="50800000" /> <!-- adena -->
+		<production id="47699" chance="100" /> <!-- greater red cat lv. 1 -->
 	</product>
 	<product id="1037" category="3">
-		<ingredient id="81215" count="210" /> <!-- Aether -->
-		<ingredient id="81216" count="105" /> <!-- Black Mithril -->
-		<ingredient id="81217" count="105" /> <!-- Oriharukon Ore -->
-		<ingredient id="81218" count="105" /> <!-- Dragon Scale -->
-		<ingredient id="81219" count="105" /> <!-- Angel's Feather -->
-		<production id="38927" chance="60" id2="81215" count2="21" chance2="40" /> <!-- Sapphire lv. 1 -->
+		<ingredient id="57" count="50800000" /> <!-- adena -->
+		<production id="47689" chance="100"  /> <!--  greater Sapphire lv. 1 -->
+	</product>
+	<product id="1334" category="3">
+		<ingredient id="57" count="50800000" /> <!-- adena -->
+		<production id="47700" chance="100" /> <!-- greater blue cat lv. 1 -->
 	</product>
 	<product id="1038" category="3">
-		<ingredient id="81215" count="210" /> <!-- Aether -->
-		<ingredient id="81216" count="105" /> <!-- Black Mithril -->
-		<ingredient id="81217" count="105" /> <!-- Oriharukon Ore -->
-		<ingredient id="81218" count="105" /> <!-- Dragon Scale -->
-		<ingredient id="81219" count="105" /> <!-- Angel's Feather -->
-		<production id="38850" chance="60" id2="81215" count2="21" chance2="40" /> <!-- Topaz lv. 1 -->
+		<ingredient id="57" count="50400000" /> <!-- adena -->
+		<production id="47687" chance="100" /> <!--greater  Topaz lv. 1 -->
 	</product>
 	<product id="1039" category="3">
-		<ingredient id="81215" count="210" /> <!-- Aether -->
-		<ingredient id="81216" count="105" /> <!-- Black Mithril -->
-		<ingredient id="81217" count="105" /> <!-- Oriharukon Ore -->
-		<ingredient id="81218" count="105" /> <!-- Dragon Scale -->
-		<ingredient id="81219" count="105" /> <!-- Angel's Feather -->
-		<production id="38875" chance="60" id2="81215" count2="21" chance2="40" /> <!-- Opal lv. 1 -->
+		<ingredient id="57" count="50400000" /> <!-- adena -->
+		<production id="47691" chance="100"  /> <!--greater Opal lv. 1 -->
 	</product>
 	<product id="1040" category="3">
-		<ingredient id="81215" count="210" /> <!-- Aether -->
-		<ingredient id="81216" count="105" /> <!-- Black Mithril -->
-		<ingredient id="81217" count="105" /> <!-- Oriharukon Ore -->
-		<ingredient id="81218" count="105" /> <!-- Dragon Scale -->
-		<ingredient id="81219" count="105" /> <!-- Angel's Feather -->
-		<production id="38870" chance="60" id2="81215" count2="21" chance2="40" /> <!-- Obsidian lv. 1 -->
+		<ingredient id="57" count="50800000" /> <!-- adena -->
+		<production id="47690" chance="100"  /> <!--greater Obsidian lv. 1 -->
 	</product>
 	<product id="1041" category="3">
-		<ingredient id="81215" count="210" /> <!-- Aether -->
-		<ingredient id="81216" count="105" /> <!-- Black Mithril -->
-		<ingredient id="81217" count="105" /> <!-- Oriharukon Ore -->
-		<ingredient id="81218" count="105" /> <!-- Dragon Scale -->
-		<ingredient id="81219" count="105" /> <!-- Angel's Feather -->
-		<production id="38890" chance="60" id2="81215" count2="21" chance2="40" /> <!-- Diamond lv. 1 -->
+		<ingredient id="57" count="50800000" /> <!-- adena -->
+		<production id="47694" chance="100" /> <!--greater Diamond lv. 1 -->
 	</product>
 	<product id="1042" category="3">
-		<ingredient id="81215" count="210" /> <!-- Aether -->
-		<ingredient id="81216" count="105" /> <!-- Black Mithril -->
-		<ingredient id="81217" count="105" /> <!-- Oriharukon Ore -->
-		<ingredient id="81218" count="105" /> <!-- Dragon Scale -->
-		<ingredient id="81219" count="105" /> <!-- Angel's Feather -->
-		<production id="38880" chance="60" id2="81215" count2="21" chance2="40" /> <!-- Emerald lv. 1 -->
+		<ingredient id="57" count="50800000" /> <!-- adena -->
+		<production id="47692" chance="100" /> <!--greater Emerald lv. 1 -->
 	</product>
 	<product id="1043" category="3">
-		<ingredient id="81215" count="210" /> <!-- Aether -->
-		<ingredient id="81216" count="105" /> <!-- Black Mithril -->
-		<ingredient id="81217" count="105" /> <!-- Oriharukon Ore -->
-		<ingredient id="81218" count="105" /> <!-- Dragon Scale -->
-		<ingredient id="81219" count="105" /> <!-- Angel's Feather -->
-		<production id="38885" chance="60" id2="81215" count2="21" chance2="40" /> <!-- Aquamarine lv. 1 -->
+		<ingredient id="57" count="50400000" /> <!-- adena -->
+		<production id="47693" chance="100" /> <!--greater Aquamarine lv. 1 -->
 	</product>
 	<product id="1044" category="3">
-		<ingredient id="81215" count="210" /> <!-- Aether -->
-		<ingredient id="81216" count="105" /> <!-- Black Mithril -->
-		<ingredient id="81217" count="105" /> <!-- Oriharukon Ore -->
-		<ingredient id="81218" count="105" /> <!-- Dragon Scale -->
-		<ingredient id="81219" count="105" /> <!-- Angel's Feather -->
-		<production id="38895" chance="60" id2="81215" count2="21" chance2="40" /> <!-- Pearl lv. 1 -->
+		<ingredient id="57" count="50800000" /> <!-- adena -->
+		<production id="47695" chance="100"/> <!--greater Pearl lv. 1 -->
 	</product>
 	<product id="1045" category="3">
-		<ingredient id="81215" count="210" /> <!-- Aether -->
-		<ingredient id="81216" count="105" /> <!-- Black Mithril -->
-		<ingredient id="81217" count="105" /> <!-- Oriharukon Ore -->
-		<ingredient id="81218" count="105" /> <!-- Dragon Scale -->
-		<ingredient id="81219" count="105" /> <!-- Angel's Feather -->
-		<production id="46670" chance="60" id2="81215" count2="21" chance2="40" /> <!-- Vital Stone lv. 1 -->
+		<ingredient id="57" count="50400000" /> <!-- adena -->
+		<production id="47696" chance="100" /> <!--greater Vital Stone lv. 1 -->
 	</product>
 	<product id="1046" category="3">
-		<ingredient id="81215" count="210" /> <!-- Aether -->
-		<ingredient id="81216" count="105" /> <!-- Black Mithril -->
-		<ingredient id="81217" count="105" /> <!-- Oriharukon Ore -->
-		<ingredient id="81218" count="105" /> <!-- Dragon Scale -->
-		<ingredient id="81219" count="105" /> <!-- Angel's Feather -->
-		<production id="46675" chance="60" id2="81215" count2="21" chance2="40" /> <!-- Garnet lv. 1 -->
+		<ingredient id="57" count="50400000" /> <!-- adena -->
+		<production id="47697" chance="100" /> <!--greater Garnet lv. 1 -->
 	</product>
 	<product id="1047" category="3">
-		<ingredient id="81215" count="210" /> <!-- Aether -->
-		<ingredient id="81216" count="105" /> <!-- Black Mithril -->
-		<ingredient id="81217" count="105" /> <!-- Oriharukon Ore -->
-		<ingredient id="81218" count="105" /> <!-- Dragon Scale -->
-		<ingredient id="81219" count="105" /> <!-- Angel's Feather -->
-		<production id="46680" chance="60" id2="81215" count2="21" chance2="40" /> <!-- Tanzanite lv. 1 -->
+		<ingredient id="57" count="50800000" /> <!-- adena -->
+		<production id="47698" chance="100"/> <!--greater Tanzanite lv. 1 -->
 	</product>
 	<product id="1048" category="3">
 		<ingredient id="81215" count="210" /> <!-- Aether -->

@@ -4,14 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4309c602-5ca8-4831-8926-93e80052e187" name="Changes" comment="skill enchant price and drop fix">
+    <list default="true" id="4309c602-5ca8-4831-8926-93e80052e187" name="Changes" comment="fix">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/game/config/Custom/ClassBalance.ini" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/config/Custom/ClassBalance.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/game/config/Rates.ini" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/config/Rates.ini" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/game/data/EnchantItemData.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/data/EnchantItemData.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/game/data/multisell/custom/700008.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/data/multisell/custom/700008.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/game/data/scripts/quests/Q10590_ReawakenedFate/Q10590_ReawakenedFate.java" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/data/scripts/quests/Q10590_ReawakenedFate/Q10590_ReawakenedFate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/game/data/stats/npcs/23500-23599.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/data/stats/npcs/23500-23599.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/game/data/stats/npcs/24200-24299.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/data/stats/npcs/24200-24299.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/game/log/GMAudit/f [268511866].txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/GMAudit/f [268511866].txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/game/data/LimitShopCraft.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/data/LimitShopCraft.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/game/data/stats/items/30200-30299.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/data/stats/items/30200-30299.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/game/log/accounting0.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/accounting0.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/game/log/java0.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/java0.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/game/log/java1.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/java1.log" afterDir="false" />
@@ -134,7 +133,7 @@
       <workItem from="1692010726531" duration="5356000" />
       <workItem from="1692087617690" duration="16222000" />
       <workItem from="1692195845098" duration="13027000" />
-      <workItem from="1692260883491" duration="34156000" />
+      <workItem from="1692260883491" duration="39778000" />
     </task>
     <task id="LOCAL-00001" summary="Garden of Spirit mob stat fix">
       <option name="closed" value="true" />
@@ -256,7 +255,15 @@
       <option name="project" value="LOCAL" />
       <updated>1692306367756</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="fix">
+      <option name="closed" value="true" />
+      <created>1692315978628</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1692315978628</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -272,7 +279,8 @@
     <MESSAGE value="limit,craft shop change and item fix" />
     <MESSAGE value="drop and multisell changes" />
     <MESSAGE value="skill enchant price and drop fix" />
-    <option name="LAST_COMMIT_MESSAGE" value="skill enchant price and drop fix" />
+    <MESSAGE value="fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
