@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4309c602-5ca8-4831-8926-93e80052e187" name="Changes" comment="isle of souls drop added and lower zone drop changes">
+    <list default="true" id="4309c602-5ca8-4831-8926-93e80052e187" name="Changes" comment="fix">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/game/config/Custom/BossAnnouncements.ini" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/config/Custom/BossAnnouncements.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/game/data/stats/npcs/24400-24499.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/data/stats/npcs/24400-24499.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,7 +111,7 @@
       <workItem from="1692195845098" duration="13027000" />
       <workItem from="1692260883491" duration="40044000" />
       <workItem from="1692366126723" duration="5906000" />
-      <workItem from="1692433155669" duration="1466000" />
+      <workItem from="1692433155669" duration="1568000" />
     </task>
     <task id="LOCAL-00001" summary="Garden of Spirit mob stat fix">
       <option name="closed" value="true" />
@@ -263,7 +265,15 @@
       <option name="project" value="LOCAL" />
       <updated>1692436629333</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="fix">
+      <option name="closed" value="true" />
+      <created>1692436771585</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1692436771585</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -279,9 +289,9 @@
     <MESSAGE value="limit,craft shop change and item fix" />
     <MESSAGE value="drop and multisell changes" />
     <MESSAGE value="skill enchant price and drop fix" />
-    <MESSAGE value="fix" />
     <MESSAGE value="isle of souls drop added and lower zone drop changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="isle of souls drop added and lower zone drop changes" />
+    <MESSAGE value="fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
