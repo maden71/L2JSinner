@@ -5,3 +5,6 @@
 18/08/2023 0:53:10>f [268511866]>Drop>no-target>(id: 60320 name: Forgotten Lord's Shining Crystal of Dyes objId: 268514693 x: 147035 y: 27095 z: -2207)
 18/08/2023 0:53:11>f [268511866]>Drop>no-target>(id: 60320 name: Forgotten Lord's Shining Crystal of Dyes objId: 268514696 x: 147035 y: 27095 z: -2207)
 18/08/2023 0:53:14>f [268511866]>Drop>no-target>(id: 60320 name: Forgotten Lord's Shining Crystal of Dyes objId: 268514695 x: 147035 y: 27095 z: -2207)
+19/08/2023 11:58:02>f [268511866]>Drop>no-target>(id: 80181 name: Supreme Krishna Thrower objId: 268514883 x: 147580 y: 27030 z: -2206)
+19/08/2023 11:58:22>f [268511866]>Drop>no-target>(id: 80181 name: Supreme Krishna Thrower objId: 268514883 x: 147466 y: 27015 z: -2206)
+19/08/2023 11:59:23>f [268511866]>Drop>no-target>(id: 80181 name: Supreme Krishna Thrower objId: 268514905 x: 147244 y: 27130 z: -2206)

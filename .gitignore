@@ -1,2 +1,4 @@
 # Project exclude paths
 /bin/
+/dist/login
+/dist/config

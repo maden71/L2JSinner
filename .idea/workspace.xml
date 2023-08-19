@@ -4,14 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4309c602-5ca8-4831-8926-93e80052e187" name="Changes" comment="fix1">
+    <list default="true" id="4309c602-5ca8-4831-8926-93e80052e187" name="Changes" comment="isle of souls drop added and lower zone drop changes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/game/data/spawns/Others/23_13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/data/spawns/Others/23_13.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/game/data/stats/npcs/23500-23599.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/data/stats/npcs/23500-23599.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/game/data/stats/npcs/24200-24299.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/data/stats/npcs/24200-24299.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/game/data/stats/npcs/24400-24499.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/data/stats/npcs/24400-24499.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/game/log/GMAudit/f [268511866].txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/GMAudit/f [268511866].txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/game/log/accounting0.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/accounting0.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/game/log/error1.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/error1.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/game/log/error4.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/error4.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/game/log/java0.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/java0.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/game/log/java1.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/java1.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/game/log/java10.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/java10.log" afterDir="false" />
@@ -32,7 +31,6 @@
       <change beforePath="$PROJECT_DIR$/dist/game/log/java7.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/java7.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/game/log/java8.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/java8.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/game/log/java9.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/java9.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/game/log/olympiad.csv" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/olympiad.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/login/log/java0.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/login/log/java0.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/login/log/java1.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/login/log/java1.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/login/log/java10.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/login/log/java10.log" afterDir="false" />
@@ -155,7 +153,8 @@
       <workItem from="1692087617690" duration="16222000" />
       <workItem from="1692195845098" duration="13027000" />
       <workItem from="1692260883491" duration="40044000" />
-      <workItem from="1692366126723" duration="4131000" />
+      <workItem from="1692366126723" duration="5906000" />
+      <workItem from="1692433155669" duration="1220000" />
     </task>
     <task id="LOCAL-00001" summary="Garden of Spirit mob stat fix">
       <option name="closed" value="true" />
@@ -293,7 +292,15 @@
       <option name="project" value="LOCAL" />
       <updated>1692323276859</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="isle of souls drop added and lower zone drop changes">
+      <option name="closed" value="true" />
+      <created>1692406748668</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1692406748668</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -310,7 +317,8 @@
     <MESSAGE value="drop and multisell changes" />
     <MESSAGE value="skill enchant price and drop fix" />
     <MESSAGE value="fix" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix" />
+    <MESSAGE value="isle of souls drop added and lower zone drop changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="isle of souls drop added and lower zone drop changes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -3077,7 +3077,7 @@
 			</spoil>
 		</dropLists>
 	</npc>
-	<npc id="24470" level="110" type="Monster" name="Kamael Traitor">
+	<npc id="24470" level="115" type="Monster" name="Kamael Traitor">
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="15304" />
@@ -3121,15 +3121,15 @@
 		</skillList>
 		<dropLists>
 			<drop>
-				<item id="57" min="30000" max="35000" chance="100" /> <!-- Adena -->
-				<item id="30298" min="1" max="5" chance="40" />
-				<item id="46151" min="1" max="5" chance="30" />
+				<item id="57" min="30000" max="35000" chance="70" /> <!-- Adena -->
+				<item id="30298" min="1" max="5" chance="20" />
+				<item id="46151" min="1" max="5" chance="25" />
 				<item id="48876" min="1" max="5" chance="25" />
 				<item id="48472" min="1" max="5" chance="2" />
 			</drop>
 		</dropLists>
 	</npc>
-	<npc id="24471" level="110" type="Monster" name="Kamael Renegade">
+	<npc id="24471" level="115" type="Monster" name="Kamael Renegade">
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="15304" />
@@ -3173,15 +3173,15 @@
 		</skillList>
 		<dropLists>
 			<drop>
-				<item id="57" min="30000" max="35000" chance="100" /> <!-- Adena -->
-				<item id="30298" min="1" max="5" chance="40" />
-				<item id="46151" min="1" max="5" chance="30" />
+				<item id="57" min="30000" max="35000" chance="70" /> <!-- Adena -->
+				<item id="30298" min="1" max="5" chance="20" />
+				<item id="46151" min="1" max="5" chance="25" />
 				<item id="48876" min="1" max="5" chance="25" />
 				<item id="48472" min="1" max="5" chance="2" />
 			</drop>
 		</dropLists>
 	</npc>
-	<npc id="24472" level="110" type="Monster" name="Trained Monkey">
+	<npc id="24472" level="115" type="Monster" name="Trained Monkey">
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="38559" />
@@ -3225,15 +3225,15 @@
 		</skillList>
 		<dropLists>
 			<drop>
-				<item id="57" min="30000" max="35000" chance="100" /> <!-- Adena -->
-				<item id="30298" min="1" max="5" chance="40" />
-				<item id="46151" min="1" max="5" chance="30" />
+				<item id="57" min="30000" max="35000" chance="70" /> <!-- Adena -->
+				<item id="30298" min="1" max="5" chance="20" />
+				<item id="46151" min="1" max="5" chance="25" />
 				<item id="48876" min="1" max="5" chance="25" />
 				<item id="48472" min="1" max="5" chance="2" />
 			</drop>
 		</dropLists>
 	</npc>
-	<npc id="24473" level="110" type="Monster" name="Dwarf Grave Robber">
+	<npc id="24473" level="115" type="Monster" name="Dwarf Grave Robber">
 		<race>DWARF</race>
 		<sex>MALE</sex>
 		<acquire exp="253033" sp="228" />
@@ -3277,15 +3277,15 @@
 		</skillList>
 		<dropLists>
 			<drop>
-				<item id="57" min="30000" max="35000" chance="100" /> <!-- Adena -->
-				<item id="30298" min="1" max="5" chance="40" />
-				<item id="46151" min="1" max="5" chance="30" />
+				<item id="57" min="30000" max="35000" chance="70" /> <!-- Adena -->
+				<item id="30298" min="1" max="5" chance="20" />
+				<item id="46151" min="1" max="5" chance="25" />
 				<item id="48876" min="1" max="5" chance="25" />
 				<item id="48472" min="1" max="5" chance="2" />
 			</drop>
 		</dropLists>
 	</npc>
-	<npc id="24474" level="110" type="Monster" name="Muertos Outlaw">
+	<npc id="24474" level="115" type="Monster" name="Muertos Outlaw">
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="10128" />
@@ -3329,15 +3329,15 @@
 		</skillList>
 		<dropLists>
 			<drop>
-				<item id="57" min="30000" max="35000" chance="100" /> <!-- Adena -->
-				<item id="30298" min="1" max="5" chance="40" />
-				<item id="46151" min="1" max="5" chance="30" />
+				<item id="57" min="30000" max="35000" chance="70" /> <!-- Adena -->
+				<item id="30298" min="1" max="5" chance="20" />
+				<item id="46151" min="1" max="5" chance="25" />
 				<item id="48876" min="1" max="5" chance="25" />
 				<item id="48472" min="1" max="5" chance="2" />
 			</drop>
 		</dropLists>
 	</npc>
-	<npc id="24475" level="110" type="Monster" name="Orc Raider">
+	<npc id="24475" level="115" type="Monster" name="Orc Raider">
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="38426" />
@@ -3381,9 +3381,9 @@
 		</skillList>
 		<dropLists>
 			<drop>
-				<item id="57" min="30000" max="35000" chance="100" /> <!-- Adena -->
-				<item id="30298" min="1" max="5" chance="40" />
-				<item id="46151" min="1" max="5" chance="30" />
+				<item id="57" min="30000" max="35000" chance="70" /> <!-- Adena -->
+				<item id="30298" min="1" max="5" chance="20" />
+				<item id="46151" min="1" max="5" chance="25" />
 				<item id="48876" min="1" max="5" chance="25" />
 				<item id="48472" min="1" max="5" chance="2" />
 			</drop>
