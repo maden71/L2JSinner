@@ -1589,17 +1589,17 @@
 					<value level="7">1</value>
 					<value level="8">2</value>
 					<value level="9">3</value>
-					<value level="10">4</value>
-					<value level="11">5</value>
-					<value level="12">6</value>
-					<value level="13">7</value>
-					<value level="14">8</value>
-					<value level="15">9</value>
-					<value level="16">10</value>
-					<value level="17">11</value>
-					<value level="18">12</value>
-					<value level="19">13</value>
-					<value level="20">14</value>
+					<value level="10">3</value>
+					<value level="11">4</value>
+					<value level="12">4</value>
+					<value level="13">5</value>
+					<value level="14">5</value>
+					<value level="15">6</value>
+					<value level="16">6</value>
+					<value level="17">7</value>
+					<value level="18">8</value>
+					<value level="19">9</value>
+					<value level="20">10</value>
 				</skillLevel>
 			</effect>
 		</effects>
@@ -1733,17 +1733,17 @@
 					<value level="7">1</value>
 					<value level="8">2</value>
 					<value level="9">3</value>
-					<value level="10">4</value>
-					<value level="11">5</value>
-					<value level="12">6</value>
-					<value level="13">7</value>
-					<value level="14">8</value>
-					<value level="15">9</value>
-					<value level="16">10</value>
-					<value level="17">11</value>
-					<value level="18">12</value>
-					<value level="19">13</value>
-					<value level="20">14</value>
+					<value level="10">3</value>
+					<value level="11">4</value>
+					<value level="12">4</value>
+					<value level="13">5</value>
+					<value level="14">5</value>
+					<value level="15">6</value>
+					<value level="16">6</value>
+					<value level="17">7</value>
+					<value level="18">8</value>
+					<value level="19">9</value>
+					<value level="20">10</value>
 				</skillLevel>
 			</effect>
 		</effects>
@@ -2405,7 +2405,7 @@
 					<value level="7">89</value>
 					<value level="8">97</value>
 					<value level="9">107</value>
-					<value level="10">118</value>
+					<value level="10">120</value>
 					<value level="11">130</value>
 					<value level="12">200</value>
 					<value level="13">200</value>
@@ -2424,7 +2424,7 @@
 					<value level="7">89</value>
 					<value level="8">97</value>
 					<value level="9">107</value>
-					<value level="10">118</value>
+					<value level="10">120</value>
 					<value level="11">130</value>
 					<value level="12">200</value>
 					<value level="13">200</value>

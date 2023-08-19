@@ -5,7 +5,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4309c602-5ca8-4831-8926-93e80052e187" name="Changes" comment="fix">
-      <change beforePath="$PROJECT_DIR$/dist/game/log/GMAudit/f [268511866].txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/GMAudit/f [268511866].txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/game/data/CollectionData.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/data/CollectionData.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/game/data/stats/skills/27800-27899.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/data/stats/skills/27800-27899.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/game/data/stats/skills/36300-36399.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/data/stats/skills/36300-36399.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/game/log/accounting0.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/accounting0.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/game/log/error10.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/error10.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/game/log/error4.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/error4.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/game/log/java0.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/java0.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/game/log/java1.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/java1.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/game/log/java10.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/java10.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/game/log/java11.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/java11.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/game/log/java12.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/java12.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/game/log/java13.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/java13.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/game/log/java14.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/java14.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/game/log/java15.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/java15.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/game/log/java16.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/java16.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/game/log/java17.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/java17.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/game/log/java18.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/java18.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/game/log/java19.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/java19.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/game/log/java2.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/java2.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/game/log/java3.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/java3.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/game/log/java4.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/java4.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/game/log/java5.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/java5.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/game/log/java6.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/java6.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/game/log/java7.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/java7.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/game/log/java8.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/java8.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/game/log/java9.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/java9.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,7 +135,7 @@
       <workItem from="1692195845098" duration="13027000" />
       <workItem from="1692260883491" duration="40044000" />
       <workItem from="1692366126723" duration="5906000" />
-      <workItem from="1692433155669" duration="2509000" />
+      <workItem from="1692433155669" duration="8219000" />
     </task>
     <task id="LOCAL-00001" summary="Garden of Spirit mob stat fix">
       <option name="closed" value="true" />
@@ -279,7 +305,23 @@
       <option name="project" value="LOCAL" />
       <updated>1692437011847</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="fix">
+      <option name="closed" value="true" />
+      <created>1692443364771</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1692443364771</updated>
+    </task>
+    <task id="LOCAL-00023" summary="fix">
+      <option name="closed" value="true" />
+      <created>1692443638599</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1692443638599</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
