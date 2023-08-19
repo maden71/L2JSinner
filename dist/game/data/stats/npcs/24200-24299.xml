@@ -738,11 +738,11 @@
 		</skillList>
 		<dropLists>
 			<drop>
-				<item id="57" min="1503" max="2003" chance="70" /> <!-- Adena -->
-				<item id="30297" min="1" max="10" chance="50" />
+				<item id="57" min="2651" max="4655" chance="70" /> <!-- Adena -->
+				<item id="30297" min="1" max="5" chance="50" />
 				<item id="80839" min="1" max="1" chance="10" />
 				<item id="48472" min="1" max="5" chance="2" />
-				<item id="48498" min="1" max="1" chance="6" />
+				<item id="48498" min="1" max="1" chance="3" />
 			</drop>
 		</dropLists>
 	</npc>
@@ -787,11 +787,11 @@
 		</skillList>
 		<dropLists>
 			<drop>
-				<item id="57" min="1503" max="2003" chance="70" /> <!-- Adena -->
-				<item id="30297" min="1" max="10" chance="50" />
+				<item id="57" min="2651" max="4655" chance="70" /> <!-- Adena -->
+				<item id="30297" min="1" max="5" chance="50" />
 				<item id="80839" min="1" max="1" chance="10" />
 				<item id="48472" min="1" max="5" chance="2" />
-				<item id="48498" min="1" max="1" chance="6" />
+				<item id="48498" min="1" max="1" chance="3" />
 			</drop>
 		</dropLists>
 	</npc>
@@ -835,11 +835,11 @@
 		</skillList>
 		<dropLists>
 			<drop>
-				<item id="57" min="1503" max="2003" chance="70" /> <!-- Adena -->
-				<item id="30297" min="1" max="10" chance="50" />
+				<item id="57" min="2651" max="4655" chance="70" /> <!-- Adena -->
+				<item id="30297" min="1" max="5" chance="50" />
 				<item id="80839" min="1" max="1" chance="10" />
 				<item id="48472" min="1" max="5" chance="2" />
-				<item id="48498" min="1" max="1" chance="6" />
+				<item id="48498" min="1" max="1" chance="3" />
 			</drop>
 		</dropLists>
 	</npc>
@@ -883,11 +883,11 @@
 		</skillList>
 		<dropLists>
 			<drop>
-				<item id="57" min="1503" max="2003" chance="70" /> <!-- Adena -->
-				<item id="30297" min="1" max="10" chance="50" />
+				<item id="57" min="2651" max="4655" chance="70" /> <!-- Adena -->
+				<item id="30297" min="1" max="5" chance="50" />
 				<item id="80839" min="1" max="1" chance="10" />
 				<item id="48472" min="1" max="5" chance="2" />
-				<item id="48498" min="1" max="1" chance="6" />
+				<item id="48498" min="1" max="1" chance="3" />
 			</drop>
 		</dropLists>
 	</npc>

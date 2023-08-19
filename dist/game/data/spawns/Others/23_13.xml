@@ -341,8 +341,6 @@
 			<npc id="24218" x="108193" y="-150690" z="-2307" heading="634" respawnTime="30sec" /> <!-- Valanga Orc Scout -->
 			<npc id="24221" x="108215" y="-150689" z="-2306" heading="634" respawnTime="30sec" /> <!-- Valanga Orc Shaman -->
 			<npc id="24218" x="109261" y="-149979" z="-2399" heading="50646" respawnTime="30sec" /> <!-- Valanga Orc Scout -->
-			<npc id="22168" x="107875" y="-151371" z="-2234" heading="16853" respawnTime="60sec" /> <!-- Triol's Priest -->
-			<npc id="22155" x="107875" y="-151371" z="-2234" heading="16853" respawnTime="60sec" /> <!-- Triol's High Priest -->
 		</group>
 	</spawn>
 </list>

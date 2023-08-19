@@ -3121,7 +3121,11 @@
 		</skillList>
 		<dropLists>
 			<drop>
-				<item id="57" min="30000" max="40000" chance="100" /> <!-- Adena -->
+				<item id="57" min="30000" max="35000" chance="100" /> <!-- Adena -->
+				<item id="30298" min="1" max="5" chance="40" />
+				<item id="46151" min="1" max="5" chance="30" />
+				<item id="48876" min="1" max="5" chance="25" />
+				<item id="48472" min="1" max="5" chance="2" />
 			</drop>
 		</dropLists>
 	</npc>
@@ -3169,7 +3173,11 @@
 		</skillList>
 		<dropLists>
 			<drop>
-				<item id="57" min="30000" max="40000" chance="100" /> <!-- Adena -->
+				<item id="57" min="30000" max="35000" chance="100" /> <!-- Adena -->
+				<item id="30298" min="1" max="5" chance="40" />
+				<item id="46151" min="1" max="5" chance="30" />
+				<item id="48876" min="1" max="5" chance="25" />
+				<item id="48472" min="1" max="5" chance="2" />
 			</drop>
 		</dropLists>
 	</npc>
@@ -3217,7 +3225,11 @@
 		</skillList>
 		<dropLists>
 			<drop>
-				<item id="57" min="30000" max="40000" chance="100" /> <!-- Adena -->
+				<item id="57" min="30000" max="35000" chance="100" /> <!-- Adena -->
+				<item id="30298" min="1" max="5" chance="40" />
+				<item id="46151" min="1" max="5" chance="30" />
+				<item id="48876" min="1" max="5" chance="25" />
+				<item id="48472" min="1" max="5" chance="2" />
 			</drop>
 		</dropLists>
 	</npc>
@@ -3265,7 +3277,11 @@
 		</skillList>
 		<dropLists>
 			<drop>
-				<item id="57" min="30000" max="40000" chance="100" /> <!-- Adena -->
+				<item id="57" min="30000" max="35000" chance="100" /> <!-- Adena -->
+				<item id="30298" min="1" max="5" chance="40" />
+				<item id="46151" min="1" max="5" chance="30" />
+				<item id="48876" min="1" max="5" chance="25" />
+				<item id="48472" min="1" max="5" chance="2" />
 			</drop>
 		</dropLists>
 	</npc>
@@ -3313,7 +3329,11 @@
 		</skillList>
 		<dropLists>
 			<drop>
-				<item id="57" min="30000" max="40000" chance="100" /> <!-- Adena -->
+				<item id="57" min="30000" max="35000" chance="100" /> <!-- Adena -->
+				<item id="30298" min="1" max="5" chance="40" />
+				<item id="46151" min="1" max="5" chance="30" />
+				<item id="48876" min="1" max="5" chance="25" />
+				<item id="48472" min="1" max="5" chance="2" />
 			</drop>
 		</dropLists>
 	</npc>
@@ -3361,7 +3381,11 @@
 		</skillList>
 		<dropLists>
 			<drop>
-				<item id="57" min="30000" max="40000" chance="100" /> <!-- Adena -->
+				<item id="57" min="30000" max="35000" chance="100" /> <!-- Adena -->
+				<item id="30298" min="1" max="5" chance="40" />
+				<item id="46151" min="1" max="5" chance="30" />
+				<item id="48876" min="1" max="5" chance="25" />
+				<item id="48472" min="1" max="5" chance="2" />
 			</drop>
 		</dropLists>
 	</npc>

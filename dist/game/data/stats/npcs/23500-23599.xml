@@ -1281,11 +1281,11 @@
 		</collision>
 		<dropLists>
 			<drop>
-				<item id="57" min="286" max="665" chance="70" /> <!-- Adena -->
-				<item id="30297" min="1" max="20" chance="50" />
+				<item id="57" min="2564" max="4765" chance="70" /> <!-- Adena -->
+				<item id="30297" min="1" max="5" chance="50" />
 				<item id="80839" min="1" max="1" chance="10" />
 				<item id="48472" min="1" max="5" chance="1" />
-				<item id="48498" min="1" max="1" chance="5" />
+				<item id="48211" min="1" max="1" chance="3" />
 			</drop>
 		</dropLists>
 	</npc>
@@ -1340,11 +1340,11 @@
 		</collision>
 		<dropLists>
 			<drop>
-				<item id="57" min="1503" max="2003" chance="70" /> <!-- Adena -->
-				<item id="30297" min="1" max="10" chance="50" />
+				<item id="57" min="2564" max="4765" chance="70" /> <!-- Adena -->
+				<item id="30297" min="1" max="5" chance="50" />
 				<item id="80839" min="1" max="1" chance="10" />
 				<item id="48472" min="1" max="5" chance="2" />
-				<item id="48211" min="1" max="1" chance="6" />
+				<item id="48211" min="1" max="1" chance="3" />
 			</drop>
 		</dropLists>
 	</npc>
@@ -1400,11 +1400,11 @@
 		</collision>
 		<dropLists>
 			<drop>
-				<item id="57" min="1503" max="2003" chance="70" /> <!-- Adena -->
-				<item id="30297" min="1" max="10" chance="50" />
+				<item id="57" min="2564" max="4765" chance="70" /> <!-- Adena -->
+				<item id="30297" min="1" max="5" chance="50" />
 				<item id="80839" min="1" max="1" chance="10" />
 				<item id="48472" min="1" max="5" chance="2" />
-				<item id="48211" min="1" max="1" chance="6" />
+				<item id="48211" min="1" max="1" chance="3" />
 			</drop>
 		</dropLists>
 	</npc>
@@ -1460,11 +1460,11 @@
 		</collision>
 		<dropLists>
 			<drop>
-				<item id="57" min="1503" max="2003" chance="70" /> <!-- Adena -->
-				<item id="30297" min="1" max="10" chance="50" />
+				<item id="57" min="2564" max="4765" chance="70" /> <!-- Adena -->
+				<item id="30297" min="1" max="5" chance="50" />
 				<item id="80839" min="1" max="1" chance="10" />
 				<item id="48472" min="1" max="5" chance="2" />
-				<item id="48211" min="1" max="1" chance="6" />
+				<item id="48211" min="1" max="1" chance="3" />
 			</drop>
 		</dropLists>
 	</npc>
@@ -1517,11 +1517,11 @@
 		</collision>
 		<dropLists>
 			<drop>
-				<item id="57" min="1503" max="2003" chance="70" /> <!-- Adena -->
-				<item id="30297" min="1" max="10" chance="50" />
+				<item id="57" min="2564" max="4765" chance="70" /> <!-- Adena -->
+				<item id="30297" min="1" max="5" chance="50" />
 				<item id="80839" min="1" max="1" chance="10" />
 				<item id="48472" min="1" max="5" chance="2" />
-				<item id="48211" min="1" max="1" chance="6" />
+				<item id="48211" min="1" max="1" chance="3" />
 			</drop>
 		</dropLists>
 	</npc>
@@ -1577,11 +1577,11 @@
 		</collision>
 		<dropLists>
 			<drop>
-				<item id="57" min="1503" max="2003" chance="70" /> <!-- Adena -->
-				<item id="30297" min="1" max="10" chance="50" />
+				<item id="57" min="2564" max="4765" chance="70" /> <!-- Adena -->
+				<item id="30297" min="1" max="5" chance="50" />
 				<item id="80839" min="1" max="1" chance="10" />
 				<item id="48472" min="1" max="5" chance="2" />
-				<item id="48211" min="1" max="1" chance="6" />
+				<item id="48211" min="1" max="1" chance="3" />
 			</drop>
 		</dropLists>
 	</npc>
@@ -1644,11 +1644,11 @@
 		</collision>
 		<dropLists>
 			<drop>
-				<item id="57" min="1503" max="2003" chance="70" /> <!-- Adena -->
-				<item id="30297" min="1" max="10" chance="50" />
+				<item id="57" min="2564" max="4765" chance="70" /> <!-- Adena -->
+				<item id="30297" min="1" max="5" chance="50" />
 				<item id="80839" min="1" max="1" chance="10" />
 				<item id="48472" min="1" max="5" chance="2" />
-				<item id="48211" min="1" max="1" chance="6" />
+				<item id="48211" min="1" max="1" chance="3" />
 			</drop>
 		</dropLists>
 	</npc>
@@ -1699,11 +1699,11 @@
 		</ai>
 		<dropLists>
 			<drop>
-				<item id="57" min="1503" max="2003" chance="70" /> <!-- Adena -->
-				<item id="30297" min="1" max="10" chance="50" />
+				<item id="57" min="2564" max="4765" chance="70" /> <!-- Adena -->
+				<item id="30297" min="1" max="5" chance="50" />
 				<item id="80839" min="1" max="1" chance="10" />
 				<item id="48472" min="1" max="5" chance="2" />
-				<item id="48211" min="1" max="1" chance="6" />
+				<item id="48211" min="1" max="1" chance="3" />
 			</drop>
 		</dropLists>
 		<collision>
@@ -1759,11 +1759,11 @@
 		</ai>
 		<dropLists>
 			<drop>
-				<item id="57" min="1503" max="2003" chance="70" /> <!-- Adena -->
-				<item id="30297" min="1" max="10" chance="50" />
+				<item id="57" min="2564" max="4765" chance="70" /> <!-- Adena -->
+				<item id="30297" min="1" max="5" chance="50" />
 				<item id="80839" min="1" max="1" chance="10" />
 				<item id="48472" min="1" max="5" chance="2" />
-				<item id="48211" min="1" max="1" chance="6" />
+				<item id="48211" min="1" max="1" chance="3" />
 			</drop>
 		</dropLists>
 		<collision>
@@ -1823,11 +1823,11 @@
 		</collision>
 		<dropLists>
 			<drop>
-				<item id="57" min="1503" max="2003" chance="70" /> <!-- Adena -->
-				<item id="30297" min="1" max="10" chance="50" />
+				<item id="57" min="2564" max="4765" chance="70" /> <!-- Adena -->
+				<item id="30297" min="1" max="5" chance="50" />
 				<item id="80839" min="1" max="1" chance="10" />
 				<item id="48472" min="1" max="5" chance="2" />
-				<item id="48211" min="1" max="1" chance="6" />
+				<item id="48211" min="1" max="1" chance="3" />
 			</drop>
 		</dropLists>
 	</npc>
@@ -1883,11 +1883,11 @@
 		</collision>
 		<dropLists>
 			<drop>
-				<item id="57" min="1503" max="2003" chance="70" /> <!-- Adena -->
-				<item id="30297" min="1" max="10" chance="50" />
+				<item id="57" min="2564" max="4765" chance="70" /> <!-- Adena -->
+				<item id="30297" min="1" max="5" chance="50" />
 				<item id="80839" min="1" max="1" chance="10" />
 				<item id="48472" min="1" max="5" chance="2" />
-				<item id="48211" min="1" max="1" chance="6" />
+				<item id="48211" min="1" max="1" chance="3" />
 			</drop>
 		</dropLists>
 	</npc>
@@ -1941,11 +1941,11 @@
 		</ai>
 		<dropLists>
 			<drop>
-				<item id="57" min="1503" max="2003" chance="70" /> <!-- Adena -->
-				<item id="30297" min="1" max="10" chance="50" />
+				<item id="57" min="2564" max="4765" chance="70" /> <!-- Adena -->
+				<item id="30297" min="1" max="5" chance="50" />
 				<item id="80839" min="1" max="1" chance="10" />
 				<item id="48472" min="1" max="5" chance="2" />
-				<item id="48211" min="1" max="1" chance="6" />
+				<item id="48211" min="1" max="1" chance="3" />
 			</drop>
 		</dropLists>
 		<collision>
@@ -2006,11 +2006,11 @@
 		</collision>
 		<dropLists>
 			<drop>
-				<item id="57" min="1503" max="2003" chance="70" /> <!-- Adena -->
-				<item id="30297" min="1" max="10" chance="50" />
+				<item id="57" min="2564" max="4765" chance="70" /> <!-- Adena -->
+				<item id="30297" min="1" max="5" chance="50" />
 				<item id="80839" min="1" max="1" chance="10" />
 				<item id="48472" min="1" max="5" chance="2" />
-				<item id="48211" min="1" max="1" chance="6" />
+				<item id="48211" min="1" max="1" chance="3" />
 			</drop>
 		</dropLists>
 	</npc>
@@ -2063,11 +2063,11 @@
 		</collision>
 		<dropLists>
 			<drop>
-				<item id="57" min="1503" max="2003" chance="70" /> <!-- Adena -->
-				<item id="30297" min="1" max="10" chance="50" />
+				<item id="57" min="2564" max="4765" chance="70" /> <!-- Adena -->
+				<item id="30297" min="1" max="5" chance="50" />
 				<item id="80839" min="1" max="1" chance="10" />
 				<item id="48472" min="1" max="5" chance="2" />
-				<item id="48211" min="1" max="1" chance="6" />
+				<item id="48211" min="1" max="1" chance="3" />
 			</drop>
 		</dropLists>
 	</npc>
@@ -2124,11 +2124,11 @@
 		</collision>
 		<dropLists>
 			<drop>
-				<item id="57" min="1503" max="2003" chance="70" /> <!-- Adena -->
-				<item id="30297" min="1" max="10" chance="50" />
+				<item id="57" min="2564" max="4765" chance="70" /> <!-- Adena -->
+				<item id="30297" min="1" max="5" chance="50" />
 				<item id="80839" min="1" max="1" chance="10" />
 				<item id="48472" min="1" max="5" chance="2" />
-				<item id="48211" min="1" max="1" chance="6" />
+				<item id="48211" min="1" max="1" chance="3" />
 			</drop>
 		</dropLists>
 	</npc>
@@ -2191,11 +2191,11 @@
 		</collision>
 		<dropLists>
 			<drop>
-				<item id="57" min="1503" max="2003" chance="70" /> <!-- Adena -->
-				<item id="30297" min="1" max="10" chance="50" />
+				<item id="57" min="2564" max="4765" chance="70" /> <!-- Adena -->
+				<item id="30297" min="1" max="5" chance="50" />
 				<item id="80839" min="1" max="1" chance="10" />
 				<item id="48472" min="1" max="5" chance="2" />
-				<item id="48211" min="1" max="1" chance="6" />
+				<item id="48211" min="1" max="1" chance="3" />
 			</drop>
 		</dropLists>
 	</npc>
@@ -2247,11 +2247,11 @@
 		</ai>
 		<dropLists>
 			<drop>
-				<item id="57" min="1503" max="2003" chance="70" /> <!-- Adena -->
-				<item id="30297" min="1" max="10" chance="50" />
+				<item id="57" min="2564" max="4765" chance="70" /> <!-- Adena -->
+				<item id="30297" min="1" max="5" chance="50" />
 				<item id="80839" min="1" max="1" chance="10" />
 				<item id="48472" min="1" max="5" chance="2" />
-				<item id="48211" min="1" max="1" chance="6" />
+				<item id="48211" min="1" max="1" chance="3" />
 			</drop>
 		</dropLists>
 		<collision>
@@ -2309,11 +2309,11 @@
 		</ai>
 		<dropLists>
 			<drop>
-				<item id="57" min="1503" max="2003" chance="70" /> <!-- Adena -->
-				<item id="30297" min="1" max="10" chance="50" />
+				<item id="57" min="2564" max="4765" chance="70" /> <!-- Adena -->
+				<item id="30297" min="1" max="5" chance="50" />
 				<item id="80839" min="1" max="1" chance="10" />
 				<item id="48472" min="1" max="5" chance="2" />
-				<item id="48211" min="1" max="1" chance="6" />
+				<item id="48211" min="1" max="1" chance="3" />
 			</drop>
 		</dropLists>
 		<collision>
