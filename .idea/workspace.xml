@@ -4,14 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4309c602-5ca8-4831-8926-93e80052e187" name="Changes" comment="fix">
+    <list default="true" id="4309c602-5ca8-4831-8926-93e80052e187" name="Changes" comment="collection change">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/game/data/CollectionData.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/data/CollectionData.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/game/data/stats/skills/27800-27899.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/data/stats/skills/27800-27899.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/game/data/stats/skills/36300-36399.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/data/stats/skills/36300-36399.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/game/log/accounting0.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/accounting0.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/game/log/error10.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/error10.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/game/log/error4.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/error4.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/game/log/error12.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/error12.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/game/log/java0.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/java0.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/game/log/java1.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/java1.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/game/log/java10.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/java10.log" afterDir="false" />
@@ -32,6 +30,7 @@
       <change beforePath="$PROJECT_DIR$/dist/game/log/java7.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/java7.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/game/log/java8.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/java8.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/game/log/java9.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/java9.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/game/log/olympiad.csv" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/olympiad.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -135,7 +134,7 @@
       <workItem from="1692195845098" duration="13027000" />
       <workItem from="1692260883491" duration="40044000" />
       <workItem from="1692366126723" duration="5906000" />
-      <workItem from="1692433155669" duration="8219000" />
+      <workItem from="1692433155669" duration="15562000" />
     </task>
     <task id="LOCAL-00001" summary="Garden of Spirit mob stat fix">
       <option name="closed" value="true" />
@@ -321,7 +320,15 @@
       <option name="project" value="LOCAL" />
       <updated>1692443638599</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="collection change">
+      <option name="closed" value="true" />
+      <created>1692465033294</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1692465033294</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -339,7 +346,8 @@
     <MESSAGE value="skill enchant price and drop fix" />
     <MESSAGE value="isle of souls drop added and lower zone drop changes" />
     <MESSAGE value="fix" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix" />
+    <MESSAGE value="collection change" />
+    <option name="LAST_COMMIT_MESSAGE" value="collection change" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -1,102 +1,106 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="xsd/CollectionData.xsd">
-	<collection id="1" optionId="35799" category="1" completeCount="4"> <!-- Blood Whirlwind -->
-		<item id="26318" count="1" enchantLevel="0" /> <!-- shining dragon scale-->
+	<collection id="1" optionId="35799" category="1" completeCount="3"> <!-- Blood Whirlwind -->
+		<item id="26318" count="20" enchantLevel="0" /> <!-- claw -->
 		<item id="47951" count="300" enchantLevel="0" /> <!-- Crystal of Determination -->
 		<item id="80130" count="20" enchantLevel="0" /> <!-- Superior Augmenting Stone: Weapon -->
 	</collection>
-	<collection id="2" optionId="35800" category="1" completeCount="4"> <!-- Blood Shadow Retributer -->
-		<item id="26318" count="1" enchantLevel="0" /> <!-- shining dragon scale-->
+	<collection id="2" optionId="35800" category="1" completeCount="3"> <!-- Blood Shadow Retributer -->
+		<item id="26318" count="20" enchantLevel="0" /> <!-- claw -->
 		<item id="47951" count="300" enchantLevel="0" /> <!-- Crystal of Determination -->
 		<item id="80130" count="20" enchantLevel="0" /> <!-- Superior Augmenting Stone: Weapon -->
 	</collection>
-	<collection id="3" optionId="35801" category="1" completeCount="4"> <!-- Abyssal Sculptor -->
-		<item id="26318" count="1" enchantLevel="0" /> <!-- shining dragon scale-->
+	<collection id="3" optionId="35801" category="1" completeCount="2"> <!-- Abyssal Sculptor -->
+		<item id="26318" count="20" enchantLevel="0" /> <!-- claw -->
 		<item id="80130" count="20" enchantLevel="0" /> <!-- Superior Augmenting Stone: Weapon -->
 	</collection>
-	<collection id="4" optionId="35802" category="1" completeCount="2"> <!-- Abyssal Warrior -->
-		<item id="26318" count="1" enchantLevel="0" /> <!-- shining dragon scale-->
+	<collection id="4" optionId="35802" category="1" completeCount="1"> <!-- Abyssal Warrior -->
+		<item id="26318" count="20" enchantLevel="0" /> <!-- claw -->
 	</collection>
-	<collection id="5" optionId="35803" category="1" completeCount="4"> <!-- Dual Daggers of Abyss -->
-		<item id="26318" count="1" enchantLevel="0" /> <!-- shining dragon scale-->
+	<collection id="5" optionId="35803" category="1" completeCount="2"> <!-- Dual Daggers of Abyss -->
+		<item id="26318" count="20" enchantLevel="0" /> <!-- claw -->
 		<item id="80130" count="20" enchantLevel="0" /> <!-- Superior Augmenting Stone: Weapon -->
 	</collection>
-	<collection id="6" optionId="35804" category="1" completeCount="3"> <!-- Abyssal Burst -->
-		<item id="26318" count="1" enchantLevel="0" /> <!-- shining dragon scale-->
+	<collection id="6" optionId="35804" category="1" completeCount="2"> <!-- Abyssal Burst -->
+		<item id="26318" count="20" enchantLevel="0" /> <!-- claw -->
 		<item id="80130" count="20" enchantLevel="0" /> <!-- Superior Augmenting Stone: Weapon -->
 	</collection>
-	<collection id="7" optionId="35805" category="1" completeCount="4"> <!-- Abyssal Buster -->
-		<item id="26318" count="1" enchantLevel="0" /> <!-- shining dragon scale-->
+	<collection id="7" optionId="35805" category="1" completeCount="2"> <!-- Abyssal Buster -->
+		<item id="26318" count="20" enchantLevel="0" /> <!-- claw -->
 		<item id="80130" count="20" enchantLevel="0" /> <!-- Superior Augmenting Stone: Weapon -->
 	</collection>
-	<collection id="8" optionId="35806" category="1" completeCount="3"> <!-- Krishna's Sharpness -->
-		<item id="26318" count="1" enchantLevel="0" /> <!-- shining dragon scale-->
+	<collection id="8" optionId="35806" category="1" completeCount="2"> <!-- Krishna's Sharpness -->
+		<item id="26318" count="20" enchantLevel="0" /> <!-- claw -->
 		<item id="80130" count="40" enchantLevel="0" /> <!-- Superior Augmenting Stone: Weapon -->
 	</collection>
-	<collection id="9" optionId="35807" category="1" completeCount="3"> <!-- Burning Krishna -->
-		<item id="26318" count="1" enchantLevel="0" /> <!-- shining dragon scale-->
+	<collection id="9" optionId="35807" category="1" completeCount="2"> <!-- Burning Krishna -->
+		<item id="26318" count="20" enchantLevel="0" /> <!-- claw -->
 		<item id="80130" count="40" enchantLevel="0" /> <!-- Superior Augmenting Stone: Weapon -->
 	</collection>
-	<collection id="10" optionId="35808" category="1" completeCount="5"> <!-- Heine Cutter -->
-		<item id="26318" count="1" enchantLevel="0" /> <!-- shining dragon scale-->
+	<collection id="10" optionId="35808" category="1" completeCount="3"> <!-- Heine Cutter -->
+		<item id="26318" count="20" enchantLevel="0" /> <!-- claw -->
 		<item id="17526" count="12" enchantLevel="0" /> <!-- Scroll: Enchant R-grade Weapon -->
 		<item id="47951" count="1200" enchantLevel="0" /> <!-- Crystal of Determination -->
 	</collection>
-	<collection id="11" optionId="35809" category="1" completeCount="4"> <!-- Heine Stormer -->
-		<item id="26318" count="1" enchantLevel="0" /> <!-- shining dragon scale-->
+	<collection id="11" optionId="35809" category="1" completeCount="3"> <!-- Heine Stormer -->
+		<item id="26318" count="20" enchantLevel="0" /> <!-- claw -->
 		<item id="17526" count="12" enchantLevel="0" /> <!-- Scroll: Enchant R-grade Weapon -->
 		<item id="47951" count="1200" enchantLevel="0" /> <!-- Crystal of Determination -->
 	</collection>
-	<collection id="12" optionId="35810" category="1" completeCount="4"> <!-- Dual Swords of Heine -->
-		<item id="26318" count="1" enchantLevel="0" /> <!-- shining dragon scale-->
+	<collection id="12" optionId="35810" category="1" completeCount="2"> <!-- Dual Swords of Heine -->
+		<item id="26318" count="20" enchantLevel="0" /> <!-- claw -->
 		<item id="17526" count="12" enchantLevel="0" /> <!-- Scroll: Enchant R-grade Weapon -->
 	</collection>
-	<collection id="13" optionId="35811" category="1" completeCount="3"> <!-- Heine Guardian -->
-		<item id="26318" count="1" enchantLevel="0" /> <!-- shining dragon scale-->
+	<collection id="13" optionId="35811" category="1" completeCount="2"> <!-- Heine Guardian -->
+		<item id="26318" count="20" enchantLevel="0" /> <!-- claw -->
 		<item id="17526" count="12" enchantLevel="0" /> <!-- Scroll: Enchant R-grade Weapon -->
 	</collection>
-	<collection id="14" optionId="35812" category="1" completeCount="5"> <!-- Heine Caster -->
-		<item id="26318" count="1" enchantLevel="0" /> <!-- shining dragon scale-->
+	<collection id="14" optionId="35812" category="1" completeCount="3"> <!-- Heine Caster -->
+		<item id="26318" count="20" enchantLevel="0" /> <!-- claw -->
 		<item id="17526" count="72" enchantLevel="0" /> <!-- Scroll: Enchant R-grade Weapon -->
 		<item id="47951" count="1200" enchantLevel="0" /> <!-- Crystal of Determination -->
 	</collection>
-	<collection id="15" optionId="35813" category="1" completeCount="3"> <!-- One-handed Weapon Training -->
-		<item id="26318" count="1" enchantLevel="0" /> <!-- shining dragon scale-->
+	<collection id="15" optionId="35813" category="1" completeCount="2"> <!-- One-handed Weapon Training -->
+		<item id="26318" count="20" enchantLevel="0" /> <!-- claw -->
 		<item id="19440" count="3000" enchantLevel="0" /> <!-- R-grade Gemstone -->
 	</collection>
-	<collection id="16" optionId="35814" category="1" completeCount="5"> <!-- Two-handed Weapon Training -->
-		<item id="26318" count="1" enchantLevel="0" /> <!-- shining dragon scale-->
+	<collection id="16" optionId="35814" category="1" completeCount="2"> <!-- Two-handed Weapon Training -->
+		<item id="26318" count="20" enchantLevel="0" /> <!-- claw -->
 		<item id="19440" count="3000" enchantLevel="0" /> <!-- R-grade Gemstone -->
 	</collection>
-	<collection id="17" optionId="35815" category="1" completeCount="3"> <!-- Two-handed Magic Weapon Training -->
-		<item id="26318" count="1" enchantLevel="0" /> <!-- shining dragon scale-->
+	<collection id="17" optionId="35815" category="1" completeCount="2"> <!-- Two-handed Magic Weapon Training -->
+		<item id="26318" count="20" enchantLevel="0" /> <!-- claw -->
 		<item id="19440" count="3000" enchantLevel="0" /> <!-- R-grade Gemstone -->
 	</collection>
-	<collection id="18" optionId="35816" category="1" completeCount="5"> <!-- One-handed Magic Weapon Training -->
-		<item id="26318" count="1" enchantLevel="0" /> <!-- shining dragon scale-->
+	<collection id="18" optionId="35816" category="1" completeCount="2"> <!-- One-handed Magic Weapon Training -->
+		<item id="26318" count="20" enchantLevel="0" /> <!-- claw -->
 		<item id="19440" count="3000" enchantLevel="0" /> <!-- R-grade Gemstone -->
 	</collection>
-	<collection id="19" optionId="35817" category="1" completeCount="5"> <!-- High Quality Weapon -->
-		<item id="26318" count="1" enchantLevel="0" /> <!-- shining dragon scale-->
+	<collection id="19" optionId="35817" category="1" completeCount="4"> <!-- High Quality Weapon -->
+		<item id="26318" count="20" enchantLevel="0" /> <!-- claw -->
 		<item id="47951" count="200" enchantLevel="0" /> <!-- Crystal of Determination -->
 		<item id="19447" count="10" enchantLevel="0" /> <!-- Blessed Scroll: Enchant R-grade Weapon -->
 		<item id="17526" count="10" enchantLevel="0" /> <!-- Scroll: Enchant R-grade Weapon -->
 	</collection>
 	<collection id="20" optionId="35818" category="1" completeCount="2"> <!-- Legacy of Giants -->
-		<item id="26318" count="1" enchantLevel="0" /> <!-- shining dragon scale-->
+		<item id="17426" count="1" enchantLevel="0" /> <!-- Helios Retributer -->
+		<item id="18079" count="1" enchantLevel="0" /> <!-- Blessed Helios Retributer -->
 		<item id="36731" count="35" enchantLevel="0" /> <!-- Giant's Energy Spirit Stone -->
 	</collection>
 	<collection id="21" optionId="35819" category="1" completeCount="2"> <!-- Giant Legend -->
-		<item id="26318" count="1" enchantLevel="0" /> <!-- shining dragon scale-->
+		<item id="17421" count="1" enchantLevel="0" /> <!-- Helios Stormer -->
+		<item id="18074" count="1" enchantLevel="0" /> <!-- Blessed Helios Stormer -->
 		<item id="36731" count="35" enchantLevel="0" /> <!-- Giant's Energy Spirit Stone -->
 	</collection>
 	<collection id="22" optionId="35820" category="1" completeCount="3"> <!-- Blacksmith Enhanced Cutter -->
-		<item id="26318" count="1" enchantLevel="0" /> <!-- shining dragon scale-->
+		<item id="17422" count="1" enchantLevel="0" /> <!-- Helios Thrower -->
+		<item id="18075" count="1" enchantLevel="0" /> <!-- Blessed Helios Thrower -->
 		<item id="45932" count="35" enchantLevel="0" /> <!-- Top-grade Augmenting Stone: Weapon -->
 		<item id="80130" count="5" enchantLevel="0" /> <!-- Superior Augmenting Stone: Weapon -->
 	</collection>
 	<collection id="23" optionId="35821" category="1" completeCount="3"> <!-- Blacksmith Enhanced Buster -->
-		<item id="26318" count="1" enchantLevel="0" /> <!-- shining dragon scale-->
+		<item id="17429" count="1" enchantLevel="0" /> <!-- Helios Dual Blunt Weapons -->
+		<item id="18082" count="1" enchantLevel="0" /> <!-- Blessed Helios Dual Blunt Weapons -->
 		<item id="45932" count="35" enchantLevel="0" /> <!-- Top-grade Augmenting Stone: Weapon -->
 		<item id="80130" count="5" enchantLevel="0" /> <!-- Superior Augmenting Stone: Weapon -->
 	</collection>
@@ -106,100 +110,163 @@
 		<item id="19440" count="300" enchantLevel="0" /> <!-- R-grade Gemstone -->
 	</collection>
 	<collection id="25" optionId="35823" category="2" completeCount="3"> <!-- Armor Basics -->
-		<item id="26318" count="1" enchantLevel="0" /> <!-- shining dragon scale-->
+		<item id="80190" count="1" enchantLevel="10" /> <!-- Enhanced Leviathan Breastplate - Heavy armor -->
+		<item id="80196" count="1" enchantLevel="10" /> <!-- Enhanced Leviathan Leather Armor - Light armor -->
+		<item id="80201" count="1" enchantLevel="10" /> <!-- Enhanced Leviathan Tunic - Robe -->
 	</collection>
 	<collection id="26" optionId="35824" category="2" completeCount="5"> <!-- Shining Helmet -->
-		<item id="26318" count="1" enchantLevel="0" /> <!-- shining dragon scale-->
+		<item id="80189" count="1" enchantLevel="14" /> <!-- Enhanced Leviathan Helmet - Heavy armor -->
+		<item id="17436" count="1" enchantLevel="14" /> <!-- Eternal Leather Helmet - Light armor -->
+		<item id="19912" count="1" enchantLevel="14" /> <!-- Blessed Eternal Leather Helmet - Reinforced light armor -->
 		<item id="81728" count="240" enchantLevel="0" /> <!-- Augmenting Stone: Armor -->
 		<item id="47952" count="800" enchantLevel="0" /> <!-- Crystal of Protection -->
 		<item id="19440" count="800" enchantLevel="0" /> <!-- R-grade Gemstone -->
 	</collection>
 	<collection id="27" optionId="35825" category="2" completeCount="5"> <!-- Heavy Armor Set -->
-		<item id="26318" count="1" enchantLevel="0" /> <!-- shining dragon scale-->
+		<item id="80189" count="1" enchantLevel="6" /> <!-- Enhanced Leviathan Helmet - Heavy armor -->
+		<item id="80190" count="1" enchantLevel="6" /> <!-- Enhanced Leviathan Breastplate - Heavy armor -->
+		<item id="80191" count="1" enchantLevel="6" /> <!-- Enhanced Leviathan Gaiters - Heavy armor -->
+		<item id="80192" count="1" enchantLevel="6" /> <!-- Enhanced Leviathan Gauntlets - Heavy armor -->
+		<item id="80193" count="1" enchantLevel="6" /> <!-- Enhanced Leviathan Boots - Heavy armor -->
 	</collection>
 	<collection id="28" optionId="35826" category="2" completeCount="5"> <!-- Light Armor Set -->
-		<item id="26318" count="1" enchantLevel="0" /> <!-- shining dragon scale-->
+		<item id="80195" count="1" enchantLevel="10" /> <!-- Enhanced Leviathan Leather Helmet - Light armor -->
+		<item id="80196" count="1" enchantLevel="10" /> <!-- Enhanced Leviathan Leather Armor - Light armor -->
+		<item id="80197" count="1" enchantLevel="10" /> <!-- Enhanced Leviathan Leather Leggings - Light armor -->
+		<item id="80198" count="1" enchantLevel="10" /> <!-- Enhanced Leviathan Leather Gloves - Light armor -->
+		<item id="80199" count="1" enchantLevel="10" /> <!-- Enhanced Leviathan Leather Boots - Light armor -->
 	</collection>
 	<collection id="29" optionId="35827" category="2" completeCount="5"> <!-- Robe Set -->
-		<item id="26318" count="1" enchantLevel="0" /> <!-- shining dragon scale-->
+		<item id="80200" count="1" enchantLevel="6" /> <!-- Enhanced Leviathan Circlet - Robe -->
+		<item id="80201" count="1" enchantLevel="6" /> <!-- Enhanced Leviathan Tunic - Robe -->
+		<item id="80202" count="1" enchantLevel="6" /> <!-- Enhanced Leviathan Stockings - Robe -->
+		<item id="80203" count="1" enchantLevel="6" /> <!-- Enhanced Leviathan Gloves - Robe -->
+		<item id="80204" count="1" enchantLevel="6" /> <!-- Enhanced Leviathan Shoes - Robe -->
 	</collection>
 	<collection id="30" optionId="35828" category="2" completeCount="5"> <!-- Minimal Protection -->
-		<item id="26318" count="1" enchantLevel="0" /> <!-- shining dragon scale-->
+		<item id="80319" count="1" enchantLevel="16" /> <!-- Enhanced Leviathan Sigil -->
+		<item id="17446" count="1" enchantLevel="13" /> <!-- Eternal Sigil -->
+		<item id="18099" count="1" enchantLevel="13" /> <!-- Blessed Eternal Sigil -->
 		<item id="47952" count="120" enchantLevel="0" /> <!-- Crystal of Protection -->
 		<item id="17527" count="20" enchantLevel="0" /> <!-- Scroll: Enchant R-grade Armor -->
 		<item id="19440" count="1300" enchantLevel="0" /> <!-- R-grade Gemstone -->
 	</collection>
 	<collection id="31" optionId="35829" category="2" completeCount="5"> <!-- Sigel Knight's Symbol -->
-		<item id="26318" count="1" enchantLevel="0" /> <!-- shining dragon scale-->
+		<item id="80194" count="1" enchantLevel="12" /> <!-- Enhanced Leviathan Shield -->
+		<item id="17435" count="1" enchantLevel="8" /> <!-- Eternal Shield -->
+		<item id="18088" count="1" enchantLevel="8" /> <!-- Blessed Eternal Shield -->
 		<item id="47952" count="120" enchantLevel="0" /> <!-- Crystal of Protection -->
 		<item id="17527" count="20" enchantLevel="0" /> <!-- Scroll: Enchant R-grade Armor -->
 		<item id="19440" count="400" enchantLevel="0" /> <!-- R-grade Gemstone -->
 	</collection>
 	<collection id="32" optionId="35830" category="2" completeCount="6"> <!-- Basic Heavy Armor -->
-		<item id="26318" count="1" enchantLevel="0" /> <!-- shining dragon scale-->
+		<item id="35002" count="1" enchantLevel="12" /> <!-- Dark Eternal Helmet - Reinforced heavy armor -->
+		<item id="35003" count="1" enchantLevel="6" /> <!-- Dark Eternal Breastplate - Reinforced heavy armor -->
+		<item id="35004" count="1" enchantLevel="6" /> <!-- Dark Eternal Gaiters - Reinforced heavy armor -->
+		<item id="35005" count="1" enchantLevel="6" /> <!-- Dark Eternal Gauntlets - Reinforced heavy armor -->
+		<item id="35006" count="1" enchantLevel="6" /> <!-- Dark Eternal Boots - Reinforced heavy armor -->
 		<item id="19440" count="1400" enchantLevel="0" /> <!-- R-grade Gemstone -->
 	</collection>
 	<collection id="33" optionId="35831" category="2" completeCount="5"> <!-- Basic Light Armor -->
-		<item id="26318" count="1" enchantLevel="0" /> <!-- shining dragon scale-->
+		<item id="17436" count="1" enchantLevel="10" /> <!-- Eternal Leather Helmet - Light armor -->
+		<item id="19912" count="1" enchantLevel="10" /> <!-- Blessed Eternal Leather Helmet - Reinforced light armor -->
+		<item id="17437" count="1" enchantLevel="10" /> <!-- Eternal Leather Armor - Light armor -->
+		<item id="19913" count="1" enchantLevel="10" /> <!-- Blessed Eternal Leather Armor - Reinforced light armor -->
+		<item id="17438" count="1" enchantLevel="10" /> <!-- Eternal Leather Leggings - Light armor -->
+		<item id="19914" count="1" enchantLevel="10" /> <!-- Blessed Eternal Leather Leggings - Reinforced light armor -->
+		<item id="17439" count="1" enchantLevel="10" /> <!-- Eternal Leather Gloves - Light armor -->
+		<item id="19915" count="1" enchantLevel="10" /> <!-- Blessed Eternal Leather Gloves - Reinforced light armor -->
+		<item id="17440" count="1" enchantLevel="10" /> <!-- Eternal Leather Boots - Light armor -->
+		<item id="19916" count="1" enchantLevel="10" /> <!-- Blessed Eternal Leather Boots - Reinforced light armor -->
 	</collection>
 	<collection id="34" optionId="35832" category="2" completeCount="5"> <!-- Basic Robe -->
-		<item id="26318" count="1" enchantLevel="0" /> <!-- shining dragon scale-->
+		<item id="35043" count="1" enchantLevel="12" /> <!-- Bloody Eternal Circlet - Reinforced robe -->
+		<item id="35044" count="1" enchantLevel="6" /> <!-- Bloody Eternal Tunic - Reinforced robe -->
+		<item id="35045" count="1" enchantLevel="6" /> <!-- Bloody Eternal Stockings - Reinforced robe -->
+		<item id="35046" count="1" enchantLevel="6" /> <!-- Bloody Eternal Gloves - Reinforced robe -->
+		<item id="35047" count="1" enchantLevel="6" /> <!-- Bloody Eternal Shoes - Reinforced robe -->
 	</collection>
 	<collection id="35" optionId="35833" category="2" completeCount="5"> <!-- High Quality Helmet -->
-		<item id="26318" count="1" enchantLevel="0" /> <!-- shining dragon scale-->
+		<item id="17430" count="1" enchantLevel="3" /> <!-- Eternal Helmet - Heavy armor -->
+		<item id="19698" count="1" enchantLevel="3" /> <!-- Blessed Eternal Helmet - Reinforced heavy armor -->
 		<item id="47952" count="650" enchantLevel="0" /> <!-- Crystal of Protection -->
+		<item id="36389" count="10" enchantLevel="0" /> <!-- Giant's Scroll: Enchant R-grade Armor -->
 		<item id="19448" count="10" enchantLevel="0" /> <!-- Blessed Scroll: Enchant R-grade Armor -->
 		<item id="17527" count="10" enchantLevel="0" /> <!-- Scroll: Enchant R-grade Armor -->
 	</collection>
 	<collection id="36" optionId="35834" category="2" completeCount="3"> <!-- High Quality Upper Armor -->
-		<item id="26318" count="1" enchantLevel="0" /> <!-- shining dragon scale-->
+		<item id="80196" count="1" enchantLevel="3" /> <!-- Enhanced Leviathan Leather Armor - Light armor -->
+		<item id="17436" count="1" enchantLevel="0" /> <!-- Eternal Leather Helmet - Light armor -->
+		<item id="19912" count="1" enchantLevel="0" /> <!-- Blessed Eternal Leather Helmet - Reinforced light armor -->
 		<item id="81728" count="20" enchantLevel="0" /> <!-- Augmenting Stone: Armor -->
 	</collection>
 	<collection id="37" optionId="35835" category="2" completeCount="5"> <!-- High Quality Lower Armor -->
-		<item id="26318" count="1" enchantLevel="0" /> <!-- shining dragon scale-->
+		<item id="80202" count="1" enchantLevel="3" /> <!-- Enhanced Leviathan Stockings - Robe -->
 		<item id="47952" count="400" enchantLevel="0" /> <!-- Crystal of Protection -->
+		<item id="36389" count="8" enchantLevel="0" /> <!-- Giant's Scroll: Enchant R-grade Armor -->
 		<item id="19448" count="6" enchantLevel="0" /> <!-- Blessed Scroll: Enchant R-grade Armor -->
 		<item id="17527" count="3" enchantLevel="0" /> <!-- Scroll: Enchant R-grade Armor -->
 	</collection>
 	<collection id="38" optionId="35836" category="2" completeCount="5"> <!-- High Quality Gloves -->
-		<item id="26318" count="1" enchantLevel="0" /> <!-- shining dragon scale-->
+		<item id="80203" count="1" enchantLevel="3" /> <!-- Enhanced Leviathan Gloves - Robe -->
 		<item id="47952" count="400" enchantLevel="0" /> <!-- Crystal of Protection -->
+		<item id="36389" count="8" enchantLevel="0" /> <!-- Giant's Scroll: Enchant R-grade Armor -->
 		<item id="19448" count="6" enchantLevel="0" /> <!-- Blessed Scroll: Enchant R-grade Armor -->
 		<item id="17527" count="3" enchantLevel="0" /> <!-- Scroll: Enchant R-grade Armor -->
 	</collection>
 	<collection id="39" optionId="35837" category="2" completeCount="5"> <!-- High Quality Shoes -->
-		<item id="26318" count="1" enchantLevel="0" /> <!-- shining dragon scale-->
+		<item id="80193" count="1" enchantLevel="3" /> <!-- Enhanced Leviathan Boots - Heavy armor -->
 		<item id="47952" count="400" enchantLevel="0" /> <!-- Crystal of Protection -->
+		<item id="36389" count="8" enchantLevel="0" /> <!-- Giant's Scroll: Enchant R-grade Armor -->
 		<item id="19448" count="6" enchantLevel="0" /> <!-- Blessed Scroll: Enchant R-grade Armor -->
 		<item id="17527" count="3" enchantLevel="0" /> <!-- Scroll: Enchant R-grade Armor -->
 	</collection>
 	<collection id="40" optionId="35838" category="2" completeCount="5"> <!-- High Quality Shield -->
-		<item id="26318" count="1" enchantLevel="0" /> <!-- shining dragon scale-->
+		<item id="80194" count="1" enchantLevel="3" /> <!-- Enhanced Leviathan Shield -->
 		<item id="47952" count="400" enchantLevel="0" /> <!-- Crystal of Protection -->
+		<item id="36389" count="8" enchantLevel="0" /> <!-- Giant's Scroll: Enchant R-grade Armor -->
 		<item id="19448" count="6" enchantLevel="0" /> <!-- Blessed Scroll: Enchant R-grade Armor -->
 		<item id="17527" count="3" enchantLevel="0" /> <!-- Scroll: Enchant R-grade Armor -->
 	</collection>
 	<collection id="41" optionId="35839" category="2" completeCount="6"> <!-- Oriharukon Gloves -->
-		<item id="26318" count="1" enchantLevel="0" /> <!-- shining dragon scale-->
+		<item id="17433" count="1" enchantLevel="12" /> <!-- Eternal Gauntlets - Heavy armor -->
+		<item id="19701" count="1" enchantLevel="12" /> <!-- Blessed Eternal Gauntlets - Reinforced heavy armor -->
+		<item id="17434" count="1" enchantLevel="12" /> <!-- Eternal Boots - Heavy armor -->
+		<item id="19702" count="1" enchantLevel="12" /> <!-- Blessed Eternal Boots - Reinforced heavy armor -->
 		<item id="17527" count="28" enchantLevel="0" /> <!-- Scroll: Enchant R-grade Armor -->
 		<item id="47952" count="1700" enchantLevel="0" /> <!-- Crystal of Protection -->
 		<item id="19440" count="1600" enchantLevel="0" /> <!-- R-grade Gemstone -->
 		<item id="81728" count="116" enchantLevel="0" /> <!-- Augmenting Stone: Armor -->
 	</collection>
 	<collection id="42" optionId="35840" category="2" completeCount="5"> <!-- Dragon Scale Gloves -->
-		<item id="26318" count="1" enchantLevel="0" /> <!-- shining dragon scale-->
+		<item id="17439" count="1" enchantLevel="12" /> <!-- Eternal Leather Gloves - Light armor -->
+		<item id="19915" count="1" enchantLevel="12" /> <!-- Blessed Eternal Leather Gloves - Reinforced light armor -->
+		<item id="17440" count="1" enchantLevel="12" /> <!-- Eternal Leather Boots - Light armor -->
+		<item id="19916" count="1" enchantLevel="12" /> <!-- Blessed Eternal Leather Boots - Reinforced light armor -->
 		<item id="17527" count="28" enchantLevel="0" /> <!-- Scroll: Enchant R-grade Armor -->
 		<item id="47952" count="800" enchantLevel="0" /> <!-- Crystal of Protection -->
 		<item id="19440" count="800" enchantLevel="0" /> <!-- R-grade Gemstone -->
 	</collection>
 	<collection id="43" optionId="35841" category="2" completeCount="5"> <!-- Angel Feather Gloves -->
-		<item id="26318" count="1" enchantLevel="0" /> <!-- shining dragon scale-->
+		<item id="17444" count="1" enchantLevel="12" /> <!-- Eternal Gloves - Robe -->
+		<item id="19712" count="1" enchantLevel="12" /> <!-- Blessed Eternal Gloves - Reinforced robe -->
+		<item id="17445" count="1" enchantLevel="12" /> <!-- Eternal Shoes - Robe -->
+		<item id="19713" count="1" enchantLevel="12" /> <!-- Blessed Eternal Shoes - Reinforced robe -->
 		<item id="17527" count="28" enchantLevel="0" /> <!-- Scroll: Enchant R-grade Armor -->
 		<item id="47952" count="800" enchantLevel="0" /> <!-- Crystal of Protection -->
 		<item id="19440" count="800" enchantLevel="0" /> <!-- R-grade Gemstone -->
 	</collection>
 	<collection id="44" optionId="35842" category="2" completeCount="5"> <!-- Eternal Armor -->
-		<item id="26318" count="1" enchantLevel="0" /> <!-- shining dragon scale-->
+		<item id="17436" count="1" enchantLevel="7" /> <!-- Eternal Leather Helmet - Light armor -->
+		<item id="19912" count="1" enchantLevel="7" /> <!-- Blessed Eternal Leather Helmet - Reinforced light armor -->
+		<item id="17437" count="1" enchantLevel="7" /> <!-- Eternal Leather Armor - Light armor -->
+		<item id="19913" count="1" enchantLevel="7" /> <!-- Blessed Eternal Leather Armor - Reinforced light armor -->
+		<item id="17438" count="1" enchantLevel="7" /> <!-- Eternal Leather Leggings - Light armor -->
+		<item id="19914" count="1" enchantLevel="7" /> <!-- Blessed Eternal Leather Leggings - Reinforced light armor -->
+		<item id="17439" count="1" enchantLevel="7" /> <!-- Eternal Leather Gloves - Light armor -->
+		<item id="19915" count="1" enchantLevel="7" /> <!-- Blessed Eternal Leather Gloves - Reinforced light armor -->
+		<item id="17440" count="1" enchantLevel="7" /> <!-- Eternal Leather Boots - Light armor -->
+		<item id="19916" count="1" enchantLevel="7" /> <!-- Blessed Eternal Leather Boots - Reinforced light armor -->
 	</collection>
 	<collection id="45" optionId="35843" category="2" completeCount="5"> <!-- Leviathan Armor -->
 		<item id="80195" count="1" enchantLevel="5" /> <!-- Enhanced Leviathan Leather Helmet - Light armor -->
@@ -209,77 +276,77 @@
 		<item id="80199" count="1" enchantLevel="5" /> <!-- Enhanced Leviathan Leather Boots - Light armor -->
 	</collection>
 	<collection id="46" optionId="35844" category="3" completeCount="3"> <!-- Trinity -->
-		<item id="81381" count="1" enchantLevel="0" /> <!-- Dragon's Necklace - Battle Lv. 3 -->
-		<item id="81384" count="1" enchantLevel="0" /> <!-- Dragon's Earring - Guardian Lv. 3 -->
-		<item id="81387" count="1" enchantLevel="0" /> <!-- Dragon's Ring - Potential Lv. 3 -->
+		<item id="81381" count="1" enchantLevel="1" /> <!-- Dragon's Necklace - Battle Lv. 3 -->
+		<item id="81384" count="1" enchantLevel="1" /> <!-- Dragon's Earring - Guardian Lv. 3 -->
+		<item id="81387" count="1" enchantLevel="1" /> <!-- Dragon's Ring - Potential Lv. 3 -->
 	</collection>
 	<collection id="47" optionId="35845" category="3" completeCount="3"> <!-- Archangel's Accessories -->
-		<item id="48669" count="1" enchantLevel="0" /> <!-- Angel's Necklace -->
-		<item id="81212" count="1" enchantLevel="0" /> <!-- Angel's Necklace -->
-		<item id="48841" count="1" enchantLevel="0" /> <!-- Angel's Earring -->
-		<item id="81213" count="1" enchantLevel="0" /> <!-- Angel's Earring -->
-		<item id="81154" count="1" enchantLevel="0" /> <!-- Angel's Ring -->
-		<item id="81214" count="1" enchantLevel="0" /> <!-- Angel's Ring -->
+		<item id="48669" count="1" enchantLevel="8" /> <!-- Angel's Necklace -->
+		<item id="81212" count="1" enchantLevel="8" /> <!-- Angel's Necklace -->
+		<item id="48841" count="1" enchantLevel="8" /> <!-- Angel's Earring -->
+		<item id="81213" count="1" enchantLevel="8" /> <!-- Angel's Earring -->
+		<item id="81154" count="1" enchantLevel="8" /> <!-- Angel's Ring -->
+		<item id="81214" count="1" enchantLevel="8" /> <!-- Angel's Ring -->
 	</collection>
 	<collection id="48" optionId="35846" category="3" completeCount="2"> <!-- Valakas' Legacy -->
-		<item id="19464" count="1" enchantLevel="4" /> <!-- Blessed Valakas' Necklace -->
+		<item id="19464" count="1" enchantLevel="12" /> <!-- Blessed Valakas' Necklace -->
 		<item id="47916" count="1" enchantLevel="0" /> <!-- Nevit's Cloak of Light Pack - 30-day -->
 	</collection>
 	<collection id="49" optionId="35847" category="3" completeCount="2"> <!-- Antharas' Legacy -->
-		<item id="19463" count="1" enchantLevel="4" /> <!-- Blessed Antharas' Earring -->
-		<item id="26318" count="1" enchantLevel="0" /> <!-- shining dragon scale-->
+		<item id="19463" count="1" enchantLevel="12" /> <!-- Blessed Antharas' Earring -->
+		<item id="80134" count="1" enchantLevel="0" /> <!-- Enhanced Krishna Cutter -->
 	</collection>
 	<collection id="50" optionId="35848" category="3" completeCount="2"> <!-- Lindvior's Legacy -->
-		<item id="36946" count="1" enchantLevel="4" /> <!-- Lindvior's Earring -->
-		<item id="26318" count="1" enchantLevel="0" /> <!-- shining dragon scale-->
+		<item id="36946" count="1" enchantLevel="12" /> <!-- Lindvior's Earring -->
+		<item id="80142" count="1" enchantLevel="0" /> <!-- Enhanced Krishna Caster -->
 	</collection>
 	<collection id="51" optionId="35849" category="3" completeCount="2"> <!-- Archangel's Necklace -->
-		<item id="81784" count="1" enchantLevel="3" /> <!-- Blessed Angel's Necklace -->
-		<item id="81796" count="1" enchantLevel="3" /> <!-- Blessed Angel's Necklace -->
+		<item id="81784" count="1" enchantLevel="6" /> <!-- Blessed Angel's Necklace -->
+		<item id="81796" count="1" enchantLevel="6" /> <!-- Blessed Angel's Necklace -->
 		<item id="47494" count="20" enchantLevel="0" /> <!-- Selenite -->
 	</collection>
 	<collection id="52" optionId="35850" category="3" completeCount="2"> <!-- Archangel's Earring -->
-		<item id="81788" count="1" enchantLevel="3" /> <!-- Blessed Angel's Earring -->
-		<item id="81800" count="1" enchantLevel="3" /> <!-- Blessed Angel's Earring -->
+		<item id="81788" count="1" enchantLevel="6" /> <!-- Blessed Angel's Earring -->
+		<item id="81800" count="1" enchantLevel="6" /> <!-- Blessed Angel's Earring -->
 		<item id="47494" count="20" enchantLevel="0" /> <!-- Selenite -->
 	</collection>
 	<collection id="53" optionId="35851" category="3" completeCount="2"> <!-- Archangel's Ring -->
-		<item id="81792" count="1" enchantLevel="3" /> <!-- Blessed Angel's Ring -->
-		<item id="81804" count="1" enchantLevel="3" /> <!-- Blessed Angel's Ring -->
+		<item id="81792" count="1" enchantLevel="6" /> <!-- Blessed Angel's Ring -->
+		<item id="81804" count="1" enchantLevel="6" /> <!-- Blessed Angel's Ring -->
 		<item id="47494" count="40" enchantLevel="0" /> <!-- Selenite -->
 	</collection>
 	<collection id="54" optionId="35852" category="3" completeCount="3"> <!-- Guardian Angel's Necklace -->
-		<item id="48669" count="1" enchantLevel="1" /> <!-- Angel's Necklace -->
-		<item id="81212" count="1" enchantLevel="1" /> <!-- Angel's Necklace -->
-		<item id="48669" count="1" enchantLevel="3" /> <!-- Angel's Necklace -->
-		<item id="81212" count="1" enchantLevel="3" /> <!-- Angel's Necklace -->
-		<item id="48669" count="1" enchantLevel="2" /> <!-- Angel's Necklace -->
-		<item id="81212" count="1" enchantLevel="2" /> <!-- Angel's Necklace -->
+		<item id="48669" count="1" enchantLevel="4" /> <!-- Angel's Necklace -->
+		<item id="81212" count="1" enchantLevel="4" /> <!-- Angel's Necklace -->
+		<item id="48669" count="1" enchantLevel="6" /> <!-- Angel's Necklace -->
+		<item id="81212" count="1" enchantLevel="6" /> <!-- Angel's Necklace -->
+		<item id="48669" count="1" enchantLevel="8" /> <!-- Angel's Necklace -->
+		<item id="81212" count="1" enchantLevel="8" /> <!-- Angel's Necklace -->
 	</collection>
 	<collection id="55" optionId="35853" category="3" completeCount="4"> <!-- Guardian Angel' Earring -->
-		<item id="48841" count="1" enchantLevel="1" /> <!-- Angel's Earring -->
-		<item id="81213" count="1" enchantLevel="1" /> <!-- Angel's Earring -->
-		<item id="48841" count="1" enchantLevel="2" /> <!-- Angel's Earring -->
-		<item id="81213" count="1" enchantLevel="2" /> <!-- Angel's Earring -->
-		<item id="48841" count="1" enchantLevel="3" /> <!-- Angel's Earring -->
-		<item id="81213" count="1" enchantLevel="3" /> <!-- Angel's Earring -->
 		<item id="48841" count="1" enchantLevel="4" /> <!-- Angel's Earring -->
 		<item id="81213" count="1" enchantLevel="4" /> <!-- Angel's Earring -->
+		<item id="48841" count="1" enchantLevel="5" /> <!-- Angel's Earring -->
+		<item id="81213" count="1" enchantLevel="5" /> <!-- Angel's Earring -->
+		<item id="48841" count="1" enchantLevel="6" /> <!-- Angel's Earring -->
+		<item id="81213" count="1" enchantLevel="6" /> <!-- Angel's Earring -->
+		<item id="48841" count="1" enchantLevel="7" /> <!-- Angel's Earring -->
+		<item id="81213" count="1" enchantLevel="7" /> <!-- Angel's Earring -->
 	</collection>
 	<collection id="56" optionId="35854" category="3" completeCount="3"> <!-- Guardian Angel's Ring -->
-		<item id="81154" count="1" enchantLevel="1" /> <!-- Angel's Ring -->
-		<item id="81214" count="1" enchantLevel="1" /> <!-- Angel's Ring -->
-		<item id="81154" count="1" enchantLevel="2" /> <!-- Angel's Ring -->
-		<item id="81214" count="1" enchantLevel="2" /> <!-- Angel's Ring -->
 		<item id="81154" count="1" enchantLevel="4" /> <!-- Angel's Ring -->
 		<item id="81214" count="1" enchantLevel="4" /> <!-- Angel's Ring -->
+		<item id="81154" count="1" enchantLevel="5" /> <!-- Angel's Ring -->
+		<item id="81214" count="1" enchantLevel="5" /> <!-- Angel's Ring -->
+		<item id="81154" count="1" enchantLevel="7" /> <!-- Angel's Ring -->
+		<item id="81214" count="1" enchantLevel="7" /> <!-- Angel's Ring -->
 	</collection>
 	<collection id="57" optionId="35855" category="3" completeCount="5"> <!-- Fallen Angel's Ring -->
-		<item id="48864" count="1" enchantLevel="1" /> <!-- Fallen Angel's Ring -->
-		<item id="48864" count="1" enchantLevel="2" /> <!-- Fallen Angel's Ring -->
-		<item id="48864" count="1" enchantLevel="3" /> <!-- Fallen Angel's Ring -->
 		<item id="48864" count="1" enchantLevel="4" /> <!-- Fallen Angel's Ring -->
-		<item id="48864" count="1" enchantLevel="3" /> <!-- Fallen Angel's Ring -->
+		<item id="48864" count="1" enchantLevel="5" /> <!-- Fallen Angel's Ring -->
+		<item id="48864" count="1" enchantLevel="6" /> <!-- Fallen Angel's Ring -->
+		<item id="48864" count="1" enchantLevel="7" /> <!-- Fallen Angel's Ring -->
+		<item id="48864" count="1" enchantLevel="9" /> <!-- Fallen Angel's Ring -->
 	</collection>
 	<collection id="58" optionId="35856" category="3" completeCount="5"> <!-- Shining Accessories -->
 		<item id="48669" count="1" enchantLevel="2" /> <!-- Angel's Necklace -->
@@ -567,19 +634,19 @@
 		<item id="81835" count="100" enchantLevel="0" /> <!-- High Priest's Holy Water -->
 	</collection>
 	<collection id="116" optionId="36008" category="1" completeCount="2"> <!-- Sword Filled With Magic -->
-		<item id="80141" count="1" enchantLevel="20" /> <!-- Enhanced Krishna Buster -->
+		<item id="26318" count="20" enchantLevel="0" /> <!-- claw -->
 		<item id="19440" count="195" enchantLevel="0" /> <!-- R-grade Gemstone -->
 	</collection>
 	<collection id="117" optionId="36009" category="1" completeCount="2"> <!-- Staff of Destruction -->
-		<item id="80143" count="1" enchantLevel="14" /> <!-- Enhanced Krishna Retributer -->
+		<item id="26318" count="20" enchantLevel="0" /> <!-- claw -->
 		<item id="35562" count="500" enchantLevel="0" /> <!-- Destructive Energy -->
 	</collection>
 	<collection id="118" optionId="36010" category="1" completeCount="2"> <!-- Giants' Blade -->
-		<item id="80134" count="1" enchantLevel="20" /> <!-- Enhanced Krishna Cutter -->
+		<item id="26318" count="20" enchantLevel="0" /> <!-- claw -->
 		<item id="35563" count="20" enchantLevel="0" /> <!-- Giant's Energy -->
 	</collection>
 	<collection id="119" optionId="36011" category="1" completeCount="2"> <!-- Knight's Spear -->
-		<item id="80138" count="1" enchantLevel="14" /> <!-- Enhanced Krishna Stormer -->
+		<item id="26318" count="20" enchantLevel="0" /> <!-- claw -->
 		<item id="80130" count="105" enchantLevel="0" /> <!-- Superior Augmenting Stone: Weapon -->
 	</collection>
 	<collection id="120" optionId="36012" category="1" completeCount="5"> <!-- By Fire and Sword -->
@@ -589,113 +656,89 @@
 		<item id="35562" count="472" enchantLevel="0" /> <!-- Destructive Energy -->
 		<item id="35563" count="472" enchantLevel="0" /> <!-- Giant's Energy -->
 	</collection>
-	<collection id="121" optionId="36013" category="1" completeCount="4"> <!-- Guard's Heat -->
-		<item id="80140" count="1" enchantLevel="12" /> <!-- Enhanced Krishna Guardian -->
+	<collection id="121" optionId="36013" category="1" completeCount="3"> <!-- Guard's Heat -->
+		<item id="26318" count="20" enchantLevel="0" /> <!-- claw -->
 		<item id="17526" count="100" enchantLevel="0" /> <!-- Scroll: Enchant R-grade Weapon -->
-		<item id="36386" count="20" enchantLevel="0" /> <!-- Giant's Scroll: Enchant R-grade Weapon -->
 		<item id="19447" count="10" enchantLevel="0" /> <!-- Blessed Scroll: Enchant R-grade Weapon -->
 	</collection>
 	<collection id="122" optionId="36014" category="1" completeCount="4"> <!-- Dual Swords' Heat -->
-		<item id="80144" count="1" enchantLevel="12" /> <!-- Enhanced Krishna Dual Swords -->
+		<item id="26318" count="20" enchantLevel="0" /> <!-- claw -->
 		<item id="19440" count="195" enchantLevel="0" /> <!-- R-grade Gemstone -->
 		<item id="35562" count="20" enchantLevel="0" /> <!-- Destructive Energy -->
 		<item id="35563" count="20" enchantLevel="0" /> <!-- Giant's Energy -->
 	</collection>
 	<collection id="123" optionId="36015" category="1" completeCount="4"> <!-- Avenger's Heat -->
-		<item id="80136" count="1" enchantLevel="12" /> <!-- Enhanced Krishna Avenger -->
+		<item id="26318" count="20" enchantLevel="0" /> <!-- claw -->
 		<item id="47951" count="142" enchantLevel="0" /> <!-- Crystal of Determination -->
 		<item id="35562" count="20" enchantLevel="0" /> <!-- Destructive Energy -->
 		<item id="35563" count="20" enchantLevel="0" /> <!-- Giant's Energy -->
 	</collection>
-	<collection id="124" optionId="36016" category="1" completeCount="6"> <!-- Assassin -->
-		<item id="80133" count="1" enchantLevel="8" /> <!-- Enhanced Krishna Shaper -->
-		<item id="80134" count="1" enchantLevel="4" /> <!-- Enhanced Krishna Cutter -->
+	<collection id="124" optionId="36016" category="1" completeCount="4"> <!-- Assassin -->
+		<item id="26318" count="20" enchantLevel="0" /> <!-- claw -->
 		<item id="17526" count="100" enchantLevel="0" /> <!-- Scroll: Enchant R-grade Weapon -->
-		<item id="36386" count="20" enchantLevel="0" /> <!-- Giant's Scroll: Enchant R-grade Weapon -->
 		<item id="19447" count="20" enchantLevel="0" /> <!-- Blessed Scroll: Enchant R-grade Weapon -->
 		<item id="35563" count="12" enchantLevel="0" /> <!-- Giant's Energy -->
 	</collection>
-	<collection id="125" optionId="36017" category="1" completeCount="6"> <!-- Great Wizard -->
-		<item id="80142" count="1" enchantLevel="8" /> <!-- Enhanced Krishna Caster -->
-		<item id="80143" count="1" enchantLevel="4" /> <!-- Enhanced Krishna Retributer -->
+	<collection id="125" optionId="36017" category="1" completeCount="4"> <!-- Great Wizard -->
+		<item id="26318" count="20" enchantLevel="0" /> <!-- claw -->
 		<item id="17526" count="100" enchantLevel="0" /> <!-- Scroll: Enchant R-grade Weapon -->
-		<item id="36386" count="20" enchantLevel="0" /> <!-- Giant's Scroll: Enchant R-grade Weapon -->
 		<item id="19447" count="20" enchantLevel="0" /> <!-- Blessed Scroll: Enchant R-grade Weapon -->
 		<item id="35562" count="12" enchantLevel="0" /> <!-- Destructive Energy -->
 	</collection>
-	<collection id="126" optionId="36018" category="1" completeCount="4"> <!-- Master Marksman I -->
-		<item id="80139" count="1" enchantLevel="8" /> <!-- Enhanced Krishna Thrower -->
-		<item id="80140" count="1" enchantLevel="4" /> <!-- Enhanced Krishna Guardian -->
-		<item id="81840" count="2" enchantLevel="0" /> <!-- Orb of Bloody Soul - Lv. 4 -->
+	<collection id="126" optionId="36018" category="1" completeCount="2"> <!-- Master Marksman I -->
+		<item id="26318" count="20" enchantLevel="0" /> <!-- claw -->
 		<item id="81835" count="742" enchantLevel="0" /> <!-- High Priest's Holy Water -->
 	</collection>
-	<collection id="127" optionId="36019" category="1" completeCount="4"> <!-- Great Warrior -->
-		<item id="80137" count="1" enchantLevel="4" /> <!-- Enhanced Krishna Fighter -->
-		<item id="80145" count="1" enchantLevel="4" /> <!-- Enhanced Krishna Dual Daggers -->
+	<collection id="127" optionId="36019" category="1" completeCount="3"> <!-- Great Warrior -->
+		<item id="26318" count="20" enchantLevel="0" /> <!-- claw -->
 		<item id="81836" count="320" enchantLevel="0" /> <!-- Orb of Bloody Soul -->
 		<item id="81835" count="200" enchantLevel="0" /> <!-- High Priest's Holy Water -->
 	</collection>
 	<collection id="128" optionId="36020" category="1" completeCount="4"> <!-- Dismantler's Heat -->
-		<item id="80141" count="1" enchantLevel="4" /> <!-- Enhanced Krishna Buster -->
+		<item id="26318" count="20" enchantLevel="0" /> <!-- claw -->
 		<item id="81847" count="1" enchantLevel="0" /> <!-- Orb of Abyss -->
 		<item id="81835" count="1262" enchantLevel="0" /> <!-- High Priest's Holy Water -->
 		<item id="80130" count="78" enchantLevel="0" /> <!-- Superior Augmenting Stone: Weapon -->
 	</collection>
 	<collection id="129" optionId="36021" category="1" completeCount="4"> <!-- Enchanter's Heat -->
-		<item id="80142" count="1" enchantLevel="4" /> <!-- Enhanced Krishna Caster -->
+		<item id="26318" count="20" enchantLevel="0" /> <!-- claw -->
 		<item id="81858" count="1" enchantLevel="0" /> <!-- Orb of Darkness -->
 		<item id="81835" count="862" enchantLevel="0" /> <!-- High Priest's Holy Water -->
 		<item id="80130" count="32" enchantLevel="0" /> <!-- Superior Augmenting Stone: Weapon -->
 	</collection>
-	<collection id="130" optionId="36022" category="1" completeCount="6"> <!-- Shining Shaper -->
-		<item id="17416" count="1" enchantLevel="6" /> <!-- Helios Shaper -->
-		<item id="18069" count="1" enchantLevel="6" /> <!-- Blessed Helios Shaper -->
+	<collection id="130" optionId="36022" category="1" completeCount="5"> <!-- Shining Shaper -->
+		<item id="26318" count="20" enchantLevel="0" /> <!-- claw -->
 		<item id="17526" count="81" enchantLevel="0" /> <!-- Scroll: Enchant R-grade Weapon -->
-		<item id="36386" count="15" enchantLevel="0" /> <!-- Giant's Scroll: Enchant R-grade Weapon -->
 		<item id="19447" count="10" enchantLevel="0" /> <!-- Blessed Scroll: Enchant R-grade Weapon -->
 		<item id="35562" count="102" enchantLevel="0" /> <!-- Destructive Energy -->
 		<item id="35563" count="102" enchantLevel="0" /> <!-- Giant's Energy -->
 	</collection>
 	<collection id="131" optionId="36023" category="1" completeCount="4"> <!-- Shining Cutter -->
-		<item id="17417" count="1" enchantLevel="6" /> <!-- Helios Cutter -->
-		<item id="18070" count="1" enchantLevel="6" /> <!-- Blessed Helios Cutter -->
+		<item id="26318" count="20" enchantLevel="0" /> <!-- claw -->
 		<item id="19440" count="1424" enchantLevel="0" /> <!-- R-grade Gemstone -->
 		<item id="35562" count="142" enchantLevel="0" /> <!-- Destructive Energy -->
 		<item id="35563" count="174" enchantLevel="0" /> <!-- Giant's Energy -->
 	</collection>
 	<collection id="132" optionId="36024" category="1" completeCount="4"> <!-- Shining Buster -->
-		<item id="17424" count="1" enchantLevel="6" /> <!-- Helios Buster -->
-		<item id="18077" count="1" enchantLevel="6" /> <!-- Blessed Helios Buster -->
+		<item id="26318" count="20" enchantLevel="0" /> <!-- claw -->
 		<item id="47951" count="48" enchantLevel="0" /> <!-- Crystal of Determination -->
 		<item id="35562" count="178" enchantLevel="0" /> <!-- Destructive Energy -->
 		<item id="35563" count="132" enchantLevel="0" /> <!-- Giant's Energy -->
 	</collection>
-	<collection id="133" optionId="36025" category="1" completeCount="6"> <!-- Elder Knight I -->
-		<item id="17420" count="1" enchantLevel="4" /> <!-- Helios Fighter -->
-		<item id="18073" count="1" enchantLevel="4" /> <!-- Blessed Helios Fighter -->
-		<item id="17428" count="1" enchantLevel="4" /> <!-- Helios Dual Daggers -->
-		<item id="18081" count="1" enchantLevel="4" /> <!-- Blessed Helios Dual Daggers -->
+	<collection id="133" optionId="36025" category="1" completeCount="4"> <!-- Elder Knight I -->
+		<item id="26318" count="20" enchantLevel="0" /> <!-- claw -->
 		<item id="17526" count="74" enchantLevel="0" /> <!-- Scroll: Enchant R-grade Weapon -->
-		<item id="36386" count="10" enchantLevel="0" /> <!-- Giant's Scroll: Enchant R-grade Weapon -->
 		<item id="19447" count="10" enchantLevel="0" /> <!-- Blessed Scroll: Enchant R-grade Weapon -->
 		<item id="35563" count="212" enchantLevel="0" /> <!-- Giant's Energy -->
 	</collection>
-	<collection id="134" optionId="36026" category="1" completeCount="6"> <!-- Elder Knight II -->
-		<item id="17427" count="1" enchantLevel="4" /> <!-- Helios Dual Swords -->
-		<item id="18080" count="1" enchantLevel="4" /> <!-- Blessed Helios Dual Swords -->
-		<item id="17428" count="1" enchantLevel="4" /> <!-- Helios Dual Daggers -->
-		<item id="18081" count="1" enchantLevel="4" /> <!-- Blessed Helios Dual Daggers -->
+	<collection id="134" optionId="36026" category="1" completeCount="4"> <!-- Elder Knight II -->
+		<item id="26318" count="20" enchantLevel="0" /> <!-- claw -->
 		<item id="17526" count="74" enchantLevel="0" /> <!-- Scroll: Enchant R-grade Weapon -->
-		<item id="36386" count="10" enchantLevel="0" /> <!-- Giant's Scroll: Enchant R-grade Weapon -->
 		<item id="19447" count="10" enchantLevel="0" /> <!-- Blessed Scroll: Enchant R-grade Weapon -->
 		<item id="35562" count="212" enchantLevel="0" /> <!-- Destructive Energy -->
 	</collection>
-	<collection id="135" optionId="36027" category="1" completeCount="4"> <!-- Master Marksman II -->
-		<item id="17423" count="1" enchantLevel="4" /> <!-- Helios Guardian -->
-		<item id="18076" count="1" enchantLevel="4" /> <!-- Blessed Helios Guardian -->
-		<item id="17422" count="1" enchantLevel="4" /> <!-- Helios Thrower -->
-		<item id="18075" count="1" enchantLevel="4" /> <!-- Blessed Helios Thrower -->
-		<item id="81840" count="2" enchantLevel="0" /> <!-- Orb of Bloody Soul - Lv. 4 -->
+	<collection id="135" optionId="36027" category="1" completeCount="2"> <!-- Master Marksman II -->
+		<item id="26318" count="20" enchantLevel="0" /> <!-- claw -->
 		<item id="81835" count="871" enchantLevel="0" /> <!-- High Priest's Holy Water -->
 	</collection>
 	<collection id="136" optionId="36028" category="1" completeCount="3"> <!-- High Priest's Dagger -->
