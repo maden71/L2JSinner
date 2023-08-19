@@ -5,52 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4309c602-5ca8-4831-8926-93e80052e187" name="Changes" comment="isle of souls drop added and lower zone drop changes">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/game/data/stats/npcs/24400-24499.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/data/stats/npcs/24400-24499.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/game/log/GMAudit/f [268511866].txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/GMAudit/f [268511866].txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/game/log/accounting0.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/accounting0.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/game/log/error1.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/error1.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/game/log/error4.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/error4.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/game/log/java0.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/java0.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/game/log/java1.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/java1.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/game/log/java10.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/java10.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/game/log/java11.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/java11.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/game/log/java12.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/java12.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/game/log/java13.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/java13.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/game/log/java14.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/java14.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/game/log/java15.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/java15.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/game/log/java16.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/java16.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/game/log/java17.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/java17.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/game/log/java18.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/java18.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/game/log/java19.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/java19.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/game/log/java2.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/java2.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/game/log/java3.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/java3.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/game/log/java4.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/java4.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/game/log/java5.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/java5.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/game/log/java6.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/java6.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/game/log/java7.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/java7.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/game/log/java8.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/java8.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/game/log/java9.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/java9.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/login/log/java0.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/login/log/java0.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/login/log/java1.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/login/log/java1.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/login/log/java10.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/login/log/java10.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/login/log/java11.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/login/log/java11.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/login/log/java12.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/login/log/java12.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/login/log/java13.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/login/log/java13.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/login/log/java14.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/login/log/java14.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/login/log/java15.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/login/log/java15.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/login/log/java16.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/login/log/java16.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/login/log/java17.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/login/log/java17.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/login/log/java18.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/login/log/java18.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/login/log/java19.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/login/log/java19.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/login/log/java2.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/login/log/java2.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/login/log/java3.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/login/log/java3.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/login/log/java4.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/login/log/java4.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/login/log/java5.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/login/log/java5.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/login/log/java6.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/login/log/java6.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/login/log/java7.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/login/log/java7.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/login/log/java8.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/login/log/java8.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/login/log/java9.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/login/log/java9.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -154,7 +109,7 @@
       <workItem from="1692195845098" duration="13027000" />
       <workItem from="1692260883491" duration="40044000" />
       <workItem from="1692366126723" duration="5906000" />
-      <workItem from="1692433155669" duration="1220000" />
+      <workItem from="1692433155669" duration="1466000" />
     </task>
     <task id="LOCAL-00001" summary="Garden of Spirit mob stat fix">
       <option name="closed" value="true" />
@@ -300,7 +255,15 @@
       <option name="project" value="LOCAL" />
       <updated>1692406748668</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="isle of souls drop added and lower zone drop changes">
+      <option name="closed" value="true" />
+      <created>1692436629333</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1692436629333</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
