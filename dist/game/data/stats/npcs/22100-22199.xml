@@ -1600,12 +1600,12 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="8205" /> <!-- Monster Only (Heretic Priest Sigil) -->
-		<acquire exp="2287" sp="2" />
-		<mpReward value="2" type="PER" ticks="5" affects="SOLO" />
+		<acquire exp="76565330" sp="4131" />
+		<mpReward value="3" type="PER" ticks="5" affects="PARTY" />
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
-			<vitals hp="189141.6" hpRegen="8.5" mp="2317.4" mpRegen="3" />
-			<attack physical="6432.48694948244" magical="1133.34154078035" random="10" critical="4" accuracy="0" attackSpeed="253" type="POLE" range="80" distance="80" width="120" />
-			<defence physical="515.39249724918" magical="297.335874351375" />
+			<vitals hp="304232" hpRegen="11.4" mp="25460" mpRegen="30" />
+			<attack physical="70675" magical="6434" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="9474" magical="3836" />
 			<speed>
 				<walk ground="60" />
 				<run ground="200" />
@@ -1651,8 +1651,13 @@
 		</collision>
 		<dropLists>
 			<drop>
-				<item id="57" min="333" max="776" chance="70" /> <!-- Adena -->
-				<item id="48472" min="1" max="1" chance="1" />
+				<item id="57" min="7042" max="11504" chance="70" /> <!-- Adena -->
+				<item id="30297" min="1" max="5" chance="50" />
+				<item id="81361" min="1" max="1" chance="3" />
+				<item id="80839" min="1" max="1" chance="10" />
+				<item id="36515" min="1" max="1" chance="15" />
+				<item id="5575" min="1" max="20" chance="40" />
+				<item id="48472" min="1" max="5" chance="3" />
 			</drop>
 		</dropLists>
 	</npc>
@@ -2450,11 +2455,12 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="8206" lhand="8206" /> <!-- Monster Only (Heretic Priest Sword) / Monster Only (Heretic Priest Sword) -->
-		<acquire exp="1709" sp="2" />
+		<acquire exp="76565330" sp="4131" />
+		<mpReward value="3" type="PER" ticks="5" affects="PARTY" />
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
-			<vitals hp="356248.833567932" hpRegen="8.5" mp="23550" mpRegen="30" />
-			<attack physical="94440.4117579731" magical="16609.7702753578" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
-			<defence physical="525.700347194163" magical="304.76927121016" />
+			<vitals hp="304232" hpRegen="11.4" mp="25460" mpRegen="30" />
+			<attack physical="70675" magical="6434" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="9474" magical="3836" />
 			<speed>
 				<walk ground="30" />
 				<run ground="180" />
@@ -2499,7 +2505,13 @@
 		</collision>
 		<dropLists>
 			<drop>
-				<item id="57" min="340" max="792" chance="70" /> <!-- Adena -->
+				<item id="57" min="7042" max="11504" chance="70" /> <!-- Adena -->
+				<item id="30297" min="1" max="5" chance="50" />
+				<item id="81361" min="1" max="1" chance="3" />
+				<item id="80839" min="1" max="1" chance="10" />
+				<item id="36515" min="1" max="1" chance="15" />
+				<item id="5575" min="1" max="20" chance="40" />
+				<item id="48472" min="1" max="5" chance="3" />
 			</drop>
 		</dropLists>
 	</npc>
@@ -2515,11 +2527,12 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="8205" /> <!-- Monster Only (Heretic Priest Sigil) -->
-		<acquire exp="1882" sp="2" />
+		<acquire exp="76565330" sp="4131" />
+		<mpReward value="3" type="PER" ticks="5" affects="PARTY" />
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
-			<vitals hp="356248.833567932" hpRegen="8.5" mp="23550" mpRegen="30" />
-			<attack physical="94440.4117579731" magical="16609.7702753578" random="10" critical="4" accuracy="0" attackSpeed="253" type="POLE" range="80" distance="80" width="120" />
-			<defence physical="525.700347194163" magical="304.76927121016" />
+			<vitals hp="304232" hpRegen="11.4" mp="25460" mpRegen="30" />
+			<attack physical="70675" magical="6434" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="9474" magical="3836" />
 			<speed>
 				<walk ground="60" />
 				<run ground="180" />
@@ -2561,7 +2574,13 @@
 		</collision>
 		<dropLists>
 			<drop>
-				<item id="57" min="340" max="792" chance="70" /> <!-- Adena -->
+				<item id="57" min="7042" max="11504" chance="70" /> <!-- Adena -->
+				<item id="30297" min="1" max="5" chance="50" />
+				<item id="81361" min="1" max="1" chance="3" />
+				<item id="80839" min="1" max="1" chance="10" />
+				<item id="36515" min="1" max="1" chance="15" />
+				<item id="5575" min="1" max="20" chance="40" />
+				<item id="48472" min="1" max="5" chance="3" />
 			</drop>
 		</dropLists>
 	</npc>
@@ -2577,11 +2596,12 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="8205" /> <!-- Monster Only (Heretic Priest Sigil) -->
-		<acquire exp="1709" sp="2" />
+		<acquire exp="76565330" sp="4131" />
+		<mpReward value="3" type="PER" ticks="5" affects="PARTY" />
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
-			<vitals hp="356248.833567932" hpRegen="8.5" mp="23550" mpRegen="30" />
-			<attack physical="94440.4117579731" magical="16609.7702753578" random="10" critical="4" accuracy="0" attackSpeed="253" type="POLE" range="80" distance="80" width="120" />
-			<defence physical="525.700347194163" magical="304.76927121016" />
+			<vitals hp="304232" hpRegen="11.4" mp="25460" mpRegen="30" />
+			<attack physical="70675" magical="6434" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="9474" magical="3836" />
 			<speed>
 				<walk ground="60" />
 				<run ground="180" />
@@ -2623,7 +2643,13 @@
 		</collision>
 		<dropLists>
 			<drop>
-				<item id="57" min="340" max="792" chance="70" /> <!-- Adena -->
+				<item id="57" min="7042" max="11504" chance="70" /> <!-- Adena -->
+				<item id="30297" min="1" max="5" chance="50" />
+				<item id="81361" min="1" max="1" chance="3" />
+				<item id="80839" min="1" max="1" chance="10" />
+				<item id="36515" min="1" max="1" chance="15" />
+				<item id="5575" min="1" max="20" chance="40" />
+				<item id="48472" min="1" max="5" chance="3" />
 			</drop>
 		</dropLists>
 	</npc>
@@ -2641,11 +2667,12 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="8207" lhand="8207" /> <!-- Monster Only (Heretic Private Axe) / Monster Only (Heretic Private Axe) -->
-		<acquire exp="1882" sp="2" />
+		<acquire exp="76565330" sp="4131" />
+		<mpReward value="3" type="PER" ticks="5" affects="PARTY" />
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
-			<vitals hp="356248.833567932" hpRegen="8.5" mp="23550" mpRegen="30" />
-			<attack physical="94440.4117579731" magical="16609.7702753578" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
-			<defence physical="525.700347194163" magical="304.76927121016" />
+			<vitals hp="304232" hpRegen="11.4" mp="25460" mpRegen="30" />
+			<attack physical="70675" magical="6434" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="9474" magical="3836" />
 			<speed>
 				<walk ground="58" />
 				<run ground="180" />
@@ -2689,7 +2716,13 @@
 		</collision>
 		<dropLists>
 			<drop>
-				<item id="57" min="340" max="792" chance="70" /> <!-- Adena -->
+				<item id="57" min="7042" max="11504" chance="70" /> <!-- Adena -->
+				<item id="30297" min="1" max="5" chance="50" />
+				<item id="81361" min="1" max="1" chance="3" />
+				<item id="80839" min="1" max="1" chance="10" />
+				<item id="36515" min="1" max="1" chance="15" />
+				<item id="5575" min="1" max="20" chance="40" />
+				<item id="48472" min="1" max="5" chance="3" />
 			</drop>
 		</dropLists>
 	</npc>
@@ -3176,11 +3209,12 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="8205" /> <!-- Monster Only (Heretic Priest Sigil) -->
-		<acquire exp="1709" sp="2" />
+		<acquire exp="76565330" sp="4131" />
+		<mpReward value="3" type="PER" ticks="5" affects="PARTY" />
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
-			<vitals hp="356248.833567932" hpRegen="8.5" mp="23550" mpRegen="30" />
-			<attack physical="94440.4117579731" magical="16609.7702753578" random="10" critical="4" accuracy="0" attackSpeed="253" type="POLE" range="80" distance="80" width="120" />
-			<defence physical="525.700347194163" magical="304.76927121016" />
+			<vitals hp="304232" hpRegen="11.4" mp="25460" mpRegen="30" />
+			<attack physical="70675" magical="6434" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="9474" magical="3836" />
 			<speed>
 				<walk ground="60" />
 				<run ground="180" />
@@ -3247,11 +3281,12 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="8206" lhand="8206" /> <!-- Monster Only (Heretic Priest Sword) / Monster Only (Heretic Priest Sword) -->
-		<acquire exp="1709" sp="2" />
+		<acquire exp="76565330" sp="4131" />
+		<mpReward value="3" type="PER" ticks="5" affects="PARTY" />
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
-			<vitals hp="356248.833567932" hpRegen="8.5" mp="23550" mpRegen="30" />
-			<attack physical="94440.4117579731" magical="16609.7702753578" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
-			<defence physical="525.700347194163" magical="304.76927121016" />
+			<vitals hp="304232" hpRegen="11.4" mp="25460" mpRegen="30" />
+			<attack physical="70675" magical="6434" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="9474" magical="3836" />
 			<speed>
 				<walk ground="30" />
 				<run ground="180" />
@@ -3314,11 +3349,12 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="8205" /> <!-- Monster Only (Heretic Priest Sigil) -->
-		<acquire exp="1709" sp="2" />
+		<acquire exp="76565330" sp="4131" />
+		<mpReward value="3" type="PER" ticks="5" affects="PARTY" />
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
-			<vitals hp="356248.833567932" hpRegen="8.5" mp="23550" mpRegen="30" />
-			<attack physical="94440.4117579731" magical="16609.7702753578" random="10" critical="4" accuracy="0" attackSpeed="253" type="POLE" range="80" distance="80" width="120" />
-			<defence physical="525.700347194163" magical="304.76927121016" />
+			<vitals hp="304232" hpRegen="11.4" mp="25460" mpRegen="30" />
+			<attack physical="70675" magical="6434" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="9474" magical="3836" />
 			<speed>
 				<walk ground="60" />
 				<run ground="180" />
@@ -3362,7 +3398,13 @@
 		</collision>
 		<dropLists>
 			<drop>
-				<item id="57" min="340" max="792" chance="70" /> <!-- Adena -->
+				<item id="57" min="7042" max="11504" chance="70" /> <!-- Adena -->
+				<item id="30297" min="1" max="5" chance="50" />
+				<item id="81361" min="1" max="1" chance="3" />
+				<item id="80839" min="1" max="1" chance="10" />
+				<item id="36515" min="1" max="1" chance="15" />
+				<item id="5575" min="1" max="20" chance="40" />
+				<item id="48472" min="1" max="5" chance="3" />
 			</drop>
 		</dropLists>
 	</npc>

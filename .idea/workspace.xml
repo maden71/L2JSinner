@@ -6,9 +6,13 @@
   <component name="ChangeListManager">
     <list default="true" id="4309c602-5ca8-4831-8926-93e80052e187" name="Changes" comment="collection change">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/game/data/spawns/Others/22_24.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/data/spawns/Others/22_24.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/game/data/html/CommunityBoard/Custom/merchant/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/data/html/CommunityBoard/Custom/merchant/main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/game/data/html/merchant/32347.htm" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/data/html/merchant/32347.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/game/data/multisell/632.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/data/multisell/632.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/game/data/stats/npcs/22100-22199.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/data/stats/npcs/22100-22199.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/game/log/accounting0.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/accounting0.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/game/log/error15.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/error15.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/game/log/error16.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/error16.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/game/log/java0.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/java0.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/game/log/java1.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/java1.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/game/log/java10.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/java10.log" afterDir="false" />
@@ -133,7 +137,7 @@
       <workItem from="1692260883491" duration="40044000" />
       <workItem from="1692366126723" duration="5906000" />
       <workItem from="1692433155669" duration="15562000" />
-      <workItem from="1692484958397" duration="985000" />
+      <workItem from="1692484958397" duration="2870000" />
     </task>
     <task id="LOCAL-00001" summary="Garden of Spirit mob stat fix">
       <option name="closed" value="true" />
@@ -327,7 +331,15 @@
       <option name="project" value="LOCAL" />
       <updated>1692465033294</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="collection change">
+      <option name="closed" value="true" />
+      <created>1692488864745</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1692488864745</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

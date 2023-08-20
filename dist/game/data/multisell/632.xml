@@ -10,25 +10,33 @@
 	<item>
 		<ingredient id="38768" count="1" /> <!-- La Vie En Rose's Brooch Lv. 1 -->
 		<ingredient id="19440" count="450" /> <!-- Gemstone R -->
-		<ingredient id="36514" count="20" /> <!-- Elcyum Crystal -->
+		<ingredient id="28359" count="1" />
 		<production id="26474" count="1" /> <!-- La Vie En Rose's Brooch Lv. 2 -->
 	</item>
 	<item>
 		<ingredient id="26474" count="1" /> <!-- La Vie En Rose's Brooch Lv. 2 -->
 		<ingredient id="19440" count="2340" /> <!-- Gemstone R -->
-		<ingredient id="36514" count="40" /> <!-- Elcyum Crystal -->
+		<ingredient id="28359" count="1" />
 		<production id="28358" count="1" /> <!-- La Vie En Rose's Brooch Lv. 3 -->
 	</item>
 	<item>
 		<ingredient id="28358" count="1" /> <!-- La Vie En Rose's Brooch Lv. 3 -->
 		<ingredient id="19440" count="2340" /> <!-- Gemstone R -->
+		<ingredient id="28359" count="1" />
 		<ingredient id="36515" count="30" /> <!-- Elcyum -->
 		<production id="28487" count="1" /> <!-- La Vie En Rose's Brooch Lv. 4 -->
 	</item>
 	<item>
 		<ingredient id="28487" count="1" /> <!-- La Vie En Rose's Brooch Lv. 4 -->
 		<ingredient id="19440" count="4780" /> <!-- Gemstone R -->
+		<ingredient id="28359" count="1" />
 		<ingredient id="36515" count="60" /> <!-- Elcyum -->
 		<production id="28488" count="1" /> <!-- La Vie En Rose's Brooch Lv. 5 -->
+	</item>
+	<item>
+		<ingredient id="5575" count="1263" /> <!-- AA -->
+		<ingredient id="36515" count="20" /> <!-- Elcyum -->
+		<ingredient id="57" count="47400000" /> <!-- adena -->
+		<production id="28359" count="1" />
 	</item>
 </list>
