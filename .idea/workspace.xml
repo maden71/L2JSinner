@@ -4,14 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4309c602-5ca8-4831-8926-93e80052e187" name="Changes" comment="collection change">
+    <list default="true" id="4309c602-5ca8-4831-8926-93e80052e187" name="Changes" comment="saints necropolis drop added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/game/data/html/CommunityBoard/Custom/merchant/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/data/html/CommunityBoard/Custom/merchant/main.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/game/data/html/merchant/32347.htm" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/data/html/merchant/32347.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/game/data/multisell/632.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/data/multisell/632.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/game/data/scripts/custom/events/TeamVsTeam/TvT.java" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/data/scripts/custom/events/TeamVsTeam/TvT.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/game/data/scripts/handlers/communityboard/HomeBoard.java" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/data/scripts/handlers/communityboard/HomeBoard.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/game/data/stats/npcs/22100-22199.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/data/stats/npcs/22100-22199.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/game/log/accounting0.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/accounting0.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/game/log/error15.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/error15.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/game/log/error16.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/error16.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/game/log/java0.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/java0.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/game/log/java1.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/java1.log" afterDir="false" />
@@ -73,10 +71,11 @@
     &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.gameserver">
+  <component name="RunManager" selected="Application.loginserver">
     <configuration name="gameserver" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="org.l2jmobius.gameserver.GameServer" />
       <module name="L2J_Mobius_10.3_MasterClass" />
@@ -137,7 +136,10 @@
       <workItem from="1692260883491" duration="40044000" />
       <workItem from="1692366126723" duration="5906000" />
       <workItem from="1692433155669" duration="15562000" />
-      <workItem from="1692484958397" duration="2870000" />
+      <workItem from="1692484958397" duration="3465000" />
+      <workItem from="1692521705158" duration="1781000" />
+      <workItem from="1692532779426" duration="4253000" />
+      <workItem from="1692605593374" duration="2686000" />
     </task>
     <task id="LOCAL-00001" summary="Garden of Spirit mob stat fix">
       <option name="closed" value="true" />
@@ -339,7 +341,15 @@
       <option name="project" value="LOCAL" />
       <updated>1692488864745</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="saints necropolis drop added">
+      <option name="closed" value="true" />
+      <created>1692490864734</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1692490864734</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -358,7 +368,8 @@
     <MESSAGE value="isle of souls drop added and lower zone drop changes" />
     <MESSAGE value="fix" />
     <MESSAGE value="collection change" />
-    <option name="LAST_COMMIT_MESSAGE" value="collection change" />
+    <MESSAGE value="saints necropolis drop added" />
+    <option name="LAST_COMMIT_MESSAGE" value="saints necropolis drop added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -16,18 +16,20 @@
  */
 package custom.events.TeamVsTeam;
 
-import java.util.*;
+import java.util.ArrayList;
+import java.util.Calendar;
+import java.util.Collections;
+import java.util.List;
+import java.util.Map;
+import java.util.Set;
 import java.util.concurrent.ConcurrentHashMap;
 
-import handlers.MasterHandler;
-import handlers.bypasshandlers.VoiceCommand;
 import org.l2jmobius.Config;
 import org.l2jmobius.commons.threads.ThreadPool;
 import org.l2jmobius.gameserver.enums.CategoryType;
 import org.l2jmobius.gameserver.enums.PartyDistributionType;
 import org.l2jmobius.gameserver.enums.SkillFinishType;
 import org.l2jmobius.gameserver.enums.Team;
-import org.l2jmobius.gameserver.handler.IVoicedCommandHandler;
 import org.l2jmobius.gameserver.instancemanager.AntiFeedManager;
 import org.l2jmobius.gameserver.instancemanager.InstanceManager;
 import org.l2jmobius.gameserver.instancemanager.ZoneManager;
@@ -59,7 +61,6 @@ import org.l2jmobius.gameserver.model.zone.ZoneType;
 import org.l2jmobius.gameserver.network.serverpackets.ExPVPMatchCCRecord;
 import org.l2jmobius.gameserver.network.serverpackets.ExShowScreenMessage;
 import org.l2jmobius.gameserver.network.serverpackets.MagicSkillUse;
-import org.l2jmobius.gameserver.network.serverpackets.NpcHtmlMessage;
 import org.l2jmobius.gameserver.util.Broadcast;
 import org.l2jmobius.gameserver.util.Util;
 
@@ -67,7 +68,7 @@ import org.l2jmobius.gameserver.util.Util;
  * Team vs Team event.
  * @author Mobius
  */
-public class TvT  extends Event
+public class TvT extends Event
 {
 	// NPC
 	private static final int MANAGER = 70011;
@@ -75,7 +76,7 @@ public class TvT  extends Event
 	private static final SkillHolder GHOST_WALKING = new SkillHolder(100000, 1); // Custom Ghost Walking
 	private static final SkillHolder KNIGHT = new SkillHolder(15648, 1); // Knight's Harmony (Adventurer)
 	private static final SkillHolder WARRIOR = new SkillHolder(15649, 1); // Warrior's Harmony (Adventurer)
-	private static final SkillHolder WIZARD = new SkillHolder(15650,1); // Wizard's Harmony (Adventurer)
+	private static final SkillHolder WIZARD = new SkillHolder(15650, 1); // Wizard's Harmony (Adventurer)
 	private static final SkillHolder[] GROUP_BUFFS =
 	{
 		new SkillHolder(15642, 1), // Horn Melody (Adventurer)
@@ -90,8 +91,8 @@ public class TvT  extends Event
 	private static final int INSTANCE_ID = 3049;
 	private static final int BLUE_DOOR_ID = 24190002;
 	private static final int RED_DOOR_ID = 24190003;
-
-	//TVT event npc spawns
+	
+	// TVT event npc spawns
 	private static final Location MANAGER_SPAWN_GIRAN1 = new Location(82345, 148616, -3444, 194);
 	private static final Location MANAGER_SPAWN_GIRAN2 = new Location(83224, 148840, -3372, 64521);
 	private static final Location MANAGER_SPAWN_GIRAN3 = new Location(83232, 148397, -3373, 0);
@@ -130,9 +131,8 @@ public class TvT  extends Event
 	private static final Location MANAGER_SPAWN_ARCAN1 = new Location(207124, 88078, -1123, 49625);
 	private static final Location MANAGER_SPAWN_HUNTERS1 = new Location(116973, 77071, -2696, 41481);
 	private static final Location MANAGER_SPAWN_SHUTGRD1 = new Location(87369, -143194, -1295, 16433);
-
-
-	//event buffers
+	
+	// event buffers
 	private static final Location BLUE_BUFFER_SPAWN_LOC = new Location(147450, 46913, -3400, 49000);
 	private static final Location RED_BUFFER_SPAWN_LOC = new Location(151545, 46528, -3400, 16000);
 	private static final Location BLUE_SPAWN_LOC = new Location(147447, 46722, -3416);
@@ -155,78 +155,83 @@ public class TvT  extends Event
 	static final Set<Player> PLAYER_LIST = ConcurrentHashMap.newKeySet();
 	private static final Set<Player> BLUE_TEAM = ConcurrentHashMap.newKeySet();
 	private static final Set<Player> RED_TEAM = ConcurrentHashMap.newKeySet();
-	private static  Npc MANAGER_NPC_INSTANCE1 = null;
-	private static  Npc MANAGER_NPC_INSTANCE2 = null;
-	private static  Npc MANAGER_NPC_INSTANCE3 = null;
-	private static  Npc MANAGER_NPC_INSTANCE4 = null;
-	private static  Npc MANAGER_NPC_INSTANCE5 = null;
-	private static  Npc MANAGER_NPC_INSTANCE6 = null;
-	private static  Npc MANAGER_NPC_INSTANCE7 = null;
-	private static  Npc MANAGER_NPC_INSTANCE8 = null;
-	private static  Npc MANAGER_NPC_INSTANCE9 = null;
-	private static  Npc MANAGER_NPC_INSTANCE10 = null;
-	private static  Npc MANAGER_NPC_INSTANCE11 = null;
-	private static  Npc MANAGER_NPC_INSTANCE12 = null;
-	private static  Npc MANAGER_NPC_INSTANCE13 = null;
-	private static  Npc MANAGER_NPC_INSTANCE14 = null;
-	private static  Npc MANAGER_NPC_INSTANCE15 = null;
-	private static  Npc MANAGER_NPC_INSTANCE16 = null;
-	private static  Npc MANAGER_NPC_INSTANCE17 = null;
-	private static  Npc MANAGER_NPC_INSTANCE18 = null;
-	private static  Npc MANAGER_NPC_INSTANCE19 = null;
-	private static  Npc MANAGER_NPC_INSTANCE20 = null;
-	private static  Npc MANAGER_NPC_INSTANCE21 = null;
-	private static  Npc MANAGER_NPC_INSTANCE22 = null;
-	private static  Npc MANAGER_NPC_INSTANCE23 = null;
-	private static  Npc MANAGER_NPC_INSTANCE24 = null;
-	private static  Npc MANAGER_NPC_INSTANCE25 = null;
-	private static  Npc MANAGER_NPC_INSTANCE26 = null;
-	private static  Npc MANAGER_NPC_INSTANCE27 = null;
-	private static  Npc MANAGER_NPC_INSTANCE28 = null;
-	private static  Npc MANAGER_NPC_INSTANCE29 = null;
-	private static  Npc MANAGER_NPC_INSTANCE30 = null;
-	private static  Npc MANAGER_NPC_INSTANCE31 = null;
-	private static  Npc MANAGER_NPC_INSTANCE32 = null;
-	private static  Npc MANAGER_NPC_INSTANCE33 = null;
-	private static  Npc MANAGER_NPC_INSTANCE34 = null;
-	private static  Npc MANAGER_NPC_INSTANCE35 = null;
-	private static  Npc MANAGER_NPC_INSTANCE36 = null;
-	private static  Npc MANAGER_NPC_INSTANCE37 = null;
-	private static  Npc MANAGER_NPC_INSTANCE38 = null;
+	private static Npc MANAGER_NPC_INSTANCE1 = null;
+	private static Npc MANAGER_NPC_INSTANCE2 = null;
+	private static Npc MANAGER_NPC_INSTANCE3 = null;
+	private static Npc MANAGER_NPC_INSTANCE4 = null;
+	private static Npc MANAGER_NPC_INSTANCE5 = null;
+	private static Npc MANAGER_NPC_INSTANCE6 = null;
+	private static Npc MANAGER_NPC_INSTANCE7 = null;
+	private static Npc MANAGER_NPC_INSTANCE8 = null;
+	private static Npc MANAGER_NPC_INSTANCE9 = null;
+	private static Npc MANAGER_NPC_INSTANCE10 = null;
+	private static Npc MANAGER_NPC_INSTANCE11 = null;
+	private static Npc MANAGER_NPC_INSTANCE12 = null;
+	private static Npc MANAGER_NPC_INSTANCE13 = null;
+	private static Npc MANAGER_NPC_INSTANCE14 = null;
+	private static Npc MANAGER_NPC_INSTANCE15 = null;
+	private static Npc MANAGER_NPC_INSTANCE16 = null;
+	private static Npc MANAGER_NPC_INSTANCE17 = null;
+	private static Npc MANAGER_NPC_INSTANCE18 = null;
+	private static Npc MANAGER_NPC_INSTANCE19 = null;
+	private static Npc MANAGER_NPC_INSTANCE20 = null;
+	private static Npc MANAGER_NPC_INSTANCE21 = null;
+	private static Npc MANAGER_NPC_INSTANCE22 = null;
+	private static Npc MANAGER_NPC_INSTANCE23 = null;
+	private static Npc MANAGER_NPC_INSTANCE24 = null;
+	private static Npc MANAGER_NPC_INSTANCE25 = null;
+	private static Npc MANAGER_NPC_INSTANCE26 = null;
+	private static Npc MANAGER_NPC_INSTANCE27 = null;
+	private static Npc MANAGER_NPC_INSTANCE28 = null;
+	private static Npc MANAGER_NPC_INSTANCE29 = null;
+	private static Npc MANAGER_NPC_INSTANCE30 = null;
+	private static Npc MANAGER_NPC_INSTANCE31 = null;
+	private static Npc MANAGER_NPC_INSTANCE32 = null;
+	private static Npc MANAGER_NPC_INSTANCE33 = null;
+	private static Npc MANAGER_NPC_INSTANCE34 = null;
+	private static Npc MANAGER_NPC_INSTANCE35 = null;
+	private static Npc MANAGER_NPC_INSTANCE36 = null;
+	private static Npc MANAGER_NPC_INSTANCE37 = null;
+	private static Npc MANAGER_NPC_INSTANCE38 = null;
+	
 	private static volatile int BLUE_SCORE;
 	private static volatile int RED_SCORE;
 	private static Instance PVP_WORLD = null;
 	public static boolean EVENT_ACTIVE = false;
-
+	
 	private TvT()
 	{
 		addTalkId(MANAGER);
 		addFirstTalkId(MANAGER);
 		addExitZoneId(BLUE_PEACE_ZONE.getId(), RED_PEACE_ZONE.getId());
 		addEnterZoneId(BLUE_PEACE_ZONE.getId(), RED_PEACE_ZONE.getId());
-
-
-
-		 //Daily task to start event at 20:00.
-		 final Calendar calendar = Calendar.getInstance();
-		for(int hour = 1; hour <= 24; hour++ ) {
+		
+		// Daily task to start event at 20:00.
+		final Calendar calendar = Calendar.getInstance();
+		for (int hour = 1; hour <= 24; hour++)
+		{
 			eventScheduler(calendar, hour);
 		}
-
+		
+		eventScheduler2(calendar);
 	}
-
-	private void eventScheduler(Calendar calendar, int hour) {
+	
+	private void eventScheduler2(Calendar calendar)
+	{
+	}
+	
+	private void eventScheduler(Calendar calendar, int hour)
+	{
 		if ((calendar.get(Calendar.HOUR_OF_DAY) >= hour) && (calendar.get(Calendar.MINUTE) >= 0))
 		{
-		calendar.add(Calendar.DAY_OF_YEAR, 1);
+			calendar.add(Calendar.DAY_OF_YEAR, 1);
 		}
 		calendar.set(Calendar.HOUR_OF_DAY, hour);
 		calendar.set(Calendar.MINUTE, 0);
 		calendar.set(Calendar.SECOND, 0);
 		ThreadPool.scheduleAtFixedRate(() -> eventStart(null), calendar.getTimeInMillis() - System.currentTimeMillis(), 86400000);
 	}
-
-
+	
 	@Override
 	public String onAdvEvent(String event, Npc npc, Player player)
 	{
@@ -241,6 +246,7 @@ public class TvT  extends Event
 		{
 			case "Participate":
 			{
+				
 				if (canRegister(player))
 				{
 					if ((Config.DUALBOX_CHECK_MAX_L2EVENT_PARTICIPANTS_PER_IP == 0) || AntiFeedManager.getInstance().tryAddPlayer(AntiFeedManager.L2EVENT_ID, player, Config.DUALBOX_CHECK_MAX_L2EVENT_PARTICIPANTS_PER_IP))
@@ -459,7 +465,7 @@ public class TvT  extends Event
 				startQuestTimer("StartFight", WAIT_TIME * 60000, null, null);
 				break;
 			}
-			case "minuteReg" :
+			case "minuteReg":
 			{
 				Broadcast.toAllOnlinePlayers("TVT Event: 1 minute left to register!");
 				startQuestTimer("30 seconds", 30000, null, null);
@@ -471,15 +477,15 @@ public class TvT  extends Event
 				startQuestTimer("1 second", 59000, null, null);
 				break;
 			}
-			case "30 seconds" :
-			case "10 seconds" :
-			case "5 seconds" :
-			case "4 seconds" :
-			case "3 seconds" :
-			case "2 seconds" :
-			case "1 second" :
+			case "30 seconds":
+			case "10 seconds":
+			case "5 seconds":
+			case "4 seconds":
+			case "3 seconds":
+			case "2 seconds":
+			case "1 second":
 			{
-				Broadcast.toAllOnlinePlayers(String.format("TVT Event: %s left to register!",event));
+				Broadcast.toAllOnlinePlayers(String.format("TVT Event: %s left to register!", event));
 				break;
 			}
 			case "StartFight":
@@ -955,8 +961,7 @@ public class TvT  extends Event
 	@Override
 	public boolean eventStart(Player eventMaker)
 	{
-
-
+		
 		if (EVENT_ACTIVE)
 		{
 			return false;
@@ -1021,16 +1026,17 @@ public class TvT  extends Event
 		MANAGER_NPC_INSTANCE36 = addSpawn(MANAGER, MANAGER_SPAWN_ARCAN1, false, REGISTRATION_TIME * 60000);
 		MANAGER_NPC_INSTANCE37 = addSpawn(MANAGER, MANAGER_SPAWN_HUNTERS1, false, REGISTRATION_TIME * 60000);
 		MANAGER_NPC_INSTANCE38 = addSpawn(MANAGER, MANAGER_SPAWN_SHUTGRD1, false, REGISTRATION_TIME * 60000);
+		
 		startQuestTimer("TeleportToArena", REGISTRATION_TIME * 60000, null, null);
 		// Send message to players.
 		Broadcast.toAllOnlinePlayers("TvT Event: Registration opened for " + REGISTRATION_TIME + " minutes.");
 		Broadcast.toAllOnlinePlayers("TvT Event: You can register in every town at TvT Event Manager.");
-		startQuestTimer("minuteReg",120000,null,null);
+		startQuestTimer("minuteReg", 120000, null, null);
 		return true;
 	}
-
-
-	public boolean playerRegister(Player player){
+	
+	public boolean playerRegister(Player player)
+	{
 		if (canRegister(player))
 		{
 			if ((Config.DUALBOX_CHECK_MAX_L2EVENT_PARTICIPANTS_PER_IP == 0) || AntiFeedManager.getInstance().tryAddPlayer(AntiFeedManager.L2EVENT_ID, player, Config.DUALBOX_CHECK_MAX_L2EVENT_PARTICIPANTS_PER_IP))
@@ -1052,8 +1058,9 @@ public class TvT  extends Event
 		}
 		return false;
 	}
-
-	public void playerUnReg(Player player) {
+	
+	public void playerUnReg(Player player)
+	{
 		startQuestTimer("CancelParticipation", 1, null, player);
 	}
 	
@@ -1105,7 +1112,7 @@ public class TvT  extends Event
 		MANAGER_NPC_INSTANCE36.deleteMe();
 		MANAGER_NPC_INSTANCE37.deleteMe();
 		MANAGER_NPC_INSTANCE38.deleteMe();
-
+		
 		// Cancel timers.
 		for (List<QuestTimer> timers : getQuestTimers().values())
 		{
@@ -1135,7 +1142,7 @@ public class TvT  extends Event
 	@Override
 	public boolean eventBypass(Player player, String bypass)
 	{
-
+		
 		return false;
 	}
 	
@@ -1143,5 +1150,5 @@ public class TvT  extends Event
 	{
 		new TvT();
 	}
-
+	
 }

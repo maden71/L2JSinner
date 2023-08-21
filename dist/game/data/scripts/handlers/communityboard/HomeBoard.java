@@ -122,6 +122,8 @@ public class HomeBoard implements IParseBoardHandler
 			return false;
 		}
 
+
+
 		String returnHtml = null;
 		final String navigation = HtmCache.getInstance().getHtm(player, NAVIGATION_PATH);
 		if (command.equals("_bbshome") || command.equals("_bbstop"))
