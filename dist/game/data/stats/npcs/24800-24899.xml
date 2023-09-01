@@ -1764,13 +1764,13 @@
 		</skillList>
 		<dropLists>
 			<drop>
-				<item id="57" min="4671" max="10920" chance="70" /> <!-- Adena -->
-				<item id="81343" min="1" max="1" chance="0.17" /> <!-- Aden's Shining Treasure Chest -->
-				<item id="81836" min="1" max="1" chance="0.035" /> <!-- Orb of Bloody Soul -->
-				<item id="81216" min="1" max="1" chance="0.781" /> <!-- Black Mithril -->
-				<item id="81217" min="1" max="1" chance="1.249" /> <!-- Oriharukon Ore -->
-				<item id="81218" min="1" max="1" chance="1.249" /> <!-- Dragon Scale -->
-				<item id="81219" min="1" max="1" chance="1.249" /> <!-- Angel's Feather -->
+				<item id="57" min="4671" max="15920" chance="70" /> <!-- Adena -->
+				<item id="5575" min="1" max="1" chance="100" />
+				<item id="80838" min="1" max="1" chance="100" /> 
+				<item id="80839" min="1" max="1" chance="100" />
+				<item id="36515" min="1" max="1" chance="100" /> 
+				<item id="48831" min="1" max="1" chance="100" /> 
+				<item id="48472" min="1" max="1" chance="100" /> 
 			</drop>
 			<spoil>
 				<item id="81344" min="1" max="1" chance="3.243" /> <!-- Augmenting Stone Crystal -->
@@ -1805,13 +1805,13 @@
 		</skillList>
 		<dropLists>
 			<drop>
-				<item id="57" min="4671" max="10920" chance="70" /> <!-- Adena -->
-				<item id="81343" min="1" max="1" chance="0.17" /> <!-- Aden's Shining Treasure Chest -->
-				<item id="81836" min="1" max="1" chance="0.035" /> <!-- Orb of Bloody Soul -->
-				<item id="81216" min="1" max="1" chance="0.781" /> <!-- Black Mithril -->
-				<item id="81217" min="1" max="1" chance="1.249" /> <!-- Oriharukon Ore -->
-				<item id="81218" min="1" max="1" chance="1.249" /> <!-- Dragon Scale -->
-				<item id="81219" min="1" max="1" chance="1.249" /> <!-- Angel's Feather -->
+				<item id="57" min="4671" max="15920" chance="70" /> <!-- Adena -->
+				<item id="5575" min="1" max="1" chance="100" />
+				<item id="80838" min="1" max="1" chance="100" /> 
+				<item id="80839" min="1" max="1" chance="100" />
+				<item id="36515" min="1" max="1" chance="100" /> 
+				<item id="48831" min="1" max="1" chance="100" /> 
+				<item id="48472" min="1" max="1" chance="100" /> 
 			</drop>
 			<spoil>
 				<item id="81344" min="1" max="1" chance="3.243" /> <!-- Augmenting Stone Crystal -->
@@ -1846,13 +1846,13 @@
 		</skillList>
 		<dropLists>
 			<drop>
-				<item id="57" min="4671" max="10920" chance="70" /> <!-- Adena -->
-				<item id="81343" min="1" max="1" chance="0.17" /> <!-- Aden's Shining Treasure Chest -->
-				<item id="81836" min="1" max="1" chance="0.035" /> <!-- Orb of Bloody Soul -->
-				<item id="81216" min="1" max="1" chance="0.781" /> <!-- Black Mithril -->
-				<item id="81217" min="1" max="1" chance="1.249" /> <!-- Oriharukon Ore -->
-				<item id="81218" min="1" max="1" chance="1.249" /> <!-- Dragon Scale -->
-				<item id="81219" min="1" max="1" chance="1.249" /> <!-- Angel's Feather -->
+				<item id="57" min="4671" max="15920" chance="70" /> <!-- Adena -->
+				<item id="5575" min="1" max="1" chance="100" />
+				<item id="80838" min="1" max="1" chance="100" /> 
+				<item id="80839" min="1" max="1" chance="100" />
+				<item id="36515" min="1" max="1" chance="100" /> 
+				<item id="48831" min="1" max="1" chance="100" /> 
+				<item id="48472" min="1" max="1" chance="100" /> 
 			</drop>
 			<spoil>
 				<item id="81344" min="1" max="1" chance="3.243" /> <!-- Augmenting Stone Crystal -->
@@ -1887,13 +1887,13 @@
 		</skillList>
 		<dropLists>
 			<drop>
-				<item id="57" min="4671" max="10920" chance="70" /> <!-- Adena -->
-				<item id="81343" min="1" max="1" chance="0.17" /> <!-- Aden's Shining Treasure Chest -->
-				<item id="81836" min="1" max="1" chance="0.035" /> <!-- Orb of Bloody Soul -->
-				<item id="81216" min="1" max="1" chance="0.781" /> <!-- Black Mithril -->
-				<item id="81217" min="1" max="1" chance="1.249" /> <!-- Oriharukon Ore -->
-				<item id="81218" min="1" max="1" chance="1.249" /> <!-- Dragon Scale -->
-				<item id="81219" min="1" max="1" chance="1.249" /> <!-- Angel's Feather -->
+				<item id="57" min="4671" max="15920" chance="70" /> <!-- Adena -->
+				<item id="5575" min="1" max="1" chance="100" />
+				<item id="80838" min="1" max="1" chance="100" /> 
+				<item id="80839" min="1" max="1" chance="100" />
+				<item id="36515" min="1" max="1" chance="100" /> 
+				<item id="48831" min="1" max="1" chance="100" /> 
+				<item id="48472" min="1" max="1" chance="100" /> 
 			</drop>
 			<spoil>
 				<item id="81344" min="1" max="1" chance="3.243" /> <!-- Augmenting Stone Crystal -->
@@ -1928,13 +1928,13 @@
 		</skillList>
 		<dropLists>
 			<drop>
-				<item id="57" min="4671" max="10920" chance="70" /> <!-- Adena -->
-				<item id="81343" min="1" max="1" chance="0.17" /> <!-- Aden's Shining Treasure Chest -->
-				<item id="81836" min="1" max="1" chance="0.035" /> <!-- Orb of Bloody Soul -->
-				<item id="81216" min="1" max="1" chance="0.781" /> <!-- Black Mithril -->
-				<item id="81217" min="1" max="1" chance="1.249" /> <!-- Oriharukon Ore -->
-				<item id="81218" min="1" max="1" chance="1.249" /> <!-- Dragon Scale -->
-				<item id="81219" min="1" max="1" chance="1.249" /> <!-- Angel's Feather -->
+				<item id="57" min="4671" max="15920" chance="70" /> <!-- Adena -->
+				<item id="5575" min="1" max="1" chance="100" />
+				<item id="80838" min="1" max="1" chance="100" /> 
+				<item id="80839" min="1" max="1" chance="100" />
+				<item id="36515" min="1" max="1" chance="100" /> 
+				<item id="48831" min="1" max="1" chance="100" /> 
+				<item id="48472" min="1" max="1" chance="100" /> 
 			</drop>
 			<spoil>
 				<item id="81344" min="1" max="1" chance="3.243" /> <!-- Augmenting Stone Crystal -->
@@ -1969,13 +1969,14 @@
 		</skillList>
 		<dropLists>
 			<drop>
-				<item id="57" min="4671" max="10920" chance="70" /> <!-- Adena -->
-				<item id="81343" min="1" max="1" chance="0.17" /> <!-- Aden's Shining Treasure Chest -->
-				<item id="81836" min="1" max="1" chance="0.035" /> <!-- Orb of Bloody Soul -->
-				<item id="81216" min="1" max="1" chance="0.781" /> <!-- Black Mithril -->
-				<item id="81217" min="1" max="1" chance="1.249" /> <!-- Oriharukon Ore -->
-				<item id="81218" min="1" max="1" chance="1.249" /> <!-- Dragon Scale -->
-				<item id="81219" min="1" max="1" chance="1.249" /> <!-- Angel's Feather -->
+				<item id="57" min="4671" max="15920" chance="70" /> <!-- Adena -->
+				<item id="5575" min="1" max="1" chance="100" />
+				<item id="80838" min="1" max="1" chance="100" />
+				<item id="80839" min="1" max="1" chance="100" />
+				<item id="36515" min="1" max="1" chance="100" /> 
+				<item id="48831" min="1" max="1" chance="100" /> 
+				<item id="48472" min="1" max="1" chance="100" /> 
+				
 			</drop>
 			<spoil>
 				<item id="81344" min="1" max="1" chance="3.243" /> <!-- Augmenting Stone Crystal -->
