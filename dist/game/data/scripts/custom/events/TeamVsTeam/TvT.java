@@ -153,8 +153,8 @@ public class TvT extends Event
 	// Misc
 	static final Map<Player, Integer> PLAYER_SCORES = new ConcurrentHashMap<>();
 	static final Set<Player> PLAYER_LIST = ConcurrentHashMap.newKeySet();
-	private static final Set<Player> BLUE_TEAM = ConcurrentHashMap.newKeySet();
-	private static final Set<Player> RED_TEAM = ConcurrentHashMap.newKeySet();
+	static final Set<Player> BLUE_TEAM = ConcurrentHashMap.newKeySet();
+	static final Set<Player> RED_TEAM = ConcurrentHashMap.newKeySet();
 	private static Npc MANAGER_NPC_INSTANCE1 = null;
 	private static Npc MANAGER_NPC_INSTANCE2 = null;
 	private static Npc MANAGER_NPC_INSTANCE3 = null;
