@@ -303,3 +303,13 @@
 2023.09.02 21:47:47,245	INFO	69	org.l2jmobius.gameserver.instancemanager.DailyTaskManager	Olympiad System: Data updated.
 2023.09.02 22:17:47,246	INFO	55	org.l2jmobius.gameserver.instancemanager.GlobalVariablesManager	GlobalVariablesManager: Stored 17 variables.
 2023.09.02 22:17:47,247	INFO	55	org.l2jmobius.gameserver.instancemanager.DailyTaskManager	Olympiad System: Data updated.
+2023.09.02 22:47:47,247	INFO	57	org.l2jmobius.gameserver.instancemanager.GlobalVariablesManager	GlobalVariablesManager: Stored 17 variables.
+2023.09.02 22:47:47,248	INFO	57	org.l2jmobius.gameserver.instancemanager.DailyTaskManager	Olympiad System: Data updated.
+2023.09.02 23:17:47,244	INFO	62	org.l2jmobius.gameserver.instancemanager.GlobalVariablesManager	GlobalVariablesManager: Stored 17 variables.
+2023.09.02 23:17:47,245	INFO	62	org.l2jmobius.gameserver.instancemanager.DailyTaskManager	Olympiad System: Data updated.
+2023.09.02 23:47:47,251	INFO	47	org.l2jmobius.gameserver.instancemanager.GlobalVariablesManager	GlobalVariablesManager: Stored 17 variables.
+2023.09.02 23:47:47,251	INFO	47	org.l2jmobius.gameserver.instancemanager.DailyTaskManager	Olympiad System: Data updated.
+2023.09.03 00:00:11,857	INFO	47	org.l2jmobius.gameserver.model.olympiad.Olympiad	Olympiad System: Olympiad games have ended.
+2023.09.03 00:00:11,858	INFO	47	org.l2jmobius.gameserver.model.olympiad.Olympiad	Olympiad System: Competition Period Starts in 5 days, 20 hours and 0 mins.
+2023.09.03 00:00:11,858	INFO	47	org.l2jmobius.gameserver.model.olympiad.Olympiad	Olympiad System: Event starts/started: Fri Sep 08 20:00:11 EEST 2023
+2023.09.03 00:17:47,244	INFO	77	org.l2jmobius.gameserver.instancemanager.GlobalVariablesManager	GlobalVariablesManager: Stored 17 variables.
