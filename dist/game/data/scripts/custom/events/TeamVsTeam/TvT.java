@@ -971,8 +971,7 @@ public class TvT extends Event
 		// Cancel timers. (In case event started immediately after another event was canceled.)
 		for (List<QuestTimer> timers : getQuestTimers().values())
 		{
-			for (QuestTimer timer : timers)
-			{
+			for (QuestTimer timer : timers) {
 				timer.cancel();
 			}
 		}

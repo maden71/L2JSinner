@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4309c602-5ca8-4831-8926-93e80052e187" name="Changes" comment="saints necropolis drop added">
+    <list default="true" id="4309c602-5ca8-4831-8926-93e80052e187" name="Changes" comment="tvt and drop fix">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/game/data/scripts/custom/events/TeamVsTeam/TvT.java" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/data/scripts/custom/events/TeamVsTeam/TvT.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/game/data/scripts/handlers/communityboard/HomeBoard.java" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/data/scripts/handlers/communityboard/HomeBoard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/game/data/stats/npcs/22100-22199.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/data/stats/npcs/22100-22199.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/game/log/accounting0.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/accounting0.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/game/log/error16.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/error16.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/game/log/java0.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/java0.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/game/log/java1.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/java1.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/game/log/java10.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/java10.log" afterDir="false" />
@@ -140,6 +137,8 @@
       <workItem from="1692521705158" duration="1781000" />
       <workItem from="1692532779426" duration="4253000" />
       <workItem from="1692605593374" duration="2686000" />
+      <workItem from="1693605386722" duration="897000" />
+      <workItem from="1693645482704" duration="2456000" />
     </task>
     <task id="LOCAL-00001" summary="Garden of Spirit mob stat fix">
       <option name="closed" value="true" />
@@ -349,7 +348,23 @@
       <option name="project" value="LOCAL" />
       <updated>1692490864734</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="tvt and drop fix">
+      <option name="closed" value="true" />
+      <created>1693605546840</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1693605546840</updated>
+    </task>
+    <task id="LOCAL-00028" summary="tvt and drop fix">
+      <option name="closed" value="true" />
+      <created>1693605597468</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1693605597468</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -369,7 +384,8 @@
     <MESSAGE value="fix" />
     <MESSAGE value="collection change" />
     <MESSAGE value="saints necropolis drop added" />
-    <option name="LAST_COMMIT_MESSAGE" value="saints necropolis drop added" />
+    <MESSAGE value="tvt and drop fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="tvt and drop fix" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
