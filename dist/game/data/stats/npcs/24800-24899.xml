@@ -1765,12 +1765,12 @@
 		<dropLists>
 			<drop>
 				<item id="57" min="4671" max="15920" chance="70" /> <!-- Adena -->
-				<item id="5575" min="1" max="1" chance="100" />
-				<item id="80838" min="1" max="1" chance="100" /> 
-				<item id="80839" min="1" max="1" chance="100" />
-				<item id="36515" min="1" max="1" chance="100" /> 
-				<item id="48831" min="1" max="1" chance="100" /> 
-				<item id="48472" min="1" max="1" chance="100" /> 
+				<item id="5575" min="1" max="20" chance="40" />
+				<item id="80838" min="1" max="1" chance="5" />
+				<item id="80839" min="1" max="1" chance="10" />
+				<item id="36515" min="1" max="1" chance="20" />
+				<item id="48831" min="1" max="1" chance="4" />
+				<item id="48472" min="1" max="5" chance="3" />
 			</drop>
 			<spoil>
 				<item id="81344" min="1" max="1" chance="3.243" /> <!-- Augmenting Stone Crystal -->
@@ -1806,12 +1806,12 @@
 		<dropLists>
 			<drop>
 				<item id="57" min="4671" max="15920" chance="70" /> <!-- Adena -->
-				<item id="5575" min="1" max="1" chance="100" />
-				<item id="80838" min="1" max="1" chance="100" /> 
-				<item id="80839" min="1" max="1" chance="100" />
-				<item id="36515" min="1" max="1" chance="100" /> 
-				<item id="48831" min="1" max="1" chance="100" /> 
-				<item id="48472" min="1" max="1" chance="100" /> 
+				<item id="5575" min="1" max="20" chance="40" />
+				<item id="80838" min="1" max="1" chance="5" />
+				<item id="80839" min="1" max="1" chance="10" />
+				<item id="36515" min="1" max="1" chance="20" />
+				<item id="48831" min="1" max="1" chance="4" />
+				<item id="48472" min="1" max="5" chance="3" />
 			</drop>
 			<spoil>
 				<item id="81344" min="1" max="1" chance="3.243" /> <!-- Augmenting Stone Crystal -->
@@ -1847,12 +1847,12 @@
 		<dropLists>
 			<drop>
 				<item id="57" min="4671" max="15920" chance="70" /> <!-- Adena -->
-				<item id="5575" min="1" max="1" chance="100" />
-				<item id="80838" min="1" max="1" chance="100" /> 
-				<item id="80839" min="1" max="1" chance="100" />
-				<item id="36515" min="1" max="1" chance="100" /> 
-				<item id="48831" min="1" max="1" chance="100" /> 
-				<item id="48472" min="1" max="1" chance="100" /> 
+				<item id="5575" min="1" max="20" chance="40" />
+				<item id="80838" min="1" max="1" chance="5" />
+				<item id="80839" min="1" max="1" chance="10" />
+				<item id="36515" min="1" max="1" chance="20" />
+				<item id="48831" min="1" max="1" chance="4" />
+				<item id="48472" min="1" max="5" chance="3" />
 			</drop>
 			<spoil>
 				<item id="81344" min="1" max="1" chance="3.243" /> <!-- Augmenting Stone Crystal -->
@@ -1888,12 +1888,12 @@
 		<dropLists>
 			<drop>
 				<item id="57" min="4671" max="15920" chance="70" /> <!-- Adena -->
-				<item id="5575" min="1" max="1" chance="100" />
-				<item id="80838" min="1" max="1" chance="100" /> 
-				<item id="80839" min="1" max="1" chance="100" />
-				<item id="36515" min="1" max="1" chance="100" /> 
-				<item id="48831" min="1" max="1" chance="100" /> 
-				<item id="48472" min="1" max="1" chance="100" /> 
+				<item id="5575" min="1" max="20" chance="40" />
+				<item id="80838" min="1" max="1" chance="5" />
+				<item id="80839" min="1" max="1" chance="10" />
+				<item id="36515" min="1" max="1" chance="20" />
+				<item id="48831" min="1" max="1" chance="4" />
+				<item id="48472" min="1" max="5" chance="3" />
 			</drop>
 			<spoil>
 				<item id="81344" min="1" max="1" chance="3.243" /> <!-- Augmenting Stone Crystal -->
@@ -1929,12 +1929,12 @@
 		<dropLists>
 			<drop>
 				<item id="57" min="4671" max="15920" chance="70" /> <!-- Adena -->
-				<item id="5575" min="1" max="1" chance="100" />
-				<item id="80838" min="1" max="1" chance="100" /> 
-				<item id="80839" min="1" max="1" chance="100" />
-				<item id="36515" min="1" max="1" chance="100" /> 
-				<item id="48831" min="1" max="1" chance="100" /> 
-				<item id="48472" min="1" max="1" chance="100" /> 
+				<item id="5575" min="1" max="20" chance="40" />
+				<item id="80838" min="1" max="1" chance="5" />
+				<item id="80839" min="1" max="1" chance="10" />
+				<item id="36515" min="1" max="1" chance="20" />
+				<item id="48831" min="1" max="1" chance="4" />
+				<item id="48472" min="1" max="5" chance="3" />
 			</drop>
 			<spoil>
 				<item id="81344" min="1" max="1" chance="3.243" /> <!-- Augmenting Stone Crystal -->
@@ -1970,13 +1970,12 @@
 		<dropLists>
 			<drop>
 				<item id="57" min="4671" max="15920" chance="70" /> <!-- Adena -->
-				<item id="5575" min="1" max="1" chance="100" />
-				<item id="80838" min="1" max="1" chance="100" />
-				<item id="80839" min="1" max="1" chance="100" />
-				<item id="36515" min="1" max="1" chance="100" /> 
-				<item id="48831" min="1" max="1" chance="100" /> 
-				<item id="48472" min="1" max="1" chance="100" /> 
-				
+				<item id="5575" min="1" max="20" chance="40" />
+				<item id="80838" min="1" max="1" chance="5" />
+				<item id="80839" min="1" max="1" chance="10" />
+				<item id="36515" min="1" max="1" chance="20" />
+				<item id="48831" min="1" max="1" chance="4" />
+				<item id="48472" min="1" max="5" chance="3" />
 			</drop>
 			<spoil>
 				<item id="81344" min="1" max="1" chance="3.243" /> <!-- Augmenting Stone Crystal -->

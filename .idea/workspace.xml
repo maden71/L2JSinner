@@ -6,8 +6,30 @@
   <component name="ChangeListManager">
     <list default="true" id="4309c602-5ca8-4831-8926-93e80052e187" name="Changes" comment="tvt and drop fix">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/game/data/html/CommunityBoard/Custom/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/data/html/CommunityBoard/Custom/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/game/data/html/CommunityBoard/Custom/navigation.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/data/html/CommunityBoard/Custom/navigation.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/game/data/stats/npcs/24800-24899.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/data/stats/npcs/24800-24899.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/game/log/accounting0.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/accounting0.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/game/log/java0.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/java0.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/game/log/olympiad.csv" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/olympiad.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/game/log/java1.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/java1.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/game/log/java10.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/java10.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/game/log/java11.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/java11.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/game/log/java12.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/java12.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/game/log/java13.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/java13.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/game/log/java14.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/java14.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/game/log/java15.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/java15.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/game/log/java16.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/java16.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/game/log/java17.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/java17.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/game/log/java18.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/java18.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/game/log/java19.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/java19.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/game/log/java2.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/java2.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/game/log/java3.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/java3.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/game/log/java4.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/java4.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/game/log/java5.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/java5.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/game/log/java6.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/java6.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/game/log/java7.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/java7.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/game/log/java8.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/java8.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/game/log/java9.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/java9.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +74,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.loginserver">
+  <component name="RunManager" selected="Application.gameserver">
     <configuration name="gameserver" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="org.l2jmobius.gameserver.GameServer" />
       <module name="L2J_Mobius_10.3_MasterClass" />
@@ -118,7 +140,8 @@
       <workItem from="1692532779426" duration="4253000" />
       <workItem from="1692605593374" duration="2686000" />
       <workItem from="1693605386722" duration="897000" />
-      <workItem from="1693645482704" duration="4511000" />
+      <workItem from="1693645482704" duration="5132000" />
+      <workItem from="1693740707807" duration="2977000" />
     </task>
     <task id="LOCAL-00001" summary="Garden of Spirit mob stat fix">
       <option name="closed" value="true" />
@@ -352,7 +375,15 @@
       <option name="project" value="LOCAL" />
       <updated>1693683992918</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="tvt and drop fix">
+      <option name="closed" value="true" />
+      <created>1693690573791</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1693690573791</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
