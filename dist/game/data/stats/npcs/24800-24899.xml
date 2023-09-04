@@ -1740,6 +1740,7 @@
 		<!-- AUTO GENERATED NPC TODO: FIX IT -->
 		<race>DIVINE</race>
 		<sex>MALE</sex>
+		<mpReward value="300" type="DIFF" ticks="10" affects="PARTY" />
 		<acquire exp="500295" sp="450" />
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
 			<vitals hp="697486.12717" hpRegen="12.9" mp="3107" mpRegen="30" />
@@ -1772,15 +1773,13 @@
 				<item id="48831" min="1" max="1" chance="4" />
 				<item id="48472" min="1" max="5" chance="3" />
 			</drop>
-			<spoil>
-				<item id="81344" min="1" max="1" chance="3.243" /> <!-- Augmenting Stone Crystal -->
-			</spoil>
 		</dropLists>
 	</npc>
 	<npc id="24844" level="118" type="Monster" name="Royal Guard Captain">
 		<!-- AUTO GENERATED NPC TODO: FIX IT -->
 		<race>DIVINE</race>
 		<sex>MALE</sex>
+		<mpReward value="300" type="DIFF" ticks="10" affects="PARTY" />
 		<acquire exp="500295" sp="450" />
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
 			<vitals hp="697486.12717" hpRegen="12.9" mp="3107" mpRegen="30" />
@@ -1813,15 +1812,13 @@
 				<item id="48831" min="1" max="1" chance="4" />
 				<item id="48472" min="1" max="5" chance="3" />
 			</drop>
-			<spoil>
-				<item id="81344" min="1" max="1" chance="3.243" /> <!-- Augmenting Stone Crystal -->
-			</spoil>
 		</dropLists>
 	</npc>
 	<npc id="24845" level="118" type="Monster" name="Royal Field Officer">
 		<!-- AUTO GENERATED NPC TODO: FIX IT -->
 		<race>DIVINE</race>
 		<sex>MALE</sex>
+		<mpReward value="300" type="DIFF" ticks="10" affects="PARTY" />
 		<acquire exp="500295" sp="450" />
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
 			<vitals hp="697486.12717" hpRegen="12.9" mp="3107" mpRegen="30" />
@@ -1854,15 +1851,14 @@
 				<item id="48831" min="1" max="1" chance="4" />
 				<item id="48472" min="1" max="5" chance="3" />
 			</drop>
-			<spoil>
-				<item id="81344" min="1" max="1" chance="3.243" /> <!-- Augmenting Stone Crystal -->
-			</spoil>
+
 		</dropLists>
 	</npc>
 	<npc id="24846" level="118" type="Monster" name="Commander of Operations">
 		<!-- AUTO GENERATED NPC TODO: FIX IT -->
 		<race>DIVINE</race>
 		<sex>MALE</sex>
+		<mpReward value="300" type="DIFF" ticks="10" affects="PARTY" />
 		<acquire exp="500295" sp="450" />
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
 			<vitals hp="697486.12717" hpRegen="12.9" mp="3107" mpRegen="30" />
@@ -1895,15 +1891,14 @@
 				<item id="48831" min="1" max="1" chance="4" />
 				<item id="48472" min="1" max="5" chance="3" />
 			</drop>
-			<spoil>
-				<item id="81344" min="1" max="1" chance="3.243" /> <!-- Augmenting Stone Crystal -->
-			</spoil>
+
 		</dropLists>
 	</npc>
 	<npc id="24847" level="118" type="Monster" name="Elite Wizard">
 		<!-- AUTO GENERATED NPC TODO: FIX IT -->
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
+		<mpReward value="300" type="DIFF" ticks="10" affects="PARTY" />
 		<acquire exp="500295" sp="450" />
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
 			<vitals hp="697486.12717" hpRegen="12.9" mp="3107" mpRegen="30" />
@@ -1936,15 +1931,14 @@
 				<item id="48831" min="1" max="1" chance="4" />
 				<item id="48472" min="1" max="5" chance="3" />
 			</drop>
-			<spoil>
-				<item id="81344" min="1" max="1" chance="3.243" /> <!-- Augmenting Stone Crystal -->
-			</spoil>
+
 		</dropLists>
 	</npc>
 	<npc id="24848" level="118" type="Monster" name="Chief Magician">
 		<!-- AUTO GENERATED NPC TODO: FIX IT -->
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
+		<mpReward value="300" type="DIFF" ticks="10" affects="PARTY" />
 		<acquire exp="500295" sp="450" />
 		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
 			<vitals hp="697486.12717" hpRegen="12.9" mp="3107" mpRegen="30" />
@@ -1977,9 +1971,7 @@
 				<item id="48831" min="1" max="1" chance="4" />
 				<item id="48472" min="1" max="5" chance="3" />
 			</drop>
-			<spoil>
-				<item id="81344" min="1" max="1" chance="3.243" /> <!-- Augmenting Stone Crystal -->
-			</spoil>
+
 		</dropLists>
 	</npc>
 	<npc id="24849" level="120" type="Monster" name="Resurrected Pondus" title="Atelia Protector">

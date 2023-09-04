@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4309c602-5ca8-4831-8926-93e80052e187" name="Changes" comment="tvt and drop fix">
+    <list default="true" id="4309c602-5ca8-4831-8926-93e80052e187" name="Changes" comment="cemetary drop">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/game/data/html/CommunityBoard/Custom/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/data/html/CommunityBoard/Custom/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/game/data/html/CommunityBoard/Custom/navigation.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/data/html/CommunityBoard/Custom/navigation.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/game/data/stats/npcs/24800-24899.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/data/stats/npcs/24800-24899.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/game/log/accounting0.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/accounting0.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/game/log/java0.log" beforeDir="false" afterPath="$PROJECT_DIR$/dist/game/log/java0.log" afterDir="false" />
@@ -141,7 +139,8 @@
       <workItem from="1692605593374" duration="2686000" />
       <workItem from="1693605386722" duration="897000" />
       <workItem from="1693645482704" duration="5132000" />
-      <workItem from="1693740707807" duration="2977000" />
+      <workItem from="1693740707807" duration="4472000" />
+      <workItem from="1693828187234" duration="1926000" />
     </task>
     <task id="LOCAL-00001" summary="Garden of Spirit mob stat fix">
       <option name="closed" value="true" />
@@ -383,7 +382,15 @@
       <option name="project" value="LOCAL" />
       <updated>1693690573791</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="cemetary drop">
+      <option name="closed" value="true" />
+      <created>1693769466357</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1693769466357</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -404,7 +411,8 @@
     <MESSAGE value="collection change" />
     <MESSAGE value="saints necropolis drop added" />
     <MESSAGE value="tvt and drop fix" />
-    <option name="LAST_COMMIT_MESSAGE" value="tvt and drop fix" />
+    <MESSAGE value="cemetary drop" />
+    <option name="LAST_COMMIT_MESSAGE" value="cemetary drop" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
